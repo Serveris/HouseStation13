@@ -1,0 +1,382 @@
+
+
+Starting up. 12:19.12
+---------------------
+[12:19:23]ADMIN: Loading jobban_rank
+[12:19:23]ADMIN: jobban_keylist was empty
+[12:19:23]ADMIN: Loading Banlist
+[12:19:25]DEBUG: Rebuilding Master Controller
+[12:20:12]ACCESS: Login: Cassy_jenelle/(Cassy_jenelle) from 127.0.0.1-1964287214 || BYOND v506
+[12:21:44]VOTE: Gamemode vote started by the server.
+[12:21:44]DEBUG: The server has called a gamemode vote
+[12:21:55]ADMIN: Cassy_jenelle has started the game.
+[12:21:55]ACCESS: Logout: *no key*/(Cassy_jenelle)
+[12:21:55]ACCESS: Login: Cassy_jenelle/(Camile Crafter) from 127.0.0.1-1964287214 || BYOND v506
+[12:22:03]DEBUG: Next event of severity Mundane in 14.23 minutes.
+[12:22:03]DEBUG: Next event of severity Moderate in 43.754 minutes.
+[12:22:03]DEBUG: Next event of severity Major in 99.16 minutes.
+[12:22:06]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[12:22:12]EMOTE: Parrot/ : <B>The Parrot</B> turns and flies towards the deck of cards
+[12:22:16]EMOTE: Dr. NibbleFluff/ : <B>Dr. NibbleFluff</B> shakes their head.
+[12:22:33]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[12:22:39]ADMIN: Cassy_jenelle/(Camile Crafter) spawned /obj/item/weapon/melee/baton at (97,161,9)
+[12:22:49]SAY: Ian/ : AUUUUUU
+[12:22:54]ADMIN: Cassy_jenelle/(Camile Crafter) spawned /mob/living/carbon/human at (98,161,9)
+[12:22:58]EMOTE: mouse (583)/ : <B>The mouse (583)</B> shakes.
+[12:23:02]ADMIN: Cassy_jenelle/(Camile Crafter) changed the equipment of *no key*/(unknown) to tournament janitor.
+[12:23:31]ATTACK: Cassy_jenelle/(Camile Crafter) attacked *no key*/(unknown) with stunbaton (INTENT: HURT) (DAMTYE: BRUTE)
+[12:23:31]ATTACK: Cassy_jenelle/(Camile Crafter) stunned *no key*/(unknown) with the the stunbaton.
+[12:23:36]ATTACK: Cassy_jenelle/(Camile Crafter) attacked *no key*/(unknown) with stunbaton (INTENT: HURT) (DAMTYE: BRUTE)
+[12:23:36]ATTACK: Cassy_jenelle/(Camile Crafter) stunned *no key*/(unknown) with the the stunbaton.
+[12:23:41]ATTACK: Cassy_jenelle/(Camile Crafter) attacked *no key*/(unknown) with stunbaton (INTENT: HURT) (DAMTYE: BRUTE)
+[12:23:41]ATTACK: Cassy_jenelle/(Camile Crafter) stunned *no key*/(unknown) with the the stunbaton.
+[12:23:45]ATTACK: Cassy_jenelle/(Camile Crafter) attacked *no key*/(unknown) with stunbaton (INTENT: HURT) (DAMTYE: BRUTE)
+[12:23:45]ATTACK: Cassy_jenelle/(Camile Crafter) stunned *no key*/(unknown) with the the stunbaton.
+[12:23:56]EMOTE: kitten/ : <B>The kitten</B> mews.
+[12:24:18]ADMIN: Cassy_jenelle/(Camile Crafter) deleted the stunbaton at (0,0,0)
+[12:24:24]SAY: Tom (699)/ : SQUEEK!
+[12:24:26]EMOTE: Tom (699)/ : <B>Tom (699)</B> runs in a circle.
+[12:24:30]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[12:24:36]EMOTE: unknown/ : <B>The unknown</B> is having trouble keeping their eyes open.
+[12:24:37]ADMIN: Cassy_jenelle/(Camile Crafter) spawned /obj/item/weapon/melee/baton at (96,160,9)
+[12:24:38]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[12:24:46]EMOTE: crab/ : <B>The crab</B> clacks.
+[12:24:48]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[12:24:49]ADMIN: Cassy_jenelle/(Camile Crafter) deleted the unknown at (96,161,9)
+[12:24:54]ADMIN: Cassy_jenelle/(Camile Crafter) deleted the mop at (96,161,9)
+[12:24:56]ADMIN: Cassy_jenelle/(Camile Crafter) deleted the bucket at (96,161,9)
+[12:24:59]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[12:25:02]ADMIN: Cassy_jenelle/(Camile Crafter) deleted the stunbaton at (0,0,0)
+[12:25:06]ADMIN: Cassy_jenelle/(Camile Crafter) spawned /obj/item/weapon/melee/baton/loaded at (99,160,9)
+[12:25:15]ADMIN: Cassy_jenelle/(Camile Crafter) spawned /mob/living/carbon/human at (99,161,9)
+[12:25:27]ADMIN: Cassy_jenelle/(Camile Crafter) changed the equipment of *no key*/(unknown) to tournament janitor.
+[12:25:36]EMOTE: unknown/ : <B>The unknown</B> screams!
+[12:25:36]ATTACK: Cassy_jenelle/(Camile Crafter) stunned *no key*/(unknown) with the the stunbaton.
+[12:25:42]ATTACK: Cassy_jenelle/(Camile Crafter) attacked *no key*/(unknown) with stunbaton (INTENT: HURT) (DAMTYE: BRUTE)
+[12:25:42]ATTACK: Cassy_jenelle/(Camile Crafter) stunned *no key*/(unknown) with the the stunbaton.
+[12:25:51]ATTACK: Cassy_jenelle/(Camile Crafter) attacked *no key*/(unknown) with stunbaton (INTENT: HURT) (DAMTYE: BRUTE)
+[12:25:51]ATTACK: Cassy_jenelle/(Camile Crafter) stunned *no key*/(unknown) with the the stunbaton.
+[12:25:54]ATTACK: Cassy_jenelle/(Camile Crafter) attacked *no key*/(unknown) with stunbaton (INTENT: HURT) (DAMTYE: BRUTE)
+[12:25:54]ATTACK: Cassy_jenelle/(Camile Crafter) stunned *no key*/(unknown) with the the stunbaton.
+[12:25:55]ATTACK: Cassy_jenelle/(Camile Crafter) attacked *no key*/(unknown) with stunbaton (INTENT: HURT) (DAMTYE: BRUTE)
+[12:25:55]ATTACK: Cassy_jenelle/(Camile Crafter) stunned *no key*/(unknown) with the the stunbaton.
+[12:25:56]SAY: grey baby slime (445)/ : Blorble...
+[12:25:57]ATTACK: Cassy_jenelle/(Camile Crafter) attacked *no key*/(unknown) with stunbaton (INTENT: HURT) (DAMTYE: BRUTE)
+[12:25:57]ATTACK: Cassy_jenelle/(Camile Crafter) stunned *no key*/(unknown) with the the stunbaton.
+[12:25:59]ATTACK: Cassy_jenelle/(Camile Crafter) attacked *no key*/(unknown) with stunbaton (INTENT: HURT) (DAMTYE: BRUTE)
+[12:25:59]ATTACK: Cassy_jenelle/(Camile Crafter) stunned *no key*/(unknown) with the the stunbaton.
+[12:26:00]ATTACK: Cassy_jenelle/(Camile Crafter) attacked *no key*/(unknown) with stunbaton (INTENT: HURT) (DAMTYE: BRUTE)
+[12:26:00]ATTACK: Cassy_jenelle/(Camile Crafter) stunned *no key*/(unknown) with the the stunbaton.
+[12:26:02]EMOTE: Dr. NibbleFluff/ : <B>Dr. NibbleFluff</B> nibbles on something.
+[12:26:04]ATTACK: Cassy_jenelle/(Camile Crafter) attacked *no key*/(unknown) with stunbaton (INTENT: HURT) (DAMTYE: BRUTE)
+[12:26:04]ATTACK: Cassy_jenelle/(Camile Crafter) stunned *no key*/(unknown) with the the stunbaton.
+[12:26:06]ATTACK: Cassy_jenelle/(Camile Crafter) attacked *no key*/(unknown) with stunbaton (INTENT: HURT) (DAMTYE: BRUTE)
+[12:26:06]ATTACK: Cassy_jenelle/(Camile Crafter) stunned *no key*/(unknown) with the the stunbaton.
+[12:26:07]ATTACK: Cassy_jenelle/(Camile Crafter) attacked *no key*/(unknown) with stunbaton (INTENT: HURT) (DAMTYE: BRUTE)
+[12:26:07]ATTACK: Cassy_jenelle/(Camile Crafter) stunned *no key*/(unknown) with the the stunbaton.
+[12:26:08]ATTACK: Cassy_jenelle/(Camile Crafter) attacked *no key*/(unknown) with stunbaton (INTENT: HURT) (DAMTYE: BRUTE)
+[12:26:08]ATTACK: Cassy_jenelle/(Camile Crafter) stunned *no key*/(unknown) with the the stunbaton.
+[12:26:09]ATTACK: Cassy_jenelle/(Camile Crafter) attacked *no key*/(unknown) with stunbaton (INTENT: HURT) (DAMTYE: BRUTE)
+[12:26:09]ATTACK: Cassy_jenelle/(Camile Crafter) stunned *no key*/(unknown) with the the stunbaton.
+[12:26:11]ATTACK: Cassy_jenelle/(Camile Crafter) attacked *no key*/(unknown) with stunbaton (INTENT: HURT) (DAMTYE: BRUTE)
+[12:26:11]ATTACK: Cassy_jenelle/(Camile Crafter) stunned *no key*/(unknown) with the the stunbaton.
+[12:26:12]ATTACK: Cassy_jenelle/(Camile Crafter) attacked *no key*/(unknown) with stunbaton (INTENT: HURT) (DAMTYE: BRUTE)
+[12:26:12]EMOTE: unknown/ : <B>The unknown</B> screams!
+[12:26:12]ATTACK: Cassy_jenelle/(Camile Crafter) stunned *no key*/(unknown) with the the stunbaton.
+[12:26:13]ATTACK: Cassy_jenelle/(Camile Crafter) attacked *no key*/(unknown) with stunbaton (INTENT: HURT) (DAMTYE: BRUTE)
+[12:26:13]ATTACK: Cassy_jenelle/(Camile Crafter) stunned *no key*/(unknown) with the the stunbaton.
+[12:26:14]ATTACK: Cassy_jenelle/(Camile Crafter) attacked *no key*/(unknown) with stunbaton (INTENT: HURT) (DAMTYE: BRUTE)
+[12:26:14]ATTACK: Cassy_jenelle/(Camile Crafter) stunned *no key*/(unknown) with the the stunbaton.
+[12:26:17]ATTACK: Cassy_jenelle/(Camile Crafter) attacked *no key*/(unknown) with stunbaton (INTENT: HURT) (DAMTYE: BRUTE)
+[12:26:17]ATTACK: Cassy_jenelle/(Camile Crafter) stunned *no key*/(unknown) with the the stunbaton.
+[12:26:43]ADMIN: Cassy_jenelle/(Camile Crafter) deleted the stunbaton at (0,0,0)
+[12:26:59]ADMIN: Cassy_jenelle/(Camile Crafter) spawned /obj/item/weapon/melee/baton at (99,160,9)
+[12:27:14]EMOTE: Parrot/ : <B>The Parrot</B> bawks.
+[12:27:14]EMOTE: kitten/ : <B>The kitten</B> mews.
+[12:27:17]ADMIN: Cassy_jenelle/(Camile Crafter) spawned /obj/item/weapon/cell/infinite at (100,160,9)
+[12:27:18]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[12:27:29]ADMIN: Cassy_jenelle/(Camile Crafter) deleted the unknown at (99,161,9)
+[12:27:34]ADMIN: Cassy_jenelle/(Camile Crafter) deleted the robot left arm at (99,161,9)
+[12:27:43]SAY: cat/ : Purr!
+[12:27:56]ADMIN: Cassy_jenelle/(Camile Crafter) spawned /mob/living/carbon/human at (119,165,9)
+[12:28:04]ADMIN: Cassy_jenelle/(Camile Crafter) changed the equipment of *no key*/(unknown) to tournament janitor.
+[12:28:10]ATTACK: Cassy_jenelle/(Camile Crafter) attacked *no key*/(unknown) with stunbaton (INTENT: HURT) (DAMTYE: BRUTE)
+[12:28:12]ATTACK: Cassy_jenelle/(Camile Crafter) attacked *no key*/(unknown) with stunbaton (INTENT: HURT) (DAMTYE: BRUTE)
+[12:28:12]EMOTE: unknown/ : <B>The unknown</B> screams!
+[12:28:12]ATTACK: Cassy_jenelle/(Camile Crafter) stunned *no key*/(unknown) with the the stunbaton.
+[12:28:14]ATTACK: Cassy_jenelle/(Camile Crafter) attacked *no key*/(unknown) with stunbaton (INTENT: HURT) (DAMTYE: BRUTE)
+[12:28:14]ATTACK: Cassy_jenelle/(Camile Crafter) stunned *no key*/(unknown) with the the stunbaton.
+[12:28:16]ATTACK: Cassy_jenelle/(Camile Crafter) attacked *no key*/(unknown) with stunbaton (INTENT: HURT) (DAMTYE: BRUTE)
+[12:28:16]ATTACK: Cassy_jenelle/(Camile Crafter) stunned *no key*/(unknown) with the the stunbaton.
+[12:28:17]EMOTE: Wittley/ : <B>Wittley</B> shakes their head.
+[12:28:18]ATTACK: Cassy_jenelle/(Camile Crafter) attacked *no key*/(unknown) with stunbaton (INTENT: HURT) (DAMTYE: BRUTE)
+[12:28:18]ATTACK: Cassy_jenelle/(Camile Crafter) stunned *no key*/(unknown) with the the stunbaton.
+[12:28:21]ATTACK: Cassy_jenelle/(Camile Crafter) attacked *no key*/(unknown) with stunbaton (INTENT: HURT) (DAMTYE: BRUTE)
+[12:28:21]EMOTE: unknown/ : <B>The unknown</B> screams!
+[12:28:21]ATTACK: Cassy_jenelle/(Camile Crafter) stunned *no key*/(unknown) with the the stunbaton.
+[12:28:23]ATTACK: Cassy_jenelle/(Camile Crafter) attacked *no key*/(unknown) with stunbaton (INTENT: HURT) (DAMTYE: BRUTE)
+[12:28:23]ATTACK: Cassy_jenelle/(Camile Crafter) stunned *no key*/(unknown) with the the stunbaton.
+[12:28:24]ATTACK: Cassy_jenelle/(Camile Crafter) attacked *no key*/(unknown) with stunbaton (INTENT: HURT) (DAMTYE: BRUTE)
+[12:28:24]EMOTE: unknown/ : <B>The unknown</B> screams!
+[12:28:24]ATTACK: Cassy_jenelle/(Camile Crafter) stunned *no key*/(unknown) with the the stunbaton.
+[12:28:30]EMOTE: crab/ : <B>The crab</B> clacks.
+[12:28:34]SAY: Tiger/ : Purr!
+[12:28:34]EMOTE: unknown/ : <B>The unknown</B> screams!
+[12:28:34]ATTACK: Cassy_jenelle/(Camile Crafter) stunned *no key*/(unknown) with the the stunbaton.
+[12:28:36]EMOTE: unknown/ : <B>The unknown</B> gasps!
+[12:28:38]ATTACK: Cassy_jenelle/(Camile Crafter) stunned *no key*/(unknown) with the the stunbaton.
+[12:28:42]EMOTE: unknown/ : <B>The unknown</B> screams!
+[12:28:42]ATTACK: Cassy_jenelle/(Camile Crafter) stunned *no key*/(unknown) with the the stunbaton.
+[12:28:43]ATTACK: Cassy_jenelle/(Camile Crafter) stunned *no key*/(unknown) with the the stunbaton.
+[12:28:48]ATTACK: Cassy_jenelle/(Camile Crafter) attacked *no key*/(unknown) with stunbaton (INTENT: HURT) (DAMTYE: BRUTE)
+[12:28:48]ATTACK: Cassy_jenelle/(Camile Crafter) stunned *no key*/(unknown) with the the stunbaton.
+[12:28:51]ATTACK: Cassy_jenelle/(Camile Crafter) attacked Cassy_jenelle/(Camile Crafter) with stunbaton (INTENT: HURT) (DAMTYE: BRUTE)
+[12:28:51]ATTACK: Cassy_jenelle/(Camile Crafter) stunned Cassy_jenelle/(Camile Crafter) with the the stunbaton.
+[12:28:53]ATTACK: Cassy_jenelle/(Camile Crafter) attacked Cassy_jenelle/(Camile Crafter) with stunbaton (INTENT: HURT) (DAMTYE: BRUTE)
+[12:28:53]ATTACK: Cassy_jenelle/(Camile Crafter) stunned Cassy_jenelle/(Camile Crafter) with the the stunbaton.
+[12:28:54]ATTACK: Cassy_jenelle/(Camile Crafter) attacked Cassy_jenelle/(Camile Crafter) with stunbaton (INTENT: HURT) (DAMTYE: BRUTE)
+[12:28:54]ATTACK: Cassy_jenelle/(Camile Crafter) stunned Cassy_jenelle/(Camile Crafter) with the the stunbaton.
+[12:28:56]ATTACK: Cassy_jenelle/(Camile Crafter) attacked Cassy_jenelle/(Camile Crafter) with stunbaton (INTENT: HURT) (DAMTYE: BRUTE)
+[12:28:56]EMOTE: Camile Crafter/Cassy_jenelle : <B>Camile Crafter</B> screams!
+[12:28:56]ATTACK: Cassy_jenelle/(Camile Crafter) stunned Cassy_jenelle/(Camile Crafter) with the the stunbaton.
+[12:28:57]ATTACK: Cassy_jenelle/(Camile Crafter) attacked Cassy_jenelle/(Camile Crafter) with stunbaton (INTENT: HURT) (DAMTYE: BRUTE)
+[12:28:57]ATTACK: Cassy_jenelle/(Camile Crafter) stunned Cassy_jenelle/(Camile Crafter) with the the stunbaton.
+[12:29:00]EMOTE: mouse (512)/ : <B>The mouse (512)</B> runs in a circle.
+[12:29:02]EMOTE: unknown/ : <B>The unknown</B> gasps!
+[12:29:18]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[12:29:20]EMOTE: unknown/ : <B>The unknown</B> gasps!
+[12:29:24]EMOTE: unknown/ : <B>The unknown</B> gasps!
+[12:29:32]ADMIN: Cassy_jenelle/(Camile Crafter) healed / revived Cassy_jenelle/(Camile Crafter)
+[12:29:37]EMOTE: mouse (279)/ : <B>The mouse (279)</B> squeaks.
+[12:29:53]EMOTE: Camile Crafter/Cassy_jenelle : <B>Camile Crafter</B> is having trouble keeping their eyes open.
+[12:30:03]ADMIN: Cassy_jenelle/(Camile Crafter) healed / revived Cassy_jenelle/(Camile Crafter)
+[12:30:07]EMOTE: unknown/ : <B>The unknown</B> gasps!
+[12:30:11]EMOTE: unknown/ : <B>The unknown</B> gasps!
+[12:30:15]EMOTE: unknown/ : <B>The unknown</B> gasps!
+[12:30:17]EMOTE: unknown/ : <B>The unknown</B> gasps!
+[12:30:25]ACCESS: Logout: *no key*/(Camile Crafter)
+[12:30:25]ACCESS: Login: Cassy_jenelle/(Camile Crafter) from 127.0.0.1-1964287214 || BYOND v506
+[12:31:10]SAY: Tom (699)/ : Squeek?
+[12:31:37]EMOTE: crab/ : <B>The crab</B> clacks.
+[12:31:51]EMOTE: unknown/ : <B>The unknown</B> gasps!
+[12:31:53]EMOTE: unknown/ : <B>The unknown</B> gasps!
+[12:31:56]ADMIN: Cassy_jenelle/(Camile Crafter) teleported @Cassy_jenelle/(Camile Crafter)
+[12:31:57]EMOTE: unknown/ : <B>The unknown</B> gasps!
+[12:31:59]ACCESS: Logout: *no key*/(Camile Crafter)
+[12:31:59]ACCESS: Login: Cassy_jenelle/(Camile Crafter) from 127.0.0.1-1964287214 || BYOND v506
+[12:32:11]EMOTE: unknown/ : <B>The unknown</B> gasps!
+[12:32:40]SAY: grey baby slime (445)/ : Blop...
+[12:32:57]EMOTE: unknown/ : <B>The unknown</B> gasps!
+[12:32:59]EMOTE: unknown/ : <B>The unknown</B> gasps!
+[12:33:29]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[12:33:42]EMOTE: Tom (699)/ : <B>Tom (699)</B> squiks.
+[12:33:58]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[12:33:58]EMOTE: crab/ : <B>The crab</B> clicks.
+[12:34:04]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[12:34:12]EMOTE: Ian/ : <B>Ian</B> shakes its head.
+[12:34:31]EMOTE: unknown/ : <B>The unknown</B> gasps!
+[12:34:39]EMOTE: unknown/ : <B>The unknown</B> gasps!
+[12:34:51]EMOTE: unknown/ : <B>The unknown</B> gasps!
+[12:35:07]SAY: Runtime/ : Esp!
+[12:35:28]SAY: Parrot/ : Hi
+[12:35:38]EMOTE: unknown/ : <B>The unknown</B> gasps!
+[12:35:44]EMOTE: unknown/ : <B>The unknown</B> gasps!
+[12:35:50]EMOTE: unknown/ : <B>The unknown</B> gasps!
+[12:35:56]SAY: Dr. NibbleFluff/ : HSSSSS
+[12:36:05]EMOTE: unknown/ : <B>The unknown</B> gasps!
+[12:36:13]EMOTE: unknown/ : <B>The unknown</B> gasps!
+[12:37:19]EMOTE: unknown/ : <B>The unknown</B> gasps!
+[12:37:38]SAY: Parrot/ : Cracker?
+[12:37:40]EMOTE: Ian/ : <B>Ian</B> dances around
+[12:37:46]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[12:37:58]EMOTE: unknown/ : <B>The unknown</B> gasps!
+[12:38:08]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[12:38:24]EMOTE: Tom (699)/ : <B>Tom (699)</B> squeeks.
+[12:38:36]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[12:38:38]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[12:38:38]EMOTE: unknown/ : <B>The unknown</B> gasps!
+[12:38:55]EMOTE: unknown/ : <B>The unknown</B> gasps!
+[12:38:57]SAY: kitten/ : HSSSSS
+[12:39:15]EMOTE: Ian/ : <B>Ian</B> dances around
+[12:39:25]EMOTE: unknown/ : <B>The unknown</B> gasps!
+[12:39:27]EMOTE: unknown/ : <B>The unknown</B> gasps!
+[12:39:29]EMOTE: unknown/ : <B>The unknown</B> gasps!
+[12:39:41]EMOTE: unknown/ : <B>The unknown</B> gasps!
+[12:39:58]SAY: Ian/ : YAP
+[12:40:10]EMOTE: unknown/ : <B>The unknown</B> gasps!
+[12:40:16]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[12:40:22]EMOTE: unknown/ : <B>The unknown</B> gasps!
+[12:40:51]EMOTE: cat/ : <B>The cat</B> meows.
+[12:40:53]EMOTE: unknown/ : <B>The unknown</B> gasps!
+[12:41:24]EMOTE: crab/ : <B>The crab</B> clacks.
+[12:41:40]SAY: Runtime/ : Purr!
+[12:41:42]EMOTE: unknown/ : <B>The unknown</B> gasps!
+[12:41:47]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[12:42:05]EMOTE: unknown/ : <B>The unknown</B> gasps!
+[12:42:07]EMOTE: unknown/ : <B>The unknown</B> gasps!
+[12:42:11]EMOTE: crab/ : <B>The crab</B> clicks.
+[12:42:19]EMOTE: unknown/ : <B>The unknown</B> gasps!
+[12:42:25]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[12:42:39]EMOTE: unknown/ : <B>The unknown</B> gasps!
+[12:42:49]SAY: kitten/ : HSSSSS
+[12:43:15]EMOTE: cat/ : <B>The cat</B> meows.
+[12:43:17]EMOTE: unknown/ : <B>The unknown</B> gasps!
+[12:43:23]EMOTE: unknown/ : <B>The unknown</B> gasps!
+[12:43:35]SAY: grey baby slime (250)/ : Blorble...
+[12:43:36]EMOTE: unknown/ : <B>The unknown</B> gasps!
+[12:43:48]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[12:44:16]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[12:44:22]EMOTE: unknown/ : <B>The unknown</B> gasps!
+[12:44:28]EMOTE: unknown/ : <B>The unknown</B> gasps!
+[12:44:30]EMOTE: unknown/ : <B>The unknown</B> gasps!
+[12:44:42]EMOTE: unknown/ : <B>The unknown</B> gasps!
+[12:44:44]SAY: kitten/ : Esp!
+[12:44:46]EMOTE: unknown/ : <B>The unknown</B> gasps!
+[12:45:00]SAY: Runtime/ : Purr!
+[12:45:10]EMOTE: unknown/ : <B>The unknown</B> gasps!
+[12:45:26]EMOTE: Ian/ : <B>Ian</B> dances around
+[12:45:46]EMOTE: Ian/ : <B>Ian</B> dances around
+[12:45:56]EMOTE: kitten/ : <B>The kitten</B> mews.
+[12:45:56]EMOTE: Dr. NibbleFluff/ : <B>Dr. NibbleFluff</B> nibbles on something.
+[12:46:54]SAY: grey baby slime (445)/ : Lonely...
+[12:47:22]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[12:47:36]SAY: Experiment 97d/ : Eh?
+[12:48:04]SAY: cat/ : Purr!
+[12:49:14]EMOTE: crab/ : <B>The crab</B> clicks.
+[12:49:20]EMOTE: Ian/ : <B>Ian</B> dances around
+[12:49:24]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[12:49:30]EMOTE: kitten/ : <B>The kitten</B> mews.
+[12:49:42]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[12:49:44]SAY: Tiger/ : Esp!
+[12:50:12]EMOTE: Wittley/ : <B>Wittley</B> meows.
+[12:50:20]SAY: cat/ : HSSSSS
+[12:50:30]EMOTE: Ian/ : <B>Ian</B> dances around
+[12:51:18]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[12:52:24]EMOTE: Wittley/ : <B>Wittley</B> mews.
+[12:52:36]EMOTE: Ian/ : <B>Ian</B> dances around
+[12:53:02]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[12:53:30]SAY: Experiment 97d/ : Eh?
+[12:54:58]SAY: Runtime/ : Purr!
+[12:55:40]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[12:56:04]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[12:56:10]EMOTE: kitten/ : <B>The kitten</B> meows.
+[12:56:16]EMOTE: Ian/ : <B>Ian</B> yaps.
+[12:56:44]EMOTE: Tiger/ : <B>Tiger</B> shivers.
+[12:56:46]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[12:56:46]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[12:57:32]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[12:57:48]SAY: cat/ : Purr!
+[12:58:16]SAY: kitten/ : Esp!
+[12:58:54]EMOTE: Ian/ : <B>Ian</B> dances around
+[12:59:06]EMOTE: cat/ : <B>The cat</B> shivers.
+[12:59:28]EMOTE: cat/ : <B>The cat</B> mews.
+[12:59:38]SAY: cat/ : HSSSSS
+[12:59:40]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[13:00:12]EMOTE: Runtime/ : <B>Runtime</B> meows.
+[13:00:32]SAY: kitten/ : Esp!
+[13:00:46]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[13:00:56]SAY: cat/ : Purr!
+[13:02:43]EMOTE: kitten/ : <B>The kitten</B> mews.
+[13:03:29]EMOTE: Wittley/ : <B>Wittley</B> mews.
+[13:04:09]SAY: grey baby slime (250)/ : Lonely...
+[13:04:25]EMOTE: Dr. NibbleFluff/ : <B>Dr. NibbleFluff</B> shivers.
+[13:04:46]EMOTE: Ian/ : <B>Ian</B> woofs.
+[13:04:54]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[13:05:42]SAY: grey baby slime (445)/ : Blop...
+[13:05:54]EMOTE: Ian/ : <B>Ian</B> dances around
+[13:06:20]EMOTE: Dr. NibbleFluff/ : <B>Dr. NibbleFluff</B> nibbles on something.
+[13:06:35]EMOTE: kitten/ : <B>The kitten</B> meows.
+[13:06:53]EMOTE: crab/ : <B>The crab</B> clacks.
+[13:08:35]SAY: Wittley/ : HSSSSS
+[13:08:39]EMOTE: Ian/ : <B>Ian</B> yaps.
+[13:08:43]EMOTE: cat/ : <B>The cat</B> meows.
+[13:08:51]SAY: cat/ : Meow!
+[13:09:01]EMOTE: crab/ : <B>The crab</B> clacks.
+[13:09:37]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[13:09:45]EMOTE: Parrot/ : <B>The Parrot</B> bawks.
+[13:09:55]SAY: Tiger/ : Purr!
+[13:10:07]EMOTE: Ian/ : <B>Ian</B> shakes its head.
+[13:10:11]EMOTE: Parrot/ : <B>The Parrot</B> squawks.
+[13:10:21]SAY: cat/ : Meow!
+[13:10:35]SAY: Runtime/ : Purr!
+[13:11:09]EMOTE: Dr. NibbleFluff/ : <B>Dr. NibbleFluff</B> shakes their head.
+[13:11:43]SAY: Parrot/ : Hi
+[13:11:49]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[13:12:32]SAY: Dr. NibbleFluff/ : Purr!
+[13:13:02]SAY: grey baby slime (445)/ : Blorble...
+[13:13:20]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[13:13:52]SAY: Runtime/ : Meow!
+[13:13:56]SAY: kitten/ : Purr!
+[13:13:56]EMOTE: Wittley/ : <B>Wittley</B> mews.
+[13:14:04]SAY: kitten/ : HSSSSS
+[13:14:41]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[13:14:47]EMOTE: kitten/ : <B>The kitten</B> mews.
+[13:14:55]SAY: grey baby slime (250)/ : Rawr...
+[13:15:07]EMOTE: cat/ : <B>The cat</B> meows.
+[13:15:45]SAY: grey baby slime (445)/ : Rawr...
+[13:16:11]EMOTE: crab/ : <B>The crab</B> clicks.
+[13:16:13]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[13:16:22]EMOTE: crab/ : <B>The crab</B> clacks.
+[13:16:34]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[13:16:44]SAY: kitten/ : HSSSSS
+[13:17:40]SAY: Dr. NibbleFluff/ : Esp!
+[13:17:44]EMOTE: kitten/ : <B>The kitten</B> meows.
+[13:18:14]SAY: cat/ : HSSSSS
+[13:18:58]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[13:19:08]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[13:19:33]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[13:19:53]SAY: grey baby slime (445)/ : Blorble...
+[13:20:05]EMOTE: Tiger/ : <B>Tiger</B> meows.
+[13:20:42]SAY: Wittley/ : Purr!
+[13:21:38]EMOTE: kitten/ : <B>The kitten</B> meows.
+[13:21:56]EMOTE: cat/ : <B>The cat</B> meows.
+[13:21:58]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[13:22:09]SAY: grey baby slime (250)/ : Lonely...
+[13:22:11]EMOTE: Dr. NibbleFluff/ : <B>Dr. NibbleFluff</B> mews.
+[13:22:39]EMOTE: Wittley/ : <B>Wittley</B> meows.
+[13:22:51]SAY: grey baby slime (250)/ : Lonely...
+[13:24:51]EMOTE: Wittley/ : <B>Wittley</B> meows.
+[13:25:09]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[13:25:13]EMOTE: Parrot/ : <B>The Parrot</B> flutters its wings.
+[13:25:28]SAY: grey baby slime (250)/ : Rawr...
+[13:25:28]SAY: grey baby slime (445)/ : Blop...
+[13:25:56]SAY: grey baby slime (445)/ : Lonely...
+[13:26:00]EMOTE: Runtime/ : <B>Runtime</B> meows.
+[13:26:16]SAY: Experiment 97d/ : EHEHEHEHEH
+[13:26:16]EMOTE: Wittley/ : <B>Wittley</B> shivers.
+[13:26:18]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[13:27:04]SAY: cat/ : HSSSSS
+[13:27:44]SAY: cat/ : Esp!
+[13:27:52]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[13:28:02]SAY: grey baby slime (250)/ : Blop...
+[13:28:10]SAY: cat/ : Meow!
+[13:28:40]EMOTE: Parrot/ : <B>The Parrot</B> bawks.
+[13:29:18]SAY: grey baby slime (445)/ : Hungry...
+[13:29:52]EMOTE: Tiger/ : <B>Tiger</B> mews.
+[13:30:18]EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[13:30:46]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[13:31:46]EMOTE: Ian/ : <B>Ian</B> dances around
+[13:32:30]EMOTE: cat/ : <B>The cat</B> meows.
+[13:32:54]SAY: kitten/ : HSSSSS
+[13:33:18]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[13:34:06]EMOTE: Tiger/ : <B>Tiger</B> meows.
+[13:34:40]EMOTE: Ian/ : <B>Ian</B> dances around
+[13:34:42]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[13:34:44]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[13:34:50]EMOTE: crab/ : <B>The crab</B> clacks.
+[13:35:20]SAY: grey baby slime (445)/ : Hungry...
+[13:35:20]SAY: Tiger/ : Purr!
+[13:35:42]SAY: cat/ : Meow!
+[13:37:06]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[13:37:50]SAY: cat/ : Meow!
+[13:38:54]SAY: kitten/ : Esp!
+[13:39:13]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[13:39:51]SAY: grey baby slime (250)/ : Blorble...
+[13:41:46]EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[13:41:58]SAY: kitten/ : Esp!
+[13:43:26]EMOTE: crab/ : <B>The crab</B> clacks.
+[13:44:04]EMOTE: cat/ : <B>The cat</B> meows.
+[13:44:06]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> shakes its head.
+[13:44:18]EMOTE: Ian/ : <B>Ian</B> dances around
+[13:44:32]SAY: kitten/ : HSSSSS
+[13:44:42]ACCESS: Logout: Cassy_jenelle/(Camile Crafter)

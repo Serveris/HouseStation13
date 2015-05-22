@@ -1,0 +1,399 @@
+
+
+Starting up. 19:53.29
+---------------------
+[19:53:29]MISC: Saved mode is 'extended'
+[19:53:49]ADMIN: Loading jobban_rank
+[19:53:49]ADMIN: jobban_keylist was empty
+[19:53:49]ADMIN: Loading Banlist
+[19:53:52]DEBUG: Rebuilding Master Controller
+[19:55:47]ACCESS: Login: Cassy_jenelle/(Cassy_jenelle) from 127.0.0.1-1964287214 || BYOND v506
+[19:56:18]ADMIN: Cassy_jenelle has started the game.
+[19:56:19]ACCESS: Logout: *no key*/(Cassy_jenelle)
+[19:56:19]ACCESS: Login: Cassy_jenelle/(James Islington) from 127.0.0.1-1964287214 || BYOND v506
+[19:56:26]DEBUG: Next event of severity Mundane in 16.938 minutes.
+[19:56:26]DEBUG: Next event of severity Moderate in 47.832 minutes.
+[19:56:26]DEBUG: Next event of severity Major in 91.9117 minutes.
+[19:56:27]EMOTE: Iqui/ : <B>Iqui</B> turns and flies towards Hasna Rishat's home keys
+[19:56:31]ADMIN: Cassy_jenelle/(James Islington) spawned /mob/living/carbon/human/zombie at (102,161,9)
+[19:56:33]EMOTE: mouse (276)/ : <B>The mouse (276)</B> shakes.
+[19:56:40]EMOTE: cat/ : <B>The cat</B> bites the mouse (166)!
+[19:56:44]SAY: grey baby slime (879)/ : Lonely...
+[19:56:59]SAY: cat/ : HSSSSS
+[19:57:03]ADMIN: Cassy_jenelle/(James Islington) spawned /obj/item/device/healthanalyzer at (99,159,9)
+[19:57:15]ADMIN: Cassy_jenelle/(James Islington) assumed direct control of the unknown.
+[19:57:15]ACCESS: Logout: *no key*/(James Islington)
+[19:57:15]ACCESS: Login: cassyjenelle/(unknown) from 127.0.0.1-1964287214 || BYOND v506
+[19:57:20]SAY: unknown/cassyjenelle : Hello.
+[19:57:30]EMOTE: mouse (561)/ : <B>The mouse (561)</B> squeeks.
+[19:57:36]EMOTE: mouse (176)/ : <B>The mouse (176)</B> shakes.
+[19:58:01]SAY: Koira/ : AUUUUUU
+[19:58:07]SAY: mouse (561)/ : Squeek?
+[19:58:32]SAY: mouse (492)/ : Squeek?
+[19:58:36]EMOTE: Iqui/ : <B>Iqui</B> bawks.
+[19:58:40]SAY: mouse (876)/ : Squeek?
+[19:59:02]EMOTE: Ian/ : <B>Ian</B> barks.
+[19:59:04]EMOTE: Ginger/ : <B>Ginger</B> barks!.
+[19:59:23]SAY: kitten/ : HSSSSS
+[19:59:41]SAY: cat/ : Esp!
+[19:59:44]SAY: unknown/cassyjenelle : I... I don&#39;t feel right.
+[19:59:45]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[19:59:54]SAY: Ian/ : Bark!
+[19:59:58]SAY: Bones/ : Purr!
+[20:00:10]SAY: Tom (876)/ : SQUEEK!
+[20:00:10]EMOTE: Nini/ : <B>Nini</B> pants.
+[20:00:25]EMOTE: Koira/ : <B>Koira</B> shivers..
+[20:00:38]EMOTE: Runtime/ : <B>Runtime</B> meows.
+[20:00:55]EMOTE: Tiger/ : <B>Tiger</B> mews.
+[20:00:59]ADMIN: Cassy_jenelle/(Jenny Pennington) modified [0x2100664f] (T-Virus)'s stage to 2
+[20:01:03]EMOTE: Ginger/ : <B>Ginger</B> chases its tail.
+[20:01:07]EMOTE: Ian/ : <B>Ian</B> dances around
+[20:01:17]EMOTE: Koira/ : <B>Koira</B> chases its tail.
+[20:01:23]ADMIN: Cassy_jenelle/(Jenny Pennington) modified [0x2100664f] (T-Virus)'s stage to 3
+[20:01:23]EMOTE: Ginger/ : <B>Ginger</B> chases its tail.
+[20:01:30]EMOTE: fox/ : <B>The fox</B> barks.
+[20:01:40]EMOTE: Tom (876)/ : <B>Tom (876)</B> runs in a circle.
+[20:02:13]SAY: Emi/ : Meow!
+[20:02:46]EMOTE: fox/ : <B>The fox</B> barks.
+[20:02:48]EMOTE: Tom (876)/ : <B>Tom (876)</B> shakes.
+[20:02:48]SAY: Tiger/ : Meow!
+[20:03:05]EMOTE: Lisa/ : <B>Lisa</B> chases her tail
+[20:03:09]EMOTE: Lisa/ : <B>Lisa</B> dances around
+[20:03:19]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[20:03:23]EMOTE: Ginger/ : <B>Ginger</B> chases its tail.
+[20:03:26]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[20:03:30]EMOTE: Iqui/ : <B>Iqui</B> bawks.
+[20:03:35]ADMIN: Cassy_jenelle/(Jenny Pennington) modified [0x2100664f] (T-Virus)'s stage to 4
+[20:03:40]SAY: Milka/ : Esp!
+[20:03:44]SAY: Jenny Pennington/cassyjenelle : Hsssshhhhh!
+[20:03:53]SAY: Jenny Pennington/cassyjenelle : Hey... You look...
+[20:03:55]SAY: kitten/ : Meow!
+[20:03:55]SAY: Jenny Pennington/cassyjenelle : Hsssshhhhh!
+[20:03:57]SAY: Koira/ : Woof!
+[20:04:03]SAY: Jenny Pennington/cassyjenelle : Mmmmm.
+[20:04:07]EMOTE: Lisa/ : <B>Lisa</B> dances around
+[20:04:16]SAY: fox/ : Ack-Ack-Ack-Ackawoooo
+[20:04:20]EMOTE: Ginger/ : <B>Ginger</B> chases its tail.
+[20:04:22]SAY: Milka/ : Esp!
+[20:04:39]EMOTE: Iqui/ : <B>Iqui</B> bawks.
+[20:04:39]SAY: fox/ : Ack-Ack
+[20:04:43]SAY: Jenny Pennington/cassyjenelle : Hey... You look...
+[20:04:47]SAY: Emi/ : HSSSSS
+[20:04:49]SAY: fox/ : Awoo
+[20:04:51]SAY: Tiger/ : Purr!
+[20:04:55]ADMIN: Cassy_jenelle/(Jenny Pennington) modified [0x2100664f] (T-Virus)'s stage to 5
+[20:04:55]SAY: fox/ : Ack-Ack-Ack-Ackawoooo
+[20:04:56]ACCESS: Logout: *no key*/(Jenny Pennington)
+[20:04:56]ACCESS: Login: cassyjenelle/(Jenny Pennington) from 127.0.0.1-1964287214 || BYOND v506
+[20:04:58]SAY: Ian/ : AUUUUUU
+[20:05:06]SAY: Bones/ : Meow!
+[20:05:06]SAY: kitten/ : HSSSSS
+[20:05:12]EMOTE: fox/ : <B>The fox</B> shakes its head.
+[20:05:14]ADMIN: cassyjenelle/(Jenny Pennington) assumed direct control of James Islington.
+[20:05:14]ACCESS: Logout: *no key*/(Jenny Pennington)
+[20:05:14]ACCESS: Login: cassyjenelle/(James Islington) from 127.0.0.1-1964287214 || BYOND v506
+[20:05:14]EMOTE: Poly/ : <B>Poly</B> bawks.
+[20:05:27]SAY: Dr. NibbleFluff/ : Esp!
+[20:05:29]ADMIN: cassyjenelle/(James Islington) spawned /mob/living/carbon/human/dummy at (99,158,9)
+[20:05:38]ADMIN: cassyjenelle/(James Islington) assumed direct control of Jenny Pennington.
+[20:05:38]ACCESS: Logout: *no key*/(James Islington)
+[20:05:38]ACCESS: Login: cassyjenelle/(Jenny Pennington) from 127.0.0.1-1964287214 || BYOND v506
+[20:05:39]SAY: Tiger/ : HSSSSS
+[20:05:56]ATTACK: cassyjenelle/(Jenny Pennington) has punched *no key*/(Test Dummy)
+[20:05:58]ATTACK: cassyjenelle/(Jenny Pennington) has punched *no key*/(Test Dummy)
+[20:06:01]ATTACK: cassyjenelle/(Jenny Pennington) has punched *no key*/(Test Dummy)
+[20:06:02]SAY: grey baby slime (739)/ : Blorble...
+[20:06:07]ATTACK: cassyjenelle/(Jenny Pennington) has punched *no key*/(Test Dummy)
+[20:06:10]SAY: Koira/ : Bark!
+[20:06:15]ATTACK: cassyjenelle/(Jenny Pennington) has punched *no key*/(Test Dummy)
+[20:06:17]ATTACK: cassyjenelle/(Jenny Pennington) has punched *no key*/(Test Dummy)
+[20:06:19]ATTACK: cassyjenelle/(Jenny Pennington) has punched *no key*/(Test Dummy)
+[20:06:22]SAY: Nini/ : Bark!
+[20:06:24]EMOTE: Cat/ : <B>Cat</B> shakes their head.
+[20:06:25]ADMIN: cassyjenelle/(Jenny Pennington) healed / revived *no key*/(Test Dummy)
+[20:06:28]ATTACK: cassyjenelle/(Jenny Pennington) has punched *no key*/(Test Dummy)
+[20:06:31]SAY: kitten/ : HSSSSS
+[20:06:31]ATTACK: cassyjenelle/(Jenny Pennington) has punched *no key*/(Test Dummy)
+[20:06:33]ATTACK: cassyjenelle/(Jenny Pennington) has punched *no key*/(Test Dummy)
+[20:06:34]ATTACK: cassyjenelle/(Jenny Pennington) has punched *no key*/(Test Dummy)
+[20:06:35]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[20:06:36]ATTACK: cassyjenelle/(Jenny Pennington) has punched *no key*/(Test Dummy)
+[20:06:37]ATTACK: cassyjenelle/(Jenny Pennington) has punched *no key*/(Test Dummy)
+[20:06:44]ATTACK: cassyjenelle/(Jenny Pennington) has  *no key*/(Test Dummy)
+[20:06:45]ATTACK: cassyjenelle/(Jenny Pennington) has  *no key*/(Test Dummy)
+[20:06:47]ATTACK: cassyjenelle/(Jenny Pennington) has  *no key*/(Test Dummy)
+[20:06:47]EMOTE: Test Dummy/ : <B>Test Dummy</B> screams!
+[20:06:48]ATTACK: cassyjenelle/(Jenny Pennington) has  *no key*/(Test Dummy)
+[20:06:48]EMOTE: Test Dummy/ : <B>Test Dummy</B> screams!
+[20:06:50]ATTACK: cassyjenelle/(Jenny Pennington) has  *no key*/(Test Dummy)
+[20:06:53]ATTACK: cassyjenelle/(Jenny Pennington) has kneed *no key*/(Test Dummy)
+[20:06:55]ATTACK: cassyjenelle/(Jenny Pennington) has kneed *no key*/(Test Dummy)
+[20:06:57]ATTACK: cassyjenelle/(Jenny Pennington) has kneed *no key*/(Test Dummy)
+[20:06:57]EMOTE: Test Dummy/ : <B>Test Dummy</B> screams!
+[20:06:58]ATTACK: cassyjenelle/(Jenny Pennington) has kicked *no key*/(Test Dummy)
+[20:06:58]EMOTE: Test Dummy/ : <B>Test Dummy</B> screams!
+[20:07:00]ATTACK: cassyjenelle/(Jenny Pennington) has kicked *no key*/(Test Dummy)
+[20:07:00]EMOTE: Test Dummy/ : <B>Test Dummy</B> screams!
+[20:07:01]ATTACK: cassyjenelle/(Jenny Pennington) has kicked *no key*/(Test Dummy)
+[20:07:02]ATTACK: cassyjenelle/(Jenny Pennington) has kneed *no key*/(Test Dummy)
+[20:07:05]ADMIN: cassyjenelle/(Jenny Pennington) deleted Test Dummy at (100,158,9)
+[20:07:05]EMOTE: mouse (492)/ : <B>The mouse (492)</B> squiks.
+[20:07:15]ADMIN: cassyjenelle/(Jenny Pennington) spawned /mob/living/carbon/human at (100,158,9)
+[20:07:16]ATTACK: cassyjenelle/(Jenny Pennington) has kneed *no key*/(unknown)
+[20:07:18]ATTACK: cassyjenelle/(Jenny Pennington) has kicked *no key*/(unknown)
+[20:07:19]ATTACK: cassyjenelle/(Jenny Pennington) has kneed *no key*/(unknown)
+[20:07:20]EMOTE: unknown/ : <B>The unknown</B> screams!
+[20:07:21]ATTACK: cassyjenelle/(Jenny Pennington) has kneed *no key*/(unknown)
+[20:07:22]ATTACK: cassyjenelle/(Jenny Pennington) has kicked *no key*/(unknown)
+[20:07:22]EMOTE: unknown/ : <B>The unknown</B> screams!
+[20:07:23]ATTACK: cassyjenelle/(Jenny Pennington) has kicked *no key*/(unknown)
+[20:07:23]EMOTE: unknown/ : <B>The unknown</B> screams!
+[20:07:24]ATTACK: cassyjenelle/(Jenny Pennington) has kicked *no key*/(unknown)
+[20:07:26]ATTACK: cassyjenelle/(Jenny Pennington) has kicked *no key*/(unknown)
+[20:07:26]EMOTE: Wittley/ : <B>Wittley</B> mews.
+[20:07:27]ATTACK: cassyjenelle/(Jenny Pennington) has kneed *no key*/(unknown)
+[20:07:30]ATTACK: cassyjenelle/(Jenny Pennington) has kicked *no key*/(unknown)
+[20:07:32]ATTACK: cassyjenelle/(Jenny Pennington) has kicked *no key*/(unknown)
+[20:07:33]ATTACK: cassyjenelle/(Jenny Pennington) has kneed *no key*/(unknown)
+[20:07:34]EMOTE: unknown/ : <B>The unknown</B> screams!
+[20:07:34]ATTACK: cassyjenelle/(Jenny Pennington) has kicked *no key*/(unknown)
+[20:07:34]EMOTE: unknown/ : <B>The unknown</B> screams!
+[20:07:36]ATTACK: cassyjenelle/(Jenny Pennington) has  *no key*/(unknown)
+[20:07:37]ATTACK: cassyjenelle/(Jenny Pennington) has  *no key*/(unknown)
+[20:07:38]ATTACK: cassyjenelle/(Jenny Pennington) has  *no key*/(unknown)
+[20:07:40]ATTACK: cassyjenelle/(Jenny Pennington) has  *no key*/(unknown)
+[20:07:42]EMOTE: Runtime/ : <B>Runtime</B> mews.
+[20:07:42]EMOTE: unknown/ : <B>The unknown</B> screams!
+[20:07:42]EMOTE: unknown/ : <B>The unknown</B> collapses!
+[20:07:44]EMOTE: Koira/ : <B>Koira</B> chases its tail..
+[20:07:45]ADMIN: cassyjenelle/(Jenny Pennington) deleted the unknown at (100,158,9)
+[20:07:46]EMOTE: Ginger/ : <B>Ginger</B> chases its tail.
+[20:07:49]ADMIN: cassyjenelle/(Jenny Pennington) spawned /mob/living/carbon/human/zombie at (101,158,9)
+[20:08:06]ADMIN: cassyjenelle/(Jenny Pennington) spawned /area/dummy at (98,158,9)
+[20:08:11]EMOTE: Lisa/ : <B>Lisa</B> dances around
+[20:08:15]ADMIN: cassyjenelle/(Jenny Pennington) spawned /mob/living/carbon/human/dummy at (99,159,9)
+[20:08:15]EMOTE: kitten/ : <B>The kitten</B> mews.
+[20:08:19]SAY: Experiment 97d/ : Eh?
+[20:08:19]EMOTE: Koira/ : <B>Koira</B> chases its tail.
+[20:08:23]EMOTE: Lisa/ : <B>Lisa</B> dances around
+[20:08:30]EMOTE: Lisa/ : <B>Lisa</B> shivers.
+[20:08:38]EMOTE: Lisa/ : <B>Lisa</B> dances around
+[20:08:40]ADMIN: Cassy_jenelle/(Jenny Pennington) modified [0x2101485c] (T-Virus)'s stage to 5
+[20:08:41]SAY: grey baby slime (739)/ : Rawr...
+[20:08:41]ACCESS: Logout: *no key*/(Jenny Pennington)
+[20:08:41]ACCESS: Login: cassyjenelle/(Jenny Pennington) from 127.0.0.1-1964287214 || BYOND v506
+[20:08:49]SAY: Dr. NibbleFluff/ : Purr!
+[20:08:53]ADMIN: cassyjenelle/(Jenny Pennington) spawned /mob/living/carbon/human/skrell at (101,162,9)
+[20:08:55]EMOTE: Ginger/ : <B>Ginger</B> barks!.
+[20:09:01]ADMIN: cassyjenelle/(Jenny Pennington) spawned /mob/living/carbon/human/xsentinel at (101,158,9)
+[20:09:01]EMOTE: cat/ : <B>The cat</B> shivers.
+[20:09:03]SAY: mouse (492)/ : SQUEEK!
+[20:09:05]ADMIN: cassyjenelle/(Jenny Pennington) deleted the alien sentinel (1) at (101,158,9)
+[20:09:09]ADMIN: cassyjenelle/(Jenny Pennington) deleted Test Dummy at (99,159,9)
+[20:09:15]SAY: Cat/ : Esp!
+[20:09:26]EMOTE: Ian/ : <B>Ian</B> dances around
+[20:09:32]EMOTE: Lisa/ : <B>Lisa</B> pants.
+[20:09:39]EMOTE: Lisa/ : <B>Lisa</B> chases her tail
+[20:10:22]EMOTE: Ian/ : <B>Ian</B> pants.
+[20:10:24]EMOTE: mouse (492)/ : <B>The mouse (492)</B> squeeks.
+[20:10:33]SAY: Poly/ : Wire the solars, you lazy bums!
+[20:10:53]EMOTE: crab/ : <B>The crab</B> clicks.
+[20:11:06]ADMIN: cassyjenelle/(Jenny Pennington) spawned /mob/living/carbon/human/zombie at (98,159,9)
+[20:11:13]ADMIN: cassyjenelle/(Jenny Pennington) assumed direct control of the unknown.
+[20:11:13]ACCESS: Logout: *no key*/(Jenny Pennington)
+[20:11:13]ACCESS: Login: cassyjenelle/(unknown) from 127.0.0.1-1964287214 || BYOND v506
+[20:11:27]EMOTE: fox/ : <B>The fox</B> howls.
+[20:11:34]ADMIN: Cassy_jenelle/(unknown) modified [0x2101e16e] (T-Virus)'s stage to 5
+[20:11:35]ACCESS: Logout: *no key*/(unknown)
+[20:11:35]ACCESS: Login: cassyjenelle/(unknown) from 127.0.0.1-1964287214 || BYOND v506
+[20:11:37]EMOTE: kitten/ : <B>The kitten</B> meows.
+[20:11:37]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[20:11:43]ADMIN: cassyjenelle/(unknown) deleted the unknown at (97,160,9)
+[20:11:48]ADMIN: cassyjenelle/(unknown) spawned /mob/living/carbon/human/zombie at (98,160,9)
+[20:11:56]EMOTE: Ginger/ : <B>Ginger</B> chases its tail.
+[20:11:58]SAY: kitten/ : Purr!
+[20:12:02]EMOTE: Lisa/ : <B>Lisa</B> chases her tail
+[20:12:06]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[20:12:08]EMOTE: Koira/ : <B>Koira</B> chases its tail.
+[20:12:21]SAY: kitten/ : Purr!
+[20:12:33]SAY: Lisa/ : YAP
+[20:12:36]ADMIN: Cassy_jenelle/(unknown) modified [0x2101e219] (T-Virus)'s stage to 5
+[20:12:37]EMOTE: kitten/ : <B>The kitten</B> mews.
+[20:13:06]ADMIN: cassyjenelle/(unknown) deleted Jenny Pennington at (99,160,9)
+[20:13:10]ADMIN: cassyjenelle/(unknown) deleted the unknown at (101,162,9)
+[20:13:12]ADMIN: cassyjenelle/(unknown) deleted the unknown at (98,161,9)
+[20:13:13]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[20:13:19]SAY: Poly/ : Meow!
+[20:13:25]EMOTE: cat/ : <B>The cat</B> mews.
+[20:13:39]SAY: Poly/ : Wire the solars, you lazy bums!
+[20:13:43]EMOTE: Lisa/ : <B>Lisa</B> dances around
+[20:13:55]EMOTE: Iqui/ : <B>Iqui</B> squawks.
+[20:14:12]SAY: fox/ : Ack-Ack-Ack-Ackawoooo
+[20:14:12]SAY: Cat/ : Meow!
+[20:14:12]EMOTE: Koira/ : <B>Koira</B> chases its tail..
+[20:14:20]EMOTE: kitten/ : <B>The kitten</B> mews.
+[20:14:23]ACCESS: Logout: cassyjenelle/(unknown)
+
+
+Starting up. 20:19.29
+---------------------
+[20:19:29]MISC: Saved mode is 'extended'
+[20:19:39]ADMIN: Loading jobban_rank
+[20:19:39]ADMIN: jobban_keylist was empty
+[20:19:39]ADMIN: Loading Banlist
+[20:19:40]DEBUG: Rebuilding Master Controller
+[20:21:09]ACCESS: Login: Cassy_jenelle/(Cassy_jenelle) from 127.0.0.1-1964287214 || BYOND v506
+[20:21:31]ADMIN: Cassy_jenelle has started the game.
+[20:21:32]ACCESS: Logout: *no key*/(Cassy_jenelle)
+[20:21:32]ACCESS: Login: Cassy_jenelle/(James Islington) from 127.0.0.1-1964287214 || BYOND v506
+[20:21:36]EMOTE: Iqui/ : <B>Iqui</B> turns and flies towards Hasna Rishat's home keys
+[20:21:36]EMOTE: Milka/ : <B>Milka</B> meows.
+[20:21:38]DEBUG: Next event of severity Mundane in 16.586 minutes.
+[20:21:38]DEBUG: Next event of severity Moderate in 38.008 minutes.
+[20:21:38]DEBUG: Next event of severity Major in 84.3617 minutes.
+[20:21:46]ADMIN: Cassy_jenelle/(James Islington) spawned /mob/living/carbon/human/zombie at (97,161,9)
+[20:21:47]EMOTE: Squeaky (769)/ : <B>Squeaky (769)</B> squiks.
+[20:21:49]EMOTE: cat/ : <B>The cat</B> mrowls fiercely!
+[20:21:51]EMOTE: cat/ : <B>The cat</B> chomps on the mouse (867)!
+[20:21:57]EMOTE: Tom (585)/ : <B>Tom (585)</B> squeeks.
+[20:21:57]EMOTE: Lisa/ : <B>Lisa</B> chases her tail
+[20:21:59]EMOTE: Koira/ : <B>Koira</B> chases its tail.
+[20:22:03]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[20:22:14]ADMIN: Cassy_jenelle/(James Islington) changed the equipment of *no key*/(unknown) to standard space gear.
+[20:22:16]EMOTE: Dr. NibbleFluff/ : <B>Dr. NibbleFluff</B> mews.
+[20:22:23]ADMIN: Cassy_jenelle/(James Islington) changed the equipment of *no key*/(unknown) to tournament chef.
+[20:22:53]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[20:22:57]EMOTE: mouse (243)/ : <B>The mouse (243)</B> squeaks.
+[20:23:06]ADMIN: Cassy_jenelle/(James Islington) modified [0x21005ff7] (T-Virus)'s stage to 5
+[20:23:12]EMOTE: Nini/ : <B>Nini</B> yaps.
+[20:23:20]EMOTE: Wittley/ : <B>Wittley</B> meows.
+[20:23:26]EMOTE: Lisa/ : <B>Lisa</B> chases her tail
+[20:23:38]EMOTE: mouse (600)/ : <B>The mouse (600)</B> runs in a circle.
+[20:23:48]SAY: mouse (299)/ : SQUEEK!
+[20:23:56]ADMIN: Cassy_jenelle/(James Islington) assumed direct control of Clairea Bee.
+[20:23:56]ACCESS: Logout: *no key*/(James Islington)
+[20:23:56]ACCESS: Login: cassyjenelle/(Clairea Bee) from 127.0.0.1-1964287214 || BYOND v506
+[20:24:07]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[20:24:10]ADMIN: Cassy_jenelle/(Clairea Bee) modified [0x210108c7] (T-Virus)'s stage to 5
+[20:24:11]ACCESS: Logout: *no key*/(Clairea Bee)
+[20:24:11]ACCESS: Login: cassyjenelle/(Clairea Bee) from 127.0.0.1-1964287214 || BYOND v506
+[20:24:44]EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[20:24:48]EMOTE: Lisa/ : <B>Lisa</B> dances around
+[20:24:56]EMOTE: mouse (729)/ : <B>The mouse (729)</B> squeeks.
+[20:25:18]EMOTE: Iqui/ : <B>Iqui</B> squawks.
+[20:25:26]ACCESS: Logout: cassyjenelle/(Clairea Bee)
+
+
+Starting up. 20:29.46
+---------------------
+[20:29:46]MISC: Saved mode is 'extended'
+[20:29:56]ADMIN: Loading jobban_rank
+[20:29:56]ADMIN: jobban_keylist was empty
+[20:29:56]ADMIN: Loading Banlist
+[20:29:57]DEBUG: Rebuilding Master Controller
+[20:31:32]ACCESS: Login: Cassy_jenelle/(Cassy_jenelle) from 127.0.0.1-1964287214 || BYOND v506
+[20:32:06]ADMIN: Cassy_jenelle has started the game.
+[20:32:07]ACCESS: Logout: *no key*/(Cassy_jenelle)
+[20:32:07]ACCESS: Login: Cassy_jenelle/(James Islington) from 127.0.0.1-1964287214 || BYOND v506
+[20:32:12]EMOTE: Iqui/ : <B>Iqui</B> turns and flies towards Hasna Rishat's home keys
+[20:32:14]DEBUG: Next event of severity Mundane in 17.268 minutes.
+[20:32:14]DEBUG: Next event of severity Moderate in 42.936 minutes.
+[20:32:14]DEBUG: Next event of severity Major in 92.6283 minutes.
+[20:32:19]EMOTE: Ian/ : <B>Ian</B> barks.
+[20:32:23]ADMIN: Cassy_jenelle/(James Islington) spawned /mob/living/carbon/human/zombie at (98,162,9)
+[20:32:25]EMOTE: cat/ : <B>The cat</B> chomps on the mouse (615)!
+[20:32:33]EMOTE: mouse (666)/ : <B>The mouse (666)</B> scritches at something.
+[20:32:50]SAY: mouse (970)/ : Squeek!
+[20:32:57]ADMIN: Cassy_jenelle/(James Islington) changed the equipment of *no key*/(unknown) to tournament janitor.
+[20:33:22]ADMIN: Cassy_jenelle/(James Islington) assumed direct control of Ben Dover.
+[20:33:22]ACCESS: Logout: *no key*/(James Islington)
+[20:33:22]ACCESS: Login: cassyjenelle/(Ben Dover) from 127.0.0.1-1964287214 || BYOND v506
+[20:33:26]SAY: Runtime/ : Esp!
+[20:33:36]EMOTE: fox/ : <B>The fox</B> barks.
+[20:33:43]SAY: mouse (168)/ : Squeek?
+[20:33:57]EMOTE: Ginger/ : <B>Ginger</B> chases its tail.
+[20:34:11]SAY: cat/ : Esp!
+[20:34:22]EMOTE: Lisa/ : <B>Lisa</B> shakes its head.
+[20:34:38]EMOTE: cat/ : <B>The cat</B> shivers.
+[20:34:38]SAY: Koira/ : AUUUUUU
+[20:34:42]EMOTE: crab/ : <B>The crab</B> clacks.
+[20:34:42]SAY: Nini/ : Bark!
+[20:34:46]ADMIN: cassyjenelle/(Ben Dover) gave cassyjenelle/(Ben Dover) a Badmin disease2 with infection chance 68.
+[20:34:46]EMOTE: fox/ : <B>The fox</B> shivers.
+[20:34:49]EMOTE: James Islington/ : <B>James Islington</B> sneezes.
+[20:34:55]ADMIN: cassyjenelle/(Ben Dover) healed / revived cassyjenelle/(Ben Dover)
+[20:34:58]ADMIN: cassyjenelle/(Ben Dover) healed / revived *no key*/(James Islington)
+[20:35:01]ADMIN: cassyjenelle/(Ben Dover) healed / revived cassyjenelle/(Ben Dover)
+[20:35:12]SAY: Nini/ : YAP
+[20:35:14]ADMIN: cassyjenelle/(Ben Dover) spawned /mob/living/carbon/human/zombie at (98,162,9)
+[20:35:14]EMOTE: Tiger/ : <B>Tiger</B> shakes their head.
+[20:35:26]EMOTE: fox/ : <B>The fox</B> shivers.
+[20:35:31]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[20:35:35]EMOTE: Squeaky (588)/ : <B>Squeaky (588)</B> squeeks.
+[20:35:40]ADMIN: Cassy_jenelle/(Ben Dover) modified [0x2100a375] (/datum/disease2/disease)'s stage to 5
+[20:35:41]SAY: Lisa/ : Bark!
+[20:35:45]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[20:36:04]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[20:36:10]SAY: mouse (584)/ : SQUEEK!
+[20:36:12]ADMIN: Cassy_jenelle/(Ben Dover) modified Ben Dover's virus2 to 
+[20:36:16]SAY: mouse (170)/ : Squeek?
+[20:36:18]ADMIN: cassyjenelle/(Ben Dover) healed / revived cassyjenelle/(Ben Dover)
+[20:36:20]EMOTE: Ginger/ : <B>Ginger</B> chases its tail.
+[20:36:22]ADMIN: cassyjenelle/(Ben Dover) deleted the unknown at (98,162,9)
+[20:36:34]ADMIN: cassyjenelle/(Ben Dover) told everyone that ERP has been detected, and spiders will be on their way.
+[20:36:45]ADMIN: cassyjenelle/(Ben Dover) told everyone that ERP has been detected, and spiders will be on their way.
+[20:36:49]SAY: cat/ : HSSSSS
+[20:36:50]ADMIN: cassyjenelle/(Ben Dover) told everyone that ERP has been detected, and spiders will be on their way.
+[20:36:55]ADMIN: cassyjenelle/(Ben Dover) told everyone that ERP has been detected, and spiders will be on their way.
+[20:36:59]ADMIN: cassyjenelle/(Ben Dover) told everyone that ERP has been detected, and spiders will be on their way.
+[20:37:05]SAY: Experiment 97d/ : Eh?
+[20:37:08]ADMIN: cassyjenelle/(Ben Dover) told everyone that ERP has been detected, and spiders will be on their way.
+[20:37:09]EMOTE: cat/ : <B>The cat</B> mews.
+[20:37:09]EMOTE: Koira/ : <B>Koira</B> chases its tail.
+[20:37:12]ADMIN: cassyjenelle/(Ben Dover) told everyone that ERP has been detected, and spiders will be on their way.
+[20:37:16]SAY: mouse (170)/ : Squeek!
+[20:37:17]ADMIN: cassyjenelle/(Ben Dover) told everyone that ERP has been detected, and spiders will be on their way.
+[20:37:22]EMOTE: Wittley/ : <B>Wittley</B> mews.
+[20:37:24]ADMIN: cassyjenelle/(Ben Dover) told everyone that ERP has been detected, and spiders will be on their way.
+[20:37:26]EMOTE: mouse (73)/ : <B>The mouse (73)</B> scritches at something.
+[20:37:33]EMOTE: James Islington/ : <B>James Islington</B> sneezes.
+[20:37:38]ADMIN: cassyjenelle/(Ben Dover) told everyone that ERP has been detected, and spiders will be on their way.
+[20:37:42]ADMIN: cassyjenelle/(Ben Dover) told everyone that ERP has been detected, and spiders will be on their way.
+[20:37:43]ADMIN: cassyjenelle/(Ben Dover) told everyone to man up and deal with it.
+[20:37:47]ADMIN: cassyjenelle/(Ben Dover) told everyone that ERP has been detected, and spiders will be on their way.
+[20:37:50]EMOTE: Dr. NibbleFluff/ : <B>Dr. NibbleFluff</B> shakes their head.
+[20:37:50]EMOTE: Koira/ : <B>Koira</B> chases its tail.
+[20:37:54]ADMIN: cassyjenelle/(Ben Dover) told everyone to man up and deal with it.
+[20:37:58]ADMIN: cassyjenelle/(Ben Dover) told everyone that ERP has been detected, and spiders will be on their way.
+[20:38:03]ADMIN: cassyjenelle/(Ben Dover) told everyone to man up and deal with it.
+[20:38:07]ADMIN: cassyjenelle/(Ben Dover) told everyone that ERP has been detected, and spiders will be on their way.
+[20:38:10]EMOTE: Squeaky (588)/ : <B>Squeaky (588)</B> scritches at something.
+[20:38:11]ADMIN: cassyjenelle/(Ben Dover) told everyone to man up and deal with it.
+[20:38:15]ADMIN: cassyjenelle/(Ben Dover) told everyone that ERP has been detected, and spiders will be on their way.
+[20:38:19]ADMIN: cassyjenelle/(Ben Dover) told everyone to man up and deal with it.
+[20:38:20]SAY: mouse (409)/ : Squeek?
+[20:38:22]ADMIN: cassyjenelle/(Ben Dover) told everyone that ERP has been detected, and spiders will be on their way.
+[20:38:26]ADMIN: cassyjenelle/(Ben Dover) told everyone to man up and deal with it.
+[20:38:38]ADMIN: cassyjenelle/(Ben Dover) spawned /mob/living/carbon/human/zombie at (97,162,9)
+[20:38:39]EMOTE: mouse (970)/ : <B>The mouse (970)</B> shakes.
+[20:38:39]SAY: Koira/ : Bark!
+[20:38:41]EMOTE: Ginger/ : <B>Ginger</B> chases its tail.
+[20:38:41]SAY: mouse (73)/ : SQUEEK!
+[20:38:51]ADMIN: cassyjenelle/(Ben Dover) assumed direct control of the unknown.
+[20:38:51]ACCESS: Logout: *no key*/(Ben Dover)
+[20:38:51]ACCESS: Login: cassyjenelle/(unknown) from 127.0.0.1-1964287214 || BYOND v506
+[20:38:54]EMOTE: Emi/ : <B>Emi</B> shivers.
+[20:39:06]EMOTE: cat/ : <B>The cat</B> mews.
+[20:39:25]EMOTE: mouse (73)/ : <B>The mouse (73)</B> squeaks.
+[20:39:29]SAY: mouse (970)/ : Squeek?
+[20:39:31]SAY: cat/ : Purr!
+[20:39:33]SAY: Lisa/ : YAP
+[20:39:37]SAY: Poly/ : WHO TOOK THE DAMN HARDSUITS?
+[20:39:38]EMOTE: James Islington/ : <B>James Islington</B> sneezes.
+[20:39:39]ADMIN: Cassy_jenelle/(unknown) modified [0x2101e38b] (T-Virus)'s stage to 5
+[20:39:42]SAY: Dr. NibbleFluff/ : Purr!
+[20:39:48]SAY: Dr. NibbleFluff/ : HSSSSS
+[20:40:09]EMOTE: Lisa/ : <B>Lisa</B> chases her tail
+[20:40:14]EMOTE: James Islington/ : <B>James Islington</B> sneezes.
+[20:40:16]EMOTE: Ginger/ : <B>Ginger</B> shakes its head..
+[20:40:20]ACCESS: Logout: cassyjenelle/(unknown)

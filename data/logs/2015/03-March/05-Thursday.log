@@ -1,0 +1,1039 @@
+
+
+Starting up. 08:23.54
+---------------------
+[08:23:58]ADMIN: Loading jobban_rank
+[08:23:58]ADMIN: jobban_keylist was empty
+[08:23:58]ADMIN: Loading Banlist
+[08:24:00]DEBUG: Rebuilding Master Controller
+[08:24:29]ACCESS: Login: Cassy_jenelle/(Cassy_jenelle) from 127.0.0.1-1964287214 || BYOND v506
+[08:25:30]ADMIN: Cassy_jenelle has started the game.
+[08:25:30]ACCESS: Logout: *no key*/(Cassy_jenelle)
+[08:25:30]ACCESS: Login: Cassy_jenelle/(Camile Crafter) from 127.0.0.1-1964287214 || BYOND v506
+[08:25:37]DEBUG: Next event of severity Mundane in 13.28 minutes.
+[08:25:37]DEBUG: Next event of severity Moderate in 38.544 minutes.
+[08:25:37]DEBUG: Next event of severity Major in 85.19 minutes.
+[08:25:39]SAY: mouse (629)/ : Squeek!
+[08:25:49]EMOTE: Parrot/ : <B>The Parrot</B> turns and flies towards the deck of cards
+[08:26:37]SAY: Runtime/ : Esp!
+[08:26:53]SAY: grey baby slime (143)/ : Blorble...
+[08:27:09]SAY: mouse (936)/ : Squeek!
+[08:27:21]SAY: grey baby slime (143)/ : Rawr...
+[08:27:21]EMOTE: mouse (98)/ : <B>The mouse (98)</B> squeeks.
+[08:27:27]ACCESS: Login: Loow/(Loow) from 198.217.29.10-1390676264 || BYOND v506
+[08:27:33]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[08:28:04]OOC: Camile Crafter/Cassy_jenelle : hi b
+[08:28:05]ACCESS: Logout: *no key*/(Loow)
+[08:28:05]ACCESS: Login: Loow/(Colten Jones) from 198.217.29.10-1390676264 || BYOND v506
+[08:28:07]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[08:28:08]OOC: Colten Jones/Loow : yo
+[08:28:09]EMOTE: mouse (210)/ : <B>The mouse (210)</B> squiks.
+[08:29:01]SAY: cat/ : Meow!
+[08:29:04]ACCESS: Logout: Loow/(Colten Jones)
+[08:29:13]ACCESS: Logout: *no key*/(Camile Crafter)
+[08:29:13]ACCESS: Login: Cassy_jenelle/(Camile Crafter) from 127.0.0.1-1964287214 || BYOND v506
+[08:29:23]EMOTE: Colten Jones/Loow : <B>Colten Jones</B> snores.
+[08:29:25]ACCESS: Login: Loow/(Colten Jones) from 198.217.29.10-1390676264 || BYOND v506
+[08:29:54]GAME: <a href='?priv_msg=[0x5000001]'>Loow</a>/(Colten Jones) has ghosted.
+[08:29:54]ACCESS: Logout: *no key*/(Colten Jones)
+[08:29:54]ACCESS: Login: Loow/(Colten Jones) from 198.217.29.10-1390676264 || BYOND v506
+[08:30:13]ACCESS: Logout: *no key*/(Camile Crafter)
+[08:30:13]ACCESS: Login: Cassy_jenelle/(Camile Crafter) from 127.0.0.1-1964287214 || BYOND v506
+[08:30:16]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[08:30:20]SAY: Runtime/ : Purr!
+[08:30:36]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[08:30:38]EMOTE: Ian/ : <B>Ian</B> dances around
+[08:31:36]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[08:32:05]SAY: kitten/ : Meow!
+[08:32:06]ADMIN: Cassy_jenelle/(Camile Crafter) spawned /mob/living/carbon/human at (253,97,2)
+[08:32:11]SAY: cat/ : Meow!
+[08:32:13]SAY: Parrot/ : Cracker?
+[08:32:15]SAY: cat/ : Esp!
+[08:32:32]ADMIN: Cassy_jenelle/(Camile Crafter) changed the equipment of *no key*/(unknown) to nanotrasen representative.
+[08:32:46]SAY: kitten/ : HSSSSS
+[08:32:47]ACCESS: Logout: *no key*/(Camile Crafter)
+[08:32:47]ACCESS: Login: cassyjenelle/(Jenny Islington) from 127.0.0.1-1964287214 || BYOND v506
+[08:32:47]ADMIN: Cassy_jenelle/(Jenny Islington) modified Jenny Islington's ckey to cassyjenelle
+[08:33:00]EMOTE: kitten/ : <B>The kitten</B> meows.
+[08:33:02]ACCESS: Logout: *no key*/(Colten Jones)
+[08:33:02]ACCESS: Login: loow/(Camile Crafter) from 198.217.29.10-1390676264 || BYOND v506
+[08:33:02]ADMIN: Cassy_jenelle/(Jenny Islington) modified Camile Crafter's ckey to loow
+[08:33:22]SAY: Camile Crafter/loow : hey bb
+[08:33:26]SAY: Jenny Islington/cassyjenelle : Hey bb
+[08:33:50]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[08:33:54]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[08:34:25]SAY: Camile Crafter/loow : i am a lesbian.
+[08:34:32]SAY: Jenny Islington/cassyjenelle : Everyone knows.
+[08:34:35]SAY: Camile Crafter/loow : yes
+[08:34:40]SAY: Camile Crafter/loow : I hide it poorly
+[08:34:49]SAY: Runtime/ : Esp!
+[08:36:17]EMOTE: Runtime/ : <B>Runtime</B> meows.
+[08:36:19]EMOTE: crab/ : <B>The crab</B> clacks.
+[08:36:20]ATTACK: Jenny Islington (cassyjenelle) was hit by a the soap, thrown by Camile Crafter (loow) (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=179;Y=45;Z=2'>JMP</a>)
+[08:36:39]ADMIN: cassyjenelle/(Jenny Islington) deleted the soap at (0,0,0)
+[08:36:41]SAY: Camile Crafter/loow : whore
+[08:36:47]SAY: Camile Crafter/loow : luv
+[08:36:47]SAY: Jenny Islington/cassyjenelle : bitch.
+[08:37:08]ATTACK: Camile Crafter (loow) was hit by a the kitchen knife, thrown by Jenny Islington (cassyjenelle) (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=155;Y=53;Z=2'>JMP</a>)
+[08:37:23]EMOTE: Ian/ : <B>Ian</B> dances around
+[08:37:35]SAY: grey baby slime (409)/ : Lonely...
+[08:37:35]ATTACK: Jenny Islington (cassyjenelle) was hit by a the kitchen knife, thrown by Camile Crafter (loow) (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=149;Y=65;Z=2'>JMP</a>)
+[08:37:41]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[08:38:18]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[08:40:03]SAY: Parrot/ : BAWWWWK george mellons griffing me
+[08:40:13]ATTACK: Jenny Islington (cassyjenelle) was hit by a the soap, thrown by Camile Crafter (loow) (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=136;Y=37;Z=2'>JMP</a>)
+[08:40:18]DEBUG: Next event of severity Mundane in 14.262 minutes.
+[08:40:18]DEBUG: Starting event 'Mundane News' of severity Mundane.
+[08:40:37]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[08:40:40]DEBUG: Event 'Mundane News' has completed at 12:14.
+[08:42:20]SAY: Jenny Islington/cassyjenelle : Hi
+[08:42:20]SAY: Camile Crafter/loow : jenny is a slut
+[08:42:32]EMOTE: crab/ : <B>The crab</B> clicks.
+[08:42:38]SAY: cat/ : Meow!
+[08:42:44]SAY: Ian/ : AUUUUUU
+[08:43:11]ADMIN: Cassy_jenelle/(Jenny Islington) modified curtain's color to #0000ff
+[08:43:15]SAY: Parrot/ : Cracker?
+[08:43:25]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[08:43:31]ADMIN: Cassy_jenelle/(Jenny Islington) modified curtain's color to #72afed
+[08:43:31]EMOTE: Ian/ : <B>Ian</B> yaps.
+[08:43:41]SAY: kitten/ : Meow!
+[08:43:43]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[08:43:45]EMOTE: Ian/ : <B>Ian</B> shakes its head.
+[08:43:47]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[08:43:57]SAY: Runtime/ : Purr!
+[08:44:50]SAY: Parrot/ : Cracker?
+[08:44:50]EMOTE: crab/ : <B>The crab</B> clicks.
+[08:45:00]SAY: kitten/ : Meow!
+[08:45:38]EMOTE: kitten/ : <B>The kitten</B> meows.
+[08:45:56]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[08:46:09]GAME: Explosion with size (-1, 0, 1) in area Centcom Living Quarters 
+[08:47:19]EMOTE: kitten/ : <B>The kitten</B> meows.
+[08:47:37]EMOTE: crab/ : <B>The crab</B> clacks.
+[08:48:31]SAY: kitten/ : Meow!
+[08:48:32]SAY: kitten/ : Purr!
+[08:48:40]EMOTE: kitten/ : <B>The kitten</B> meows.
+[08:48:47]ATTACK: loow/(Camile Crafter) attempted to handcuff cassyjenelle/(Jenny Islington)
+[08:49:14]ATTACK: loow/(Camile Crafter) attacked cassyjenelle/(Jenny Islington) with whip (INTENT: HURT) (DAMTYE: BRUTE)
+[08:49:19]ATTACK: loow/(Camile Crafter) attacked cassyjenelle/(Jenny Islington) with whip (INTENT: HURT) (DAMTYE: BRUTE)
+[08:49:20]ATTACK: loow/(Camile Crafter) attacked cassyjenelle/(Jenny Islington) with whip (INTENT: HURT) (DAMTYE: BRUTE)
+[08:49:22]ATTACK: loow/(Camile Crafter) attacked cassyjenelle/(Jenny Islington) with whip (INTENT: HURT) (DAMTYE: BRUTE)
+[08:49:23]ATTACK: loow/(Camile Crafter) attacked cassyjenelle/(Jenny Islington) with whip (INTENT: HURT) (DAMTYE: BRUTE)
+[08:49:24]ATTACK: loow/(Camile Crafter) attacked cassyjenelle/(Jenny Islington) with whip (INTENT: HURT) (DAMTYE: BRUTE)
+[08:49:25]ATTACK: loow/(Camile Crafter) attacked cassyjenelle/(Jenny Islington) with whip (INTENT: HURT) (DAMTYE: BRUTE)
+[08:49:27]ATTACK: loow/(Camile Crafter) attacked cassyjenelle/(Jenny Islington) with whip (INTENT: HURT) (DAMTYE: BRUTE)
+[08:49:31]ATTACK: loow/(Camile Crafter) attacked cassyjenelle/(Jenny Islington) with purple comb (INTENT: HURT) (DAMTYE: BRUTE)
+[08:50:10]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[08:50:29]SAY: Jenny Islington/cassyjenelle : Please Ms.C-crafter no!
+[08:50:36]SAY: Camile Crafter/loow : shhhh...
+[08:50:41]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[08:50:55]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[08:51:05]SAY: Jenny Islington/cassyjenelle : Oh... oh no.
+[08:51:10]ATTACK: Jenny Islington (cassyjenelle) was hit by a the Zippo lighter, thrown by Camile Crafter (loow) (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=186;Y=87;Z=2'>JMP</a>)
+[08:51:13]SAY: kitten/ : Purr!
+[08:51:25]SAY: Camile Crafter/loow : i hear some people are into this....
+[08:51:29]ATTACK: Camile Crafter (loow) attacked Jenny Islington (cassyjenelle) with a bottle. (INTENT: HURT) (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=185;Y=86;Z=2'>JMP</a>)
+[08:51:33]SAY: Jenny Islington/cassyjenelle : Argh!
+[08:51:38]SAY: Jenny Islington/cassyjenelle : You blueberry bitch!
+[08:51:39]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[08:51:49]SAY: Camile Crafter/loow : YOU FEKKIN&#39; whah
+[08:51:54]ATTACK: loow/(Camile Crafter) has punched cassyjenelle/(Jenny Islington)
+[08:51:55]ATTACK: loow/(Camile Crafter) has punched cassyjenelle/(Jenny Islington)
+[08:51:56]ATTACK: loow/(Camile Crafter) has punched cassyjenelle/(Jenny Islington)
+[08:51:58]ATTACK: loow/(Camile Crafter) has punched cassyjenelle/(Jenny Islington)
+[08:51:59]ATTACK: loow/(Camile Crafter) has punched cassyjenelle/(Jenny Islington)
+[08:52:03]ADMIN: cassyjenelle/(Jenny Islington) changed the equipment of cassyjenelle/(Jenny Islington) to strip.
+[08:52:07]ADMIN: cassyjenelle/(Jenny Islington) healed / revived cassyjenelle/(Jenny Islington)
+[08:52:36]ATTACK: loow/(Camile Crafter) attacked cassyjenelle/(Jenny Islington) with Broken Bottle (INTENT: HURT) (DAMTYE: BRUTE)
+[08:52:44]ATTACK: loow/(Camile Crafter) attacked cassyjenelle/(Jenny Islington) with Broken Bottle (INTENT: HURT) (DAMTYE: BRUTE)
+[08:52:44]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[08:52:45]ATTACK: loow/(Camile Crafter) attacked cassyjenelle/(Jenny Islington) with Broken Bottle (INTENT: HURT) (DAMTYE: BRUTE)
+[08:52:46]ATTACK: loow/(Camile Crafter) attacked cassyjenelle/(Jenny Islington) with Broken Bottle (INTENT: HURT) (DAMTYE: BRUTE)
+[08:52:49]ATTACK: loow/(Camile Crafter) attacked cassyjenelle/(Jenny Islington) with Broken Bottle (INTENT: HURT) (DAMTYE: BRUTE)
+[08:52:50]ATTACK: loow/(Camile Crafter) attacked cassyjenelle/(Jenny Islington) with Broken Bottle (INTENT: HURT) (DAMTYE: BRUTE)
+[08:52:50]ATTACK: cassyjenelle/(Jenny Islington) was blocked by loow/(Camile Crafter)
+[08:52:51]ATTACK: loow/(Camile Crafter) attacked cassyjenelle/(Jenny Islington) with Broken Bottle (INTENT: HURT) (DAMTYE: BRUTE)
+[08:52:53]ATTACK: loow/(Camile Crafter) attacked cassyjenelle/(Jenny Islington) with Broken Bottle (INTENT: HURT) (DAMTYE: BRUTE)
+[08:52:53]ATTACK: cassyjenelle/(Jenny Islington) has kicked loow/(Camile Crafter)
+[08:52:54]ATTACK: loow/(Camile Crafter) attacked cassyjenelle/(Jenny Islington) with Broken Bottle (INTENT: HURT) (DAMTYE: BRUTE)
+[08:52:54]ATTACK: cassyjenelle/(Jenny Islington) has punched loow/(Camile Crafter)
+[08:52:55]ATTACK: loow/(Camile Crafter) attacked cassyjenelle/(Jenny Islington) with Broken Bottle (INTENT: HURT) (DAMTYE: BRUTE)
+[08:52:55]ATTACK: cassyjenelle/(Jenny Islington) has punched loow/(Camile Crafter)
+[08:52:57]ATTACK: loow/(Camile Crafter) attacked cassyjenelle/(Jenny Islington) with Broken Bottle (INTENT: HURT) (DAMTYE: BRUTE)
+[08:52:57]ATTACK: cassyjenelle/(Jenny Islington) was blocked by loow/(Camile Crafter)
+[08:52:58]ATTACK: loow/(Camile Crafter) attacked cassyjenelle/(Jenny Islington) with Broken Bottle (INTENT: HURT) (DAMTYE: BRUTE)
+[08:52:58]ATTACK: cassyjenelle/(Jenny Islington) has punched loow/(Camile Crafter)
+[08:52:59]ATTACK: cassyjenelle/(Jenny Islington) was blocked by loow/(Camile Crafter)
+[08:52:59]ATTACK: loow/(Camile Crafter) attacked cassyjenelle/(Jenny Islington) with Broken Bottle (INTENT: HURT) (DAMTYE: BRUTE)
+[08:53:02]EMOTE: Jenny Islington/cassyjenelle : <B>Jenny Islington</B> gasps!
+[08:53:04]ADMIN: cassyjenelle/(Jenny Islington) healed / revived cassyjenelle/(Jenny Islington)
+[08:53:05]ATTACK: loow/(Camile Crafter) attacked cassyjenelle/(Jenny Islington) with Broken Bottle (INTENT: HURT) (DAMTYE: BRUTE)
+[08:53:07]ATTACK: loow/(Camile Crafter) attacked cassyjenelle/(Jenny Islington) with Broken Bottle (INTENT: HURT) (DAMTYE: BRUTE)
+[08:53:08]ATTACK: loow/(Camile Crafter) attacked cassyjenelle/(Jenny Islington) with Broken Bottle (INTENT: HURT) (DAMTYE: BRUTE)
+[08:53:09]ADMIN: cassyjenelle/(Jenny Islington) healed / revived loow/(Camile Crafter)
+[08:53:09]ATTACK: loow/(Camile Crafter) attacked cassyjenelle/(Jenny Islington) with Broken Bottle (INTENT: HURT) (DAMTYE: BRUTE)
+[08:53:10]ATTACK: cassyjenelle/(Jenny Islington) has punched loow/(Camile Crafter)
+[08:53:13]ATTACK: loow/(Camile Crafter) attacked cassyjenelle/(Jenny Islington) with Broken Bottle (INTENT: HURT) (DAMTYE: BRUTE)
+[08:53:14]ATTACK: cassyjenelle/(Jenny Islington) has punched loow/(Camile Crafter)
+[08:53:14]ATTACK: loow/(Camile Crafter) attacked cassyjenelle/(Jenny Islington) with Broken Bottle (INTENT: HURT) (DAMTYE: BRUTE)
+[08:53:15]ATTACK: cassyjenelle/(Jenny Islington) has missed loow/(Camile Crafter)
+[08:53:15]ATTACK: loow/(Camile Crafter) attacked cassyjenelle/(Jenny Islington) with Broken Bottle (INTENT: HURT) (DAMTYE: BRUTE)
+[08:53:16]ATTACK: cassyjenelle/(Jenny Islington) has punched loow/(Camile Crafter)
+[08:53:16]ATTACK: loow/(Camile Crafter) attacked cassyjenelle/(Jenny Islington) with Broken Bottle (INTENT: HURT) (DAMTYE: BRUTE)
+[08:53:17]ATTACK: cassyjenelle/(Jenny Islington) has punched loow/(Camile Crafter)
+[08:53:18]ATTACK: loow/(Camile Crafter) attacked cassyjenelle/(Jenny Islington) with Broken Bottle (INTENT: HURT) (DAMTYE: BRUTE)
+[08:53:19]ATTACK: cassyjenelle/(Jenny Islington) has  loow/(Camile Crafter)
+[08:53:19]ATTACK: loow/(Camile Crafter) attacked cassyjenelle/(Jenny Islington) with Broken Bottle (INTENT: HURT) (DAMTYE: BRUTE)
+[08:53:19]SAY: grey baby slime (409)/ : Rawr...
+[08:53:19]EMOTE: Ian/ : <B>Ian</B> dances around
+[08:53:20]ATTACK: loow/(Camile Crafter) attacked cassyjenelle/(Jenny Islington) with Broken Bottle (INTENT: HURT) (DAMTYE: BRUTE)
+[08:53:21]ATTACK: cassyjenelle/(Jenny Islington) has punched loow/(Camile Crafter)
+[08:53:21]ATTACK: loow/(Camile Crafter) attacked cassyjenelle/(Jenny Islington) with Broken Bottle (INTENT: HURT) (DAMTYE: BRUTE)
+[08:53:23]ATTACK: loow/(Camile Crafter) attacked cassyjenelle/(Jenny Islington) with Broken Bottle (INTENT: HURT) (DAMTYE: BRUTE)
+[08:53:23]SAY: kitten/ : Purr!
+[08:53:24]ATTACK: loow/(Camile Crafter) attacked cassyjenelle/(Jenny Islington) with Broken Bottle (INTENT: HURT) (DAMTYE: BRUTE)
+[08:53:27]ADMIN: cassyjenelle/(Jenny Islington) healed / revived cassyjenelle/(Jenny Islington)
+[08:53:27]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[08:53:40]ATTACK: loow/(Camile Crafter) attacked cassyjenelle/(Jenny Islington) with knife (INTENT: HURT) (DAMTYE: BRUTE)
+[08:53:44]ADMIN: cassyjenelle/(Jenny Islington) healed / revived cassyjenelle/(Jenny Islington)
+[08:53:47]ATTACK: loow/(Camile Crafter) attacked cassyjenelle/(Jenny Islington) with knife (INTENT: HURT) (DAMTYE: BRUTE)
+[08:53:53]EMOTE: crab/ : <B>The crab</B> clacks.
+[08:54:09]ATTACK: loow/(Camile Crafter) attacked cassyjenelle/(Jenny Islington) with knife (INTENT: HURT) (DAMTYE: BRUTE)
+[08:54:10]ADMIN: cassyjenelle/(Jenny Islington) jumped to 191,74,2 in the Centcom Living Quarters
+[08:54:22]SAY: kitten/ : Esp!
+[08:54:24]ADMIN: cassyjenelle/(Jenny Islington) jumped to 206,74,2 in the Centcom Living Quarters
+[08:54:27]ADMIN: cassyjenelle/(Jenny Islington) healed / revived cassyjenelle/(Jenny Islington)
+[08:54:30]SAY: cat/ : HSSSSS
+[08:54:35]ACCESS: Logout: *no key*/(Jenny Islington)
+[08:54:35]ACCESS: Login: cassyjenelle/(Jenny Islington) from 127.0.0.1-1964287214 || BYOND v506
+[08:54:38]ATTACK: loow/(Camile Crafter) has punched loow/(Camile Crafter)
+[08:54:39]ATTACK: loow/(Camile Crafter) has punched loow/(Camile Crafter)
+[08:54:41]ATTACK: loow/(Camile Crafter) has punched loow/(Camile Crafter)
+[08:54:42]ATTACK: loow/(Camile Crafter) has punched loow/(Camile Crafter)
+[08:54:43]ADMIN: cassyjenelle/(Jenny Islington) allowed cassyjenelle/(Jenny Islington) to bypass the 30 minute respawn limit
+[08:54:43]ATTACK: loow/(Camile Crafter) has punched loow/(Camile Crafter)
+[08:54:44]ATTACK: loow/(Camile Crafter) has punched loow/(Camile Crafter)
+[08:54:45]GAME: Jenny Islington/cassyjenelle used abandon mob.
+[08:54:45]ACCESS: Logout: *no key*/(Jenny Islington)
+[08:54:45]ACCESS: Login: cassyjenelle/(new player) from 127.0.0.1-1964287214 || BYOND v506
+[08:54:45]ATTACK: loow/(Camile Crafter) has punched loow/(Camile Crafter)
+[08:54:46]ATTACK: loow/(Camile Crafter) has punched loow/(Camile Crafter)
+[08:54:47]ATTACK: loow/(Camile Crafter) has punched loow/(Camile Crafter)
+[08:54:48]EMOTE: crab/ : <B>The crab</B> clicks.
+[08:54:48]ATTACK: loow/(Camile Crafter) has punched loow/(Camile Crafter)
+[08:54:49]ATTACK: loow/(Camile Crafter) has punched loow/(Camile Crafter)
+[08:54:52]ATTACK: loow/(Camile Crafter) has punched loow/(Camile Crafter)
+[08:54:52]ATTACK: loow/(Camile Crafter) has punched loow/(Camile Crafter)
+[08:54:53]ATTACK: loow/(Camile Crafter) has punched loow/(Camile Crafter)
+[08:54:54]ACCESS: Logout: *no key*/(new player)
+[08:54:54]ACCESS: Login: cassyjenelle/(Camile Crafter) from 127.0.0.1-1964287214 || BYOND v506
+[08:54:54]ATTACK: loow/(Camile Crafter) has punched loow/(Camile Crafter)
+[08:54:56]ATTACK: loow/(Camile Crafter) has punched loow/(Camile Crafter)
+[08:55:07]ACCESS: Logout: *no key*/(Camile Crafter)
+[08:55:07]ACCESS: Login: cassyjenelle/(Camile Crafter) from 127.0.0.1-1964287214 || BYOND v506
+[08:55:09]ADMIN: cassyjenelle/(Camile Crafter) allowed cassyjenelle/(Camile Crafter) to bypass the 30 minute respawn limit
+[08:55:11]GAME: Camile Crafter/cassyjenelle used abandon mob.
+[08:55:11]ACCESS: Logout: *no key*/(Camile Crafter)
+[08:55:11]ACCESS: Login: cassyjenelle/(new player) from 127.0.0.1-1964287214 || BYOND v506
+[08:55:18]ACCESS: Logout: *no key*/(new player)
+[08:55:18]ACCESS: Login: cassyjenelle/(Camile Crafter) from 127.0.0.1-1964287214 || BYOND v506
+[08:55:20]SAY: grey baby slime (409)/ : Blop...
+[08:55:36]EMOTE: crab/ : <B>The crab</B> clacks.
+[08:55:51]EMOTE: Unknown (as Camile Crafter)/loow : <B>Unknown (as Camile Crafter)</B> is having trouble keeping their eyes open.
+[08:55:56]ATTACK: loow/(Camile Crafter) has punched loow/(Camile Crafter)
+[08:56:01]ACCESS: Logout: *no key*/(Camile Crafter)
+[08:56:01]ACCESS: Login: cassyjenelle/(Camile Crafter) from 127.0.0.1-1964287214 || BYOND v506
+[08:56:01]DEBUG: Next event of severity Mundane in 12.796 minutes.
+[08:56:01]DEBUG: Starting event 'Economic News' of severity Mundane.
+[08:56:11]ACCESS: Logout: *no key*/(Camile Crafter)
+[08:56:11]ACCESS: Login: cassyjenelle/(Camile Crafter) from 127.0.0.1-1964287214 || BYOND v506
+[08:56:14]GAME: <a href='?priv_msg=[0x5000001]'>loow</a>/(Camile Crafter) has ghosted.
+[08:56:14]ACCESS: Logout: *no key*/(Camile Crafter)
+[08:56:14]ACCESS: Login: loow/(Camile Crafter) from 198.217.29.10-1390676264 || BYOND v506
+[08:56:17]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[08:56:18]ADMIN: cassyjenelle/(Camile Crafter) allowed loow/(Camile Crafter) to bypass the 30 minute respawn limit
+[08:56:19]EMOTE: Parrot/ : <B>The Parrot</B> squawks.
+[08:56:19]GAME: Camile Crafter/loow used abandon mob.
+[08:56:19]ACCESS: Logout: *no key*/(Camile Crafter)
+[08:56:19]ACCESS: Login: loow/(new player) from 198.217.29.10-1390676264 || BYOND v506
+[08:56:21]ACCESS: Logout: *no key*/(Camile Crafter)
+[08:56:21]ACCESS: Login: cassyjenelle/(Camile Crafter) from 127.0.0.1-1964287214 || BYOND v506
+[08:56:25]ACCESS: Logout: *no key*/(new player)
+[08:56:25]ACCESS: Login: loow/(Colten Jones) from 198.217.29.10-1390676264 || BYOND v506
+[08:56:27]ADMIN: cassyjenelle/(Camile Crafter) allowed cassyjenelle/(Camile Crafter) to bypass the 30 minute respawn limit
+[08:56:33]GAME: Camile Crafter/cassyjenelle used abandon mob.
+[08:56:33]ACCESS: Logout: *no key*/(Camile Crafter)
+[08:56:33]ACCESS: Login: cassyjenelle/(new player) from 127.0.0.1-1964287214 || BYOND v506
+[08:56:33]GAME: <a href='?priv_msg=[0x5000001]'>loow</a>/(Colten Jones) has ghosted.
+[08:56:33]ACCESS: Logout: *no key*/(Colten Jones)
+[08:56:33]ACCESS: Login: loow/(Colten Jones) from 198.217.29.10-1390676264 || BYOND v506
+[08:56:45]EMOTE: crab/ : <B>The crab</B> clacks.
+[08:56:47]ACCESS: Logout: *no key*/(new player)
+[08:56:47]ACCESS: Login: cassyjenelle/(Darin Shupe) from 127.0.0.1-1964287214 || BYOND v506
+[08:56:51]EMOTE: Unknown (as Camile Crafter)/ : <B>Unknown (as Camile Crafter)</B> 's body becomes limp.
+[08:57:23]EMOTE: Ian/ : <B>Ian</B> dances around
+[08:57:53]ACCESS: Logout: loow/(Colten Jones)
+[08:58:28]EMOTE: kitten/ : <B>The kitten</B> mews.
+[08:58:28]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[08:58:56]EMOTE: Parrot/ : <B>The Parrot</B> bawks.
+[08:59:49]EMOTE: Unknown (as Camile Crafter)/ : <B>Unknown (as Camile Crafter)</B> can no longer stand, collapsing!
+[09:00:17]EMOTE: Ian/ : <B>Ian</B> dances around
+[09:00:23]EMOTE: Ian/ : <B>Ian</B> shivers.
+[09:00:23]SAY: cat/ : Meow!
+[09:00:25]EMOTE: crab/ : <B>The crab</B> clacks.
+[09:01:07]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[09:01:07]EMOTE: Unknown (as Camile Crafter)/ : <B>Unknown (as Camile Crafter)</B> gasps!
+[09:01:45]EMOTE: cat/ : <B>The cat</B> mews.
+[09:01:45]EMOTE: Unknown (as Camile Crafter)/ : <B>Unknown (as Camile Crafter)</B> gasps!
+[09:02:06]EMOTE: Unknown (as Camile Crafter)/ : <B>Unknown (as Camile Crafter)</B> gasps!
+[09:02:26]EMOTE: Unknown (as Camile Crafter)/ : <B>Unknown (as Camile Crafter)</B> gasps!
+[09:02:30]EMOTE: Unknown (as Camile Crafter)/ : <B>Unknown (as Camile Crafter)</B> gasps!
+[09:02:32]EMOTE: Unknown (as Camile Crafter)/ : <B>Unknown (as Camile Crafter)</B> gasps!
+[09:02:44]EMOTE: Unknown (as Camile Crafter)/ : <B>Unknown (as Camile Crafter)</B> gasps!
+[09:02:50]EMOTE: Unknown (as Camile Crafter)/ : <B>Unknown (as Camile Crafter)</B> gasps!
+[09:02:52]EMOTE: Unknown (as Camile Crafter)/ : <B>Unknown (as Camile Crafter)</B> gasps!
+[09:03:14]ACCESS: Logout: cassyjenelle/(Darin Shupe)
+
+
+Starting up. 14:31.47
+---------------------
+[14:31:51]ADMIN: Loading jobban_rank
+[14:31:51]ADMIN: jobban_keylist was empty
+[14:31:51]ADMIN: Loading Banlist
+[14:31:52]DEBUG: Rebuilding Master Controller
+[14:32:10]ACCESS: Login: Cassy_jenelle/(Cassy_jenelle) from 127.0.0.1-1964287214 || BYOND v506
+[14:33:13]ADMIN: Cassy_jenelle has started the game.
+[14:33:14]ACCESS: Logout: *no key*/(Cassy_jenelle)
+[14:33:14]ACCESS: Login: Cassy_jenelle/(Malachi Jackson) from 127.0.0.1-1964287214 || BYOND v506
+[14:33:23]DEBUG: Next event of severity Mundane in 14.754 minutes.
+[14:33:23]DEBUG: Next event of severity Moderate in 51.33 minutes.
+[14:33:23]DEBUG: Next event of severity Major in 86.23 minutes.
+[14:33:29]SAY: mouse (942)/ : SQUEEK!
+[14:33:57]EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[14:33:59]EMOTE: mouse (879)/ : <B>The mouse (879)</B> squeeks.
+[14:34:02]ACCESS: Logout: *no key*/(Malachi Jackson)
+[14:34:02]ACCESS: Login: Cassy_jenelle/(Malachi Jackson) from 127.0.0.1-1964287214 || BYOND v506
+[14:34:06]SAY: mouse (942)/ : SQUEEK!
+[14:34:09]ADMIN: Cassy_jenelle/(Malachi Jackson) deleted Malachi Jackson at (254,96,2)
+[14:34:13]ADMIN: Cassy_jenelle/(Malachi Jackson) deleted Malachi Jackson at (254,96,2)
+[14:34:26]ADMIN: Cassy_jenelle/(Malachi Jackson) allowed Cassy_jenelle/(Malachi Jackson) to bypass the 30 minute respawn limit
+[14:34:28]GAME: Malachi Jackson/Cassy_jenelle used abandon mob.
+[14:34:28]ACCESS: Logout: *no key*/(Malachi Jackson)
+[14:34:28]ACCESS: Login: Cassy_jenelle/(new player) from 127.0.0.1-1964287214 || BYOND v506
+[14:34:30]EMOTE: mouse (879)/ : <B>The mouse (879)</B> squeaks.
+[14:34:40]EMOTE: Tom (286)/ : <B>Tom (286)</B> squeeks.
+[14:35:20]EMOTE: Ian/ : <B>Ian</B> dances around
+[14:35:39]SAY: kitten/ : Esp!
+[14:35:41]ACCESS: Login: JohnnyMnemonic/(JohnnyMnemonic) from 93.137.100.7-1873374081 || BYOND v506
+[14:35:45]ACCESS: Logout: *no key*/(new player)
+[14:35:45]ACCESS: Login: Cassy_jenelle/(Camile Crafter) from 127.0.0.1-1964287214 || BYOND v506
+[14:35:52]OOC: JohnnyMnemonic/JohnnyMnemonic : meow
+[14:35:56]OOC: Camile Crafter/Cassy_jenelle : hi
+[14:35:58]OOC: Camile Crafter/Cassy_jenelle : so
+[14:36:05]OOC: Camile Crafter/Cassy_jenelle : check if spawning works &lt;3
+[14:36:49]SAY: mouse (723)/ : SQUEEK!
+[14:37:03]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[14:37:29]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[14:37:34]OOC: JohnnyMnemonic/JohnnyMnemonic : i join as anything?
+[14:37:50]OOC: Camile Crafter/Cassy_jenelle : Anything is fine. Joining as Morgana is fine too.
+[14:38:30]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[14:38:48]ACCESS: Logout: *no key*/(JohnnyMnemonic)
+[14:38:48]ACCESS: Login: JohnnyMnemonic/(Borgana Splatic) from 93.137.100.7-1873374081 || BYOND v506
+[14:39:05]OOC: (LOCAL) Borgana Splatic/JohnnyMnemonic : i&#39;m a spy, uuuu
+[14:39:21]OOC: (LOCAL) Camile Crafter/Cassy_jenelle : So!
+[14:39:30]OOC: (LOCAL) Camile Crafter/Cassy_jenelle : This is the OOC room. We spawn on the shuttle there.
+[14:39:39]OOC: (LOCAL) Camile Crafter/Cassy_jenelle : And we uh
+[14:39:39]OOC: (LOCAL) Borgana Splatic/JohnnyMnemonic : is that where you want people to spawn?
+[14:39:44]OOC: (LOCAL) Borgana Splatic/JohnnyMnemonic : oh, sweet
+[14:39:45]EMOTE: Ian/ : <B>Ian</B> dances around
+[14:39:53]OOC: (LOCAL) Camile Crafter/Cassy_jenelle : Yes, we spawn here. Find our IC clothes and prep up
+[14:39:56]OOC: (LOCAL) Camile Crafter/Cassy_jenelle : And we leave.
+[14:40:28]SAY: mouse (723)/ : Squeek!
+[14:40:36]EMOTE: crab/ : <B>The crab</B> clicks.
+[14:40:44]SAY: Camile Crafter/Cassy_jenelle : It&#39;s okay, you can totally get undressed in front of me.
+[14:40:53]SAY: Borgana Splatic/JohnnyMnemonic : lies
+[14:40:55]SAY: Camile Crafter/Cassy_jenelle : Looks nice on you.
+[14:40:58]SAY: grey baby slime (338)/ : Lonely...
+[14:41:02]SAY: Borgana Splatic/JohnnyMnemonic : really? thanks
+[14:41:04]EMOTE: Camile Crafter/Cassy_jenelle : <B>Camile Crafter</B> waggles her eyebrows.
+[14:41:08]SAY: Camile Crafter/Cassy_jenelle : This way.
+[14:41:11]SAY: Borgana Splatic/JohnnyMnemonic : never was one for dresses
+[14:41:20]EMOTE: mouse (723)/ : <B>The mouse (723)</B> squeeks.
+[14:41:30]OOC: (LOCAL) Camile Crafter/Cassy_jenelle : This is an IC area now.
+[14:41:33]OOC: (LOCAL) Borgana Splatic/JohnnyMnemonic : shit moves fast
+[14:41:41]EMOTE: Ian/ : <B>Ian</B> barks.
+[14:42:05]SAY: grey baby slime (956)/ : Rawr...
+[14:42:10]SAY: Camile Crafter/Cassy_jenelle : Oh shit.
+[14:42:12]SAY: Camile Crafter/Cassy_jenelle : Igam&#39;s house.
+[14:42:16]SAY: Borgana Splatic/JohnnyMnemonic : something the issue?
+[14:42:29]SAY: grey baby slime (338)/ : Blorble...
+[14:42:30]SAY: Camile Crafter/Cassy_jenelle : That&#39;s their garden.
+[14:42:30]SAY: Borgana Splatic/JohnnyMnemonic : sweet
+[14:42:33]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[14:42:37]SAY: kitten/ : Purr!
+[14:42:42]SAY: Camile Crafter/Cassy_jenelle : The bathroom.
+[14:42:47]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[14:42:51]EMOTE: Ian/ : <B>Ian</B> yaps.
+[14:42:51]EMOTE: Ian/ : <B>Ian</B> dances around
+[14:42:57]SAY: Borgana Splatic/JohnnyMnemonic : hah, sorry
+[14:42:58]SAY: Camile Crafter/Cassy_jenelle : See...
+[14:42:58]SAY: Parrot/ : BAWWWWK george mellons griffing me
+[14:43:17]SAY: Borgana Splatic/JohnnyMnemonic : woah, sweet
+[14:43:39]SAY: Camile Crafter/Cassy_jenelle : Their bedroom.
+[14:43:42]EMOTE: Ian/ : <B>Ian</B> yaps.
+[14:43:51]SAY: Borgana Splatic/JohnnyMnemonic : bunny slippers?
+[14:44:01]SAY: Borgana Splatic/JohnnyMnemonic : i have a hard time imagining Igam with these...
+[14:44:09]EMOTE: Borgana Splatic/JohnnyMnemonic : <B>Borgana Splatic</B> puckers her lips out
+[14:44:14]SAY: grey baby slime (338)/ : Blop...
+[14:44:16]SAY: Camile Crafter/Cassy_jenelle : The TV is functional too.
+[14:44:27]SAY: Camile Crafter/Cassy_jenelle : Thunderdome&#39;s on. Heeeey!
+[14:44:36]EMOTE: Borgana Splatic/JohnnyMnemonic : <B>Borgana Splatic</B> does noises with her lips
+[14:44:38]SAY: Runtime/ : Esp!
+[14:44:45]SAY: Borgana Splatic/JohnnyMnemonic : makeup is weird
+[14:44:49]EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[14:44:50]SAY: Camile Crafter/Cassy_jenelle : I know right?
+[14:44:59]OOC: (LOCAL) Camile Crafter/Cassy_jenelle : Check out the TV.
+[14:45:05]SAY: Borgana Splatic/JohnnyMnemonic : now that&#39;s something i can see Igam in
+[14:45:39]SAY: Borgana Splatic/JohnnyMnemonic : mmmm...looks comfortable
+[14:45:43]EMOTE: crab/ : <B>The crab</B> clacks.
+[14:45:55]SAY: Parrot/ : BAWWWWK george mellons griffing me
+[14:45:57]SAY: Camile Crafter/Cassy_jenelle : Oh god.
+[14:46:02]SAY: Borgana Splatic/JohnnyMnemonic : uh...
+[14:46:05]SAY: Parrot/ : BAWWWWK george mellons griffing me
+[14:46:15]ATTACK: Cassy_jenelle/(Camile Crafter) attacked JohnnyMnemonic/(Borgana Splatic) with whip (INTENT: HELP) (DAMTYE: BRUTE)
+[14:46:16]SAY: Borgana Splatic/JohnnyMnemonic : i am...
+[14:46:19]SAY: Borgana Splatic/JohnnyMnemonic : ack!
+[14:46:22]ATTACK: Cassy_jenelle/(Camile Crafter) attacked Cassy_jenelle/(Camile Crafter) with whip (INTENT: HELP) (DAMTYE: BRUTE)
+[14:46:23]EMOTE: crab/ : <B>The crab</B> clicks.
+[14:46:29]SAY: Borgana Splatic/JohnnyMnemonic : right...
+[14:46:30]SAY: Camile Crafter/Cassy_jenelle : ...
+[14:46:42]SAY: Borgana Splatic/JohnnyMnemonic : i&#39;m gonna assume this is the guest room
+[14:46:51]SAY: Camile Crafter/Cassy_jenelle : You think so...?
+[14:46:53]EMOTE: Borgana Splatic/JohnnyMnemonic : <B>Borgana Splatic</B> akwardly looks away
+[14:47:01]SAY: Borgana Splatic/JohnnyMnemonic : sure...
+[14:47:09]SAY: Borgana Splatic/JohnnyMnemonic : i don&#39;t wanna think about it too hard
+[14:47:26]EMOTE: Ian/ : <B>Ian</B> dances around
+[14:47:32]SAY: Borgana Splatic/JohnnyMnemonic : huh, cozy
+[14:47:42]SAY: Camile Crafter/Cassy_jenelle : Nice house eh?
+[14:47:42]SAY: Ian/ : YAP
+[14:47:46]EMOTE: Runtime/ : <B>Runtime</B> meows.
+[14:47:50]SAY: Experiment 97d/ : Eh?
+[14:48:02]SAY: Experiment 97d/ : Eh?
+[14:48:04]SAY: Borgana Splatic/JohnnyMnemonic : yea
+[14:48:08]SAY: grey baby slime (338)/ : Rawr...
+[14:48:09]SAY: Borgana Splatic/JohnnyMnemonic : can&#39;t wait to see more
+[14:48:40]SAY: Camile Crafter/Cassy_jenelle : Anatu&#39;s home, I think.
+[14:48:45]SAY: Borgana Splatic/JohnnyMnemonic : always imagined Igam&#39;s place would have a huge room filled with drinks
+[14:48:54]SAY: Camile Crafter/Cassy_jenelle : It is when they&#39;re there.
+[14:48:59]SAY: Camile Crafter/Cassy_jenelle : But it&#39;s mostly filled with sex.
+[14:49:05]EMOTE: Borgana Splatic/JohnnyMnemonic : <B>Borgana Splatic</B> chucles
+[14:49:30]SAY: Borgana Splatic/JohnnyMnemonic : nice
+[14:49:31]DEBUG: Next event of severity Mundane in 14.844 minutes.
+[14:49:31]DEBUG: Starting event 'Vermin Infestation' of severity Mundane.
+[14:49:31]SAY: kitten/ : HSSSSS
+[14:49:38]SAY: mouse (519)/ : Squeek!
+[14:49:48]SAY: Camile Crafter/Cassy_jenelle : Ah, her place where she keeps her robot bits.
+[14:49:55]DEBUG: Event 'Vermin Infestation' has completed at 12:15.
+[14:49:55]EMOTE: mouse (574)/ : <B>The mouse (574)</B> scritches at something.
+[14:49:59]SAY: Borgana Splatic/JohnnyMnemonic : hm, a professional to a fault
+[14:49:59]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[14:50:14]SAY: Camile Crafter/Cassy_jenelle : That&#39;s about it for this apartment complex. Wanna see my house?
+[14:50:15]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[14:50:17]EMOTE: Parrot/ : <B>The Parrot</B> turns and flies towards the deck of cards
+[14:50:20]SAY: Borgana Splatic/JohnnyMnemonic : do i?
+[14:50:24]SAY: Camile Crafter/Cassy_jenelle : Yes, you do.
+[14:50:37]SAY: Borgana Splatic/JohnnyMnemonic : hell yea
+[14:50:41]SAY: Camile Crafter/Cassy_jenelle : Oh wait.
+[14:50:46]SAY: Camile Crafter/Cassy_jenelle : This is Charlie&#39;s mansion.
+[14:50:51]SAY: Camile Crafter/Cassy_jenelle : You can see this place anyway.
+[14:50:53]SAY: Borgana Splatic/JohnnyMnemonic : bwaak
+[14:50:59]SAY: mouse (256)/ : Squeek?
+[14:51:02]EMOTE: crab/ : <B>The crab</B> clicks.
+[14:51:03]SAY: Camile Crafter/Cassy_jenelle : This rich bitch.
+[14:51:04]SAY: Runtime/ : Esp!
+[14:51:20]OOC: (LOCAL) Camile Crafter/Cassy_jenelle : How&#39;s it?
+[14:51:28]OOC: (LOCAL) Borgana Splatic/JohnnyMnemonic : impressive
+[14:51:31]SAY: Camile Crafter/Cassy_jenelle : Her study.
+[14:51:38]SAY: mouse (766)/ : Squeek!
+[14:51:44]EMOTE: mouse (766)/ : <B>The mouse (766)</B> squeaks.
+[14:51:44]SAY: Camile Crafter/Cassy_jenelle : Her big ass bathroom.
+[14:51:48]OOC: (LOCAL) Borgana Splatic/JohnnyMnemonic : i was expecting resident evil/scarface mansion lol
+[14:51:59]OOC: (LOCAL) Camile Crafter/Cassy_jenelle : She asked for a clean layout XD
+[14:52:00]SAY: Borgana Splatic/JohnnyMnemonic : tsk
+[14:52:06]EMOTE: mouse (574)/ : <B>The mouse (574)</B> squeaks.
+[14:52:08]SAY: kitten/ : HSSSSS
+[14:52:10]EMOTE: crab/ : <B>The crab</B> clacks.
+[14:52:18]SAY: mouse (941)/ : SQUEEK!
+[14:52:20]OOC: (LOCAL) Borgana Splatic/JohnnyMnemonic : it&#39;s good job picking tiles
+[14:52:24]OOC: (LOCAL) Borgana Splatic/JohnnyMnemonic : perfect choice
+[14:52:38]EMOTE: mouse (574)/ : <B>The mouse (574)</B> squeeks.
+[14:52:48]SAY: Borgana Splatic/JohnnyMnemonic : that&#39;s just showing off
+[14:52:52]EMOTE: mouse (585)/ : <B>The mouse (585)</B> shakes.
+[14:52:54]EMOTE: Parrot/ : <B>The Parrot</B> squawks.
+[14:52:56]SAY: Camile Crafter/Cassy_jenelle : I know right?
+[14:52:58]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[14:53:08]EMOTE: Ian/ : <B>Ian</B> yaps.
+[14:53:10]SAY: mouse (450)/ : Squeek?
+[14:53:12]SAY: Borgana Splatic/JohnnyMnemonic : woah
+[14:53:12]EMOTE: mouse (650)/ : <B>The mouse (650)</B> runs in a circle.
+[14:53:15]SAY: Camile Crafter/Cassy_jenelle : Unless she has a legion of chefs she don&#39;t need a house this big.
+[14:53:24]EMOTE: mouse (585)/ : <B>The mouse (585)</B> shakes.
+[14:53:26]SAY: Camile Crafter/Cassy_jenelle : This rich bitch.
+[14:53:26]SAY: Borgana Splatic/JohnnyMnemonic : i know, right?!
+[14:53:42]SAY: Borgana Splatic/JohnnyMnemonic : she has a chef worthy kitchen
+[14:53:46]SAY: Camile Crafter/Cassy_jenelle : No shit.
+[14:54:07]EMOTE: mouse (450)/ : <B>The mouse (450)</B> squeaks.
+[14:54:11]SAY: Ian/ : YAP
+[14:54:12]SAY: Camile Crafter/Cassy_jenelle : Syrus Seto&#39;s home.
+[14:54:19]SAY: cat/ : Purr!
+[14:54:19]SAY: Borgana Splatic/JohnnyMnemonic : S-syrus?
+[14:54:25]OOC: (LOCAL) Camile Crafter/Cassy_jenelle : He mapped this himself.
+[14:54:29]SAY: Borgana Splatic/JohnnyMnemonic : oh----i gotta see this
+[14:54:31]EMOTE: mouse (450)/ : <B>The mouse (450)</B> squiks.
+[14:54:33]SAY: Camile Crafter/Cassy_jenelle : Small-ass shower.
+[14:54:38]SAY: Borgana Splatic/JohnnyMnemonic : spartan-esque
+[14:54:43]SAY: Camile Crafter/Cassy_jenelle : He&#39;s so efficient and practical.
+[14:54:47]SAY: Camile Crafter/Cassy_jenelle : Bet he&#39;s stingy too.
+[14:54:49]SAY: Borgana Splatic/JohnnyMnemonic : with no toilets
+[14:54:55]OOC: (LOCAL) Camile Crafter/Cassy_jenelle : Lel
+[14:54:58]SAY: Borgana Splatic/JohnnyMnemonic : and a sea outside
+[14:55:02]OOC: (LOCAL) Camile Crafter/Cassy_jenelle : I should add them in for him.
+[14:55:14]SAY: Borgana Splatic/JohnnyMnemonic : of course
+[14:55:20]EMOTE: cat/ : <B>The cat</B> meows.
+[14:55:21]EMOTE: Camile Crafter/Cassy_jenelle : <B>Camile Crafter</B> shakes her head.
+[14:55:24]SAY: Camile Crafter/Cassy_jenelle : To be expected.
+[14:55:27]SAY: Borgana Splatic/JohnnyMnemonic : i should have called it
+[14:55:36]SAY: Camile Crafter/Cassy_jenelle : Imagine if he sleepwalks and shoots himself?
+[14:55:38]EMOTE: Camile Crafter/Cassy_jenelle : <B>Camile Crafter</B> chuckles.
+[14:55:39]SAY: Borgana Splatic/JohnnyMnemonic : and corporate regulations?
+[14:55:42]EMOTE: mouse (941)/ : <B>The mouse (941)</B> shakes.
+[14:55:47]EMOTE: Borgana Splatic/JohnnyMnemonic : <B>Borgana Splatic</B> chuckles
+[14:55:48]EMOTE: Parrot/ : <B>The Parrot</B> flutters its wings.
+[14:55:54]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[14:55:57]SAY: Camile Crafter/Cassy_jenelle : A smoking pipe.
+[14:56:02]SAY: Borgana Splatic/JohnnyMnemonic : do you think he ever gets lonely?
+[14:56:10]SAY: Camile Crafter/Cassy_jenelle : Yeah, must be a shut in.
+[14:56:32]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[14:56:32]SAY: Camile Crafter/Cassy_jenelle : Ah!
+[14:56:40]SAY: Camile Crafter/Cassy_jenelle : This is Jamison&#39;s place.
+[14:56:51]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[14:56:53]EMOTE: mouse (450)/ : <B>The mouse (450)</B> shakes.
+[14:56:55]OOC: (LOCAL) Borgana Splatic/JohnnyMnemonic : lol i am canon living with Jamison
+[14:57:02]OOC: (LOCAL) Camile Crafter/Cassy_jenelle : Hah, memorize it then.
+[14:57:05]SAY: mouse (450)/ : Squeek!
+[14:57:07]OOC: (LOCAL) Borgana Splatic/JohnnyMnemonic : i totally know this cough cough
+[14:57:07]SAY: Camile Crafter/Cassy_jenelle : Bedroom here.
+[14:57:20]SAY: Camile Crafter/Cassy_jenelle : Oh look, why does he have binoculars in his room?
+[14:57:29]SAY: Borgana Splatic/JohnnyMnemonic : huh, strange
+[14:57:32]OOC: (LOCAL) Camile Crafter/Cassy_jenelle : If you need things added into the wardrobe or Morgana&#39;s stuff, just ask.
+[14:57:40]SAY: Camile Crafter/Cassy_jenelle : Wonder what that perv uses them for.
+[14:57:41]OOC: (LOCAL) Borgana Splatic/JohnnyMnemonic : sure, thinking about it
+[14:57:51]EMOTE: Ian/ : <B>Ian</B> dances around
+[14:58:11]SAY: Camile Crafter/Cassy_jenelle : Eek!
+[14:58:15]SAY: Borgana Splatic/JohnnyMnemonic : you ok there?
+[14:58:19]SAY: Camile Crafter/Cassy_jenelle : Y-yeah.
+[14:58:25]EMOTE: Borgana Splatic/JohnnyMnemonic : <B>Borgana Splatic</B> looks at Camile 
+[14:58:30]SAY: Camile Crafter/Cassy_jenelle : Scrub a dub dub!
+[14:58:32]EMOTE: Borgana Splatic/JohnnyMnemonic : <B>Borgana Splatic</B> stares
+[14:58:41]SAY: Borgana Splatic/JohnnyMnemonic : y-yes
+[14:58:50]SAY: grey baby slime (338)/ : Lonely...
+[14:58:55]EMOTE: cat/ : <B>The cat</B> mews.
+[14:59:10]EMOTE: cat/ : <B>The cat</B> shivers.
+[14:59:16]OOC: (LOCAL) Borgana Splatic/JohnnyMnemonic : needs at least one bottled water
+[14:59:25]OOC: (LOCAL) Camile Crafter/Cassy_jenelle : got it
+[14:59:30]EMOTE: mouse (89)/ : <B>The mouse (89)</B> squeaks.
+[14:59:54]SAY: Ian/ : AUUUUUU
+[14:59:55]SAY: Camile Crafter/Cassy_jenelle : Church.
+[15:00:00]SAY: Borgana Splatic/JohnnyMnemonic : holy
+[15:00:00]OOC: (LOCAL) Camile Crafter/Cassy_jenelle : Still not finished but meh
+[15:00:04]EMOTE: Borgana Splatic/JohnnyMnemonic : <B>Borgana Splatic</B> smiles
+[15:00:21]EMOTE: kitten/ : <B>The kitten</B> meows.
+[15:00:27]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[15:00:36]SAY: Camile Crafter/Cassy_jenelle : Hospital.
+[15:00:43]OOC: (LOCAL) Borgana Splatic/JohnnyMnemonic : this is awesome so far
+[15:00:52]OOC: (LOCAL) Borgana Splatic/JohnnyMnemonic : good job, dayum
+[15:01:09]EMOTE: mouse (585)/ : <B>The mouse (585)</B> squeaks.
+[15:01:26]OOC: (LOCAL) Camile Crafter/Cassy_jenelle : So yeah
+[15:01:34]SAY: Borgana Splatic/JohnnyMnemonic : huh, anyone ever got hurt?
+[15:01:34]OOC: (LOCAL) Camile Crafter/Cassy_jenelle : Hospital curtains
+[15:01:44]SAY: Camile Crafter/Cassy_jenelle : Who knows?
+[15:01:53]SAY: Camile Crafter/Cassy_jenelle : It&#39;s good to have a hospital eh?
+[15:02:01]OOC: (LOCAL) Camile Crafter/Cassy_jenelle : This will be good for IC events
+[15:02:05]EMOTE: Ian/ : <B>Ian</B> pants.
+[15:02:05]SAY: Borgana Splatic/JohnnyMnemonic : of course
+[15:02:22]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[15:02:26]EMOTE: Borgana Splatic/JohnnyMnemonic : <B>Borgana Splatic</B> looks at the cloning pods
+[15:02:43]EMOTE: Borgana Splatic/JohnnyMnemonic : <B>Borgana Splatic</B> hides her arms
+[15:02:50]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[15:02:52]SAY: cat/ : Meow!
+[15:02:58]SAY: Runtime/ : Purr!
+[15:03:05]SAY: Camile Crafter/Cassy_jenelle : You can totally admin control and AI in there.
+[15:03:11]OOC: (LOCAL) Camile Crafter/Cassy_jenelle : lel
+[15:03:16]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[15:03:20]EMOTE: mouse (450)/ : <B>The mouse (450)</B> squeeks.
+[15:03:22]OOC: (LOCAL) Borgana Splatic/JohnnyMnemonic : nice
+[15:03:24]SAY: Camile Crafter/Cassy_jenelle : Would you like drugs ma&#39;am?
+[15:03:34]EMOTE: Camile Crafter/Cassy_jenelle : <B>Camile Crafter</B> chuckles.
+[15:03:37]SAY: Borgana Splatic/JohnnyMnemonic : what&#39;re you offerin&#39;?
+[15:03:40]SAY: Parrot/ : Bwaak
+[15:03:45]SAY: Camile Crafter/Cassy_jenelle : Y&#39;know. ~drugs~
+[15:03:45]EMOTE: Borgana Splatic/JohnnyMnemonic : <B>Borgana Splatic</B> grins
+[15:04:04]SAY: Camile Crafter/Cassy_jenelle : Oo, we&#39;ve been there.
+[15:04:14]SAY: Camile Crafter/Cassy_jenelle : Hrm.
+[15:04:17]SAY: Camile Crafter/Cassy_jenelle : Let&#39;s see...
+[15:04:32]EMOTE: cat/ : <B>The cat</B> meows.
+[15:04:48]SAY: Camile Crafter/Cassy_jenelle : Ah!
+[15:04:52]SAY: Camile Crafter/Cassy_jenelle : Beatrix and Nova&#39;s house.
+[15:04:58]SAY: Borgana Splatic/JohnnyMnemonic : ooooo
+[15:05:07]SAY: Borgana Splatic/JohnnyMnemonic : gotta see this
+[15:05:13]EMOTE: mouse (89)/ : <B>The mouse (89)</B> squeaks.
+[15:05:15]SAY: cat/ : Meow!
+[15:05:21]EMOTE: Borgana Splatic/JohnnyMnemonic : <B>Borgana Splatic</B> chuckles
+[15:05:23]SAY: kitten/ : HSSSSS
+[15:05:26]DEBUG: Next event of severity Mundane in 15.022 minutes.
+[15:05:26]DEBUG: Starting event 'Mundane News' of severity Mundane.
+[15:05:43]SAY: Parrot/ : Cracker?
+[15:05:48]DEBUG: Event 'Mundane News' has completed at 12:30.
+[15:05:49]SAY: grey baby slime (338)/ : Blop...
+[15:05:49]SAY: Borgana Splatic/JohnnyMnemonic : oh, that must be something i was&#39;t supposed to notice
+[15:05:58]SAY: Camile Crafter/Cassy_jenelle : Hah.
+[15:05:59]SAY: Runtime/ : Esp!
+[15:06:00]EMOTE: Borgana Splatic/JohnnyMnemonic : <B>Borgana Splatic</B> quietly shuts the closet
+[15:06:33]SAY: Camile Crafter/Cassy_jenelle : My apartment.
+[15:06:39]SAY: Camile Crafter/Cassy_jenelle : ... Is here.
+[15:06:40]SAY: Experiment 97d/ : Eh?
+[15:06:40]SAY: cat/ : Meow!
+[15:06:56]OOC: (LOCAL) Borgana Splatic/JohnnyMnemonic : fish an&#39; chips
+[15:07:01]OOC: (LOCAL) Borgana Splatic/JohnnyMnemonic : very brit of you
+[15:07:06]EMOTE: Ian/ : <B>Ian</B> pants.
+[15:07:08]OOC: (LOCAL) Borgana Splatic/JohnnyMnemonic : lel
+[15:07:13]OOC: (LOCAL) Camile Crafter/Cassy_jenelle : Hah.
+[15:07:37]EMOTE: Borgana Splatic/JohnnyMnemonic : <B>Borgana Splatic</B> looks around curiously inspecting everything
+[15:07:45]SAY: Parrot/ : BAWWWWK george mellons griffing me
+[15:07:46]EMOTE: Camile Crafter/Cassy_jenelle : <B>Camile Crafter</B> puts on her hoodie.
+[15:07:53]SAY: Parrot/ : Cracker?
+[15:08:06]SAY: Borgana Splatic/JohnnyMnemonic : uuu this looks great
+[15:08:13]SAY: Borgana Splatic/JohnnyMnemonic : when&#39;d you win it?
+[15:08:17]SAY: Camile Crafter/Cassy_jenelle : Ages ago.
+[15:08:33]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> shakes its head.
+[15:09:12]EMOTE: Borgana Splatic/JohnnyMnemonic : <B>Borgana Splatic</B> shakes her wet hair
+[15:09:15]EMOTE: kitten/ : <B>The kitten</B> meows.
+[15:09:20]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[15:09:40]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[15:10:00]SAY: Camile Crafter/Cassy_jenelle : Whoops. Too much water.
+[15:10:05]SAY: Camile Crafter/Cassy_jenelle : Oh well.
+[15:10:15]SAY: Ian/ : Woof!
+[15:10:39]SAY: Camile Crafter/Cassy_jenelle : Oh!
+[15:10:41]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[15:10:42]SAY: Camile Crafter/Cassy_jenelle : Forgot something.
+[15:10:44]SAY: Borgana Splatic/JohnnyMnemonic : oh?
+[15:10:45]ACCESS: Login: Nandabun/(Nandabun) from 174.60.128.51-673814417 || BYOND v506
+[15:10:56]SAY: Camile Crafter/Cassy_jenelle : My garden.
+[15:10:57]SAY: Borgana Splatic/JohnnyMnemonic : test
+[15:10:59]SAY: grey baby slime (956)/ : Lonely...
+[15:11:05]SAY: Borgana Splatic/JohnnyMnemonic : hah, comms, sweet
+[15:11:09]SAY: Camile Crafter/Cassy_jenelle : Come check out my garden!
+[15:11:26]EMOTE: Ian/ : <B>Ian</B> shivers.
+[15:11:32]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[15:11:32]EMOTE: Borgana Splatic/JohnnyMnemonic : <B>Borgana Splatic</B> carefully walks around the flowers
+[15:11:40]SAY: Camile Crafter/Cassy_jenelle : Brit water is totally clean.
+[15:11:47]SAY: Borgana Splatic/JohnnyMnemonic : totally
+[15:11:48]SAY: Runtime/ : Purr!
+[15:12:04]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[15:12:06]SAY: Camile Crafter/Cassy_jenelle : Hum
+[15:12:08]SAY: Camile Crafter/Cassy_jenelle : There&#39;s more!
+[15:12:18]SAY: Camile Crafter/Cassy_jenelle : Tryin&#39; to remember where it is...
+[15:12:21]SAY: Borgana Splatic/JohnnyMnemonic : lemmeseelemmesee
+[15:12:24]SAY: Camile Crafter/Cassy_jenelle : It&#39;s near Jamison&#39;s house. The disco.
+[15:12:34]ACCESS: Logout: Nandabun/(Nandabun)
+[15:12:47]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[15:12:48]OOC: (LOCAL) Camile Crafter/Cassy_jenelle : hang on
+[15:12:55]OOC: (LOCAL) Camile Crafter/Cassy_jenelle : sending thundy the link for byond
+[15:12:57]OOC: (LOCAL) Borgana Splatic/JohnnyMnemonic : now to orient ourseles
+[15:13:04]OOC: (LOCAL) Borgana Splatic/JohnnyMnemonic : bleh, grammar
+[15:13:12]OOC: (LOCAL) Borgana Splatic/JohnnyMnemonic : &#39;s for losers
+[15:13:19]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[15:13:31]ACCESS: Logout: *no key*/(Camile Crafter)
+[15:13:31]ACCESS: Login: Cassy_jenelle/(Camile Crafter) from 127.0.0.1-1964287214 || BYOND v506
+[15:13:31]EMOTE: Ian/ : <B>Ian</B> dances around
+[15:13:37]EMOTE: crab/ : <B>The crab</B> clicks.
+[15:13:49]ACCESS: Logout: *no key*/(Camile Crafter)
+[15:13:49]ACCESS: Login: Cassy_jenelle/(Camile Crafter) from 127.0.0.1-1964287214 || BYOND v506
+[15:13:51]SAY: Camile Crafter/Cassy_jenelle : Ah!
+[15:13:58]SAY: Borgana Splatic/JohnnyMnemonic : huh?
+[15:13:59]SAY: Camile Crafter/Cassy_jenelle : The disco&#39;s above Charlie&#39;s house.
+[15:14:11]EMOTE: mouse (450)/ : <B>The mouse (450)</B> shakes.
+[15:14:35]SAY: Borgana Splatic/JohnnyMnemonic : woah
+[15:14:45]SAY: Borgana Splatic/JohnnyMnemonic : i like the looks of this
+[15:14:52]SAY: Camile Crafter/Cassy_jenelle : Turn these panels on!
+[15:14:52]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> shakes its head.
+[15:15:13]EMOTE: Borgana Splatic/JohnnyMnemonic : <B>Borgana Splatic</B> smiles
+[15:15:22]SAY: Camile Crafter/Cassy_jenelle : Nice innit?
+[15:15:29]SAY: Borgana Splatic/JohnnyMnemonic : yes, this is exactly up my alley
+[15:15:58]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[15:16:13]OOC: (LOCAL) Borgana Splatic/JohnnyMnemonic : it&#39;s gonna take a while to get used to the speed on this server
+[15:16:14]SAY: kitten/ : Purr!
+[15:16:32]OOC: (LOCAL) Borgana Splatic/JohnnyMnemonic : gottagofast
+[15:16:50]OOC: (LOCAL) Camile Crafter/Cassy_jenelle : Hang on, lemme port thundy over
+[15:16:56]SAY: Borgana Splatic/JohnnyMnemonic : oh, it dispenses glasses
+[15:17:03]SAY: Borgana Splatic/JohnnyMnemonic : &#39;course
+[15:17:14]SAY: Borgana Splatic/JohnnyMnemonic : equal glasses
+[15:17:19]SAY: grey baby slime (338)/ : Blop...
+[15:17:49]OOC: (LOCAL) Borgana Splatic/JohnnyMnemonic : i should make a cyborg character and name him Borgana
+[15:18:14]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[15:18:28]SAY: Experiment 97d/ : Eh?
+[15:18:33]SAY: Camile Crafter/Cassy_jenelle : Noting bug. Hang on
+[15:18:39]OOC: (LOCAL) Borgana Splatic/JohnnyMnemonic : love the drug bathroom
+[15:18:42]OOC: (LOCAL) Borgana Splatic/JohnnyMnemonic : nice detail
+[15:18:44]OOC: (LOCAL) Camile Crafter/Cassy_jenelle : Hah
+[15:18:54]EMOTE: kitten/ : <B>The kitten</B> meows.
+[15:19:09]EMOTE: Ian/ : <B>Ian</B> pants.
+[15:19:10]OOC: (LOCAL) Camile Crafter/Cassy_jenelle : Bug fixed
+[15:19:31]SAY: grey baby slime (338)/ : Blorble...
+[15:19:31]EMOTE: Parrot/ : <B>The Parrot</B> flutters its wings.
+[15:19:39]EMOTE: crab/ : <B>The crab</B> clacks.
+[15:19:40]OOC: (LOCAL) Camile Crafter/Cassy_jenelle : That&#39;s about it so far. &lt;3
+[15:19:55]OOC: (LOCAL) Camile Crafter/Cassy_jenelle : We&#39;ve had plentful of RP events here
+[15:19:59]OOC: (LOCAL) Camile Crafter/Cassy_jenelle : Real fun
+[15:19:59]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[15:20:01]OOC: (LOCAL) Borgana Splatic/JohnnyMnemonic : sweet, how long did it took you?
+[15:20:14]OOC: (LOCAL) Camile Crafter/Cassy_jenelle : Few days of edits, but mapping is really easy and fun
+[15:20:22]OOC: (LOCAL) Camile Crafter/Cassy_jenelle : Trial and error really
+[15:20:37]OOC: (LOCAL) Borgana Splatic/JohnnyMnemonic : lol, that playtesting was probably loads of fun
+[15:20:45]OOC: Camile Crafter/Cassy_jenelle : Yes it was
+[15:21:23]OOC: (LOCAL) Borgana Splatic/JohnnyMnemonic : that dungeon thou
+[15:21:29]OOC: (LOCAL) Borgana Splatic/JohnnyMnemonic : gold
+[15:21:32]OOC: (LOCAL) Borgana Splatic/JohnnyMnemonic : 11/10
+[15:21:36]SAY: grey baby slime (956)/ : Where is the food?
+[15:21:37]DEBUG: Next event of severity Mundane in 14.236 minutes.
+[15:21:37]DEBUG: Starting event 'Nothing' of severity Mundane.
+[15:21:38]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[15:21:39]DEBUG: Event 'Nothing' has completed at 12:45.
+[15:21:42]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[15:21:43]OOC: (LOCAL) Camile Crafter/Cassy_jenelle : So many keks have been generated from this place.
+[15:21:43]EMOTE: Parrot/ : <B>The Parrot</B> bawks.
+[15:22:05]SAY: Borgana Splatic/JohnnyMnemonic : mreow
+[15:22:21]EMOTE: Borgana Splatic/JohnnyMnemonic : <B>Borgana Splatic</B> hisses
+[15:22:25]SAY: Experiment 97d/ : Eh?
+[15:22:46]EMOTE: Borgana Splatic/JohnnyMnemonic : <B>Borgana Splatic</B> scratches the chair
+[15:22:52]SAY: Camile Crafter/Cassy_jenelle : Bad kitty.
+[15:23:00]SAY: Borgana Splatic/JohnnyMnemonic : it&#39;s...too powerful
+[15:23:04]SAY: Borgana Splatic/JohnnyMnemonic : enfused with lust
+[15:23:17]EMOTE: Borgana Splatic/JohnnyMnemonic : <B>Borgana Splatic</B> chuckles
+[15:23:20]SAY: Camile Crafter/Cassy_jenelle : Indeed. Surely you smelt the sleeze when you entered this house.
+[15:23:25]SAY: Borgana Splatic/JohnnyMnemonic : who knew igam was like that
+[15:23:36]EMOTE: Ian/ : <B>Ian</B> dances around
+[15:24:16]SAY: grey baby slime (956)/ : Lonely...
+[15:24:36]OOC: (LOCAL) Borgana Splatic/JohnnyMnemonic : can i go check out the ooc room real quick?
+[15:24:42]OOC: (LOCAL) Camile Crafter/Cassy_jenelle : course
+[15:24:52]OOC: (LOCAL) Borgana Splatic/JohnnyMnemonic : wanna see if it has stuff
+[15:25:17]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[15:25:23]SAY: grey baby slime (338)/ : Hungry...
+[15:25:40]OOC: (LOCAL) Borgana Splatic/JohnnyMnemonic : lol
+[15:25:40]SAY: Experiment 97d/ : EHEHEHEHEH
+[15:25:48]SAY: Camile Crafter/Cassy_jenelle : Don&#39;t like dresses but this is kinda nice.
+[15:25:56]SAY: Runtime/ : Esp!
+[15:26:05]SAY: Borgana Splatic/JohnnyMnemonic : looks good on you
+[15:26:11]SAY: Borgana Splatic/JohnnyMnemonic : that too
+[15:26:14]EMOTE: Borgana Splatic/JohnnyMnemonic : <B>Borgana Splatic</B> grins
+[15:27:21]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[15:27:21]SAY: Borgana Splatic/JohnnyMnemonic : is there berets and a red jacket?
+[15:27:37]SAY: Camile Crafter/Cassy_jenelle : Guess you&#39;ll have to add those to your custom loadout.
+[15:27:51]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[15:28:00]SAY: Borgana Splatic/JohnnyMnemonic : probably
+[15:28:01]OOC: (LOCAL) Camile Crafter/Cassy_jenelle : I can see it now!
+[15:28:09]OOC: (LOCAL) Borgana Splatic/JohnnyMnemonic : s-see what?
+[15:28:11]OOC: (LOCAL) Camile Crafter/Cassy_jenelle : Camile as a chain smoking agony aunt HoP.
+[15:28:14]ACCESS: Login: Thundy/(Thundy) from 121.44.26.185-2990357333 || BYOND v506
+[15:28:24]SAY: grey baby slime (956)/ : Hungry...
+[15:28:30]OOC: (LOCAL) Borgana Splatic/JohnnyMnemonic : you opened my eyes
+[15:28:36]OOC: Camile Crafter/Cassy_jenelle : hi thundy!
+[15:28:41]DEBUG: Next event of severity Moderate in 42.81 minutes.
+[15:28:41]DEBUG: Starting event 'Nothing' of severity Moderate.
+[15:28:43]DEBUG: Event 'Nothing' has completed at 12:52.
+[15:29:26]SAY: Borgana Splatic/JohnnyMnemonic : how do i look?
+[15:29:30]EMOTE: Borgana Splatic/JohnnyMnemonic : <B>Borgana Splatic</B> smiles
+[15:29:33]SAY: Camile Crafter/Cassy_jenelle : Gorgeous hon.
+[15:29:38]OOC: Thundy/Thundy : yay im in
+[15:29:43]SAY: Camile Crafter/Cassy_jenelle : Stamos ain&#39;t worth that.
+[15:29:45]OOC: Thundy/Thundy : is it working?
+[15:30:00]OOC: Camile Crafter/Cassy_jenelle : Yes, we spawned in fine.
+[15:30:06]OOC: Camile Crafter/Cassy_jenelle : Lemme know if you spawn in okay.
+[15:30:23]EMOTE: Runtime/ : <B>Runtime</B> shakes their head.
+[15:30:27]OOC: Borgana Splatic/JohnnyMnemonic : we should see him spawn
+[15:30:42]SAY: Borgana Splatic/JohnnyMnemonic : trippy...
+[15:31:08]OOC: Thundy/Thundy : http://gyazo.com/edf8b51d18cac10d2bf6e093ada9e4f4
+[15:32:04]OOC: Camile Crafter/Cassy_jenelle : 7.7 seconds?
+[15:32:25]OOC: (LOCAL) Borgana Splatic/JohnnyMnemonic : definetly this
+[15:32:34]EMOTE: crab/ : <B>The crab</B> clicks.
+[15:32:35]OOC: Camile Crafter/Cassy_jenelle : Well this ain&#39;t the official server it&#39;s hosted on. This is the test. Kerbal&#39;s server is way faster
+[15:32:36]EMOTE: Ian/ : <B>Ian</B> dances around
+[15:32:39]OOC: (LOCAL) Camile Crafter/Cassy_jenelle : yaass
+[15:33:13]OOC: (LOCAL) Borgana Splatic/JohnnyMnemonic : time to color theory
+[15:33:30]OOC: (LOCAL) Camile Crafter/Cassy_jenelle : I like this choice of clothing for cammy
+[15:33:38]OOC: (LOCAL) Camile Crafter/Cassy_jenelle : Maybe edit it a bit, change the colours
+[15:33:43]OOC: (LOCAL) Borgana Splatic/JohnnyMnemonic : i wear that as Crimson all the time
+[15:33:46]OOC: (LOCAL) Camile Crafter/Cassy_jenelle : whooo &lt;3 suits her tomboyish nature
+[15:33:47]OOC: (LOCAL) Borgana Splatic/JohnnyMnemonic : plus the jacket
+[15:33:57]ADMIN: Cassy_jenelle/(Camile Crafter) spawned /obj/item/clothing/suit/storage/bomber at (252,89,2)
+[15:34:13]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> shakes its head.
+[15:34:19]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[15:34:27]EMOTE: kitten/ : <B>The kitten</B> mews.
+[15:34:33]OOC: (LOCAL) Borgana Splatic/JohnnyMnemonic : vibrant or comfortable look?
+[15:34:59]OOC: (LOCAL) Camile Crafter/Cassy_jenelle : This is her clubwear
+[15:35:03]OOC: (LOCAL) Borgana Splatic/JohnnyMnemonic : what do you think is better?
+[15:35:10]OOC: (LOCAL) Camile Crafter/Cassy_jenelle : Hmmm
+[15:35:20]OOC: (LOCAL) Borgana Splatic/JohnnyMnemonic : oh, different clothes for events? that&#39;s a good idea
+[15:35:27]EMOTE: Ian/ : <B>Ian</B> pants.
+[15:35:29]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[15:35:35]ACCESS: Logout: *no key*/(Thundy)
+[15:35:35]ACCESS: Login: Thundy/(Charlie Dove) from 121.44.26.185-2990357333 || BYOND v506
+[15:35:45]SAY: Camile Crafter/Cassy_jenelle : Oh hello doc---Charlie!
+[15:35:50]EMOTE: cat/ : <B>The cat</B> mews.
+[15:35:51]SAY: Borgana Splatic/JohnnyMnemonic : uh....
+[15:35:58]OOC: (LOCAL) Camile Crafter/Cassy_jenelle : This is the OOC changing room.
+[15:36:04]EMOTE: Ian/ : <B>Ian</B> dances around
+[15:36:07]OOC: (LOCAL) Camile Crafter/Cassy_jenelle : Picking outfits is the thing here.
+[15:36:13]EMOTE: Borgana Splatic/JohnnyMnemonic : <B>Borgana Splatic</B> grabs the first piece of clothing she can get her hands on
+[15:36:19]EMOTE: Charlie Dove/Thundy : <B>Charlie Dove</B> begins to dance to something she is listening to. You can see that she has headphones in and obviously didnt hear you
+[15:36:41]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[15:36:47]EMOTE: Borgana Splatic/JohnnyMnemonic : <B>Borgana Splatic</B> looks nervously at Dove, hoping he didn&#39;t see her 
+[15:36:49]EMOTE: Camile Crafter/Cassy_jenelle : <B>Camile Crafter</B> sighs a bit, look at the stacks of clothing all over the floor.
+[15:36:51]DEBUG: Next event of severity Mundane in 15.954 minutes.
+[15:36:51]DEBUG: Starting event 'Economic News' of severity Mundane.
+[15:36:55]SAY: Camile Crafter/Cassy_jenelle : Messy innit?
+[15:37:12]OOC: (LOCAL) Camile Crafter/Cassy_jenelle : Wanna see all the houses?
+[15:37:22]OOC: (LOCAL) Camile Crafter/Cassy_jenelle : AND THE DISCO
+[15:37:25]SAY: cat/ : Meow!
+[15:37:43]OOC: (LOCAL) Borgana Splatic/JohnnyMnemonic : you should add a washing machine plus crayons
+[15:37:53]EMOTE: Charlie Dove/Thundy : <B>Charlie Dove</B> [singing to herself while shaking her hips] Gotta kiss m&#39;self I&#39;m so pretty...
+[15:37:55]OOC: Charlie Dove/Thundy : and yes
+[15:38:00]OOC: (LOCAL) Camile Crafter/Cassy_jenelle : Heh
+[15:38:08]EMOTE: Camile Crafter/Cassy_jenelle : <B>Camile Crafter</B> taps Charlie Dove on the shoulder.
+[15:38:09]EMOTE: Runtime/ : <B>Runtime</B> shakes their head.
+[15:38:15]EMOTE: Camile Crafter/Cassy_jenelle : <B>Camile Crafter</B> steps back and blushes.
+[15:38:23]SAY: Camile Crafter/Cassy_jenelle : Oh. nice outfit... there.
+[15:38:24]EMOTE: Charlie Dove/Thundy : <B>Charlie Dove</B> spins, ripping the headphones out of her ears and grinning
+[15:38:32]EMOTE: Borgana Splatic/JohnnyMnemonic : <B>Borgana Splatic</B> observes evrything
+[15:38:33]EMOTE: Ian/ : <B>Ian</B> dances around
+[15:38:34]SAY: Charlie Dove/Thundy : Oh you like it?
+[15:38:37]SAY: Borgana Splatic/JohnnyMnemonic : hi
+[15:38:38]SAY: Charlie Dove/Thundy : thanks!
+[15:38:51]SAY: Camile Crafter/Cassy_jenelle : Yeah, nice outfit. Twinsies eh?
+[15:38:51]EMOTE: Charlie Dove/Thundy : <B>Charlie Dove</B> puts the headphones back in and continues to dance.
+[15:38:58]OOC: (LOCAL) Charlie Dove/Thundy : lel
+[15:38:59]SAY: grey baby slime (956)/ : Rawr...
+[15:39:10]SAY: Charlie Dove/Thundy : Wanna listen/.
+[15:39:11]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[15:39:13]OOC: (LOCAL) Charlie Dove/Thundy : listen?
+[15:39:16]SAY: Runtime/ : Meow!
+[15:39:22]SAY: Camile Crafter/Cassy_jenelle : Sure?
+[15:39:25]EMOTE: Camile Crafter/Cassy_jenelle : <B>Camile Crafter</B> leans in closer.
+[15:40:23]EMOTE: Charlie Dove/Thundy : <B>Charlie Dove</B> takes out a headphone shoving it in her ear https://www.youtube.com/watch?v=OPf0YbXqDm0
+[15:40:24]SAY: grey baby slime (338)/ : Blorble...
+[15:40:50]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[15:41:06]EMOTE: Camile Crafter/Cassy_jenelle : <B>Camile Crafter</B> bobs her head a bit, &#34;Oh funky!&#34;
+[15:41:31]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> shakes its head.
+[15:41:53]SAY: Parrot/ : Cracker?
+[15:42:02]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[15:42:18]EMOTE: crab/ : <B>The crab</B> clacks.
+[15:42:32]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[15:42:44]SAY: grey baby slime (338)/ : Lonely...
+[15:42:56]SAY: Charlie Dove/Thundy : there
+[15:42:58]EMOTE: crab/ : <B>The crab</B> clacks.
+[15:43:02]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[15:43:46]SAY: Camile Crafter/Cassy_jenelle : My apartment.
+[15:44:00]SAY: Charlie Dove/Thundy : oh pretty!
+[15:44:09]SAY: Camile Crafter/Cassy_jenelle : My roooom. Nice eh?
+[15:44:10]OOC: (LOCAL) Charlie Dove/Thundy : wheres mine?
+[15:44:14]OOC: (LOCAL) Camile Crafter/Cassy_jenelle : Getting there.
+[15:44:23]EMOTE: Charlie Dove/Thundy : <B>Charlie Dove</B> whistles
+[15:44:28]SAY: Charlie Dove/Thundy : Very pretty
+[15:44:33]OOC: Charlie Dove/Thundy : come drag meh
+[15:44:34]SAY: grey baby slime (956)/ : Where is the food?
+[15:44:36]SAY: Camile Crafter/Cassy_jenelle : Garden out here.
+[15:44:50]OOC: Camile Crafter/Cassy_jenelle : Getting lag?
+[15:44:55]OOC: Charlie Dove/Thundy : always
+[15:45:21]SAY: Camile Crafter/Cassy_jenelle : Beatrix&#39;s apartment.
+[15:45:37]DEBUG: Event 'Economic News' has completed at 13:07.
+[15:45:59]EMOTE: Ian/ : <B>Ian</B> dances around
+[15:46:01]EMOTE: Ian/ : <B>Ian</B> dances around
+[15:46:34]SAY: Charlie Dove/Thundy : home sweet home.
+[15:46:34]OOC: (LOCAL) Camile Crafter/Cassy_jenelle : This is Charlie&#39;s place.
+[15:47:42]SAY: grey baby slime (338)/ : Hungry...
+[15:47:48]SAY: Experiment 97d/ : Eh?
+[15:47:50]SAY: Charlie Dove/Thundy : Like it?
+[15:47:54]OOC: (LOCAL) Charlie Dove/Thundy : this is badass
+[15:47:59]SAY: Camile Crafter/Cassy_jenelle : Nice house rich girl.
+[15:48:12]OOC: (LOCAL) Camile Crafter/Cassy_jenelle : Yuep
+[15:48:20]EMOTE: Charlie Dove/Thundy : <B>Charlie Dove</B> grins
+[15:48:22]SAY: Charlie Dove/Thundy : Jelly?
+[15:48:33]EMOTE: Ian/ : <B>Ian</B> dances around
+[15:49:10]SAY: Borgana Splatic/JohnnyMnemonic : lookin&#39; around?
+[15:49:16]EMOTE: Parrot/ : <B>The Parrot</B> flutters its wings.
+[15:49:28]SAY: kitten/ : HSSSSS
+[15:49:48]EMOTE: Borgana Splatic/JohnnyMnemonic : <B>Borgana Splatic</B> looks around
+[15:50:07]SAY: Charlie Dove/Thundy : So, to whose house? Everyone want to come in and see what I have in the fridge?
+[15:50:17]SAY: Camile Crafter/Cassy_jenelle : Sure!
+[15:50:36]SAY: Charlie Dove/Thundy : Sweet, come on in.
+[15:50:41]SAY: grey baby slime (338)/ : Lonely...
+[15:51:14]EMOTE: Ian/ : <B>Ian</B> dances around
+[15:51:26]EMOTE: Ian/ : <B>Ian</B> pants.
+[15:51:28]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[15:51:34]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[15:51:39]SAY: Borgana Splatic/JohnnyMnemonic : don&#39;t mind if i do
+[15:51:49]SAY: Charlie Dove/Thundy : You guys know how to cook?
+[15:51:58]SAY: Borgana Splatic/JohnnyMnemonic : i live off of pizza
+[15:52:00]SAY: Charlie Dove/Thundy : All the servants are on leave an I...
+[15:52:04]SAY: Charlie Dove/Thundy : I have no idea...
+[15:52:22]SAY: kitten/ : HSSSSS
+[15:52:28]SAY: Borgana Splatic/JohnnyMnemonic : huh...well...
+[15:52:35]SAY: Borgana Splatic/JohnnyMnemonic : you have servants?
+[15:52:35]SAY: grey baby slime (338)/ : I want to eat...
+[15:52:42]SAY: Charlie Dove/Thundy : yep. Many.
+[15:52:45]EMOTE: Parrot/ : <B>The Parrot</B> bawks.
+[15:52:49]SAY: Parrot/ : BAWWWWK george mellons griffing me
+[15:52:53]WHISPER: Borgana Splatic/JohnnyMnemonic : can&#39;t believe you called it
+[15:53:06]SAY: Borgana Splatic/JohnnyMnemonic : hmm...
+[15:53:08]OOC: Camile Crafter/Cassy_jenelle : This it totally a test server btw. But you can totally RP I guess.
+[15:53:17]SAY: kitten/ : Esp!
+[15:53:21]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[15:53:25]SAY: cat/ : Purr!
+[15:53:37]EMOTE: Camile Crafter/Cassy_jenelle : <B>Camile Crafter</B> gently tucks her cigarette behind her ear and takes a seat.
+[15:53:39]EMOTE: Parrot/ : <B>The Parrot</B> squawks.
+[15:53:52]OOC: Borgana Splatic/JohnnyMnemonic : brb
+[15:53:53]DEBUG: Next event of severity Mundane in 13.09 minutes.
+[15:53:53]DEBUG: Starting event 'Economic News' of severity Mundane.
+[15:54:06]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[15:54:13]OOC: Camile Crafter/Cassy_jenelle : Might be better on kerbal&#39;s server tho, his server is faster
+[15:54:23]SAY: Ian/ : YAP
+[15:54:50]OOC: Camile Crafter/Cassy_jenelle : Also thundy, the disco is amazing. You should check it out
+[15:54:55]EMOTE: Charlie Dove/Thundy : <B>Charlie Dove</B> sits back in her chair.
+[15:54:55]SAY: Runtime/ : Meow!
+[15:54:59]OOC: Charlie Dove/Thundy : huh?
+[15:55:08]OOC: Camile Crafter/Cassy_jenelle : Yes, we have a hospital and a disco
+[15:55:10]EMOTE: Parrot/ : <B>The Parrot</B> flutters its wings.
+[15:55:18]OOC: Camile Crafter/Cassy_jenelle : Wanna see?
+[15:55:44]OOC: Charlie Dove/Thundy : yeah i wouldnt mind at all?
+[15:55:54]SAY: Parrot/ : Lookin&#39; around?
+[15:56:02]SAY: cat/ : HSSSSS
+[15:57:03]OOC: (LOCAL) Camile Crafter/Cassy_jenelle : Click em repeatedly. They&#39;re persistant
+[15:57:42]EMOTE: Parrot/ : <B>The Parrot</B> flutters its wings.
+[15:57:58]OOC: (LOCAL) Charlie Dove/Thundy : and that is how we found out thundy has epelepsy
+[15:58:06]OOC: (LOCAL) Camile Crafter/Cassy_jenelle : D:
+[15:58:18]OOC: (LOCAL) Camile Crafter/Cassy_jenelle : oh my
+[15:58:25]OOC: (LOCAL) Camile Crafter/Cassy_jenelle : soz there
+[15:58:30]EMOTE: Ian/ : <B>Ian</B> dances around
+[15:58:32]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[15:58:42]OOC: (LOCAL) Camile Crafter/Cassy_jenelle : Also yeah, the party button ahem. it&#39;s on that wall there
+[15:58:54]OOC: (LOCAL) Camile Crafter/Cassy_jenelle : Might edit the code to make the lights less fast
+[15:59:20]DEBUG: Event 'Economic News' has completed at 13:20.
+[15:59:22]OOC: (LOCAL) Camile Crafter/Cassy_jenelle : That&#39;s what makes the light.
+[15:59:36]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[16:00:11]OOC: (LOCAL) Charlie Dove/Thundy : needles and pill bottles
+[16:00:16]OOC: (LOCAL) Charlie Dove/Thundy : nice touch
+[16:00:24]OOC: (LOCAL) Camile Crafter/Cassy_jenelle : I used references from clubs in my area. hue
+[16:00:51]OOC: Charlie Dove/Thundy : still laggin
+[16:01:37]SAY: Camile Crafter/Cassy_jenelle : Igam&#39;s house!
+[16:01:42]EMOTE: Runtime/ : <B>Runtime</B> shakes their head.
+[16:01:42]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[16:02:00]EMOTE: Ian/ : <B>Ian</B> dances around
+[16:02:02]SAY: Camile Crafter/Cassy_jenelle : This is Tal and Igam&#39;s place.
+[16:02:20]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[16:02:29]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[16:02:37]SAY: grey baby slime (338)/ : I want to eat...
+[16:02:37]SAY: Ian/ : AUUUUUU
+[16:02:47]EMOTE: Charlie Dove/Thundy : <B>Charlie Dove</B> claps
+[16:02:53]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[16:03:22]SAY: Camile Crafter/Cassy_jenelle : Um. No comment about the small room on the right here.
+[16:03:29]EMOTE: Ian/ : <B>Ian</B> yaps.
+[16:03:37]SAY: grey baby slime (338)/ : Blorble...
+[16:03:43]EMOTE: cat/ : <B>The cat</B> shivers.
+[16:03:55]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[16:04:00]SAY: Charlie Dove/Thundy : the kitchen?
+[16:04:03]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[16:04:26]SAY: Camile Crafter/Cassy_jenelle : No, this.
+[16:04:38]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[16:04:44]EMOTE: Parrot/ : <B>The Parrot</B> flutters its wings.
+[16:04:48]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[16:05:03]OOC: Borgana Splatic/JohnnyMnemonic : no lag on my end
+[16:05:04]SAY: Experiment 97d/ : Eh?
+[16:05:25]OOC: Camile Crafter/Cassy_jenelle : oh
+[16:05:25]EMOTE: kitten/ : <B>The kitten</B> mews.
+[16:05:33]SAY: kitten/ : Purr!
+[16:05:41]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[16:05:45]EMOTE: Parrot/ : <B>The Parrot</B> squawks.
+[16:05:48]DEBUG: Next event of severity Major in 69.556 minutes.
+[16:05:48]DEBUG: Starting event 'Nothing' of severity Major.
+[16:05:50]DEBUG: Event 'Nothing' has completed at 13:26.
+[16:05:53]OOC: Borgana Splatic/JohnnyMnemonic : it&#39;s comparable to aurora, just faster
+[16:05:55]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[16:05:58]OOC: Borgana Splatic/JohnnyMnemonic : for me
+[16:06:04]OOC: Camile Crafter/Cassy_jenelle : ahh
+[16:06:12]OOC: Charlie Dove/Thundy : im lagging to bad
+[16:06:17]OOC: Camile Crafter/Cassy_jenelle : well i&#39;m in the UK so it makes a difference for some people.
+[16:06:44]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[16:07:33]ATTACK: Thundy/(Charlie Dove) attacked Cassy_jenelle/(Camile Crafter) with whip (INTENT: HELP) (DAMTYE: BRUTE)
+[16:07:40]DEBUG: Next event of severity Mundane in 14.788 minutes.
+[16:07:40]DEBUG: Starting event 'Trivial News' of severity Mundane.
+[16:07:45]EMOTE: cat/ : <B>The cat</B> shivers.
+[16:07:53]SAY: Camile Crafter/Cassy_jenelle : O-owch!
+[16:08:02]DEBUG: Event 'Trivial News' has completed at 13:28.
+[16:08:10]SAY: Camile Crafter/Cassy_jenelle : God knows what they used that for.
+[16:08:15]SAY: Ian/ : AUUUUUU
+[16:08:16]EMOTE: Camile Crafter/Cassy_jenelle : <B>Camile Crafter</B> shudders.
+[16:08:27]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[16:08:35]EMOTE: Charlie Dove/Thundy : <B>Charlie Dove</B> giggles
+[16:08:38]SAY: Parrot/ : Cracker?
+[16:08:38]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[16:08:39]SAY: Charlie Dove/Thundy : I wouldnt know.
+[16:08:50]OOC: Charlie Dove/Thundy : DRAGGGG
+[16:08:56]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> shakes its head.
+[16:09:13]SAY: Camile Crafter/Cassy_jenelle : Anatu and Lis&#39;beth&#39;s home
+[16:09:14]SAY: grey baby slime (956)/ : I want to eat...
+[16:09:16]EMOTE: Ian/ : <B>Ian</B> barks.
+[16:09:19]SAY: Camile Crafter/Cassy_jenelle : They&#39;re roomies
+[16:09:29]EMOTE: Ian/ : <B>Ian</B> shakes its head.
+[16:09:37]EMOTE: kitten/ : <B>The kitten</B> mews.
+[16:09:51]EMOTE: crab/ : <B>The crab</B> clicks.
+[16:10:02]SAY: Camile Crafter/Cassy_jenelle : Her tech room I guess.
+[16:10:06]EMOTE: Charlie Dove/Thundy : <B>Charlie Dove</B> nods
+[16:10:09]SAY: Charlie Dove/Thundy : its nice.
+[16:10:26]SAY: Camile Crafter/Cassy_jenelle : Last stop. Hospital.
+[16:10:40]SAY: grey baby slime (956)/ : Lonely...
+[16:10:55]SAY: Camile Crafter/Cassy_jenelle : Oh! Syrus Seto&#39;s house.
+[16:10:56]SAY: cat/ : HSSSSS
+[16:11:08]SAY: Parrot/ : Lookin&#39; around?
+[16:11:11]SAY: Camile Crafter/Cassy_jenelle : Kinda ordinary.
+[16:11:16]SAY: grey baby slime (338)/ : Blorble...
+[16:12:03]EMOTE: cat/ : <B>The cat</B> mews.
+[16:12:06]SAY: Camile Crafter/Cassy_jenelle : Chapel.
+[16:12:33]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[16:12:33]SAY: Camile Crafter/Cassy_jenelle : And the hospital.
+[16:13:06]EMOTE: kitten/ : <B>The kitten</B> mews.
+[16:13:08]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[16:13:16]EMOTE: Ian/ : <B>Ian</B> dances around
+[16:13:22]SAY: Runtime/ : Esp!
+[16:13:24]EMOTE: Runtime/ : <B>Runtime</B> mews.
+[16:13:44]SAY: Camile Crafter/Cassy_jenelle : And thaaat&#39;s about it.
+[16:13:58]EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[16:14:09]DEBUG: Next event of severity Moderate in 45.904 minutes.
+[16:14:09]DEBUG: Starting event 'Spider Infestation' of severity Moderate.
+[16:14:13]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[16:14:33]SAY: Charlie Dove/Thundy : thank you.
+[16:14:40]SAY: Charlie Dove/Thundy : Its really really nice here.
+[16:14:49]SAY: Camile Crafter/Cassy_jenelle : Hey, no probs.
+[16:15:07]OOC: Camile Crafter/Cassy_jenelle : This will be tons faster on Kerb&#39;s server. So I hope to see you there sometime
+[16:15:16]OOC: Charlie Dove/Thundy : for sure
+[16:15:22]OOC: Charlie Dove/Thundy : and im getting tired now...
+[16:15:22]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[16:15:32]OOC: Charlie Dove/Thundy : which is good but it means i need to hop off
+[16:15:35]OOC: Camile Crafter/Cassy_jenelle : aitey. have a good sleep
+[16:15:38]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[16:15:45]OOC: Borgana Splatic/JohnnyMnemonic : g&#39;night
+[16:15:49]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[16:16:13]SAY: grey baby slime (338)/ : Where is the food?
+[16:16:18]OOC: Borgana Splatic/JohnnyMnemonic : sure, np
+[16:16:19]SAY: Runtime/ : Esp!
+[16:16:25]ACCESS: Logout: Cassy_jenelle/(Camile Crafter)
+[16:16:25]ACCESS: Logout: JohnnyMnemonic/(Borgana Splatic)
+[16:16:25]ACCESS: Logout: Thundy/(Charlie Dove)

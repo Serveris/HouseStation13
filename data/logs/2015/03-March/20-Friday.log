@@ -1,0 +1,2944 @@
+
+
+Starting up. 14:52.23
+---------------------
+[14:52:24]ADMIN: Loading jobban_rank
+[14:52:24]ADMIN: jobban_keylist was empty
+[14:52:24]ADMIN: Loading Banlist
+[14:52:25]DEBUG: Rebuilding Master Controller
+[14:52:42]ACCESS: Login: Marinalightyears/(Marinalightyears) from 98.127.210.230-2261011010 || BYOND v506
+[14:53:46]VOTE: Gamemode vote started by the server.
+[14:53:46]DEBUG: The server has called a gamemode vote
+[14:54:46]VOTE: <b>Vote Result: Inconclusive - No Votes!</b>
+[14:56:08]DEBUG: Next event of severity Mundane in 13.092 minutes.
+[14:56:08]DEBUG: Next event of severity Moderate in 36.984 minutes.
+[14:56:08]DEBUG: Next event of severity Major in 81.0133 minutes.
+[14:56:09]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[14:56:15]EMOTE: Parrot/ : <B>The Parrot</B> turns and flies towards the deck of cards
+[14:56:19]SAY: Runtime/ : HSSSSS
+[14:56:21]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[14:56:38]EMOTE: crab/ : <B>The crab</B> clicks.
+[14:56:44]SAY: mouse (271)/ : SQUEEK!
+[14:56:52]EMOTE: Ian/ : <B>Ian</B> dances around
+[14:57:30]EMOTE: cat/ : <B>The cat</B> shivers.
+[14:57:41]ACCESS: Logout: *no key*/(Marinalightyears)
+[14:57:41]ACCESS: Login: Marinalightyears/(Amira Cook) from 98.127.210.230-2261011010 || BYOND v506
+[14:58:24]EMOTE: mouse (275)/ : <B>The mouse (275)</B> scritches at something.
+[14:58:26]EMOTE: crab/ : <B>The crab</B> clicks.
+[14:58:33]SAY: Tom (834)/ : Squeek?
+[14:58:33]EMOTE: Tom (889)/ : <B>Tom (889)</B> squeaks.
+[14:58:37]EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[14:58:39]EMOTE: cat/ : <B>The cat</B> meows.
+[14:59:23]SAY: mouse (499)/ : Squeek?
+[14:59:51]SAY: mouse (754)/ : Squeek?
+[14:59:54]EMOTE: mouse (275)/ : <B>The mouse (275)</B> squeeks.
+[15:00:06]EMOTE: mouse (275)/ : <B>The mouse (275)</B> squiks.
+[15:00:26]SAY: mouse (754)/ : SQUEEK!
+[15:00:32]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[15:00:38]SAY: kitten/ : HSSSSS
+[15:00:58]EMOTE: crab/ : <B>The crab</B> clacks.
+[15:01:38]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[15:02:05]EMOTE: crab/ : <B>The crab</B> clacks.
+[15:02:11]EMOTE: cat/ : <B>The cat</B> shivers.
+[15:02:15]EMOTE: mouse (437)/ : <B>The mouse (437)</B> squeaks.
+[15:02:39]EMOTE: kitten/ : <B>The kitten</B> mews.
+[15:02:49]SAY: kitten/ : Purr!
+[15:03:46]SAY: mouse (574)/ : Squeek!
+[15:04:36]SAY: mouse (499)/ : Squeek!
+[15:04:52]SAY: Experiment 97d/ : EHEHEHEHEH
+[15:05:06]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[15:05:12]EMOTE: Parrot/ : <B>The Parrot</B> bawks.
+[15:05:16]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[15:06:19]EMOTE: crab/ : <B>The crab</B> clicks.
+[15:06:23]SAY: Ian/ : Bark!
+[15:07:23]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[15:07:48]EMOTE: Parrot/ : <B>The Parrot</B> bawks.
+[15:08:14]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[15:09:19]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[15:09:27]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> shakes its head.
+[15:09:29]SAY: cat/ : HSSSSS
+[15:09:33]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[15:09:47]EMOTE: mouse (574)/ : <B>The mouse (574)</B> shakes.
+[15:09:54]DEBUG: Next event of severity Mundane in 13.746 minutes.
+[15:09:54]DEBUG: Starting event 'Mundane News' of severity Mundane.
+[15:09:57]SAY: mouse (437)/ : Squeek?
+[15:09:59]SAY: grey baby slime (334)/ : Blop...
+[15:10:03]SAY: cat/ : Esp!
+[15:10:13]SAY: cat/ : Meow!
+[15:10:16]DEBUG: Event 'Mundane News' has completed at 12:16.
+[15:10:34]EMOTE: mouse (574)/ : <B>The mouse (574)</B> squeeks.
+[15:10:38]SAY: grey baby slime (89)/ : Blop...
+[15:10:48]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[15:11:38]SAY: grey baby slime (89)/ : Rawr...
+[15:11:44]EMOTE: Runtime/ : <B>Runtime</B> shakes their head.
+[15:13:10]EMOTE: kitten/ : <B>The kitten</B> meows.
+[15:13:36]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[15:13:55]EMOTE: kitten/ : <B>The kitten</B> meows.
+[15:13:57]EMOTE: Ian/ : <B>Ian</B> dances around
+[15:14:03]EMOTE: Parrot/ : <B>The Parrot</B> flutters its wings.
+[15:14:13]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> shakes its head.
+[15:14:13]EMOTE: crab/ : <B>The crab</B> clacks.
+[15:14:21]SAY: Parrot/ : Cracker?
+[15:15:19]SAY: Parrot/ : Cracker?
+[15:15:33]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[15:15:45]EMOTE: Ian/ : <B>Ian</B> dances around
+[15:15:57]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[15:16:01]SAY: kitten/ : Purr!
+[15:17:00]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[15:17:22]SAY: kitten/ : Purr!
+[15:17:30]SAY: Experiment 97d/ : EHEHEHEHEH
+[15:18:49]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[15:19:11]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[15:19:31]SAY: kitten/ : Purr!
+[15:19:39]EMOTE: kitten/ : <B>The kitten</B> meows.
+[15:19:43]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[15:20:19]EMOTE: crab/ : <B>The crab</B> clacks.
+[15:20:35]EMOTE: kitten/ : <B>The kitten</B> mews.
+[15:20:51]SAY: grey baby slime (334)/ : Blorble...
+[15:21:07]SAY: Experiment 97d/ : EHEHEHEHEH
+[15:21:32]SAY: Ian/ : AUUUUUU
+[15:21:44]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[15:22:18]SAY: Ian/ : AUUUUUU
+[15:22:24]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[15:22:40]SAY: grey baby slime (334)/ : Blop...
+[15:22:42]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[15:22:56]SAY: cat/ : Purr!
+[15:22:58]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[15:23:19]SAY: kitten/ : HSSSSS
+[15:24:28]DEBUG: Next event of severity Mundane in 17.224 minutes.
+[15:24:28]DEBUG: Starting event 'Economic News' of severity Mundane.
+[15:25:26]EMOTE: kitten/ : <B>The kitten</B> mews.
+[15:26:00]SAY: kitten/ : HSSSSS
+[15:26:24]SAY: cat/ : Meow!
+[15:26:32]EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[15:26:41]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[15:27:03]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[15:27:43]EMOTE: crab/ : <B>The crab</B> clacks.
+[15:28:14]SAY: grey baby slime (89)/ : Blop...
+[15:28:24]EMOTE: Ian/ : <B>Ian</B> dances around
+[15:28:34]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[15:28:47]SAY: kitten/ : Esp!
+[15:28:49]SAY: Parrot/ : BAWWWWK george mellons griffing me
+[15:28:59]EMOTE: cat/ : <B>The cat</B> shivers.
+[15:29:13]DEBUG: Event 'Economic News' has completed at 12:34.
+[15:29:23]EMOTE: crab/ : <B>The crab</B> clicks.
+[15:29:45]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[15:31:41]EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[15:31:43]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[15:31:47]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[15:31:51]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[15:32:43]EMOTE: crab/ : <B>The crab</B> clicks.
+[15:32:59]SAY: kitten/ : Purr!
+[15:33:23]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[15:33:23]EMOTE: crab/ : <B>The crab</B> clicks.
+[15:33:33]SAY: Experiment 97d/ : Eh?
+[15:35:10]DEBUG: Next event of severity Moderate in 45.716 minutes.
+[15:35:10]DEBUG: Starting event 'Nothing' of severity Moderate.
+[15:35:13]DEBUG: Event 'Nothing' has completed at 12:40.
+[15:35:51]EMOTE: kitten/ : <B>The kitten</B> meows.
+[15:35:53]SAY: kitten/ : Meow!
+[15:37:07]SAY: grey baby slime (334)/ : Rawr...
+[15:37:13]SAY: Experiment 97d/ : EHEHEHEHEH
+[15:37:35]EMOTE: Runtime/ : <B>Runtime</B> meows.
+[15:39:18]EMOTE: Ian/ : <B>Ian</B> dances around
+[15:39:38]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> drools.
+[15:39:44]SAY: grey baby slime (334)/ : Blop...
+[15:40:20]EMOTE: crab/ : <B>The crab</B> clacks.
+[15:40:32]SAY: Runtime/ : HSSSSS
+[15:40:38]EMOTE: Ian/ : <B>Ian</B> dances around
+[15:40:38]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> giggles.
+[15:40:52]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> moans!
+[15:41:10]EMOTE: Runtime/ : <B>Runtime</B> shakes their head.
+[15:41:38]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> moans!
+[15:41:53]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> moans!
+[15:41:59]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[15:41:59]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> giggles.
+[15:42:11]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> drools.
+[15:42:40]DEBUG: Next event of severity Mundane in 13.792 minutes.
+[15:42:40]DEBUG: Starting event 'Nothing' of severity Mundane.
+[15:42:42]DEBUG: Event 'Nothing' has completed at 12:47.
+[15:42:43]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> moans!
+[15:42:45]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> drools.
+[15:42:51]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> drools.
+[15:43:03]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> giggles.
+[15:43:28]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> giggles.
+[15:44:24]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> moans!
+[15:44:28]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> moans!
+[15:44:34]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> twitches violently.
+[15:44:48]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> moans!
+[15:45:08]SAY: grey baby slime (334)/ : Rawr...
+[15:45:32]SAY: grey baby slime (89)/ : Where is the food?
+[15:46:53]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> giggles.
+[15:46:59]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> moans!
+[15:47:29]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> drools.
+[15:47:43]SAY: Parrot/ : Hello!
+[15:47:49]SAY: kitten/ : HSSSSS
+[15:47:57]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[15:48:01]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> drools.
+[15:48:37]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> moans!
+[15:48:53]SAY: Experiment 97d/ : Eh?
+[15:48:59]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> moans!
+[15:49:46]EMOTE: Ian/ : <B>Ian</B> dances around
+[15:49:48]SAY: cat/ : Meow!
+[15:49:50]SAY: cat/ : HSSSSS
+[15:50:16]EMOTE: Runtime/ : <B>Runtime</B> mews.
+[15:50:16]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[15:50:22]EMOTE: crab/ : <B>The crab</B> clicks.
+[15:51:29]SAY: kitten/ : HSSSSS
+[15:51:37]EMOTE: kitten/ : <B>The kitten</B> meows.
+[15:52:33]SAY: grey baby slime (89)/ : Where is the food?
+[15:52:47]EMOTE: Ian/ : <B>Ian</B> dances around
+[15:52:55]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[15:53:12]SAY: grey baby slime (89)/ : Blop...
+[15:53:42]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[15:54:02]SAY: Parrot/ : Hello!
+[15:54:30]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> shakes its head.
+[15:55:06]SAY: cat/ : HSSSSS
+[15:55:42]EMOTE: crab/ : <B>The crab</B> clicks.
+[15:56:12]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[15:56:26]SAY: Ian/ : YAP
+[15:56:32]SAY: Parrot/ : BAWWWWK george mellons griffing me
+[15:57:11]DEBUG: Next event of severity Mundane in 12.214 minutes.
+[15:57:11]DEBUG: Starting event 'Vermin Infestation' of severity Mundane.
+[15:57:13]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[15:57:13]EMOTE: kitten/ : <B>The kitten</B> mews.
+[15:57:23]SAY: Experiment 97d/ : EHEHEHEHEH
+[15:57:35]DEBUG: Event 'Vermin Infestation' has completed at 13:01.
+[15:57:57]EMOTE: kitten/ : <B>The kitten</B> mews.
+[15:58:13]SAY: grey baby slime (334)/ : Blop...
+[15:58:35]SAY: Experiment 97d/ : Eh?
+[15:59:46]SAY: kitten/ : Esp!
+[16:00:24]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[16:00:26]EMOTE: Ian/ : <B>Ian</B> yaps.
+[16:00:28]EMOTE: crab/ : <B>The crab</B> clacks.
+[16:00:34]EMOTE: cat/ : <B>The cat</B> meows.
+[16:01:24]EMOTE: kitten/ : <B>The kitten</B> meows.
+[16:01:50]EMOTE: kitten/ : <B>The kitten</B> mews.
+[16:02:57]EMOTE: Ian/ : <B>Ian</B> dances around
+[16:03:01]SAY: Runtime/ : HSSSSS
+[16:03:33]SAY: cat/ : Esp!
+[16:03:37]SAY: kitten/ : HSSSSS
+[16:03:43]EMOTE: crab/ : <B>The crab</B> clacks.
+[16:03:57]EMOTE: cat/ : <B>The cat</B> mews.
+[16:04:09]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[16:04:40]EMOTE: kitten/ : <B>The kitten</B> meows.
+[16:04:58]SAY: Parrot/ : BAWWWWK george mellons griffing me
+[16:05:00]EMOTE: Parrot/ : <B>The Parrot</B> bawks.
+[16:05:20]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[16:05:34]SAY: grey baby slime (334)/ : Lonely...
+[16:05:53]EMOTE: crab/ : <B>The crab</B> clicks.
+[16:06:05]EMOTE: crab/ : <B>The crab</B> clicks.
+[16:07:16]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[16:08:16]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> shakes its head.
+[16:08:22]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[16:08:34]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[16:09:17]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[16:09:56]SAY: kitten/ : Meow!
+[16:09:58]DEBUG: Next event of severity Mundane in 12.702 minutes.
+[16:09:58]DEBUG: Starting event 'Trivial News' of severity Mundane.
+[16:10:20]DEBUG: Event 'Trivial News' has completed at 13:13.
+[16:10:28]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[16:11:36]SAY: Runtime/ : Esp!
+[16:11:41]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[16:12:43]SAY: cat/ : Purr!
+[16:12:59]EMOTE: cat/ : <B>The cat</B> mews.
+[16:13:24]SAY: kitten/ : Meow!
+[16:13:34]EMOTE: kitten/ : <B>The kitten</B> mews.
+[16:13:42]SAY: cat/ : HSSSSS
+[16:13:48]EMOTE: crab/ : <B>The crab</B> clacks.
+[16:13:50]SAY: Runtime/ : Purr!
+[16:13:52]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[16:15:21]SAY: kitten/ : Esp!
+[16:15:29]SAY: cat/ : Purr!
+[16:15:37]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[16:16:08]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[16:16:08]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> gasps!
+[16:16:10]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> gasps!
+[16:16:32]SAY: Runtime/ : Purr!
+[16:16:50]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> gasps!
+[16:17:04]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[16:17:10]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> gasps!
+[16:17:13]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[16:17:21]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> gasps!
+[16:17:53]SAY: Experiment 97d/ : Eh?
+[16:19:02]EMOTE: kitten/ : <B>The kitten</B> mews.
+[16:19:02]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> gasps!
+[16:19:49]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> gasps!
+[16:20:09]EMOTE: cat/ : <B>The cat</B> mews.
+[16:20:23]EMOTE: Ian/ : <B>Ian</B> woofs.
+[16:20:36]ACCESS: Logout: *no key*/(Amira Cook)
+[16:20:36]ACCESS: Login: Marinalightyears/(Amira Cook) from 98.127.210.230-2261011010 || BYOND v506
+[16:20:48]EMOTE: crab/ : <B>The crab</B> clicks.
+[16:20:58]SAY: grey baby slime (334)/ : I want to eat...
+[16:21:17]DEBUG: Next event of severity Major in 61.592 minutes.
+[16:21:17]DEBUG: Starting event 'Nothing' of severity Major.
+[16:21:19]DEBUG: Event 'Nothing' has completed at 13:24.
+[16:22:11]EMOTE: kitten/ : <B>The kitten</B> mews.
+[16:22:35]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[16:22:41]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[16:22:52]SAY: kitten/ : HSSSSS
+[16:23:04]DEBUG: Next event of severity Moderate in 52.734 minutes.
+[16:23:04]DEBUG: Starting event 'Nothing' of severity Moderate.
+[16:23:06]DEBUG: Event 'Nothing' has completed at 13:26.
+[16:23:12]DEBUG: Next event of severity Mundane in 12.424 minutes.
+[16:23:12]DEBUG: Starting event 'Trivial News' of severity Mundane.
+[16:23:16]SAY: kitten/ : HSSSSS
+[16:23:34]DEBUG: Event 'Trivial News' has completed at 13:26.
+[16:25:53]EMOTE: cat/ : <B>The cat</B> meows.
+[16:26:05]EMOTE: crab/ : <B>The crab</B> clacks.
+[16:26:09]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[16:26:17]SAY: Ian/ : Woof!
+[16:26:33]SAY: grey baby slime (334)/ : Rawr...
+[16:26:43]SAY: grey baby slime (334)/ : Blorble...
+[16:27:02]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[16:27:18]SAY: cat/ : Esp!
+[16:27:20]SAY: Runtime/ : HSSSSS
+[16:27:26]SAY: kitten/ : Esp!
+[16:27:38]SAY: cat/ : Purr!
+[16:27:42]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[16:27:50]SAY: grey baby slime (334)/ : Rawr...
+[16:28:29]SAY: cat/ : Meow!
+[16:28:33]EMOTE: Ian/ : <B>Ian</B> dances around
+[16:28:50]SAY: grey baby slime (89)/ : Blorble...
+[16:29:36]EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[16:29:43]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[16:29:53]EMOTE: Runtime/ : <B>Runtime</B> meows.
+[16:29:57]EMOTE: cat/ : <B>The cat</B> mews.
+[16:30:05]SAY: kitten/ : Esp!
+[16:30:11]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[16:30:21]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[16:30:26]EMOTE: crab/ : <B>The crab</B> clicks.
+[16:30:58]EMOTE: crab/ : <B>The crab</B> clicks.
+[16:32:50]EMOTE: Ian/ : <B>Ian</B> shakes its head.
+[16:32:52]EMOTE: kitten/ : <B>The kitten</B> mews.
+[16:33:02]EMOTE: Ian/ : <B>Ian</B> dances around
+[16:33:12]EMOTE: cat/ : <B>The cat</B> meows.
+[16:33:23]EMOTE: Parrot/ : <B>The Parrot</B> squawks.
+[16:33:29]SAY: Ian/ : Bark!
+[16:33:53]EMOTE: Ian/ : <B>Ian</B> dances around
+[16:34:50]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[16:34:56]SAY: kitten/ : Purr!
+[16:36:05]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[16:36:08]DEBUG: Next event of severity Mundane in 13.334 minutes.
+[16:36:08]DEBUG: Starting event 'Economic News' of severity Mundane.
+[16:36:09]SAY: grey baby slime (334)/ : Blop...
+[16:36:32]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[16:37:33]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[16:37:39]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[16:37:47]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[16:37:49]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[16:37:55]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[16:38:19]SAY: cat/ : HSSSSS
+[16:38:23]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[16:38:34]SAY: Ian/ : AUUUUUU
+[16:38:46]DEBUG: Event 'Economic News' has completed at 13:41.
+[16:39:12]EMOTE: Ian/ : <B>Ian</B> dances around
+[16:39:42]EMOTE: crab/ : <B>The crab</B> clicks.
+[16:39:59]SAY: grey baby slime (89)/ : Blorble...
+[16:39:59]SAY: kitten/ : Esp!
+[16:40:27]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[16:40:55]SAY: grey baby slime (334)/ : Rawr...
+[16:40:55]EMOTE: Ian/ : <B>Ian</B> yaps.
+[16:41:23]SAY: kitten/ : HSSSSS
+[16:41:42]EMOTE: Ian/ : <B>Ian</B> dances around
+[16:41:46]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[16:43:15]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[16:43:27]EMOTE: Ian/ : <B>Ian</B> dances around
+[16:43:37]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[16:45:30]SAY: grey baby slime (89)/ : Rawr...
+[16:45:49]EMOTE: cat/ : <B>The cat</B> mews.
+[16:46:13]EMOTE: Ian/ : <B>Ian</B> dances around
+[16:46:32]EMOTE: kitten/ : <B>The kitten</B> meows.
+[16:46:36]SAY: kitten/ : Purr!
+[16:47:12]SAY: grey baby slime (89)/ : Must... eat...
+[16:47:27]EMOTE: crab/ : <B>The crab</B> clicks.
+[16:48:11]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[16:49:59]SAY: kitten/ : Meow!
+[16:50:03]DEBUG: Next event of severity Mundane in 17.07 minutes.
+[16:50:03]DEBUG: Starting event 'Mundane News' of severity Mundane.
+[16:50:05]SAY: grey baby slime (334)/ : Very... hungry...
+[16:50:09]SAY: Experiment 97d/ : EHEHEHEHEH
+[16:50:24]DEBUG: Event 'Mundane News' has completed at 13:52.
+[16:50:42]EMOTE: Parrot/ : <B>The Parrot</B> bawks.
+[16:51:35]SAY: kitten/ : Esp!
+[16:51:49]SAY: cat/ : Esp!
+[16:51:57]SAY: Ian/ : Bark!
+[16:52:09]SAY: cat/ : Meow!
+[16:52:13]EMOTE: kitten/ : <B>The kitten</B> meows.
+[16:52:20]SAY: grey baby slime (334)/ : Rawr...
+[16:52:28]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[16:52:32]EMOTE: Ian/ : <B>Ian</B> dances around
+[16:52:38]EMOTE: kitten/ : <B>The kitten</B> mews.
+[16:53:04]SAY: Experiment 97d/ : Eh?
+[16:53:17]SAY: grey baby slime (89)/ : Rawr...
+[16:53:31]EMOTE: kitten/ : <B>The kitten</B> meows.
+[16:53:47]EMOTE: cat/ : <B>The cat</B> mews.
+[16:53:53]EMOTE: crab/ : <B>The crab</B> clacks.
+[16:53:55]SAY: kitten/ : Meow!
+[16:54:52]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[16:55:05]SAY: grey baby slime (89)/ : Blorble...
+[16:55:23]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[16:55:29]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[16:56:06]EMOTE: kitten/ : <B>The kitten</B> meows.
+[16:56:24]SAY: Ian/ : Bark!
+[16:56:26]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[16:58:05]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[16:58:50]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[16:59:08]SAY: grey baby slime (89)/ : Must... eat...
+[17:00:01]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[17:00:40]EMOTE: crab/ : <B>The crab</B> clicks.
+[17:01:15]SAY: kitten/ : Purr!
+[17:02:00]EMOTE: crab/ : <B>The crab</B> clacks.
+[17:02:24]SAY: grey baby slime (89)/ : Rawr...
+[17:02:44]EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[17:02:44]EMOTE: crab/ : <B>The crab</B> clacks.
+[17:03:18]EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[17:03:20]SAY: kitten/ : Purr!
+[17:03:28]EMOTE: Runtime/ : <B>Runtime</B> meows.
+[17:03:37]SAY: Runtime/ : Meow!
+[17:03:57]SAY: kitten/ : Esp!
+[17:04:58]SAY: kitten/ : HSSSSS
+[17:05:04]SAY: Parrot/ : Cracker?
+[17:05:31]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> shakes its head.
+[17:05:33]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[17:06:40]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[17:06:48]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[17:06:54]EMOTE: cat/ : <B>The cat</B> shivers.
+[17:07:07]EMOTE: Ian/ : <B>Ian</B> dances around
+[17:07:42]SAY: kitten/ : Purr!
+[17:07:46]DEBUG: Next event of severity Mundane in 15.29 minutes.
+[17:07:46]DEBUG: Starting event 'Trivial News' of severity Mundane.
+[17:07:48]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[17:07:50]SAY: grey baby slime (89)/ : Very... hungry...
+[17:07:56]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[17:08:06]SAY: Ian/ : AUUUUUU
+[17:08:08]DEBUG: Event 'Trivial News' has completed at 14:09.
+[17:08:57]SAY: kitten/ : Esp!
+[17:09:03]SAY: grey baby slime (334)/ : So... hungry...
+[17:09:13]SAY: grey baby slime (89)/ : Very... hungry...
+[17:09:34]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[17:09:42]SAY: grey baby slime (89)/ : Very... hungry...
+[17:10:08]SAY: kitten/ : Purr!
+[17:10:26]SAY: kitten/ : Meow!
+[17:11:13]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[17:11:37]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[17:11:41]SAY: grey baby slime (89)/ : Must... eat...
+[17:12:37]SAY: Parrot/ : BAWWWWK george mellons griffing me
+[17:12:43]SAY: grey baby slime (334)/ : Blop...
+[17:13:25]EMOTE: Parrot/ : <B>The Parrot</B> flutters its wings.
+[17:14:29]SAY: cat/ : HSSSSS
+[17:14:35]SAY: Parrot/ : Cracker?
+[17:15:01]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[17:15:30]SAY: grey baby slime (334)/ : Very... hungry...
+[17:15:30]SAY: kitten/ : Esp!
+[17:15:42]EMOTE: cat/ : <B>The cat</B> meows.
+[17:16:07]SAY: Experiment 97d/ : EHEHEHEHEH
+[17:16:09]EMOTE: Ian/ : <B>Ian</B> dances around
+[17:16:27]EMOTE: Ian/ : <B>Ian</B> dances around
+[17:16:39]EMOTE: Ian/ : <B>Ian</B> dances around
+[17:17:06]EMOTE: crab/ : <B>The crab</B> clicks.
+[17:17:16]EMOTE: Ian/ : <B>Ian</B> dances around
+[17:17:51]DEBUG: Next event of severity Moderate in 42.016 minutes.
+[17:17:51]DEBUG: Starting event 'Electrical Storm' of severity Moderate.
+[17:17:52]EMOTE: kitten/ : <B>The kitten</B> meows.
+[17:17:53]DEBUG: Event 'Electrical Storm' has completed at 14:18.
+[17:18:04]EMOTE: kitten/ : <B>The kitten</B> meows.
+[17:18:39]EMOTE: cat/ : <B>The cat</B> shivers.
+[17:18:47]EMOTE: Ian/ : <B>Ian</B> barks.
+[17:19:03]SAY: kitten/ : Meow!
+[17:19:17]EMOTE: cat/ : <B>The cat</B> shivers.
+[17:19:40]SAY: Parrot/ : BAWWWWK george mellons griffing me
+[17:20:41]EMOTE: Ian/ : <B>Ian</B> dances around
+[17:20:53]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[17:20:55]EMOTE: Ian/ : <B>Ian</B> dances around
+[17:20:59]EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[17:21:11]SAY: grey baby slime (334)/ : Lonely...
+[17:21:35]SAY: kitten/ : Meow!
+[17:21:47]SAY: cat/ : Esp!
+[17:21:54]SAY: Parrot/ : Cracker?
+[17:22:00]EMOTE: Ian/ : <B>Ian</B> barks.
+[17:22:16]SAY: grey baby slime (334)/ : So... hungry...
+[17:22:30]EMOTE: cat/ : <B>The cat</B> meows.
+[17:22:38]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[17:22:48]EMOTE: kitten/ : <B>The kitten</B> meows.
+[17:23:07]SAY: grey baby slime (334)/ : Very... hungry...
+[17:23:35]SAY: cat/ : Meow!
+[17:23:39]DEBUG: Next event of severity Mundane in 15.308 minutes.
+[17:23:39]DEBUG: Starting event 'Trivial News' of severity Mundane.
+[17:23:47]SAY: grey baby slime (334)/ : Blorble...
+[17:23:53]SAY: cat/ : HSSSSS
+[17:24:00]DEBUG: Event 'Trivial News' has completed at 14:24.
+[17:24:03]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[17:24:09]EMOTE: Ian/ : <B>Ian</B> dances around
+[17:24:15]SAY: grey baby slime (89)/ : Cold...
+[17:24:44]SAY: Ian/ : Bark!
+[17:24:46]EMOTE: Ian/ : <B>Ian</B> woofs.
+[17:24:50]EMOTE: crab/ : <B>The crab</B> clacks.
+[17:25:14]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[17:25:17]DEBUG: Next event of severity Major in 64.096 minutes.
+[17:25:17]DEBUG: Starting event 'Nothing' of severity Major.
+[17:25:19]DEBUG: Event 'Nothing' has completed at 14:26.
+[17:25:23]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[17:25:41]EMOTE: Runtime/ : <B>Runtime</B> mews.
+[17:25:41]EMOTE: crab/ : <B>The crab</B> clicks.
+[17:26:33]EMOTE: Ian/ : <B>Ian</B> dances around
+[17:27:38]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[17:27:43]SAY: Runtime/ : Purr!
+[17:27:45]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[17:27:45]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[17:28:05]EMOTE: crab/ : <B>The crab</B> clicks.
+[17:28:07]SAY: cat/ : Meow!
+[17:28:13]SAY: kitten/ : Purr!
+[17:28:29]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[17:28:48]EMOTE: kitten/ : <B>The kitten</B> meows.
+[17:28:56]SAY: Parrot/ : BAWWWWK george mellons griffing me
+[17:29:22]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[17:29:32]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[17:29:44]SAY: Ian/ : AUUUUUU
+[17:30:23]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[17:30:37]EMOTE: cat/ : <B>The cat</B> meows.
+[17:30:39]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[17:32:10]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[17:32:19]SAY: Runtime/ : Purr!
+[17:32:33]EMOTE: crab/ : <B>The crab</B> clicks.
+[17:33:14]EMOTE: Ian/ : <B>Ian</B> shivers.
+[17:33:20]EMOTE: Ian/ : <B>Ian</B> shivers.
+[17:33:34]EMOTE: cat/ : <B>The cat</B> mews.
+[17:33:48]EMOTE: Ian/ : <B>Ian</B> dances around
+[17:33:50]EMOTE: Parrot/ : <B>The Parrot</B> flutters its wings.
+[17:33:54]SAY: Ian/ : YAP
+[17:34:02]SAY: grey baby slime (334)/ : Lonely...
+[17:35:40]SAY: Runtime/ : Meow!
+[17:36:02]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[17:36:12]ACCESS: Logout: Marinalightyears/(Amira Cook)
+[17:49:07]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[17:49:20]SAY: cat/ : Purr!
+[17:49:36]ACCESS: Login: Marinalightyears/(Amira Cook) from 98.127.210.230-2261011010 || BYOND v506
+[17:49:56]SAY: Parrot/ : BAWWWWK george mellons griffing me
+[17:50:27]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[17:51:09]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[17:51:37]SAY: Ian/ : Woof!
+[17:52:06]DEBUG: Next event of severity Mundane in 17.256 minutes.
+[17:52:06]DEBUG: Starting event 'Mundane News' of severity Mundane.
+[17:52:22]EMOTE: Ian/ : <B>Ian</B> yaps.
+[17:52:24]EMOTE: kitten/ : <B>The kitten</B> mews.
+[17:52:27]DEBUG: Event 'Mundane News' has completed at 14:40.
+[17:53:49]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[17:54:46]SAY: cat/ : Meow!
+[17:55:04]SAY: cat/ : HSSSSS
+[17:56:34]SAY: cat/ : Purr!
+[17:56:36]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[17:56:54]ACCESS: Logout: *no key*/(Amira Cook)
+[17:56:54]ACCESS: Login: Marinalightyears/(Amira Cook) from 98.127.210.230-2261011010 || BYOND v506
+[17:57:24]EMOTE: kitten/ : <B>The kitten</B> mews.
+[17:57:36]SAY: Runtime/ : Meow!
+[17:59:13]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[17:59:19]EMOTE: Ian/ : <B>Ian</B> barks.
+[18:00:24]SAY: Runtime/ : HSSSSS
+[18:00:30]SAY: kitten/ : Esp!
+[18:00:43]SAY: Experiment 97d/ : EHEHEHEHEH
+[18:01:01]SAY: kitten/ : Meow!
+[18:01:09]EMOTE: crab/ : <B>The crab</B> clacks.
+[18:02:14]EMOTE: crab/ : <B>The crab</B> clicks.
+[18:02:54]SAY: cat/ : Esp!
+[18:03:06]ACCESS: Login: Kerbal22/(Kerbal22) from 24.181.70.89-1162035905 || BYOND v506
+[18:03:10]ACCESS: Logout: Kerbal22/(Kerbal22)
+[18:04:05]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[18:04:25]SAY: cat/ : Meow!
+[18:05:20]SAY: kitten/ : Meow!
+[18:05:46]SAY: kitten/ : Esp!
+[18:05:56]EMOTE: Ian/ : <B>Ian</B> barks.
+[18:05:58]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[18:06:06]EMOTE: Parrot/ : <B>The Parrot</B> bawks.
+[18:06:24]EMOTE: Ian/ : <B>Ian</B> shakes its head.
+[18:06:32]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[18:06:40]EMOTE: cat/ : <B>The cat</B> shivers.
+[18:06:42]SAY: kitten/ : Esp!
+[18:07:31]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[18:07:41]EMOTE: Ian/ : <B>Ian</B> dances around
+[18:08:56]EMOTE: Ian/ : <B>Ian</B> dances around
+[18:09:14]SAY: kitten/ : Esp!
+[18:09:57]SAY: cat/ : HSSSSS
+[18:09:59]DEBUG: Next event of severity Mundane in 13.032 minutes.
+[18:09:59]DEBUG: Starting event 'Mundane News' of severity Mundane.
+[18:10:19]SAY: Parrot/ : Cracker?
+[18:10:21]DEBUG: Event 'Mundane News' has completed at 14:57.
+[18:11:03]SAY: cat/ : Meow!
+[18:11:05]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[18:11:27]SAY: Parrot/ : Cracker?
+[18:11:42]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[18:12:00]VOTE: Crew_transfer vote started by the server.
+[18:12:00]DEBUG: The server has called a crew transfer vote
+[18:12:06]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[18:12:52]SAY: Parrot/ : BAWWWWK george mellons griffing me
+[18:13:03]VOTE: <b>Vote Result: Inconclusive - No Votes!</b>
+[18:13:23]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[18:13:43]EMOTE: Ian/ : <B>Ian</B> dances around
+[18:14:00]DEBUG: Next event of severity Moderate in 38.504 minutes.
+[18:14:00]DEBUG: Starting event 'Spider Infestation' of severity Moderate.
+[18:14:52]EMOTE: crab/ : <B>The crab</B> clicks.
+[18:15:28]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[18:15:32]SAY: kitten/ : Meow!
+[18:15:32]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[18:15:58]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[18:16:00]EMOTE: Ian/ : <B>Ian</B> barks.
+[18:16:33]EMOTE: cat/ : <B>The cat</B> meows.
+[18:17:37]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[18:17:37]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[18:17:40]SAY: kitten/ : Meow!
+[18:17:48]SAY: cat/ : Esp!
+[18:17:50]SAY: kitten/ : Meow!
+[18:18:10]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[18:18:16]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[18:18:22]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[18:18:26]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[18:18:28]EMOTE: cat/ : <B>The cat</B> shivers.
+[18:18:38]EMOTE: cat/ : <B>The cat</B> meows.
+[18:18:40]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[18:18:44]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[18:18:46]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[18:18:54]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[18:19:35]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[18:19:49]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[18:20:07]EMOTE: cat/ : <B>The cat</B> shivers.
+[18:20:09]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[18:20:13]SAY: Parrot/ : BAWWWWK george mellons griffing me
+[18:20:31]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[18:20:37]EMOTE: Parrot/ : <B>The Parrot</B> squawks.
+[18:20:50]EMOTE: Runtime/ : <B>Runtime</B> meows.
+[18:20:50]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[18:20:58]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[18:21:04]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[18:21:08]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[18:21:10]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[18:21:12]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[18:21:12]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[18:21:18]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[18:21:40]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[18:21:42]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[18:21:44]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[18:22:12]EMOTE: Runtime/ : <B>Runtime</B> mews.
+[18:22:16]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[18:22:20]VOTE: Restart vote started by Marinalightyears.
+[18:22:23]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[18:22:31]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[18:22:37]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[18:22:39]SAY: cat/ : Meow!
+[18:22:39]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[18:22:43]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[18:22:57]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[18:22:57]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[18:23:22]VOTE: <b>Vote Result: Restart Round</b>
+[18:23:27]GAME: Rebooting due to restart vote
+[18:23:27]ACCESS: Logout: Marinalightyears/(Amira Cook)
+
+
+Starting up. 18:24.20
+---------------------
+[18:24:20]ADMIN: Loading jobban_rank
+[18:24:20]ADMIN: jobban_keylist was empty
+[18:24:20]ADMIN: Loading Banlist
+[18:24:22]DEBUG: Rebuilding Master Controller
+[18:24:31]ACCESS: Login: Marinalightyears/(Marinalightyears) from 98.127.210.230-2261011010 || BYOND v506
+[18:25:02]ACCESS: Logout: Marinalightyears/(Marinalightyears)
+[18:25:41]VOTE: Gamemode vote started by the server.
+[18:25:41]DEBUG: The server has called a gamemode vote
+[18:25:51]ACCESS: Login: Marinalightyears/(Marinalightyears) from 98.127.210.230-2261011010 || BYOND v506
+[18:26:41]DEBUG: The server has called a gamemode vote
+[18:26:41]VOTE: <b>Vote Result: Inconclusive - No Votes!</b>
+[18:28:04]DEBUG: Next event of severity Mundane in 15.458 minutes.
+[18:28:04]DEBUG: Next event of severity Moderate in 45.218 minutes.
+[18:28:04]DEBUG: Next event of severity Major in 94.7517 minutes.
+[18:28:05]SAY: kitten/ : HSSSSS
+[18:28:19]SAY: mouse (318)/ : Squeek?
+[18:28:21]EMOTE: crab/ : <B>The crab</B> clacks.
+[18:28:32]EMOTE: mouse (524)/ : <B>The mouse (524)</B> squiks.
+[18:28:44]ACCESS: Logout: *no key*/(Marinalightyears)
+[18:28:44]ACCESS: Login: Marinalightyears/(Amira Cook) from 98.127.210.230-2261011010 || BYOND v506
+[18:28:47]EMOTE: cat/ : <B>The cat</B> shivers.
+[18:28:51]EMOTE: Parrot/ : <B>The Parrot</B> turns and flies towards the deck of cards
+[18:28:55]EMOTE: Parrot/ : <B>The Parrot</B> squawks.
+[18:29:19]EMOTE: mouse (470)/ : <B>The mouse (470)</B> squeeks.
+[18:29:38]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[18:29:40]ACCESS: Login: Cassy_jenelle/(Cassy_jenelle) from 81.104.88.62-1964287214 || BYOND v506
+[18:30:00]SAY: grey baby slime (704)/ : Blop...
+[18:30:12]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[18:30:16]SAY: mouse (221)/ : Squeek?
+[18:30:20]EMOTE: cat/ : <B>The cat</B> mews.
+[18:30:22]SAY: mouse (554)/ : Squeek?
+[18:30:43]ACCESS: Logout: *no key*/(Cassy_jenelle)
+[18:30:43]ACCESS: Login: Cassy_jenelle/(Camile Crafter) from 81.104.88.62-1964287214 || BYOND v506
+[18:30:44]EMOTE: mouse (262)/ : <B>The mouse (262)</B> squeaks.
+[18:30:58]SAY: grey baby slime (704)/ : Blop...
+[18:31:02]OOC: (LOCAL) Amira Cook/Marinalightyears : ohy
+[18:31:08]OOC: (LOCAL) Camile Crafter/Cassy_jenelle : ohi bb
+[18:31:18]OOC: (LOCAL) Amira Cook/Marinalightyears : Im just making a mess is all
+[18:31:54]SAY: Camile Crafter/Cassy_jenelle : ohaiyo gozamasu
+[18:32:03]SAY: Amira Cook/Marinalightyears : Ohaiyooo
+[18:32:15]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> eats toast and runs to scool lel
+[18:32:18]SAY: Camile Crafter/Cassy_jenelle : Ohio go say must.
+[18:32:20]EMOTE: Ian/ : <B>Ian</B> woofs.
+[18:32:22]SAY: mouse (942)/ : Squeek!
+[18:32:28]SAY: Amira Cook/Marinalightyears : yes
+[18:32:29]SAY: Amira Cook/Marinalightyears : that
+[18:32:42]EMOTE: mouse (554)/ : <B>The mouse (554)</B> squiks.
+[18:32:56]SAY: Amira Cook/Marinalightyears : dressup is the funnest part.
+[18:32:59]EMOTE: Camile Crafter/Cassy_jenelle : <B>Camile Crafter</B> has no curves to fit that dress.
+[18:33:00]EMOTE: mouse (262)/ : <B>The mouse (262)</B> squeaks.
+[18:33:14]SAY: kitten/ : Meow!
+[18:33:27]EMOTE: Camile Crafter/Cassy_jenelle : <B>Camile Crafter</B> the space made for boobies looks very vacant. Perhaps you could fit a house in there.
+[18:33:32]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[18:33:34]SAY: Camile Crafter/Cassy_jenelle : How&#39;sit look?
+[18:33:42]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[18:33:52]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[18:33:56]EMOTE: kitten/ : <B>The kitten</B> meows.
+[18:34:07]SAY: Amira Cook/Marinalightyears : looks like prime realestate
+[18:34:12]SAY: Amira Cook/Marinalightyears : or something.
+[18:34:22]SAY: Parrot/ : Cracker?
+[18:34:28]SAY: Amira Cook/Marinalightyears : oh gawd its so big and poofy
+[18:34:30]SAY: mouse (262)/ : Squeek?
+[18:34:35]SAY: Camile Crafter/Cassy_jenelle : I know right?
+[18:35:11]SAY: Camile Crafter/Cassy_jenelle : Look at me! I&#39;m a pig!
+[18:35:16]SAY: Amira Cook/Marinalightyears : so sophistocated.
+[18:35:20]EMOTE: Camile Crafter/Cassy_jenelle : <B>Camile Crafter</B> swaggers in her police offier suit.
+[18:35:22]SAY: Amira Cook/Marinalightyears : yes, that too.
+[18:35:26]EMOTE: Tom (223)/ : <B>Tom (223)</B> runs in a circle.
+[18:35:27]SAY: Amira Cook/Marinalightyears : needs more pig mask
+[18:35:28]EMOTE: mouse (221)/ : <B>The mouse (221)</B> scritches at something.
+[18:35:40]EMOTE: mouse (318)/ : <B>The mouse (318)</B> shakes.
+[18:35:52]EMOTE: cat/ : <B>The cat</B> mews.
+[18:36:06]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[18:36:19]SAY: Camile Crafter/Cassy_jenelle : You&#39;ve got mail!
+[18:36:27]SAY: Amira Cook/Marinalightyears : ah yes, the very retired Mail job.
+[18:36:29]SAY: Amira Cook/Marinalightyears : and AOL
+[18:36:35]SAY: Camile Crafter/Cassy_jenelle : Hah!
+[18:36:43]SAY: Amira Cook/Marinalightyears : I feel old remmebering AOL, even though I was kind of young for it
+[18:37:00]SAY: kitten/ : Purr!
+[18:37:02]SAY: kitten/ : HSSSSS
+[18:37:12]EMOTE: mouse (262)/ : <B>The mouse (262)</B> squiks.
+[18:37:38]SAY: grey baby slime (704)/ : Rawr...
+[18:37:38]EMOTE: crab/ : <B>The crab</B> clacks.
+[18:37:58]SAY: Parrot/ : Hello!
+[18:38:04]SAY: Camile Crafter/Cassy_jenelle : Ready to go to IC-land bae?
+[18:38:24]SAY: Amira Cook/Marinalightyears : sure
+[18:38:36]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[18:38:37]SAY: Amira Cook/Marinalightyears : whiiiich icland?
+[18:38:48]SAY: Camile Crafter/Cassy_jenelle : Biezel?
+[18:38:57]SAY: Amira Cook/Marinalightyears : that is the much bigger one. hue
+[18:38:59]SAY: Amira Cook/Marinalightyears : ok!
+[18:39:00]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[18:39:16]SAY: Camile Crafter/Cassy_jenelle : Ever been past &#39;ere?
+[18:39:22]ADMIN: Cassy_jenelle/(Camile Crafter) jumped to 15,94,7 in the Residential Area
+[18:39:22]OOC: (LOCAL) Amira Cook/Marinalightyears : laaal. I cn climb in
+[18:39:28]ADMIN: Cassy_jenelle/(Camile Crafter) teleported Marinalightyears/(Amira Cook)
+[18:39:35]OOC: (LOCAL) Camile Crafter/Cassy_jenelle : LOL
+[18:39:37]ACCESS: Logout: *no key*/(Camile Crafter)
+[18:39:37]ACCESS: Login: Cassy_jenelle/(Camile Crafter) from 81.104.88.62-1964287214 || BYOND v506
+[18:39:37]SAY: Amira Cook/Marinalightyears : once
+[18:39:51]SAY: Amira Cook/Marinalightyears : I kinda snuck over like. yeah.
+[18:39:54]ADMIN: Cassy_jenelle/(Camile Crafter) teleported Marinalightyears/(Amira Cook)
+[18:39:58]ADMIN: Cassy_jenelle/(Camile Crafter) teleported @Cassy_jenelle/(Camile Crafter)
+[18:40:01]EMOTE: Runtime/ : <B>Runtime</B> meows.
+[18:40:06]ADMIN: Cassy_jenelle/(Camile Crafter) teleported @Cassy_jenelle/(Camile Crafter)
+[18:40:10]SAY: Amira Cook/Marinalightyears : I found a pizza in here.
+[18:40:12]ADMIN: Cassy_jenelle/(Camile Crafter) teleported Marinalightyears/(Amira Cook)
+[18:40:14]ACCESS: Logout: *no key*/(Camile Crafter)
+[18:40:14]ACCESS: Login: Cassy_jenelle/(Camile Crafter) from 81.104.88.62-1964287214 || BYOND v506
+[18:40:33]EMOTE: Ian/ : <B>Ian</B> dances around
+[18:41:20]OOC: (LOCAL) Camile Crafter/Cassy_jenelle : how meat pizza even?
+[18:41:23]EMOTE: crab/ : <B>The crab</B> clicks.
+[18:41:31]OOC: (LOCAL) Amira Cook/Marinalightyears : not a dang clue. I walways just wiki
+[18:41:37]EMOTE: cat/ : <B>The cat</B> mews.
+[18:41:45]EMOTE: crab/ : <B>The crab</B> clicks.
+[18:42:01]SAY: mouse (318)/ : SQUEEK!
+[18:42:13]EMOTE: mouse (554)/ : <B>The mouse (554)</B> squeaks.
+[18:42:21]OOC: (LOCAL) Amira Cook/Marinalightyears : loook, I made a pizza.  by opening  abox. so cool
+[18:42:43]SAY: mouse (942)/ : Squeek?
+[18:42:45]OOC: (LOCAL) Camile Crafter/Cassy_jenelle : BEST
+[18:42:59]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[18:43:08]OOC: (LOCAL) Amira Cook/Marinalightyears : ohey
+[18:43:19]OOC: (LOCAL) Amira Cook/Marinalightyears : this wasnt here when I broke in last night
+[18:43:39]OOC: (LOCAL) Camile Crafter/Cassy_jenelle : You broke into the sol one, that&#39;s probably why. they&#39;re identical atm
+[18:43:48]OOC: (LOCAL) Amira Cook/Marinalightyears : ooooh. thats fair.
+[18:43:56]ATTACK: Camile Crafter (cassyjenelle) was hit by a the basketball, thrown by Amira Cook (marinalightyears) (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=42;Y=40;Z=7'>JMP</a>)
+[18:44:03]ATTACK: Amira Cook (marinalightyears) was hit by a the basketball, thrown by Camile Crafter (cassyjenelle) (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=45;Y=39;Z=7'>JMP</a>)
+[18:44:10]OOC: (LOCAL) Camile Crafter/Cassy_jenelle : put throw intent on
+[18:44:18]ATTACK: Camile Crafter (cassyjenelle) was hit by a the basketball, thrown by Amira Cook (marinalightyears) (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=43;Y=40;Z=7'>JMP</a>)
+[18:44:25]OOC: (LOCAL) Camile Crafter/Cassy_jenelle : I mean, press the throw button to catch things
+[18:44:32]OOC: (LOCAL) Amira Cook/Marinalightyears : throw intent on used to catch bullets
+[18:44:41]DEBUG: Next event of severity Mundane in 17.23 minutes.
+[18:44:41]DEBUG: Starting event 'Mundane News' of severity Mundane.
+[18:44:43]OOC: (LOCAL) Camile Crafter/Cassy_jenelle : That&#39;s some matrix shit wow
+[18:44:43]EMOTE: Ian/ : <B>Ian</B> dances around
+[18:44:50]OOC: (LOCAL) Amira Cook/Marinalightyears : yeh. hue
+[18:44:51]EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[18:45:01]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[18:45:01]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[18:45:02]DEBUG: Event 'Mundane News' has completed at 12:19.
+[18:45:18]OOC: (LOCAL) Camile Crafter/Cassy_jenelle : OOOOH
+[18:45:25]OOC: Camile Crafter/Cassy_jenelle : INSPIRATION STRUCK
+[18:45:28]OOC: Amira Cook/Marinalightyears : oh?
+[18:45:32]EMOTE: cat/ : <B>The cat</B> shivers.
+[18:45:35]OOC: Camile Crafter/Cassy_jenelle : AN ICE SKATING RINK
+[18:45:40]OOC: Camile Crafter/Cassy_jenelle : YE WE DO NOW NOW
+[18:45:42]OOC: Amira Cook/Marinalightyears : Ooooh. that is cool!
+[18:45:45]OOC: Camile Crafter/Cassy_jenelle : YES YES
+[18:46:16]ATTACK: Camile Crafter (cassyjenelle) was hit by a the basketball, thrown by Amira Cook (marinalightyears) (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=39;Y=33;Z=7'>JMP</a>)
+[18:46:16]OOC: (LOCAL) Camile Crafter/Cassy_jenelle : hang on brb
+[18:46:21]OOC: (LOCAL) Amira Cook/Marinalightyears : ok
+[18:46:47]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[18:47:05]EMOTE: Parrot/ : <B>The Parrot</B> flutters its wings.
+[18:47:19]EMOTE: crab/ : <B>The crab</B> clicks.
+[18:47:21]EMOTE: kitten/ : <B>The kitten</B> mews.
+[18:47:28]ADMIN: PM: Cassy_jenelle/(Camile Crafter)->Marinalightyears/(Amira Cook): Pray for a cookie
+[18:47:39]SAY: grey baby slime (704)/ : Blop...
+[18:47:39]EMOTE: Ian/ : <B>Ian</B> dances around
+[18:48:00]ATTACK: Camile Crafter (cassyjenelle) was hit by a Amira Cook's ID Card (Assistant), thrown by Amira Cook (marinalightyears) (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=39;Y=34;Z=7'>JMP</a>)
+[18:48:04]SAY: Runtime/ : Purr!
+[18:48:10]ATTACK: Camile Crafter (cassyjenelle) was hit by a the personal AI device, thrown by Amira Cook (marinalightyears) (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=43;Y=34;Z=7'>JMP</a>)
+[18:48:14]ATTACK: Camile Crafter (cassyjenelle) was hit by a the basketball, thrown by Amira Cook (marinalightyears) (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=43;Y=34;Z=7'>JMP</a>)
+[18:48:18]ADMIN: Marinalightyears/(Amira Cook) got their cookie, spawned by Cassy_jenelle/(Camile Crafter)
+[18:48:32]EMOTE: Ian/ : <B>Ian</B> pants.
+[18:48:41]OOC: (LOCAL) Amira Cook/Marinalightyears : Your prayers have been answered!! You received the best cookie!
+[18:48:50]OOC: (LOCAL) Amira Cook/Marinalightyears : I like prayercookies.
+[18:48:50]EMOTE: Ian/ : <B>Ian</B> dances around
+[18:49:10]EMOTE: mouse (554)/ : <B>The mouse (554)</B> squeaks.
+[18:49:14]EMOTE: Ian/ : <B>Ian</B> dances around
+[18:49:40]SAY: Camile Crafter/Cassy_jenelle : Catch!
+[18:49:44]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[18:49:44]ATTACK: Amira Cook (marinalightyears) was hit by a the basketball, thrown by Camile Crafter (cassyjenelle) (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=61;Y=36;Z=7'>JMP</a>)
+[18:49:50]SAY: Amira Cook/Marinalightyears : faailure
+[18:49:56]SAY: Camile Crafter/Cassy_jenelle : Innit doe?
+[18:49:58]ATTACK: Camile Crafter (cassyjenelle) was hit by a the basketball, thrown by Amira Cook (marinalightyears) (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=63;Y=35;Z=7'>JMP</a>)
+[18:50:21]ATTACK: Camile Crafter (cassyjenelle) was hit by a the basketball, thrown by Amira Cook (marinalightyears) (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=63;Y=35;Z=7'>JMP</a>)
+[18:50:27]EMOTE: Runtime/ : <B>Runtime</B> shakes their head.
+[18:50:33]OOC: (LOCAL) Camile Crafter/Cassy_jenelle : Now, fair Marina. I must return to mappings
+[18:50:34]SAY: Amira Cook/Marinalightyears : I dont think either of us has caught the ball in awhile.
+[18:50:39]SAY: Camile Crafter/Cassy_jenelle : True that.
+[18:50:42]ADMIN: Cassy_jenelle/(Camile Crafter) jumped to 65,36,7 in the Residential Area
+[18:50:45]OOC: (LOCAL) Amira Cook/Marinalightyears : awww ok. Thanks for the goofing offness then~
+[18:50:48]ADMIN: Cassy_jenelle/(Camile Crafter) teleported Marinalightyears/(Amira Cook)
+[18:51:08]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[18:51:34]SAY: Camile Crafter/Cassy_jenelle : I&#39;m going to Sol. Home...
+[18:51:54]SAY: grey baby slime (976)/ : Lonely...
+[18:52:04]EMOTE: Ian/ : <B>Ian</B> dances around
+[18:53:17]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[18:53:17]EMOTE: crab/ : <B>The crab</B> clacks.
+[18:54:28]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[18:54:32]EMOTE: Ian/ : <B>Ian</B> shakes its head.
+[18:55:40]SAY: Parrot/ : Cracker?
+[18:55:54]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[18:56:31]ACCESS: Logout: *no key*/(Camile Crafter)
+[18:56:31]ACCESS: Login: Cassy_jenelle/(Camile Crafter) from 81.104.88.62-1964287214 || BYOND v506
+[18:56:57]ADMIN: Cassy_jenelle/(Camile Crafter) teleported @Cassy_jenelle/(Camile Crafter)
+[18:56:58]ACCESS: Logout: *no key*/(Camile Crafter)
+[18:56:58]ACCESS: Login: Cassy_jenelle/(Camile Crafter) from 81.104.88.62-1964287214 || BYOND v506
+[18:56:59]EMOTE: Runtime/ : <B>Runtime</B> meows.
+[18:57:07]ACCESS: Logout: *no key*/(Camile Crafter)
+[18:57:07]ACCESS: Login: Cassy_jenelle/(Camile Crafter) from 81.104.88.62-1964287214 || BYOND v506
+[18:57:14]ADMIN: Cassy_jenelle/(Camile Crafter) teleported @Cassy_jenelle/(Camile Crafter)
+[18:57:20]SAY: Amira Cook/Marinalightyears : a'HHh
+[18:57:26]SAY: Amira Cook/Marinalightyears : SuddenLY TRiPPppPy'yy'
+[18:57:31]ADMIN: Cassy_jenelle/(Camile Crafter) teleported @Cassy_jenelle/(Camile Crafter)
+[18:57:34]ACCESS: Logout: *no key*/(Camile Crafter)
+[18:57:34]ACCESS: Login: Cassy_jenelle/(Camile Crafter) from 81.104.88.62-1964287214 || BYOND v506
+[18:57:35]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[18:57:54]ACCESS: Logout: *no key*/(Camile Crafter)
+[18:57:54]ACCESS: Login: Cassy_jenelle/(Camile Crafter) from 81.104.88.62-1964287214 || BYOND v506
+[18:57:55]SAY: Amira Cook/Marinalightyears : Im Not dancing, iM TryIng to Wal'k
+[18:58:05]ADMIN: Cassy_jenelle/(Camile Crafter) teleported @Cassy_jenelle/(Camile Crafter)
+[18:58:25]EMOTE: kitten/ : <B>The kitten</B> mews.
+[18:58:49]SAY: kitten/ : Esp!
+[18:58:51]EMOTE: Ian/ : <B>Ian</B> yaps.
+[18:58:55]SAY: cat/ : Purr!
+[18:59:10]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> shakes its head.
+[18:59:44]EMOTE: Ian/ : <B>Ian</B> pants.
+[19:00:08]EMOTE: Ian/ : <B>Ian</B> dances around
+[19:00:17]SAY: Parrot/ : Cracker?
+[19:00:49]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[19:00:49]SAY: cat/ : Purr!
+[19:01:09]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[19:01:30]SAY: grey baby slime (704)/ : Lonely...
+[19:01:32]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[19:01:38]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[19:02:24]EMOTE: Parrot/ : <B>The Parrot</B> flutters its wings.
+[19:02:49]DEBUG: Next event of severity Mundane in 14.286 minutes.
+[19:02:49]DEBUG: Starting event 'Economic News' of severity Mundane.
+[19:03:35]EMOTE: kitten/ : <B>The kitten</B> mews.
+[19:03:45]EMOTE: kitten/ : <B>The kitten</B> mews.
+[19:03:57]EMOTE: crab/ : <B>The crab</B> clicks.
+[19:05:06]SAY: kitten/ : Meow!
+[19:05:12]EMOTE: Ian/ : <B>Ian</B> pants.
+[19:05:34]EMOTE: crab/ : <B>The crab</B> clicks.
+[19:06:22]EMOTE: Ian/ : <B>Ian</B> dances around
+[19:06:38]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[19:07:19]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[19:07:23]DEBUG: Event 'Economic News' has completed at 12:40.
+[19:07:35]SAY: kitten/ : HSSSSS
+[19:08:36]SAY: cat/ : HSSSSS
+[19:08:58]SAY: kitten/ : Esp!
+[19:09:22]SAY: Parrot/ : Hello!
+[19:10:36]EMOTE: cat/ : <B>The cat</B> mews.
+[19:11:20]SAY: Parrot/ : Hello!
+[19:11:56]EMOTE: Ian/ : <B>Ian</B> shivers.
+[19:11:56]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[19:12:08]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[19:12:18]EMOTE: Ian/ : <B>Ian</B> dances around
+[19:13:37]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[19:13:37]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[19:14:12]SAY: grey baby slime (704)/ : Rawr...
+[19:14:26]EMOTE: kitten/ : <B>The kitten</B> mews.
+[19:14:30]EMOTE: Ian/ : <B>Ian</B> woofs.
+[19:16:03]DEBUG: Next event of severity Moderate in 46.74 minutes.
+[19:16:03]DEBUG: Starting event 'Nothing' of severity Moderate.
+[19:16:05]DEBUG: Event 'Nothing' has completed at 12:48.
+[19:16:11]EMOTE: Ian/ : <B>Ian</B> yaps.
+[19:16:21]EMOTE: Ian/ : <B>Ian</B> dances around
+[19:16:27]EMOTE: Runtime/ : <B>Runtime</B> shakes their head.
+[19:16:41]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[19:16:49]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[19:16:57]SAY: grey baby slime (976)/ : Blop...
+[19:16:57]EMOTE: cat/ : <B>The cat</B> shivers.
+[19:17:29]SAY: Runtime/ : Esp!
+[19:17:56]DEBUG: Next event of severity Mundane in 14.202 minutes.
+[19:17:56]DEBUG: Starting event 'Trivial News' of severity Mundane.
+[19:17:57]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[19:18:18]DEBUG: Event 'Trivial News' has completed at 12:50.
+[19:18:54]EMOTE: Runtime/ : <B>Runtime</B> mews.
+[19:19:16]EMOTE: kitten/ : <B>The kitten</B> mews.
+[19:19:38]EMOTE: kitten/ : <B>The kitten</B> mews.
+[19:19:53]SAY: Parrot/ : Hi
+[19:19:55]SAY: Parrot/ : Hello!
+[19:20:07]SAY: grey baby slime (976)/ : Hungry...
+[19:20:31]SAY: grey baby slime (976)/ : Lonely...
+[19:20:53]SAY: grey baby slime (976)/ : Where is the food?
+[19:20:59]EMOTE: Ian/ : <B>Ian</B> dances around
+[19:21:08]EMOTE: Ian/ : <B>Ian</B> shivers.
+[19:21:12]EMOTE: kitten/ : <B>The kitten</B> mews.
+[19:21:26]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[19:21:44]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[19:22:12]SAY: Experiment 97d/ : EHEHEHEHEH
+[19:22:12]SAY: cat/ : Meow!
+[19:22:30]EMOTE: Ian/ : <B>Ian</B> dances around
+[19:22:40]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[19:22:52]EMOTE: kitten/ : <B>The kitten</B> mews.
+[19:24:05]EMOTE: Ian/ : <B>Ian</B> yaps.
+[19:24:59]EMOTE: Ian/ : <B>Ian</B> dances around
+[19:25:07]EMOTE: Ian/ : <B>Ian</B> shivers.
+[19:25:54]SAY: kitten/ : Esp!
+[19:26:52]SAY: Experiment 97d/ : EHEHEHEHEH
+[19:26:56]SAY: cat/ : Meow!
+[19:28:25]SAY: kitten/ : HSSSSS
+[19:28:37]EMOTE: crab/ : <B>The crab</B> clacks.
+[19:28:47]SAY: Parrot/ : Hello!
+[19:29:36]SAY: cat/ : HSSSSS
+[19:29:48]SAY: Runtime/ : Purr!
+[19:30:38]EMOTE: cat/ : <B>The cat</B> shivers.
+[19:30:56]SAY: grey baby slime (976)/ : Rawr...
+[19:31:02]EMOTE: Parrot/ : <B>The Parrot</B> flutters its wings.
+[19:31:06]EMOTE: Ian/ : <B>Ian</B> dances around
+[19:31:18]EMOTE: kitten/ : <B>The kitten</B> mews.
+[19:31:24]SAY: cat/ : Meow!
+[19:32:46]DEBUG: Next event of severity Mundane in 17.904 minutes.
+[19:32:46]DEBUG: Starting event 'Brand Intelligence' of severity Mundane.
+[19:33:01]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[19:33:05]EMOTE: Ian/ : <B>Ian</B> dances around
+[19:33:31]EMOTE: crab/ : <B>The crab</B> clicks.
+[19:33:52]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[19:34:18]EMOTE: Ian/ : <B>Ian</B> dances around
+[19:34:24]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[19:34:38]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[19:35:02]EMOTE: Ian/ : <B>Ian</B> barks.
+[19:35:26]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[19:35:29]SAY: Experiment 97d/ : EHEHEHEHEH
+[19:36:25]EMOTE: Runtime/ : <B>Runtime</B> shakes their head.
+[19:36:27]EMOTE: crab/ : <B>The crab</B> clicks.
+[19:37:20]SAY: Experiment 97d/ : EHEHEHEHEH
+[19:38:06]EMOTE: crab/ : <B>The crab</B> clacks.
+[19:38:14]SAY: kitten/ : HSSSSS
+[19:38:22]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[19:38:26]SAY: grey baby slime (976)/ : Blop...
+[19:38:34]SAY: grey baby slime (704)/ : Rawr...
+[19:38:48]EMOTE: Parrot/ : <B>The Parrot</B> flutters its wings.
+[19:39:05]SAY: cat/ : HSSSSS
+[19:39:35]SAY: kitten/ : Purr!
+[19:39:49]SAY: grey baby slime (976)/ : Blop...
+[19:40:03]EMOTE: crab/ : <B>The crab</B> clicks.
+[19:40:05]SAY: kitten/ : HSSSSS
+[19:40:20]SAY: cat/ : Meow!
+[19:40:40]EMOTE: cat/ : <B>The cat</B> mews.
+[19:40:44]EMOTE: crab/ : <B>The crab</B> clicks.
+[19:40:54]SAY: Runtime/ : Purr!
+[19:40:54]SAY: kitten/ : Esp!
+[19:41:00]EMOTE: crab/ : <B>The crab</B> clacks.
+[19:41:55]EMOTE: Parrot/ : <B>The Parrot</B> bawks.
+[19:42:05]SAY: kitten/ : Esp!
+[19:42:34]SAY: grey baby slime (976)/ : Blorble...
+[19:42:48]SAY: grey baby slime (704)/ : Blorble...
+[19:43:00]EMOTE: cat/ : <B>The cat</B> meows.
+[19:43:20]EMOTE: cat/ : <B>The cat</B> mews.
+[19:43:32]SAY: cat/ : Purr!
+[19:43:40]SAY: cat/ : HSSSSS
+[19:43:56]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[19:44:11]EMOTE: kitten/ : <B>The kitten</B> mews.
+[19:44:23]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[19:44:55]EMOTE: Ian/ : <B>Ian</B> dances around
+[19:44:57]SAY: kitten/ : Purr!
+[19:45:13]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[19:45:37]EMOTE: Ian/ : <B>Ian</B> barks.
+[19:45:47]EMOTE: Ian/ : <B>Ian</B> dances around
+[19:45:58]EMOTE: cat/ : <B>The cat</B> mews.
+[19:46:28]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[19:47:11]EMOTE: cat/ : <B>The cat</B> shivers.
+[19:47:51]EMOTE: cat/ : <B>The cat</B> mews.
+[19:48:10]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[19:48:16]SAY: Parrot/ : Hello!
+[19:48:28]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[19:48:42]SAY: grey baby slime (704)/ : Rawr...
+[19:48:56]SAY: grey baby slime (976)/ : Rawr...
+[19:49:17]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[19:49:19]SAY: kitten/ : Meow!
+[19:49:51]SAY: kitten/ : Meow!
+[19:49:55]SAY: Parrot/ : Hello!
+[19:50:39]EMOTE: kitten/ : <B>The kitten</B> mews.
+[19:50:53]SAY: kitten/ : HSSSSS
+[19:51:14]EMOTE: Parrot/ : <B>The Parrot</B> bawks.
+[19:51:26]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[19:51:29]DEBUG: Next event of severity Mundane in 14.37 minutes.
+[19:51:29]DEBUG: Starting event 'Mundane News' of severity Mundane.
+[19:51:38]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[19:51:44]SAY: kitten/ : Meow!
+[19:51:51]DEBUG: Event 'Mundane News' has completed at 13:22.
+[19:52:02]EMOTE: Ian/ : <B>Ian</B> shakes its head.
+[19:52:39]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[19:53:01]SAY: kitten/ : Esp!
+[19:53:19]EMOTE: crab/ : <B>The crab</B> clicks.
+[19:53:46]SAY: Parrot/ : Cracker?
+[19:54:16]SAY: grey baby slime (704)/ : Hungry...
+[19:54:51]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[19:54:57]SAY: grey baby slime (976)/ : I want to eat...
+[19:55:11]SAY: kitten/ : Meow!
+[19:55:50]EMOTE: cat/ : <B>The cat</B> meows.
+[19:56:44]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[19:56:47]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[19:57:25]SAY: kitten/ : Meow!
+[19:58:24]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[19:58:40]EMOTE: kitten/ : <B>The kitten</B> mews.
+[19:59:27]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[19:59:53]EMOTE: Runtime/ : <B>Runtime</B> meows.
+[19:59:57]SAY: Ian/ : Bark!
+[20:00:16]SAY: kitten/ : HSSSSS
+[20:00:18]EMOTE: kitten/ : <B>The kitten</B> meows.
+[20:00:34]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[20:01:14]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[20:01:20]SAY: grey baby slime (976)/ : Where is the food?
+[20:01:20]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[20:01:29]SAY: Experiment 97d/ : Eh?
+[20:01:55]SAY: Parrot/ : Cracker?
+[20:02:35]SAY: Runtime/ : Purr!
+[20:02:56]EMOTE: kitten/ : <B>The kitten</B> meows.
+[20:04:05]EMOTE: cat/ : <B>The cat</B> mews.
+[20:04:13]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[20:04:35]EMOTE: cat/ : <B>The cat</B> meows.
+[20:04:39]SAY: grey baby slime (704)/ : Blop...
+[20:04:41]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[20:04:50]DEBUG: Next event of severity Moderate in 42.582 minutes.
+[20:04:50]DEBUG: Starting event 'Communication Blackout' of severity Moderate.
+[20:04:52]DEBUG: Event 'Communication Blackout' has completed at 13:35.
+[20:05:26]SAY: Experiment 97d/ : EHEHEHEHEH
+[20:05:38]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[20:05:43]DEBUG: Event 'Brand Intelligence' has completed at 13:36.
+[20:06:27]DEBUG: Next event of severity Mundane in 16.05 minutes.
+[20:06:27]DEBUG: Starting event 'Vermin Infestation' of severity Mundane.
+[20:06:33]SAY: kitten/ : Purr!
+[20:06:45]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[20:06:50]DEBUG: Event 'Vermin Infestation' has completed at 13:37.
+[20:07:18]SAY: Parrot/ : Cracker?
+[20:07:28]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[20:07:43]DEBUG: Next event of severity Major in 69.914 minutes.
+[20:07:43]DEBUG: Starting event 'Nothing' of severity Major.
+[20:07:45]DEBUG: Event 'Nothing' has completed at 13:38.
+[20:08:21]EMOTE: Runtime/ : <B>Runtime</B> meows.
+[20:08:23]SAY: grey baby slime (704)/ : Blorble...
+[20:08:41]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[20:09:30]EMOTE: mouse (489)/ : <B>The mouse (489)</B> shakes.
+[20:09:50]SAY: kitten/ : Esp!
+[20:10:00]SAY: grey baby slime (976)/ : Where is the food?
+[20:10:00]EMOTE: Parrot/ : <B>The Parrot</B> bawks.
+[20:10:22]SAY: kitten/ : Meow!
+[20:10:37]EMOTE: mouse (593)/ : <B>The mouse (593)</B> runs in a circle.
+[20:10:51]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[20:11:11]EMOTE: cat/ : <B>The cat</B> meows.
+[20:11:27]EMOTE: Parrot/ : <B>The Parrot</B> bawks.
+[20:11:41]SAY: grey baby slime (704)/ : Blop...
+[20:12:02]EMOTE: Ian/ : <B>Ian</B> woofs.
+[20:12:22]ACCESS: Login: Moom241/(Moom241) from 172.2.114.177-1501114251 || BYOND v506
+[20:12:26]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[20:12:36]SAY: cat/ : Purr!
+[20:12:41]SAY: Runtime/ : Esp!
+[20:12:46]SAY: mouse (477)/ : Squeek!
+[20:12:47]OOC: Moom241/Moom241 : hey guise. how go?
+[20:12:51]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[20:13:55]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[20:14:06]ACCESS: Logout: Moom241/(Moom241)
+[20:14:18]EMOTE: crab/ : <B>The crab</B> clicks.
+[20:14:58]OOC: Camile Crafter/Cassy_jenelle : hai
+[20:15:08]OOC: Camile Crafter/Cassy_jenelle : oh
+[20:15:15]ACCESS: Login: Lk600/(Lk600) from 86.3.92.34-294421586 || BYOND v506
+[20:15:38]ACCESS: Logout: Lk600/(Lk600)
+[20:15:58]SAY: Parrot/ : Cracker?
+[20:16:02]EMOTE: Ian/ : <B>Ian</B> dances around
+[20:16:20]EMOTE: crab/ : <B>The crab</B> clacks.
+[20:16:43]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[20:16:45]SAY: Runtime/ : Meow!
+[20:16:53]SAY: grey baby slime (976)/ : Blop...
+[20:17:03]SAY: grey baby slime (976)/ : Rawr...
+[20:17:13]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[20:17:15]EMOTE: crab/ : <B>The crab</B> clacks.
+[20:17:27]SAY: Experiment 97d/ : EHEHEHEHEH
+[20:17:30]ACCESS: Login: Moom241/(Moom241) from 172.2.114.177-1501114251 || BYOND v506
+[20:17:37]SAY: cat/ : Esp!
+[20:17:38]OOC: Amira Cook/Marinalightyears : ohey.
+[20:17:41]OOC: Moom241/Moom241 : Alright, I&#39;m back.
+[20:17:42]OOC: Amira Cook/Marinalightyears : suddenly Im back
+[20:17:48]OOC: Amira Cook/Marinalightyears : Oh. hi person~
+[20:17:56]OOC: Moom241/Moom241 : yo
+[20:17:58]OOC: Moom241/Moom241 : i moom
+[20:17:59]OOC: Camile Crafter/Cassy_jenelle : &lt;3
+[20:18:10]OOC: Amira Cook/Marinalightyears : three people now. woo
+[20:18:16]SAY: grey baby slime (704)/ : Blorble...
+[20:18:33]OOC: Moom241/Moom241 : i havent seen wool in forever. cass, are you in contact with him?
+[20:19:20]OOC: Moom241/Moom241 : fukkit
+[20:19:33]SAY: cat/ : Purr!
+[20:19:40]OOC: Moom241/Moom241 : so, is you guys doing actual rp stuff?
+[20:19:43]SAY: Ian/ : Woof!
+[20:19:47]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> shakes its head.
+[20:19:47]SAY: Parrot/ : Cracker?
+[20:19:51]SAY: grey baby slime (704)/ : Lonely...
+[20:19:57]OOC: Amira Cook/Marinalightyears : sorta. Me anyway. I think Cass is like.. doing stuff.
+[20:20:02]OOC: Camile Crafter/Cassy_jenelle : ah it&#39;s on skype
+[20:20:05]OOC: Camile Crafter/Cassy_jenelle : *he&#39;s
+[20:20:14]OOC: Camile Crafter/Cassy_jenelle : oh god I called loow an it.
+[20:20:19]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[20:20:20]OOC: Camile Crafter/Cassy_jenelle : D-don&#39;t tell him
+[20:20:31]SAY: cat/ : HSSSSS
+[20:20:44]EMOTE: kitten/ : <B>The kitten</B> mews.
+[20:20:45]OOC: Amira Cook/Marinalightyears : huehue
+[20:21:30]EMOTE: Ian/ : <B>Ian</B> dances around
+[20:21:32]EMOTE: crab/ : <B>The crab</B> clicks.
+[20:21:38]SAY: Runtime/ : Meow!
+[20:22:13]SAY: Experiment 97d/ : EHEHEHEHEH
+[20:22:17]EMOTE: cat/ : <B>The cat</B> mews.
+[20:22:54]EMOTE: cat/ : <B>The cat</B> mews.
+[20:23:08]DEBUG: Next event of severity Mundane in 14.572 minutes.
+[20:23:08]DEBUG: Starting event 'Economic News' of severity Mundane.
+[20:23:30]EMOTE: crab/ : <B>The crab</B> clacks.
+[20:23:40]EMOTE: Ian/ : <B>Ian</B> dances around
+[20:23:47]SAY: Runtime/ : HSSSSS
+[20:24:31]SAY: Parrot/ : Hello!
+[20:25:02]EMOTE: crab/ : <B>The crab</B> clicks.
+[20:25:47]SAY: Ian/ : YAP
+[20:25:55]SAY: grey baby slime (976)/ : Blop...
+[20:25:59]EMOTE: crab/ : <B>The crab</B> clacks.
+[20:26:19]EMOTE: mouse (477)/ : <B>The mouse (477)</B> runs in a circle.
+[20:26:58]EMOTE: Runtime/ : <B>Runtime</B> shakes their head.
+[20:27:02]SAY: grey baby slime (704)/ : Blop...
+[20:27:12]EMOTE: Parrot/ : <B>The Parrot</B> flutters its wings.
+[20:28:06]SAY: Ian/ : YAP
+[20:28:14]DEBUG: Event 'Economic News' has completed at 13:57.
+[20:28:18]SAY: kitten/ : Meow!
+[20:28:20]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[20:29:11]OOC: Camile Crafter/Cassy_jenelle : Amira should meet Igam
+[20:29:15]OOC: Camile Crafter/Cassy_jenelle : I suppose
+[20:29:41]SAY: Ian/ : YAP
+[20:31:46]ADMIN: Cassy_jenelle/(Camile Crafter) jumped to Marinalightyears/(Amira Cook)
+[20:32:05]OOC: Amira Cook/Marinalightyears : would be interesting. Because I havent met many people here yet. heh.
+[20:32:24]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[20:32:26]SAY: grey baby slime (976)/ : Need... food...
+[20:32:33]EMOTE: Ian/ : <B>Ian</B> dances around
+[20:32:51]EMOTE: Ian/ : <B>Ian</B> dances around
+[20:33:23]SAY: grey baby slime (976)/ : Must... eat...
+[20:33:40]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[20:33:54]EMOTE: kitten/ : <B>The kitten</B> meows.
+[20:34:04]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[20:34:33]SAY: kitten/ : Meow!
+[20:34:45]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> shakes its head.
+[20:34:45]OOC: Camile Crafter/Cassy_jenelle : http://i.imgur.com/Fsu2jfq.png
+[20:34:53]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[20:35:13]SAY: grey baby slime (704)/ : Need... food...
+[20:35:15]OOC: Moom241/Moom241 : should i join then?
+[20:35:27]SAY: mouse (477)/ : SQUEEK!
+[20:35:29]SAY: grey baby slime (976)/ : Lonely...
+[20:35:50]ACCESS: Logout: *no key*/(Moom241)
+[20:35:50]ACCESS: Login: Moom241/(Igam Yute) from 172.2.114.177-1501114251 || BYOND v506
+[20:36:02]OOC: Camile Crafter/Cassy_jenelle : Ye you and Amira can totes RP
+[20:36:08]OOC: Camile Crafter/Cassy_jenelle : mari is an old friend of mine
+[20:36:40]EMOTE: Parrot/ : <B>The Parrot</B> squawks.
+[20:36:46]OOC: Igam Yute/Moom241 : far out
+[20:36:48]EMOTE: crab/ : <B>The crab</B> clicks.
+[20:36:51]OOC: Igam Yute/Moom241 : shi
+[20:36:53]EMOTE: cat/ : <B>The cat</B> meows.
+[20:36:56]OOC: Igam Yute/Moom241 : shit. holy shit.
+[20:37:07]OOC: Igam Yute/Moom241 : I&#39;m starting to use igam&#39;s mannerisms in ooc
+[20:37:13]OOC: Igam Yute/Moom241 : I think I have a problem.
+[20:37:17]SAY: Ian/ : Bark!
+[20:37:22]OOC: Camile Crafter/Cassy_jenelle : haha
+[20:37:31]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[20:37:37]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[20:37:41]EMOTE: crab/ : <B>The crab</B> clicks.
+[20:37:55]OOC: Amira Cook/Marinalightyears : I used to end up typing &#39;say&#39; or &#39;ooc&#39; in my ims a lot with friends. hue.
+[20:38:03]SAY: Runtime/ : HSSSSS
+[20:38:09]SAY: grey baby slime (704)/ : So... hungry...
+[20:38:14]SAY: grey baby slime (976)/ : Lonely...
+[20:38:16]DEBUG: Next event of severity Mundane in 15.77 minutes.
+[20:38:16]DEBUG: Starting event 'Trivial News' of severity Mundane.
+[20:38:22]SAY: grey baby slime (976)/ : So... hungry...
+[20:38:22]EMOTE: kitten/ : <B>The kitten</B> mews.
+[20:38:29]ADMIN: Cassy_jenelle/(Camile Crafter) teleported Marinalightyears/(Amira Cook)
+[20:38:37]DEBUG: Event 'Trivial News' has completed at 14:07.
+[20:38:53]SAY: Igam Yute/Moom241 : Hello.
+[20:38:54]SAY: Amira Cook/Marinalightyears : oh! hey. A person. hah.
+[20:39:04]SAY: Amira Cook/Marinalightyears : Hello.. uh. you.
+[20:39:06]SAY: Igam Yute/Moom241 : Yep. Person, that fits the description.
+[20:39:11]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> offers his hand.
+[20:39:16]SAY: Igam Yute/Moom241 : I&#39;m Igam.
+[20:39:35]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[20:39:38]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> looks somewhat nervous, and eyes the extended hand, before mimicing the motion and holding out her own hand, but not actually shaking.
+[20:39:43]SAY: grey baby slime (976)/ : Need... food...
+[20:40:00]SAY: Amira Cook/Marinalightyears : sorry uh.. Im not poitive about.. how to interact. Fair warning.
+[20:40:00]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> grasps her hand and shakes it.
+[20:40:14]SAY: Amira Cook/Marinalightyears : o..oh! that would b.. ok. yes. I will remember that.
+[20:40:19]SAY: Igam Yute/Moom241 : Notta prob!
+[20:40:21]SAY: Amira Cook/Marinalightyears : thanbks.
+[20:40:27]OOC: (LOCAL) Amira Cook/Marinalightyears : Thanks*
+[20:40:48]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[20:40:54]SAY: Igam Yute/Moom241 : It&#39;s called a handshake. It&#39;s a formal greeting, usually for acquaintances, or people who are first meeting.
+[20:41:03]SAY: Igam Yute/Moom241 : So...
+[20:41:07]SAY: Amira Cook/Marinalightyears : I am Amira.  If I didnt say that before.
+[20:41:14]SAY: Igam Yute/Moom241 : Amira!
+[20:41:20]SAY: Igam Yute/Moom241 : It is a pleasure.
+[20:41:30]SAY: Amira Cook/Marinalightyears : Ah. That makes sense. It is.. a pleasure here, for me, as well.
+[20:41:37]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[20:41:39]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> grins.
+[20:41:47]SAY: Igam Yute/Moom241 : Glad to hear. You wanna go get drunk?
+[20:41:51]EMOTE: Ian/ : <B>Ian</B> shakes its head.
+[20:41:56]SAY: Amira Cook/Marinalightyears : .. Hah. I do wish I had been better socialized Before. but I guess late is ok too.
+[20:41:59]SAY: Amira Cook/Marinalightyears : Sure.
+[20:42:01]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> shakes its head.
+[20:42:07]EMOTE: crab/ : <B>The crab</B> clicks.
+[20:42:08]SAY: Amira Cook/Marinalightyears : Alchohal is nice.
+[20:42:08]SAY: Igam Yute/Moom241 : Far out. C&#39;mon.
+[20:42:24]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[20:42:26]SAY: Runtime/ : Esp!
+[20:42:37]SAY: Igam Yute/Moom241 : Beach bar.
+[20:42:40]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[20:42:48]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[20:42:51]SAY: Igam Yute/Moom241 : I sometimes work here for a little extra at the end of the month.
+[20:42:52]SAY: Amira Cook/Marinalightyears : Oh nice. I didnt even know that was a thing.
+[20:43:04]SAY: grey baby slime (704)/ : Must... eat...
+[20:43:04]SAY: Igam Yute/Moom241 : Yeah. The city runs it I think.
+[20:43:13]OOC: (LOCAL) Camile Crafter/Cassy_jenelle : moom btw, do you remember carl christopher the psychotherapist?
+[20:43:19]SAY: Igam Yute/Moom241 : I dunno. The point is drunk beach people tip.
+[20:43:24]OOC: (LOCAL) Igam Yute/Moom241 : nope. Sorry.
+[20:43:27]SAY: Amira Cook/Marinalightyears : I suppose they would have to..
+[20:43:40]OOC: (LOCAL) Camile Crafter/Cassy_jenelle : The one Igam told about wanting to make a building, but once he&#39;s almost finished it crumbles?
+[20:43:41]SAY: Amira Cook/Marinalightyears : to the uh, City running the bar thing.
+[20:43:48]OOC: (LOCAL) Camile Crafter/Cassy_jenelle : Or something to that affect.
+[20:43:48]SAY: Igam Yute/Moom241 : Well, they tip when it&#39;s the on season...
+[20:43:50]OOC: (LOCAL) Igam Yute/Moom241 : ye
+[20:43:51]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[20:43:57]OOC: (LOCAL) Camile Crafter/Cassy_jenelle : That char was totally me
+[20:43:59]SAY: Igam Yute/Moom241 : Okay, so, what&#39;s your poison?
+[20:44:01]OOC: (LOCAL) Igam Yute/Moom241 : really?
+[20:44:05]OOC: (LOCAL) Camile Crafter/Cassy_jenelle : mhm
+[20:44:10]OOC: (LOCAL) Igam Yute/Moom241 : Igam was totally bullshitting that dream stuff
+[20:44:16]OOC: (LOCAL) Camile Crafter/Cassy_jenelle : LOL
+[20:44:20]SAY: Amira Cook/Marinalightyears : I once went to the beach in winter. It was ok.
+[20:44:21]OOC: (LOCAL) Camile Crafter/Cassy_jenelle : rite
+[20:44:26]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> nods.
+[20:44:39]SAY: Amira Cook/Marinalightyears : ..Poison?
+[20:44:54]SAY: Igam Yute/Moom241 : Euphemism for alcohol.
+[20:44:56]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[20:45:00]SAY: Amira Cook/Marinalightyears : I dont usually enjoy being.. then again alchohal is technically poison. is that what you mean?
+[20:45:02]SAY: Igam Yute/Moom241 : What is your alcohol of choice?
+[20:45:02]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[20:45:03]SAY: Amira Cook/Marinalightyears : right.
+[20:45:09]SAY: Amira Cook/Marinalightyears : I guess I worked that one out eventually.
+[20:45:10]SAY: Igam Yute/Moom241 : I can also mix some drinks.
+[20:45:14]SAY: Amira Cook/Marinalightyears : Vermouth, please.
+[20:45:24]SAY: Igam Yute/Moom241 : I like your taste.
+[20:45:34]SAY: cat/ : Esp!
+[20:45:36]SAY: kitten/ : Esp!
+[20:45:41]OOC: (LOCAL) Amira Cook/Marinalightyears : Im terrible at spelling. my apologies. My keyboard is terrible. hah.
+[20:46:02]SAY: Igam Yute/Moom241 : Most people think it&#39;s weird to drink vermouth neat, but I can&#39;t get enough of the stuff. Usually I have martinis.
+[20:46:04]SAY: Amira Cook/Marinalightyears : Oh? most people think of it as a uh.. Mixer. So I dont get that compliment a lot.
+[20:46:11]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> shrugs.
+[20:46:20]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> holds up the glass.
+[20:46:22]SAY: Amira Cook/Marinalightyears : It kind of depends on the brand, I would suspect..
+[20:46:30]SAY: Ian/ : Bark!
+[20:46:36]OOC: (LOCAL) Igam Yute/Moom241 : werdz n grammer is not problem
+[20:46:44]SAY: Igam Yute/Moom241 : A toast!
+[20:46:48]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> holds her own glass up, and shoots a small smile at Igam
+[20:46:52]SAY: Igam Yute/Moom241 : To drinking vermouth!
+[20:46:55]SAY: Amira Cook/Marinalightyears : Yeah, that.
+[20:46:58]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> clinks their glasses together.
+[20:47:07]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> takes a gulp.
+[20:47:17]SAY: Igam Yute/Moom241 : Mmm. Bitter.
+[20:47:31]SAY: grey baby slime (976)/ : Blorble...
+[20:47:47]SAY: Igam Yute/Moom241 : So, Amira, was it?
+[20:47:47]SAY: Experiment 97d/ : Eh?
+[20:47:47]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> sips at her drink, and immediatly enjoys the feeling of warmth. Perhaps a placebo, but she enjoyed it anyway.
+[20:47:51]SAY: Amira Cook/Marinalightyears : Yes.
+[20:47:59]SAY: Amira Cook/Marinalightyears : that is my name.
+[20:48:03]SAY: Igam Yute/Moom241 : What brings you to the park on a grade A grey day?
+[20:48:05]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[20:48:11]SAY: kitten/ : Meow!
+[20:48:17]SAY: Ian/ : Bark!
+[20:48:55]SAY: Amira Cook/Marinalightyears : I like exploring, generally. Plus, I like it when days are grey. I suppose that is somewhat unusual.
+[20:49:01]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> shrugs.
+[20:49:04]EMOTE: crab/ : <B>The crab</B> clicks.
+[20:49:05]SAY: Igam Yute/Moom241 : I love the cold.
+[20:49:06]DEBUG: Next event of severity Moderate in 45.09 minutes.
+[20:49:06]DEBUG: Starting event 'Communication Blackout' of severity Moderate.
+[20:49:08]DEBUG: Event 'Communication Blackout' has completed at 14:18.
+[20:49:26]SAY: Amira Cook/Marinalightyears : May I ask the same of you? on the whole being here thing?
+[20:49:34]SAY: Amira Cook/Marinalightyears : or was that the answer?
+[20:49:47]EMOTE: Ian/ : <B>Ian</B> pants.
+[20:49:51]SAY: grey baby slime (976)/ : Very... hungry...
+[20:50:11]SAY: Igam Yute/Moom241 : Well, to be honest, I sneak drinks from the beach bar on off days.
+[20:50:17]OOC: Camile Crafter/Cassy_jenelle : http://i.imgur.com/Fsu2jfq.png &lt;&lt;&lt;&lt; Moom what do you think?
+[20:50:19]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[20:50:19]SAY: kitten/ : HSSSSS
+[20:50:25]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[20:50:35]EMOTE: Parrot/ : <B>The Parrot</B> squawks.
+[20:50:35]OOC: Igam Yute/Moom241 : 10/10 would break foot watersliding into
+[20:50:37]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[20:50:41]OOC: Camile Crafter/Cassy_jenelle : LOL
+[20:50:43]SAY: Amira Cook/Marinalightyears : .. Kind of like now? or are you on duty and I just didnt notice? do you want a tip?
+[20:50:51]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> shakes his head.
+[20:50:53]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[20:51:11]SAY: cat/ : Meow!
+[20:51:17]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> suddenly seems unsure of her position as a not-really customer of the beach bar.
+[20:51:20]SAY: Igam Yute/Moom241 : No, no, I was kinda in the middle of snatching some booze when we met up.
+[20:51:30]SAY: Igam Yute/Moom241 : It&#39;s on the house.
+[20:51:30]SAY: Amira Cook/Marinalightyears : oh. ok.
+[20:51:32]EMOTE: kitten/ : <B>The kitten</B> mews.
+[20:51:42]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[20:51:48]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> blinks, and looks around.
+[20:51:58]EMOTE: Ian/ : <B>Ian</B> woofs.
+[20:52:08]SAY: Parrot/ : Cracker?
+[20:52:17]SAY: Amira Cook/Marinalightyears : ... is that another of those.. phrases that one uses to mean something else?
+[20:52:33]SAY: Amira Cook/Marinalightyears : Becuase Im not sure we are near a House.
+[20:52:34]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[20:52:34]SAY: Igam Yute/Moom241 : Yes.
+[20:52:48]ADMIN: Cassy_jenelle/(Camile Crafter) spawned /mob/living/simple_animal/parrot at (36,83,7)
+[20:52:50]SAY: Amira Cook/Marinalightyears : ok. Sorry. I can be bad with those.
+[20:52:51]EMOTE: crab/ : <B>The crab</B> clicks.
+[20:52:55]SAY: Parrot/ : Cracker?
+[20:52:57]SAY: Igam Yute/Moom241 : On the house implies that the establishment from which you are receiving a good or service is covering the charge of said good or service.
+[20:53:09]EMOTE: Parrot/ : <B>The Parrot</B> turns and flies towards the beach ball
+[20:53:11]ADMIN: Cassy_jenelle/(Camile Crafter) assumed direct control of the Parrot.
+[20:53:11]ACCESS: Logout: *no key*/(Camile Crafter)
+[20:53:11]ACCESS: Login: cassyjenelle/(Parrot) from 81.104.88.62-1964287214 || BYOND v506
+[20:53:13]EMOTE: Ian/ : <B>Ian</B> dances around
+[20:53:31]SAY: Amira Cook/Marinalightyears : Im told im a fairly literal person, which I am sure is not aided by my usual disp..
+[20:53:36]SAY: Amira Cook/Marinalightyears : oh!
+[20:53:36]SAY: Igam Yute/Moom241 : Ooh!
+[20:53:38]SAY: Igam Yute/Moom241 : Bird!
+[20:53:40]EMOTE: cat/ : <B>The cat</B> shivers.
+[20:53:43]SAY: Amira Cook/Marinalightyears : yes, I saw it too.
+[20:53:54]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[20:54:03]SAY: Jespy/cassyjenelle : Cawrk!
+[20:54:10]SAY: Amira Cook/Marinalightyears : Its rather colorful.
+[20:54:13]SAY: Igam Yute/Moom241 : I love animals.
+[20:54:14]SAY: Runtime/ : Purr!
+[20:54:16]SAY: grey baby slime (976)/ : Lonely...
+[20:54:21]ADMIN: cassyjenelle/(Jespy) jumped to 30,78,7 in the Residential Area
+[20:54:27]SAY: Igam Yute/Moom241 : C&#39;mere parrot!
+[20:54:29]SAY: Amira Cook/Marinalightyears : Animals can be nice.
+[20:54:39]DEBUG: Next event of severity Mundane in 16.352 minutes.
+[20:54:39]DEBUG: Starting event 'Economic News' of severity Mundane.
+[20:54:40]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[20:54:47]EMOTE: Jespy/cassyjenelle : <B>Jespy</B> examines Igam Yute with curiousity, it bawks loudly.
+[20:54:53]SAY: Jespy/cassyjenelle : Hello! Hello!
+[20:54:59]SAY: Ian/ : AUUUUUU
+[20:55:03]SAY: Igam Yute/Moom241 : Polly wanna scotch?
+[20:55:08]SAY: Amira Cook/Marinalightyears : Oh! Hello. it can talk.
+[20:55:10]SAY: Jespy/cassyjenelle : Squawk! 
+[20:55:12]SAY: Igam Yute/Moom241 : Hello!
+[20:55:25]SAY: Jespy/cassyjenelle : I lost the condom Jane! Squawrk!
+[20:55:27]SAY: Experiment 97d/ : EHEHEHEHEH
+[20:55:29]SAY: Igam Yute/Moom241 : Ha!
+[20:55:35]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> bursts into fits of giggles.
+[20:55:35]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> blinks.
+[20:55:36]SAY: Jespy/cassyjenelle : It's in the sea!
+[20:55:39]SAY: kitten/ : Purr!
+[20:55:40]SAY: Igam Yute/Moom241 : Oh man!
+[20:55:44]SAY: Jespy/cassyjenelle : Hello! Hello! Squark!
+[20:55:48]SAY: Amira Cook/Marinalightyears : Does it need a Condom?
+[20:55:57]SAY: Jespy/cassyjenelle : Fuck you Paul!
+[20:56:01]SAY: Jespy/cassyjenelle : SLAP.
+[20:56:06]SAY: Jespy/cassyjenelle : Squawk!
+[20:56:09]SAY: Amira Cook/Marinalightyears : .. Oh. It mimics.
+[20:56:15]SAY: Jespy/cassyjenelle : It mimics!
+[20:56:15]SAY: Igam Yute/Moom241 : haha! Yes.
+[20:56:15]SAY: Amira Cook/Marinalightyears : I see. Ok, that makes more sense.
+[20:56:20]SAY: Jespy/cassyjenelle : Squawk!
+[20:56:40]SAY: Jespy/cassyjenelle : Polly wanna scotch?
+[20:56:41]SAY: Igam Yute/Moom241 : Hrmm.
+[20:56:49]SAY: kitten/ : HSSSSS
+[20:56:57]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> smiles at the Mimicy bird now, examining it as it interacts.
+[20:57:13]SAY: Jespy/cassyjenelle : Don't drink the seawater child! 
+[20:57:13]SAY: grey baby slime (976)/ : Need... food...
+[20:57:19]SAY: Jespy/cassyjenelle : Squawk!
+[20:57:19]SAY: Amira Cook/Marinalightyears : maybe it does want a Scotch.
+[20:57:28]SAY: Igam Yute/Moom241 : I don&#39;t love you anymore Jasper! I&#39;ve been sleeping with /all/ the poolboys!
+[20:57:33]EMOTE: Parrot/ : <B>The Parrot</B> squawks.
+[20:57:35]SAY: cat/ : HSSSSS
+[20:57:39]SAY: kitten/ : HSSSSS
+[20:57:44]SAY: Amira Cook/Marinalightyears : .. That is a lot of sleep.
+[20:57:57]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snickers.
+[20:58:07]SAY: Igam Yute/Moom241 : &#39;Nother euphemism Amira.
+[20:58:11]SAY: Jespy/cassyjenelle : I've been sleeping with /all/ the poolboys! Squawk!
+[20:58:12]EMOTE: Ian/ : <B>Ian</B> dances around
+[20:58:18]SAY: Amira Cook/Marinalightyears : oh.
+[20:58:26]SAY: Parrot/ : Cracker?
+[20:58:29]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> bursts into laughter.
+[20:58:31]SAY: Igam Yute/Moom241 : Oh man!
+[20:58:31]SAY: Jespy/cassyjenelle : The pin is 1138. Squawk!
+[20:58:31]DEBUG: Event 'Economic News' has completed at 14:27.
+[20:58:36]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[20:58:36]SAY: Igam Yute/Moom241 : Wait.
+[20:58:47]SAY: Amira Cook/Marinalightyears : Ah. thats a bad thing to have memorised. I think.
+[20:59:04]SAY: Jespy/cassyjenelle : Account details are 1039488, the pin is 1138! Don't forget it Johnny!
+[20:59:10]SAY: Amira Cook/Marinalightyears : by the uh.. Parrot that indiscriminatly says things.
+[20:59:11]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[20:59:28]SAY: Jespy/cassyjenelle : You think that parrot will repeat that? Squawk!
+[20:59:31]SAY: Amira Cook/Marinalightyears : oh!
+[20:59:35]SAY: Jespy/cassyjenelle : Squawk!
+[20:59:41]EMOTE: Jespy/cassyjenelle : <B>Jespy</B> ruffles his feathers.
+[20:59:42]SAY: Igam Yute/Moom241 : Oh man, I&#39;m gonna totally memorise that...
+[20:59:42]SAY: Amira Cook/Marinalightyears : that was bothering me. now I know where the sausage is.
+[20:59:49]SAY: Jespy/cassyjenelle : Of course not! Squawk!
+[21:00:03]SAY: Igam Yute/Moom241 : This is the best bird.
+[21:00:11]SAY: Amira Cook/Marinalightyears : hey parrot. What is your name? do you have one?
+[21:00:14]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> taps the numbers down onto his PDA.
+[21:00:32]SAY: Jespy/cassyjenelle : SQUAWK! I AM JESPY.
+[21:00:41]SAY: Igam Yute/Moom241 : Jespy!
+[21:00:47]SAY: Igam Yute/Moom241 : You&#39;re wonderful!
+[21:00:52]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> Giggles suddenly, enjoying the prompt responce.
+[21:00:53]SAY: Jespy/cassyjenelle : I am a useless bird. That's why I am on this beach! Squawk!
+[21:00:58]EMOTE: Ian/ : <B>Ian</B> pants.
+[21:00:58]SAY: Igam Yute/Moom241 : Jespy wanna scotch?
+[21:01:06]SAY: Amira Cook/Marinalightyears : nice to meet you Jespy.
+[21:01:09]SAY: Jespy/cassyjenelle : Polly wanna scotch! Squawk!
+[21:01:10]SAY: Jespy/cassyjenelle : 
+[21:01:15]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> holds out her hand for the Parrot to shake.
+[21:01:20]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[21:01:20]SAY: kitten/ : Purr!
+[21:01:20]SAY: Jespy/cassyjenelle : Don't come back Jespy! Squawk!
+[21:01:22]EMOTE: cat/ : <B>The cat</B> mews.
+[21:01:22]SAY: Igam Yute/Moom241 : Er...
+[21:01:26]EMOTE: crab/ : <B>The crab</B> clacks.
+[21:01:44]SAY: Igam Yute/Moom241 : Amira, you don&#39;t really shake hands with animals.
+[21:01:47]SAY: Amira Cook/Marinalightyears : oh.
+[21:01:53]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[21:01:54]SAY: Amira Cook/Marinalightyears : ... It lacks hands anyway.
+[21:02:06]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> retracts her hand, and coughs, embaressed.
+[21:02:16]SAY: Igam Yute/Moom241 : I guess you could shake its wing. Or a foot.
+[21:02:19]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[21:02:20]SAY: Jespy/cassyjenelle : I got seawater on my funny parts! Squawk!
+[21:02:40]EMOTE: Parrot/ : <B>The Parrot</B> squawks.
+[21:02:43]SAY: Jespy/cassyjenelle : Nice to meet you! Nice to meet you! Nice to meet you!
+[21:02:50]SAY: Igam Yute/Moom241 : Nice to meet you!
+[21:03:00]EMOTE: kitten/ : <B>The kitten</B> meows.
+[21:03:01]SAY: Igam Yute/Moom241 : Ooh! Ooh!
+[21:03:02]SAY: Amira Cook/Marinalightyears : yes. Nice to meet you Jespy. Your a pretty bird.
+[21:03:04]SAY: cat/ : HSSSSS
+[21:03:05]SAY: Igam Yute/Moom241 : Jespy!
+[21:03:08]SAY: Jespy/cassyjenelle : It stings! Get it out! Get it out! Get it out!
+[21:03:13]SAY: Jespy/cassyjenelle : SQUAWK.
+[21:03:14]SAY: Igam Yute/Moom241 : You&#39;re mother&#39;s a slut!
+[21:03:22]OOC: (LOCAL) Igam Yute/Moom241 : holy fukken grammar batman.
+[21:03:25]OOC: (LOCAL) Igam Yute/Moom241 : Your*
+[21:03:27]SAY: Amira Cook/Marinalightyears : Squawk.
+[21:03:35]SAY: Igam Yute/Moom241 : This is the best bird.
+[21:03:37]SAY: Jespy/cassyjenelle : You are mother's a slot! Squawk!
+[21:03:44]SAY: Igam Yute/Moom241 : Yes!
+[21:03:51]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[21:03:53]SAY: Amira Cook/Marinalightyears : this bird will provide much gossip forever it sounds like.
+[21:03:54]SAY: Jespy/cassyjenelle : Your mother is a slot! SQUAWK!
+[21:04:00]SAY: Igam Yute/Moom241 : Your mother&#39;s a slut! Your mother&#39;s a slut! Your mother&#39;s a slut!
+[21:04:08]SAY: Amira Cook/Marinalightyears : Slot.
+[21:04:13]SAY: Jespy/cassyjenelle : Your mother's a slut! You're mother is a slot!
+[21:04:22]SAY: Igam Yute/Moom241 : Oh my god.
+[21:04:22]SAY: Jespy/cassyjenelle : Squawk!
+[21:04:25]EMOTE: kitten/ : <B>The kitten</B> meows.
+[21:04:28]EMOTE: Jespy/cassyjenelle : <B>Jespy</B> seems pleased at himself.
+[21:04:29]SAY: Amira Cook/Marinalightyears : Squawk.
+[21:04:29]SAY: kitten/ : Esp!
+[21:04:32]OOC: Igam Yute/Moom241 : this is the best use of my time.
+[21:04:34]SAY: Jespy/cassyjenelle : Squawk?
+[21:04:42]SAY: Igam Yute/Moom241 : Hrmm.
+[21:04:42]SAY: Amira Cook/Marinalightyears : Squak
+[21:04:53]SAY: Igam Yute/Moom241 : I&#39;m a duck in disguise.
+[21:04:59]OOC: Amira Cook/Marinalightyears : the absolute best.
+[21:05:02]OOC: Jespy/Cassy_jenelle : I need to play as Jespy sometime and make him run up to some random person saying &#34;YOUR MOTHER IS A SLUT&#34;
+[21:05:13]SAY: Jespy/cassyjenelle : Duck is disgust!
+[21:05:15]EMOTE: Ian/ : <B>Ian</B> dances around
+[21:05:22]SAY: Jespy/cassyjenelle : SHINY.
+[21:05:30]SAY: Jespy/cassyjenelle : SQUAWK!
+[21:05:34]SAY: Amira Cook/Marinalightyears : Ducks are kind of disgusting.
+[21:05:45]SAY: Igam Yute/Moom241 : Hey! You&#39;re getting your clothes all wet.
+[21:05:47]EMOTE: Jespy/cassyjenelle : <B>Jespy</B> seems to really like the ball.
+[21:06:05]EMOTE: Jespy/cassyjenelle : <B>Jespy</B> nudges the ball that is floating on the water.
+[21:06:06]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[21:06:07]SAY: Amira Cook/Marinalightyears : ah. Doesnt matter really.. I can change my socks later.
+[21:06:09]SAY: Jespy/cassyjenelle : Squaw...
+[21:06:10]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[21:06:18]SAY: Igam Yute/Moom241 : Want the ball?
+[21:06:20]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> shakes its head.
+[21:06:26]SAY: Igam Yute/Moom241 : Fetch!
+[21:06:41]SAY: Jespy/cassyjenelle : Jespy wants the balls! Squawk!
+[21:06:45]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[21:06:58]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> laughs.
+[21:07:01]SAY: Igam Yute/Moom241 : You like balls?
+[21:07:10]SAY: Jespy/cassyjenelle : SQUAAW!
+[21:07:12]SAY: Igam Yute/Moom241 : Jespy wants balls.
+[21:07:19]SAY: Amira Cook/Marinalightyears : I like balls too Jespy.
+[21:07:19]SAY: Jespy/cassyjenelle : Jespy wants balls!
+[21:07:27]OOC: (LOCAL) Amira Cook/Marinalightyears : luuul
+[21:07:28]SAY: Jespy/cassyjenelle : Jespy wants balls!
+[21:07:36]SAY: Jespy/cassyjenelle : Squawk!
+[21:07:36]OOC: (LOCAL) Igam Yute/Moom241 : Literally the most fun.
+[21:07:49]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[21:07:58]SAY: Amira Cook/Marinalightyears : I like how the ball floats.
+[21:07:58]SAY: Jespy/cassyjenelle : Jespy wants balls! Squawk!
+[21:08:03]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> nods.
+[21:08:04]SAY: Amira Cook/Marinalightyears : I also like Jespy.
+[21:08:05]EMOTE: Jespy/cassyjenelle : <B>Jespy</B> likes the ball.
+[21:08:10]SAY: Amira Cook/Marinalightyears : not a useless bird at all.
+[21:08:13]SAY: Igam Yute/Moom241 : Jespy appears to be the best bird.
+[21:08:19]SAY: Igam Yute/Moom241 : I like your jacket.
+[21:08:22]SAY: Jespy/cassyjenelle : Best bird!
+[21:08:34]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> holds up the glass of vermouth to the bird.
+[21:08:38]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> grabs one of the soda, opening it. She then shoots a smile to Igam.
+[21:08:39]SAY: Igam Yute/Moom241 : Here Jespy. Vermouth.
+[21:08:42]SAY: Amira Cook/Marinalightyears : thanks. I like it too.
+[21:09:06]OOC: Igam Yute/Moom241 : so this is mendell city, right?
+[21:09:10]EMOTE: Jespy/cassyjenelle : <B>Jespy</B> seems to inspect the glass of vermouth.
+[21:09:14]EMOTE: Ian/ : <B>Ian</B> dances around
+[21:09:25]SAY: Igam Yute/Moom241 : Veeerrrmoouuth.
+[21:09:28]SAY: Jespy/cassyjenelle : Jespy stay away from my soda you dirty bird!
+[21:09:43]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snickers suddenly.
+[21:09:48]EMOTE: Ian/ : <B>Ian</B> dances around
+[21:09:52]SAY: Igam Yute/Moom241 : Ha!
+[21:09:54]EMOTE: Jespy/cassyjenelle : <B>Jespy</B> mimics his head turning to the side repeatedly as if being struck.
+[21:09:57]SAY: Jespy/cassyjenelle : Caw...
+[21:10:00]SAY: Igam Yute/Moom241 : Oh no.
+[21:10:01]EMOTE: Jespy/cassyjenelle : <B>Jespy</B> looks sad.
+[21:10:03]SAY: Amira Cook/Marinalightyears : aww....
+[21:10:09]SAY: Amira Cook/Marinalightyears : less funny now.
+[21:10:11]SAY: Igam Yute/Moom241 : It&#39;s okay Jespy. Drink your troubles away.
+[21:10:19]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> holds up the vermouth once more.
+[21:10:19]SAY: Jespy/cassyjenelle : Squawk?
+[21:10:21]SAY: Amira Cook/Marinalightyears : Jespy had some baaad parents.
+[21:10:29]SAY: Ian/ : Bark!
+[21:10:33]SAY: Igam Yute/Moom241 : Yeah. Maybe we could adopt him.
+[21:10:35]SAY: Jespy/cassyjenelle : Cracker.
+[21:10:38]SAY: Igam Yute/Moom241 : Hey!
+[21:10:42]SAY: Igam Yute/Moom241 : Racist!
+[21:10:47]OOC: (LOCAL) Jespy/Cassy_jenelle : LOL
+[21:10:55]SAY: kitten/ : Purr!
+[21:10:57]SAY: Jespy/cassyjenelle : Cracker. Jespy want cracker.
+[21:11:09]SAY: Parrot/ : Hello!
+[21:11:09]SAY: Igam Yute/Moom241 : The term is caucasian. Jespy want caucasion.
+[21:11:15]OOC: (LOCAL) Jespy/Cassy_jenelle : XDDDD
+[21:11:16]OOC: (LOCAL) Igam Yute/Moom241 : fuck my spelling
+[21:11:24]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[21:11:31]SAY: Igam Yute/Moom241 : Alright, he needs food.
+[21:11:33]SAY: Jespy/cassyjenelle : Jespy want caucasion.
+[21:11:39]SAY: Amira Cook/Marinalightyears : but I like crackers too.
+[21:11:39]DEBUG: Next event of severity Mundane in 13.732 minutes.
+[21:11:39]DEBUG: Starting event 'Economic News' of severity Mundane.
+[21:11:58]SAY: Igam Yute/Moom241 : Darn.
+[21:12:00]SAY: Igam Yute/Moom241 : No dough.
+[21:12:15]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> sets the chips down, open.
+[21:12:21]SAY: Amira Cook/Marinalightyears : not really crackers.
+[21:12:34]ACCESS: Logout: *no key*/(Jespy)
+[21:12:34]ACCESS: Login: cassyjenelle/(Jespy) from 81.104.88.62-1964287214 || BYOND v506
+[21:12:42]ADMIN: cassyjenelle/(Jespy) spawned /obj/item/weapon/reagent_containers/food/condiment/saltshaker at (24,79,7)
+[21:12:48]ADMIN: cassyjenelle/(Jespy) spawned /obj/item/weapon/reagent_containers/food/snacks/dough at (24,79,7)
+[21:12:51]ACCESS: Logout: *no key*/(Jespy)
+[21:12:51]ACCESS: Login: cassyjenelle/(Jespy) from 81.104.88.62-1964287214 || BYOND v506
+[21:13:07]SAY: Amira Cook/Marinalightyears : I will be back
+[21:13:11]SAY: Igam Yute/Moom241 : Okay!
+[21:13:14]OOC: (LOCAL) Igam Yute/Moom241 : fukk
+[21:13:17]SAY: Amira Cook/Marinalightyears : it uh
+[21:13:19]OOC: (LOCAL) Jespy/Cassy_jenelle : GG
+[21:13:21]SAY: Amira Cook/Marinalightyears : exploded.
+[21:13:22]SAY: Igam Yute/Moom241 : Well. That did not work.
+[21:13:22]ACCESS: Logout: *no key*/(Jespy)
+[21:13:22]ACCESS: Login: cassyjenelle/(Jespy) from 81.104.88.62-1964287214 || BYOND v506
+[21:13:32]ADMIN: cassyjenelle/(Jespy) spawned /obj/item/weapon/reagent_containers/food/snacks/cracker at (23,80,7)
+[21:13:37]EMOTE: Runtime/ : <B>Runtime</B> shakes their head.
+[21:13:37]OOC: (LOCAL) Igam Yute/Moom241 : The fukk is wrong with it? I followed the damned recipe.
+[21:13:38]SAY: kitten/ : HSSSSS
+[21:13:39]ACCESS: Logout: *no key*/(Jespy)
+[21:13:39]ACCESS: Login: cassyjenelle/(Jespy) from 81.104.88.62-1964287214 || BYOND v506
+[21:13:51]OOC: (LOCAL) Igam Yute/Moom241 : no i didn&#39;t. i need dough slices.
+[21:14:04]OOC: (LOCAL) Igam Yute/Moom241 : how do you clean a microwave?
+[21:14:06]SAY: Amira Cook/Marinalightyears : hey.
+[21:14:09]SAY: Amira Cook/Marinalightyears : a cracker.
+[21:14:11]SAY: Igam Yute/Moom241 : Hmm?
+[21:14:15]OOC: (LOCAL) Jespy/Cassy_jenelle : space cleaner I think
+[21:14:16]ACCESS: Logout: *no key*/(Jespy)
+[21:14:16]ACCESS: Login: cassyjenelle/(Jespy) from 81.104.88.62-1964287214 || BYOND v506
+[21:14:17]SAY: Igam Yute/Moom241 : Look at that!
+[21:14:18]EMOTE: crab/ : <B>The crab</B> clicks.
+[21:14:23]OOC: (LOCAL) Amira Cook/Marinalightyears : yeah. space cleaner.
+[21:14:29]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> holds the cracker up to the bird.
+[21:14:34]ADMIN: cassyjenelle/(Jespy) spawned /obj/item/weapon/reagent_containers/spray/cleaner at (24,80,7)
+[21:14:36]ACCESS: Logout: *no key*/(Jespy)
+[21:14:36]ACCESS: Login: cassyjenelle/(Jespy) from 81.104.88.62-1964287214 || BYOND v506
+[21:14:42]SAY: Igam Yute/Moom241 : Jespy wanna caucasian?
+[21:14:55]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[21:14:57]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[21:15:02]SAY: Igam Yute/Moom241 : Jespy wanna caucasian?
+[21:15:11]SAY: Amira Cook/Marinalightyears : Jaspy totally stole it from you
+[21:15:22]SAY: Amira Cook/Marinalightyears : thats littering.
+[21:15:23]SAY: Igam Yute/Moom241 : Oh you little rascal.
+[21:15:25]EMOTE: Parrot/ : <B>The Parrot</B> flutters its wings.
+[21:15:30]SAY: Igam Yute/Moom241 : So? Not my ocean.
+[21:15:40]EMOTE: Jespy/cassyjenelle : <B>Jespy</B> nibbles at the caucasion.
+[21:15:48]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[21:15:50]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> wades out into the water to scoop up the congealed mess and come back, swimming sort of.
+[21:16:00]SAY: Igam Yute/Moom241 : Aw jeez Amira.
+[21:16:05]SAY: Amira Cook/Marinalightyears : Dont worry about it.
+[21:16:09]SAY: Amira Cook/Marinalightyears : Im just a bit picky..
+[21:16:14]SAY: Igam Yute/Moom241 : you&#39;re gonna catch your death.
+[21:16:25]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> shivvers a little.
+[21:16:39]SAY: Amira Cook/Marinalightyears : oI dont think olds work like that.
+[21:16:41]SAY: Igam Yute/Moom241 : C&#39;mon, you gotta get outta the cold and grey. You&#39;re soaked.
+[21:16:55]SAY: Amira Cook/Marinalightyears : I will be back. the rubbish bin awaits.
+[21:17:02]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snickers
+[21:17:02]SAY: Jespy/cassyjenelle : Caw.
+[21:17:04]SAY: Amira Cook/Marinalightyears : ah. I have a change of clothes. so it should be ok.
+[21:17:05]EMOTE: cat/ : <B>The cat</B> shivers.
+[21:17:07]EMOTE: Parrot/ : <B>The Parrot</B> flutters its wings.
+[21:17:14]ADMIN: cassyjenelle/(Jespy) deleted Burned mess at (31,66,7)
+[21:17:20]SAY: Amira Cook/Marinalightyears : bad Jaspy
+[21:17:24]SAY: Amira Cook/Marinalightyears : that is terrible for you
+[21:17:35]SAY: Amira Cook/Marinalightyears : the burned stuff isnt even fooddd
+[21:17:41]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[21:17:42]OOC: (LOCAL) Amira Cook/Marinalightyears : food*
+[21:18:01]SAY: Amira Cook/Marinalightyears : but yes.
+[21:18:12]SAY: Amira Cook/Marinalightyears : I will use a locker in an unconvenional manner now.
+[21:18:18]SAY: Igam Yute/Moom241 : Again Amira? Hypothermia is still a thing.
+[21:18:22]SAY: Igam Yute/Moom241 : Huh?
+[21:18:33]OOC: (LOCAL) Igam Yute/Moom241 : hueh
+[21:18:33]EMOTE: Ian/ : <B>Ian</B> yaps.
+[21:18:38]SAY: Amira Cook/Marinalightyears : dang.
+[21:18:44]SAY: Amira Cook/Marinalightyears : not enough room in them.
+[21:18:48]SAY: Amira Cook/Marinalightyears : well nevermind.
+[21:19:03]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> determines to stay cold now.
+[21:19:26]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[21:19:32]ADMIN: Cassy_jenelle/(Jespy) played a local sound ladymarmalade.mid
+[21:19:36]SAY: Igam Yute/Moom241 : C&#39;mon, my place ain&#39;t too far. you can change and we can come back.
+[21:19:40]EMOTE: cat/ : <B>The cat</B> mews.
+[21:19:44]SAY: Amira Cook/Marinalightyears : no idea who&#39;s those actually are.
+[21:20:16]SAY: Amira Cook/Marinalightyears : Its not Thaaat cold. really.
+[21:20:20]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> shrugs.
+[21:20:21]DEBUG: Next event of severity Major in 68.414 minutes.
+[21:20:21]DEBUG: Starting event 'Nothing' of severity Major.
+[21:20:23]DEBUG: Event 'Economic News' has completed at 14:48.
+[21:20:23]DEBUG: Event 'Nothing' has completed at 14:48.
+[21:20:37]EMOTE: kitten/ : <B>The kitten</B> mews.
+[21:20:43]EMOTE: crab/ : <B>The crab</B> clacks.
+[21:20:47]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[21:20:56]SAY: Igam Yute/Moom241 : When I read in the paper, &#34;Girl found dead from hypothermia, last words: What&#39;s a simile?&#34; I won&#39;t pity you.
+[21:20:56]SAY: Amira Cook/Marinalightyears : Jaspy likes Cau.. I mean Crackers.
+[21:21:13]SAY: Igam Yute/Moom241 : Hey! you don&#39;t start either.
+[21:21:13]SAY: Amira Cook/Marinalightyears : now you have me saying it.
+[21:21:30]SAY: Jespy/cassyjenelle : Bye bye!
+[21:21:33]SAY: Jespy/cassyjenelle : Bye bye!
+[21:21:36]SAY: Igam Yute/Moom241 : Bye bye!
+[21:21:37]SAY: Amira Cook/Marinalightyears : byeeee Jasper.
+[21:21:43]SAY: Amira Cook/Marinalightyears : err
+[21:21:44]SAY: Igam Yute/Moom241 : You want another vermouth?
+[21:21:45]ACCESS: Logout: *no key*/(Jespy)
+[21:21:45]ACCESS: Login: cassyjenelle/(Jespy) from 81.104.88.62-1964287214 || BYOND v506
+[21:21:45]SAY: Amira Cook/Marinalightyears : Jaspy
+[21:21:47]SAY: Amira Cook/Marinalightyears : sure.
+[21:21:48]EMOTE: Jespy/@Cassy_jenelle : <B>Jespy</B> turns and flies towards the collectable paper hat
+[21:21:52]ADMIN: cassyjenelle/(Jespy) deleted Jespy at (29,67,7)
+[21:22:01]GAME: Jespy/cassyjenelle used abandon mob.
+[21:22:01]ACCESS: Logout: *no key*/(Jespy)
+[21:22:01]ACCESS: Login: cassyjenelle/(new player) from 81.104.88.62-1964287214 || BYOND v506
+[21:22:10]SAY: Igam Yute/Moom241 : So, do you live around here?
+[21:22:11]SAY: Amira Cook/Marinalightyears : thanks!
+[21:22:16]SAY: cat/ : HSSSSS
+[21:22:17]SAY: Amira Cook/Marinalightyears : ah.. not at the moment.
+[21:22:26]SAY: Igam Yute/Moom241 : House-hunting, or street-wandering?
+[21:22:31]EMOTE: Ian/ : <B>Ian</B> dances around
+[21:22:33]SAY: Igam Yute/Moom241 : I&#39;ve done a little of both.
+[21:22:39]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[21:22:43]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[21:22:46]SAY: Amira Cook/Marinalightyears : I intend to move in around here. but for now, Im pretty close to what you would call homeless.
+[21:22:54]SAY: Igam Yute/Moom241 : couch surfing?
+[21:22:57]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[21:23:08]SAY: Amira Cook/Marinalightyears : but not because I have no money, but more because I have not purchased a place and I thought out my move poorly.
+[21:23:16]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> nods.
+[21:23:24]SAY: Igam Yute/Moom241 : Better than the reasons for my homelessness.
+[21:23:33]SAY: Amira Cook/Marinalightyears : what was.. uh.. your reason?
+[21:23:41]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> sips at the vermouth
+[21:23:43]SAY: Igam Yute/Moom241 : I torched my father&#39;s car and ran away from home.
+[21:23:50]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[21:24:11]OOC: Igam Yute/Moom241 : oky, i needs to go afk for a bit. gots to head to the storr
+[21:24:42]SAY: Igam Yute/Moom241 : Man, that was a fun one...
+[21:24:50]SAY: Igam Yute/Moom241 : Alright, well, Amira, it was a pleasure meeting you.
+[21:24:50]EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[21:25:03]SAY: Igam Yute/Moom241 : But I have got to head home.
+[21:25:15]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> extends his hand.
+[21:25:19]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> shakes its head.
+[21:25:35]EMOTE: Parrot/ : <B>The Parrot</B> squawks.
+[21:25:37]SAY: kitten/ : Purr!
+[21:25:39]SAY: cat/ : Purr!
+[21:25:42]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> extends hers back, catchign hokld of his to shake now.
+[21:25:44]SAY: Amira Cook/Marinalightyears : alright.
+[21:25:47]EMOTE: Ian/ : <B>Ian</B> dances around
+[21:25:50]SAY: Amira Cook/Marinalightyears : it was nice meeting you too.
+[21:25:53]DEBUG: Next event of severity Mundane in 15.774 minutes.
+[21:25:53]DEBUG: Starting event 'Trivial News' of severity Mundane.
+[21:25:59]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[21:26:02]SAY: Igam Yute/Moom241 : Hopefully see you around, right?
+[21:26:02]OOC: (LOCAL) Amira Cook/Marinalightyears : sorry about the sudden silence. somethign came up irl for a second
+[21:26:09]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[21:26:09]OOC: (LOCAL) Igam Yute/Moom241 : no prob
+[21:26:10]SAY: Amira Cook/Marinalightyears : yeah, I will probably be around,.
+[21:26:14]DEBUG: Event 'Trivial News' has completed at 14:53.
+[21:26:15]SAY: Runtime/ : Esp!
+[21:26:17]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> nods.
+[21:26:20]SAY: Igam Yute/Moom241 : Good! Bye!
+[21:26:33]SAY: Igam Yute/Moom241 : Forgot my shoues.
+[21:26:39]SAY: Amira Cook/Marinalightyears : oh. those are important.
+[21:26:42]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> nods.
+[21:26:45]SAY: Igam Yute/Moom241 : Yep. Bye again!
+[21:26:48]SAY: cat/ : Purr!
+[21:27:03]ACCESS: Logout: *no key*/(new player)
+[21:27:03]ACCESS: Login: cassyjenelle/(Penny Islington) from 81.104.88.62-1964287214 || BYOND v506
+[21:27:08]EMOTE: kitten/ : <B>The kitten</B> meows.
+[21:27:11]OOC: Igam Yute/Moom241 : fukkit, i gotta go
+[21:27:16]OOC: Igam Yute/Moom241 : STREET SSD! ACTIVATE!
+[21:27:18]ACCESS: Logout: Moom241/(Igam Yute)
+[21:27:18]OOC: Amira Cook/Marinalightyears : byeeee~
+[21:27:48]SAY: kitten/ : Purr!
+[21:27:54]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[21:28:02]OOC: Penny Islington/Cassy_jenelle : awwh I just spawned as penny
+[21:28:06]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[21:28:09]OOC: Amira Cook/Marinalightyears : aww
+[21:28:16]SAY: Ian/ : Woof!
+[21:28:21]SAY: Parrot/ : Cracker?
+[21:28:29]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[21:29:09]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[21:29:33]SAY: cat/ : HSSSSS
+[21:29:52]EMOTE: kitten/ : <B>The kitten</B> meows.
+[21:29:56]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[21:30:12]EMOTE: Ian/ : <B>Ian</B> shakes its head.
+[21:30:28]EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[21:30:32]SAY: Penny Islington/cassyjenelle : Anyone serving at this beach today?
+[21:30:39]SAY: Amira Cook/Marinalightyears : oh hey. Another person
+[21:30:45]SAY: Amira Cook/Marinalightyears : oh.. uh. not right now.
+[21:30:46]SAY: Penny Islington/cassyjenelle : Oh... hi!
+[21:30:52]SAY: Amira Cook/Marinalightyears : I was kind of helping myself though.
+[21:30:57]SAY: Penny Islington/cassyjenelle : Uh, oh! That&#39;s a shame huh?
+[21:30:58]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[21:31:02]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[21:31:06]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> looks kind of awkward about that, but shrugs.
+[21:31:11]SAY: Penny Islington/cassyjenelle : Well! Guess I should as well, eheh?
+[21:31:17]SAY: Amira Cook/Marinalightyears : sort of, yeah.
+[21:31:20]SAY: Amira Cook/Marinalightyears : sure.
+[21:31:29]EMOTE: Ian/ : <B>Ian</B> dances around
+[21:31:31]EMOTE: crab/ : <B>The crab</B> clacks.
+[21:31:35]EMOTE: Penny Islington/cassyjenelle : <B>Penny Islington</B> tries to climb over the wooden table but her dress restricts her movement a bit.
+[21:31:36]VOTE: Crew_transfer vote started by the server.
+[21:31:36]DEBUG: The server has called a crew transfer vote
+[21:31:58]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> smiles a little, seeming pleased now that smeone else was here.
+[21:32:13]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[21:32:15]EMOTE: Penny Islington/cassyjenelle : <B>Penny Islington</B> looks terribly awkward as she struggles to move over the table, &#34;Hnng!&#34;
+[21:32:27]EMOTE: Penny Islington/cassyjenelle : <B>Penny Islington</B> trips.
+[21:32:29]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[21:32:31]SAY: Penny Islington/cassyjenelle : Oh blast it!
+[21:32:40]VOTE: <b>Vote Result: Inconclusive - No Votes!</b>
+[21:32:43]EMOTE: Penny Islington/cassyjenelle : <B>Penny Islington</B> wipes the sand off her dress.
+[21:32:47]SAY: Penny Islington/cassyjenelle : Oh. My bad.
+[21:32:48]EMOTE: Parrot/ : <B>The Parrot</B> squawks.
+[21:32:48]SAY: kitten/ : Purr!
+[21:32:48]EMOTE: crab/ : <B>The crab</B> clicks.
+[21:32:56]SAY: Penny Islington/cassyjenelle : How&#39;d I miss that?
+[21:33:08]SAY: Amira Cook/Marinalightyears : Im.. not really sure. but I didnt point it out either.
+[21:33:12]SAY: Penny Islington/cassyjenelle : Hot dogs! Wonderful!
+[21:33:15]SAY: Amira Cook/Marinalightyears : so.. I was not a big help.
+[21:33:37]SAY: Amira Cook/Marinalightyears : Arn&#39;t they? I like them usually.
+[21:33:37]SAY: Penny Islington/cassyjenelle : Hot dogs and fries!
+[21:33:43]EMOTE: Ian/ : <B>Ian</B> dances around
+[21:33:50]SAY: Amira Cook/Marinalightyears : yes. that is what they are.
+[21:33:52]SAY: Penny Islington/cassyjenelle : Man, I haven&#39;t treated myself in ages!
+[21:33:58]EMOTE: Penny Islington/cassyjenelle : <B>Penny Islington</B> talks to herself, a lot.
+[21:34:17]SAY: Amira Cook/Marinalightyears : When did you last treat yourself..?
+[21:34:21]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> hasnt realised this.
+[21:34:24]SAY: Penny Islington/cassyjenelle : Now! Biezel is a great place for food! Mainly because there&#39;s not enough people to---
+[21:34:35]SAY: Penny Islington/cassyjenelle : Oh... uh! Hi lady!
+[21:34:43]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> blinks.
+[21:34:48]SAY: Penny Islington/cassyjenelle : I uh, haven&#39;t... in a while yeah!
+[21:34:58]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> looks to the right, then to the left.
+[21:35:02]SAY: Amira Cook/Marinalightyears : oh. me?
+[21:35:04]SAY: Penny Islington/cassyjenelle : Maybe... Tuesday?
+[21:35:08]SAY: Amira Cook/Marinalightyears : Ive been here. yes.
+[21:35:13]EMOTE: crab/ : <B>The crab</B> clacks.
+[21:35:14]SAY: Amira Cook/Marinalightyears : Oh. that is a while.
+[21:35:18]EMOTE: Penny Islington/cassyjenelle : <B>Penny Islington</B> nods a bit, smiling sweetly, &#34;Mhm dear!&#34;
+[21:35:52]DEBUG: Next event of severity Moderate in 48.304 minutes.
+[21:35:52]DEBUG: Starting event 'Nothing' of severity Moderate.
+[21:35:54]DEBUG: Event 'Nothing' has completed at 15:03.
+[21:35:54]EMOTE: Ian/ : <B>Ian</B> dances around
+[21:36:04]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> opens her backpack, and starts donning her slightly less wet bomber&#39;s jacket again.
+[21:36:06]EMOTE: Ian/ : <B>Ian</B> dances around
+[21:36:40]SAY: Amira Cook/Marinalightyears : what were you saying before? not enough people to..?
+[21:36:51]SAY: Amira Cook/Marinalightyears : if it is uh.. not rude to ask.
+[21:37:00]SAY: Penny Islington/cassyjenelle : ... Eat all the good food, of course.
+[21:37:20]SAY: Amira Cook/Marinalightyears : thats true.
+[21:37:25]EMOTE: crab/ : <B>The crab</B> clicks.
+[21:37:34]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> nods sagely.
+[21:37:39]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[21:37:41]SAY: Penny Islington/cassyjenelle : On Sol, food is competition. Remember this!
+[21:37:41]SAY: kitten/ : Meow!
+[21:38:11]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[21:38:46]SAY: cat/ : Purr!
+[21:38:50]ADMIN: Cassy_jenelle/(Penny Islington) modified Penny Islington's nutrition to 0
+[21:38:59]SAY: Amira Cook/Marinalightyears : Oh. that does sound important.
+[21:39:26]SAY: kitten/ : Esp!
+[21:40:11]SAY: Experiment 97d/ : EHEHEHEHEH
+[21:40:13]EMOTE: cat/ : <B>The cat</B> meows.
+[21:40:27]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[21:40:39]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[21:40:52]SAY: Amira Cook/Marinalightyears : how is uh.. food competition on Sol? is it like.. a race?
+[21:41:00]SAY: Amira Cook/Marinalightyears : or maybe  amarathon?
+[21:41:07]SAY: Amira Cook/Marinalightyears : a marathon*
+[21:41:15]SAY: Penny Islington/cassyjenelle : Well, it&#39;s overpopulated. That&#39;s why I moved to Mendel City.
+[21:41:23]SAY: Penny Islington/cassyjenelle : Daaarling, I must leave!
+[21:41:40]SAY: Parrot/ : Hello!
+[21:41:42]SAY: Amira Cook/Marinalightyears : oh
+[21:41:43]SAY: Amira Cook/Marinalightyears : ok.
+[21:41:48]SAY: Penny Islington/cassyjenelle : I came here for hotdogs, and that craving was fufilled! I must write about this in my news column!
+[21:41:50]EMOTE: crab/ : <B>The crab</B> clacks.
+[21:41:51]SAY: Amira Cook/Marinalightyears : That is ok. Nice meeting you.
+[21:42:10]SAY: Amira Cook/Marinalightyears : Yes. Hotdogs are newsworthy.
+[21:42:13]DEBUG: Next event of severity Mundane in 15.234 minutes.
+[21:42:13]DEBUG: Starting event 'Trivial News' of severity Mundane.
+[21:42:18]SAY: Penny Islington/cassyjenelle : Of course. I hope to bump into you again, my name&#39;s Penny, by the way.
+[21:42:21]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> doesnt even ahve a hint of sarcasm in that statement
+[21:42:28]SAY: Amira Cook/Marinalightyears : My name is Amira.
+[21:42:29]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[21:42:33]OOC: (LOCAL) Amira Cook/Marinalightyears : Have*
+[21:42:35]DEBUG: Event 'Trivial News' has completed at 15:09.
+[21:42:40]SAY: Penny Islington/cassyjenelle : Lovely name, that&#39;s Arabic, you know?
+[21:42:48]SAY: Penny Islington/cassyjenelle : Tata my dear!~
+[21:42:51]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[21:42:57]EMOTE: Penny Islington/cassyjenelle : <B>Penny Islington</B> trips over.
+[21:43:05]EMOTE: Penny Islington/cassyjenelle : <B>Penny Islington</B> has no actual grace.
+[21:43:15]SAY: Penny Islington/cassyjenelle : Dargh! Blast it all!
+[21:43:21]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[21:43:25]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[21:43:29]EMOTE: Penny Islington/cassyjenelle : <B>Penny Islington</B> gets up, shaking the sand out of her hair and clothes.
+[21:43:34]SAY: Penny Islington/cassyjenelle : Eheh, bye now!
+[21:43:43]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> looks neutral. suspicously so.
+[21:44:03]ADMIN: cassyjenelle/(Penny Islington) jumped to 60,112,7 in the Residential Area
+[21:44:03]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> stares for a moment until PEnny is gone, then lets out a surpressed snicker.
+[21:44:16]EMOTE: Ian/ : <B>Ian</B> barks.
+[21:45:04]EMOTE: Ian/ : <B>Ian</B> dances around
+[21:45:31]SAY: Runtime/ : Meow!
+[21:45:35]EMOTE: Ian/ : <B>Ian</B> dances around
+[21:45:57]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[21:46:15]EMOTE: Ian/ : <B>Ian</B> dances around
+[21:46:27]EMOTE: kitten/ : <B>The kitten</B> mews.
+[21:46:29]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[21:47:04]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[21:47:06]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[21:47:22]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[21:48:06]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[21:48:35]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[21:48:57]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[21:49:23]SAY: kitten/ : Esp!
+[21:49:37]EMOTE: Ian/ : <B>Ian</B> dances around
+[21:50:42]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[21:50:44]EMOTE: Ian/ : <B>Ian</B> shakes its head.
+[21:50:44]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[21:50:53]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[21:50:57]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[21:51:18]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> yawns and lays down in the somewhat ignored corner, hoping to not be noticed.
+[21:51:21]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[21:51:28]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> passes out slowly.
+[21:51:32]ACCESS: Login: Moom241/(Igam Yute) from 172.2.114.177-1501114251 || BYOND v506
+[21:51:42]OOC: Igam Yute/Moom241 : i bak
+[21:51:50]OOC: Amira Cook/Marinalightyears : weeebee
+[21:52:11]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[21:52:27]OOC: Igam Yute/Moom241 : holy shit
+[21:52:34]OOC: Amira Cook/Marinalightyears : hmm?
+[21:52:43]OOC: Igam Yute/Moom241 : binoculars can be used to creep like hell
+[21:52:50]OOC: Amira Cook/Marinalightyears : lel. yeah.
+[21:53:12]OOC: Igam Yute/Moom241 : who the fukk was drinking?
+[21:53:19]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> yawns a little, and waves
+[21:53:25]SAY: Igam Yute/Moom241 : Hey Amira?
+[21:53:26]SAY: Amira Cook/Marinalightyears : hEy.
+[21:53:30]SAY: Igam Yute/Moom241 : Have you been drinking?
+[21:53:35]SAY: Amira Cook/Marinalightyears : mayb'E ah Lit'tLe.
+[21:53:37]EMOTE: cat/ : <B>The cat</B> shivers.
+[21:53:43]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> giggls
+[21:53:43]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[21:53:50]OOC: (LOCAL) Amira Cook/Marinalightyears : giggles*
+[21:53:52]SAY: Igam Yute/Moom241 : Man, you /have/ been drinking.
+[21:54:12]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> sits on the sand now, and yawns again, kind of looking around.
+[21:54:12]OOC: (LOCAL) Igam Yute/Moom241 : fak
+[21:54:15]EMOTE: crab/ : <B>The crab</B> clicks.
+[21:54:16]OOC: (LOCAL) Igam Yute/Moom241 : internet crapping out
+[21:54:22]OOC: (LOCAL) Amira Cook/Marinalightyears : haaaapens.
+[21:54:31]SAY: Igam Yute/Moom241 : You know the city still pays for that booze, right?
+[21:54:35]SAY: Amira Cook/Marinalightyears : mM.. I' wach tryi'ng sUmE sTuff, i's al'L.
+[21:54:44]SAY: Amira Cook/Marinalightyears : I' wIll LeAve th'Em ah BIt.
+[21:54:51]SAY: Amira Cook/Marinalightyears : l'ike, in THe thing.
+[21:55:02]SAY: Igam Yute/Moom241 : You are really drunk.
+[21:55:08]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> motions to the booze dispensor.
+[21:55:17]SAY: Amira Cook/Marinalightyears : i'ts that green StufF I Think.
+[21:55:28]SAY: Amira Cook/Marinalightyears : I sippe'D it, but It goT tu 'me ImMediatly.
+[21:55:47]SAY: Igam Yute/Moom241 : Green stufF?
+[21:55:53]OOC: (LOCAL) Igam Yute/Moom241 : hueh
+[21:56:00]SAY: Igam Yute/Moom241 : That&#39;s absinthe.
+[21:56:05]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> giggles again, holding up  a glass of it and setting it on the sand.
+[21:56:09]SAY: Amira Cook/Marinalightyears : yeah. Th'aht.
+[21:56:15]EMOTE: crab/ : <B>The crab</B> clacks.
+[21:56:19]SAY: Igam Yute/Moom241 : Yeah. I think maybe you should slow down on that stuff.
+[21:56:33]SAY: Amira Cook/Marinalightyears : I onlY sippe'D it.'
+[21:56:37]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> lied.
+[21:56:42]SAY: Igam Yute/Moom241 : Mmhmm.
+[21:56:59]EMOTE: Parrot/ : <B>The Parrot</B> squawks.
+[21:57:16]SAY: Amira Cook/Marinalightyears : a'lCHo THeRe waS ah fUnny laDy NaMed uh.. PeNNy. s'HE wach no't grAc'eful.'
+[21:57:20]SAY: Igam Yute/Moom241 : me picks up the absinthe, and swirls it lightly.
+[21:57:24]OOC: (LOCAL) Igam Yute/Moom241 : fuk
+[21:57:41]SAY: Amira Cook/Marinalightyears : she got ah Hotd'ug AnD fRieS ah'nd TOlD m'e tU RemEmEBr food i's coMp'EtItIon iN sol.
+[21:57:48]SAY: cat/ : Esp!
+[21:57:57]SAY: Amira Cook/Marinalightyears : A'lso i 'ChAngEd mY clutHeS
+[21:58:07]DEBUG: Next event of severity Mundane in 12.266 minutes.
+[21:58:07]DEBUG: Starting event 'Economic News' of severity Mundane.
+[21:58:10]SAY: Igam Yute/Moom241 : Hmm.
+[21:58:24]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> shrugs, and takes a pull from the bottle of absinthe.
+[21:58:46]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> nods, clearly proud of herself.
+[21:59:15]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> stumbles.
+[21:59:36]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> flumps down onto the sand with an &#34;oof&#34;.
+[21:59:43]SAY: Amira Cook/Marinalightyears : it hits hard?
+[21:59:46]SAY: Amira Cook/Marinalightyears : right?
+[21:59:53]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> nods.
+[21:59:54]SAY: Amira Cook/Marinalightyears : ah. Im feeling a bit better now. hah.
+[21:59:56]SAY: Igam Yute/Moom241 : It's 'tHe' go'od chtuff'.
+[22:00:00]SAY: Igam Yute/Moom241 : YOU 'WaNt sOme MorE?
+[22:00:01]SAY: Experiment 97d/ : Eh?
+[22:00:05]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> blinks. 
+[22:00:08]SAY: Amira Cook/Marinalightyears : sure.
+[22:00:24]SAY: Igam Yute/Moom241 : still, tahKe it sLoW.
+[22:00:43]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[22:00:47]SAY: Runtime/ : Esp!
+[22:01:01]SAY: Amira Cook/Marinalightyears : oh
+[22:01:02]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> drops the bottle down onto the sand.
+[22:01:03]SAY: Amira Cook/Marinalightyears : uh.
+[22:01:04]SAY: Igam Yute/Moom241 : Woop'ch.
+[22:01:10]SAY: Amira Cook/Marinalightyears : thats ok.
+[22:01:13]EMOTE: Parrot/ : <B>The Parrot</B> flutters its wings.
+[22:01:34]ACCESS: Logout: *no key*/(Penny Islington)
+[22:01:34]ACCESS: Login: cassyjenelle/(Penny Islington) from 81.104.88.62-1964287214 || BYOND v506
+[22:01:35]ADMIN: @Cassy_jenelle/(Penny Islington) jumped to Marinalightyears/(Amira Cook)
+[22:01:38]SAY: cat/ : Esp!
+[22:01:48]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> picks up the bottle, and brushes her hair from her eye for a moment. then, she downs a couple of drinks, before coughing loudly, then laughing. 
+[22:01:57]SAY: Amira Cook/Marinalightyears : I prefer Rum, Really.
+[22:01:59]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> breaks into fits of giggles.
+[22:02:03]SAY: Igam Yute/Moom241 : I liKe mahr'TInis.
+[22:02:11]SAY: Igam Yute/Moom241 : G'in. VErmoUTh. Clahchsy.
+[22:02:12]EMOTE: kitten/ : <B>The kitten</B> mews.
+[22:02:14]SAY: kitten/ : Purr!
+[22:02:26]SAY: Igam Yute/Moom241 : But sometimes, you just gotta get smashed on a beach with someone you just met.
+[22:02:32]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[22:02:43]SAY: Amira Cook/Marinalightyears : GroG, RUM, vermOutH, anD so'mEtImech MEad. Course, I lIke a lo'T uF tHiNgch, 'bu't tHuCHe cahn bE m'Y fahvuriTes'. espekiahLlY meAd.
+[22:02:44]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> picks up the bottle, and gestures with it drunkenly.
+[22:03:01]SAY: Igam Yute/Moom241 : In the end, it&#39;s all to kill the pain, eh?
+[22:03:07]SAY: Amira Cook/Marinalightyears : pain?
+[22:03:09]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> takes another pull from the bottle.
+[22:03:13]SAY: Amira Cook/Marinalightyears : I JUcht li'Ke thE sEn's'atiuN my'cheLf.
+[22:03:15]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snerks.
+[22:03:28]SAY: Igam Yute/Moom241 : YeAH, churE. Senchation.
+[22:03:51]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[22:03:55]SAY: Amira Cook/Marinalightyears : I dONt realLy have a' lot of pAHi'N. i k'INd'a' Got raiSe'd 'spoiLed.
+[22:04:03]EMOTE: Ian/ : <B>Ian</B> dances around
+[22:04:04]SAY: Igam Yute/Moom241 : CoUL.
+[22:04:09]SAY: kitten/ : Purr!
+[22:04:12]SAY: Igam Yute/Moom241 : I Tol'd y'ou.'.
+[22:04:20]SAY: Igam Yute/Moom241 : I tul'd aBOUT hOw I toRche'd the' caR?
+[22:04:43]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> laughs drunkenly.
+[22:04:53]SAY: Amira Cook/Marinalightyears : yEa'aahah'h. i Re'mEMEbR THat.
+[22:05:02]SAY: Igam Yute/Moom241 : TAKe thaT You 'sunuvv'abitkh. ThAHt''ll ShOw yOU to tr'y And rAich'E yuuR Step-chun!
+[22:05:11]SAY: kitten/ : HSSSSS
+[22:05:13]SAY: Amira Cook/Marinalightyears : wHaT?
+[22:05:33]SAY: Igam Yute/Moom241 : NothiNG. 'JUcht chWeahring at tHe chky.
+[22:05:36]EMOTE: kitten/ : <B>The kitten</B> mews.
+[22:05:43]SAY: Amira Cook/Marinalightyears : I m'UStly ra'n' Frum homE Bekau'Se CHmoTHERing. ahND LahcK o'f ahny FRiends. yoU 'chUuND lik'E yuu hAd It r'ougHer'.
+[22:05:48]SAY: Amira Cook/Marinalightyears : aNd by ruN
+[22:05:55]SAY: Amira Cook/Marinalightyears : I 'm'EAn lea've ahch suOnaS i was LEgahlLY able.
+[22:06:18]EMOTE: Ian/ : <B>Ian</B> dances around
+[22:06:24]ACCESS: Login: Kerbal22/(Kerbal22) from 24.181.70.89-1162035905 || BYOND v506
+[22:06:26]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> shrugs.
+[22:06:44]OOC: Kerbal22/Kerbal22 : STEHL RAIHN
+[22:06:46]SAY: Igam Yute/Moom241 : I fucked off way too young. But it ain&#39;t your problem.
+[22:07:00]ACCESS: Logout: *no key*/(Kerbal22)
+[22:07:00]ACCESS: Login: Kerbal22/(Dominika Kuznetsov) from 24.181.70.89-1162035905 || BYOND v506
+[22:07:00]OOC: Igam Yute/Moom241 : OUR BATTLE BRUVVERS ARE POSITIONED IN SPEHSS
+[22:07:04]SAY: Experiment 97d/ : EHEHEHEHEH
+[22:07:04]ADMIN: Kerbal22/(Dominika Kuznetsov) jumped to Moom241/(Igam Yute)
+[22:07:27]ADMIN: Kerbal22/(Dominika Kuznetsov) modified Dominika Kuznetsov's timeofdeath to -1e+14
+[22:07:31]GAME: Dominika Kuznetsov/Kerbal22 used abandon mob.
+[22:07:31]ACCESS: Logout: *no key*/(Dominika Kuznetsov)
+[22:07:31]ACCESS: Login: Kerbal22/(new player) from 24.181.70.89-1162035905 || BYOND v506
+[22:07:33]SAY: Igam Yute/Moom241 : Almost outta sauce...
+[22:07:35]SAY: Amira Cook/Marinalightyears : I dont really have any problems anyway.
+[22:07:38]SAY: Amira Cook/Marinalightyears : and
+[22:07:42]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> nods.
+[22:07:46]DEBUG: Event 'Economic News' has completed at 15:33.
+[22:07:50]SAY: Igam Yute/Moom241 : tHahT'CH good. T'Ry''n kEeP IT that wahy, hUh?
+[22:07:53]EMOTE: crab/ : <B>The crab</B> clacks.
+[22:07:57]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> breaks into drunken snickers.
+[22:07:57]SAY: Amira Cook/Marinalightyears : the sauce is good. hah.
+[22:08:25]EMOTE: Ian/ : <B>Ian</B> dances around
+[22:08:38]SAY: Amira Cook/Marinalightyears : thIch ich FunnY. jusT Being Un the bEacH drinkINg Thi's' too poTent 's't'uff.
+[22:08:44]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> nods.
+[22:08:45]SAY: Igam Yute/Moom241 : YeAHh.
+[22:08:46]ACCESS: Logout: *no key*/(new player)
+[22:08:46]ACCESS: Login: Kerbal22/(Arabella McClymonds) from 24.181.70.89-1162035905 || BYOND v506
+[22:08:51]SAY: Igam Yute/Moom241 : Fun tHuugh.
+[22:08:56]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> coughs again, after a few more siips.
+[22:09:09]SAY: Igam Yute/Moom241 : you o'k'aY th'ErE?
+[22:09:21]SAY: Amira Cook/Marinalightyears : yeAH. Ive NEver Done anything rEmotlY li'ke This. hah.
+[22:09:23]SAY: Amira Cook/Marinalightyears : yeah'.
+[22:09:37]SAY: Amira Cook/Marinalightyears : DUNt LikE The flAvor.
+[22:09:50]SAY: Igam Yute/Moom241 : Y'oU dOn'T dRinK abCHiNt'hE FUr flAVuR.
+[22:09:50]SAY: cat/ : Purr!
+[22:10:09]SAY: Igam Yute/Moom241 : You drink absinthe to get black out drunk, make out with a stranged and wake up in a pool of your own vomit.
+[22:10:20]EMOTE: cat/ : <B>The cat</B> meows.
+[22:10:21]ACCESS: Logout: *no key*/(Arabella McClymonds)
+[22:10:21]ACCESS: Login: Kerbal22/(Arabella McClymonds) from 24.181.70.89-1162035905 || BYOND v506
+[22:10:29]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> picks up the bottle and downs another gulp.
+[22:10:31]SAY: Parrot/ : Cracker?
+[22:10:33]ACCESS: Logout: *no key*/(Arabella McClymonds)
+[22:10:33]ACCESS: Login: Kerbal22/(Arabella McClymonds) from 24.181.70.89-1162035905 || BYOND v506
+[22:10:33]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[22:10:47]EMOTE: Ian/ : <B>Ian</B> dances around
+[22:10:48]SAY: Arabella McClymonds/Kerbal22 : Yo, Igam.
+[22:10:48]SAY: Amira Cook/Marinalightyears : sounds like strong stuff.
+[22:10:51]DEBUG: Next event of severity Mundane in 14.924 minutes.
+[22:10:51]DEBUG: Starting event 'Mundane News' of severity Mundane.
+[22:10:57]SAY: Amira Cook/Marinalightyears : Oh hey, Nother person.
+[22:10:57]SAY: Igam Yute/Moom241 : BElla!'
+[22:11:06]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> drunkenly gets to his feet.
+[22:11:10]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> grins.
+[22:11:13]DEBUG: Event 'Mundane News' has completed at 15:37.
+[22:11:16]SAY: Arabella McClymonds/Kerbal22 : ..course, you&#39;re wasted.
+[22:11:19]EMOTE: Arabella McClymonds/Kerbal22 : <B>Arabella McClymonds</B> chuckles.
+[22:11:19]EMOTE: Ian/ : <B>Ian</B> shakes its head.
+[22:11:25]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> tries to look ashamed.
+[22:11:29]SAY: Igam Yute/Moom241 : Sorry. I made a friend.
+[22:11:35]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> looks pleased. standing up with a little more control then Igam, and yawns, again.
+[22:11:40]OOC: (LOCAL) Igam Yute/Moom241 : afk a sec
+[22:11:42]EMOTE: Arabella McClymonds/Kerbal22 : <B>Arabella McClymonds</B> pretends to hear something.
+[22:11:50]SAY: Arabella McClymonds/Kerbal22 : What&#39;s that sound? I think it&#39;s hell freezing over.
+[22:11:54]EMOTE: Arabella McClymonds/Kerbal22 : <B>Arabella McClymonds</B> laughs.
+[22:11:58]SAY: Amira Cook/Marinalightyears : Hello.
+[22:12:03]EMOTE: Arabella McClymonds/Kerbal22 : <B>Arabella McClymonds</B> nods.
+[22:12:08]SAY: Arabella McClymonds/Kerbal22 : Hail.
+[22:12:10]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> blinks and tried to listian, putting her hand to her ear.
+[22:12:18]OOC: (LOCAL) Igam Yute/Moom241 : back
+[22:12:22]OOC: (LOCAL) Amira Cook/Marinalightyears : tries
+[22:12:25]OOC: (LOCAL) Amira Cook/Marinalightyears : *
+[22:12:30]SAY: Igam Yute/Moom241 : Oh!
+[22:12:30]EMOTE: Arabella McClymonds/Kerbal22 : <B>Arabella McClymonds</B> tries not to laugh.
+[22:12:43]SAY: Igam Yute/Moom241 : Bella, this is Amira. She doesn&#39;t understand idioms.
+[22:12:46]SAY: Amira Cook/Marinalightyears : .. Is hell even a Real place? that must be one of those..
+[22:12:50]SAY: Amira Cook/Marinalightyears : sayings again.
+[22:12:53]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> nods.
+[22:12:53]SAY: Arabella McClymonds/Kerbal22 : Yup.
+[22:12:54]SAY: Igam Yute/Moom241 : Yep.
+[22:12:54]EMOTE: cat/ : <B>The cat</B> mews.
+[22:13:02]WHISPER: Arabella McClymonds/Kerbal22 : She&#39;s a naive one, isn&#39;t she?
+[22:13:14]SAY: Igam Yute/Moom241 : Hell is a place that&#39;s hot. For it to freeze over means something strange or unlikely has happened.
+[22:13:18]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> retrats he hand lettign it drop, and looks embaressed.
+[22:13:20]WHISPER: Igam Yute/Moom241 : Says she was spoiled rotten by her parents.
+[22:13:24]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[22:13:27]WHISPER: Arabella McClymonds/Kerbal22 : Poor thing.
+[22:13:30]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> shrugs.
+[22:13:34]SAY: cat/ : HSSSSS
+[22:13:34]SAY: Amira Cook/Marinalightyears : Oh.. I kind of.. Get the idea. yeah. That one makes sense then.
+[22:13:44]SAY: Arabella McClymonds/Kerbal22 : Mhm.
+[22:13:53]SAY: Igam Yute/Moom241 : Anyways! Amira, this is Bella, and Bella, this is Amira.
+[22:14:01]SAY: Arabella McClymonds/Kerbal22 : Nice to meet ya.
+[22:14:04]EMOTE: Parrot/ : <B>The Parrot</B> bawks.
+[22:14:13]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[22:14:14]SAY: Amira Cook/Marinalightyears : Idioms make sense. I jsut.. Well Ive never been exposed to them. Poorly socialized and literal, I suppose.
+[22:14:17]WHISPER: Igam Yute/Moom241 : I like the new leg.
+[22:14:23]EMOTE: crab/ : <B>The crab</B> clicks.
+[22:14:24]SAY: Amira Cook/Marinalightyears : nice to meet you too Bella.
+[22:14:28]WHISPER: Arabella McClymonds/Kerbal22 : I like it too, i can walk.
+[22:14:35]WHISPER: Igam Yute/Moom241 : Walking is a plus.
+[22:14:42]SAY: Arabella McClymonds/Kerbal22 : Rich parents or just born on a backwater planet?
+[22:15:04]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> looks slightly confused, lsitianing to the people whisper and not making anything out. Shrugs and reaches into her backpack.
+[22:15:16]EMOTE: Parrot/ : <B>The Parrot</B> flutters its wings.
+[22:15:17]SAY: Amira Cook/Marinalightyears : ah.. The former.
+[22:15:33]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> nods.
+[22:15:34]SAY: Arabella McClymonds/Kerbal22 : Ah.
+[22:15:47]SAY: Arabella McClymonds/Kerbal22 : What planet you from?
+[22:16:02]SAY: Igam Yute/Moom241 : Yep. So I&#39;ve been introducing her to the wonders of getting smashed in ten degree weather on a beach.
+[22:16:13]OOC: (LOCAL) Amira Cook/Marinalightyears : Sorry, there will be a bit of an awkward pause from me a moment.
+[22:16:30]ADMIN: PM: Kerbal22/(Arabella McClymonds)->Moom241/(Igam Yute): So who's the new person?
+[22:16:38]OOC: (LOCAL) Amira Cook/Marinalightyears : I actually kinda designed this character for another server. hah. but I dont rememebr what planets were sensible or not here.
+[22:16:38]ADMIN: PM: Moom241/(Igam Yute)->Kerbal22/(Arabella McClymonds): Friend of cass&#39;s
+[22:16:57]OOC: (LOCAL) Igam Yute/Moom241 : You could be an earther. Or mars I think, though I always assumed that was lower class.
+[22:17:09]SAY: Parrot/ : Cracker?
+[22:17:10]OOC: (LOCAL) Arabella McClymonds/Kerbal22 : Any planet (within reason) in the sol system, one of the moons, etc.
+[22:17:17]OOC: (LOCAL) Arabella McClymonds/Kerbal22 : You could be from Biesel.
+[22:17:26]OOC: (LOCAL) Arabella McClymonds/Kerbal22 : Arabella&#39;s from Earth.
+[22:17:37]OOC: (LOCAL) Igam Yute/Moom241 : Igam is from
+[22:17:37]OOC: (LOCAL) Amira Cook/Marinalightyears : Alright. I was thinking Luna, originally, but again that was with another lore in mind.
+[22:17:49]OOC: (LOCAL) Igam Yute/Moom241 : Shit, what was the name I had for his homeplanet?
+[22:17:51]OOC: (LOCAL) Arabella McClymonds/Kerbal22 : Yeah, Luna&#39;s an option too.
+[22:18:08]OOC: (LOCAL) Amira Cook/Marinalightyears : I suppose Ill jsut say luna so I dont get all confused. hue. thanks. =P
+[22:18:11]SAY: Arabella McClymonds/Kerbal22 : &#39;m from the cradle of Humanity, Terra.
+[22:18:35]SAY: Igam Yute/Moom241 : I&#39;m from some nowhere colony.
+[22:18:46]OOC: Arabella McClymonds/Kerbal22 : https://www.youtube.com/watch?v=M--eOnl3kNU
+[22:18:50]SAY: Amira Cook/Marinalightyears : Oh. earth&#39;s Moon. Luna, right? It sometimes gets called other stuff too.
+[22:18:53]OOC: Arabella McClymonds/Kerbal22 : Science, baitches.
+[22:18:54]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[22:18:59]SAY: Arabella McClymonds/Kerbal22 : Yup.
+[22:19:06]SAY: Amira Cook/Marinalightyears : but that was where I was raised.  I left when I could though.
+[22:19:08]SAY: cat/ : Purr!
+[22:19:12]OOC: Amira Cook/Marinalightyears : all the science.
+[22:19:19]SAY: Arabella McClymonds/Kerbal22 : Same as me. I did a tour with Sol Alliance.
+[22:19:37]SAY: Arabella McClymonds/Kerbal22 : Fifteen years.
+[22:19:38]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[22:19:41]SAY: Amira Cook/Marinalightyears : and yeah. we&#39;ve been drinking uh.. green alchohal. Absinthe, I guess. Its potent.
+[22:19:42]SAY: Igam Yute/Moom241 : I ran away when I was a teenager.
+[22:19:48]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> nods.
+[22:20:00]SAY: Igam Yute/Moom241 : Yep, like I said, smashed in ten C weather on a beach.
+[22:20:10]SAY: Amira Cook/Marinalightyears : .. Its not the smartest thing Ive done.
+[22:20:14]SAY: Arabella McClymonds/Kerbal22 : eh, i&#39;m not up for getting smashed.
+[22:20:15]SAY: kitten/ : Meow!
+[22:20:24]SAY: Amira Cook/Marinalightyears : Well, if its consolation
+[22:20:26]SAY: Igam Yute/Moom241 : If you say so.
+[22:20:28]SAY: Amira Cook/Marinalightyears : Im not either, anymore.
+[22:20:35]SAY: cat/ : Meow!
+[22:20:45]EMOTE: kitten/ : <B>The kitten</B> meows.
+[22:20:52]SAY: Amira Cook/Marinalightyears : I suppose Im lucky I didnt pass out. hah.
+[22:20:53]SAY: kitten/ : HSSSSS
+[22:21:08]EMOTE: Arabella McClymonds/Kerbal22 : <B>Arabella McClymonds</B> nods.
+[22:21:29]SAY: Amira Cook/Marinalightyears : A tour with the Sol Alliance, Huh? I can only Imagine. Fifteen years feels like a looong time.
+[22:21:37]EMOTE: Ian/ : <B>Ian</B> woofs.
+[22:21:40]SAY: Igam Yute/Moom241 : I&#39;m gonna go grab a hot dog.
+[22:21:42]SAY: Arabella McClymonds/Kerbal22 : I got a fat pension from it. And some medals.
+[22:21:44]EMOTE: Arabella McClymonds/Kerbal22 : <B>Arabella McClymonds</B> shrugs.
+[22:21:49]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[22:21:53]EMOTE: Ian/ : <B>Ian</B> dances around
+[22:21:55]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[22:22:03]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[22:22:04]SAY: Igam Yute/Moom241 : mmm. Hot dog.
+[22:22:07]EMOTE: Arabella McClymonds/Kerbal22 : <B>Arabella McClymonds</B> is one butch-ass space marine.
+[22:22:15]SAY: Amira Cook/Marinalightyears : Medals are nice, I suppose.
+[22:22:38]EMOTE: kitten/ : <B>The kitten</B> meows.
+[22:22:40]EMOTE: Runtime/ : <B>Runtime</B> meows.
+[22:22:53]SAY: Arabella McClymonds/Kerbal22 : lost an arm and a leg for it, heh..
+[22:23:04]SAY: Arabella McClymonds/Kerbal22 : anyway.
+[22:23:09]SAY: Amira Cook/Marinalightyears : .. Honestly, I have yet to do anything with myself. Though I am getting a place eventually.
+[22:23:32]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> Yeah. Amira was looking to move into the area.
+[22:23:34]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> shakes its head.
+[22:23:35]OOC: (LOCAL) Igam Yute/Moom241 : fuk
+[22:23:43]SAY: Arabella McClymonds/Kerbal22 : There&#39;s a few vacancies here, though, with all the hiring Nanotrasen is doing i expect them to fill up fast.
+[22:24:06]EMOTE: Parrot/ : <B>The Parrot</B> flutters its wings.
+[22:24:16]SAY: cat/ : Esp!
+[22:24:27]SAY: Amira Cook/Marinalightyears : ah. NanoTrasen is pretty Big. I suppose I may well end up working for them if I end up moving here quick enough.
+[22:24:30]EMOTE: cat/ : <B>The cat</B> mews.
+[22:24:31]SAY: Experiment 97d/ : EHEHEHEHEH
+[22:24:50]SAY: Igam Yute/Moom241 : Yeah. I think the place next door to me is still vacant. Though I don&#39;t think it&#39;d be opulent enough.
+[22:25:04]EMOTE: Arabella McClymonds/Kerbal22 : <B>Arabella McClymonds</B> shrugs.
+[22:25:14]SAY: Arabella McClymonds/Kerbal22 : &#39;m gonna be moving into a bigger house soon.
+[22:25:27]SAY: Amira Cook/Marinalightyears : by this point, any place would be ok for me.
+[22:25:32]SAY: Igam Yute/Moom241 : Really Bella?
+[22:25:41]SAY: kitten/ : HSSSSS
+[22:25:41]EMOTE: kitten/ : <B>The kitten</B> meows.
+[22:26:02]DEBUG: Next event of severity Moderate in 53.28 minutes.
+[22:26:02]DEBUG: Starting event 'Prison Break' of severity Moderate.
+[22:26:15]SAY: Arabella McClymonds/Kerbal22 : huh?
+[22:26:19]SAY: Igam Yute/Moom241 : Nothing.
+[22:26:20]SAY: Igam Yute/Moom241 : Oh!
+[22:26:22]DEBUG: Next event of severity Mundane in 12.14 minutes.
+[22:26:22]DEBUG: Starting event 'Trivial News' of severity Mundane.
+[22:26:23]SAY: Igam Yute/Moom241 : Good news!
+[22:26:26]OOC: (LOCAL) Igam Yute/Moom241 : shit, okay,
+[22:26:34]OOC: (LOCAL) Igam Yute/Moom241 : I need names for metal bands.
+[22:26:36]SAY: Parrot/ : Cracker?
+[22:26:44]DEBUG: Event 'Trivial News' has completed at 15:52.
+[22:26:47]OOC: (LOCAL) Arabella McClymonds/Kerbal22 : Heavy metal?
+[22:26:48]SAY: Parrot/ : Cracker?
+[22:26:51]OOC: (LOCAL) Arabella McClymonds/Kerbal22 : or regular?
+[22:26:51]SAY: Igam Yute/Moom241 : I found tickets for God of Carnage next week.
+[22:26:56]SAY: cat/ : Meow!
+[22:27:00]OOC: (LOCAL) Igam Yute/Moom241 : Whatever the hell Arabella likes. Too lat.e
+[22:27:03]SAY: Amira Cook/Marinalightyears : thanks to my ill planned move, I kind of dont have anywhere to stay so uh. I think a cruddy place would be just fine now. heh.
+[22:27:10]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> mumbled that somewhat to herself.
+[22:27:17]SAY: Arabella McClymonds/Kerbal22 : I got a spare room if you need a place to crash.
+[22:27:28]EMOTE: Arabella McClymonds/Kerbal22 : <B>Arabella McClymonds</B> has really good hearing. Even though she&#39;s missing an ear.
+[22:27:32]SAY: Amira Cook/Marinalightyears : oh.. uh. nah. I dont need to impose.
+[22:27:37]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> looks kind of embaressed now.
+[22:27:50]SAY: kitten/ : Esp!
+[22:27:53]DEBUG: Event 'Prison Break' has completed at 15:53.
+[22:28:08]OOC: (LOCAL) Amira Cook/Marinalightyears : those amuse me.
+[22:28:13]EMOTE: crab/ : <B>The crab</B> clicks.
+[22:28:16]SAY: Igam Yute/Moom241 : C&#39;mon Amira. Where are you staying now?
+[22:28:25]OOC: (LOCAL) Amira Cook/Marinalightyears : I keep wanting to icly comment on an apparently city wide anounncement.
+[22:28:45]SAY: Amira Cook/Marinalightyears : oh.. nowhere really, though I think there might be vacent rooms At hotels and stuff.
+[22:28:54]SAY: Amira Cook/Marinalightyears : so its not like im on the street. Usually.
+[22:28:54]EMOTE: Ian/ : <B>Ian</B> shivers.
+[22:29:04]SAY: Arabella McClymonds/Kerbal22 : don&#39;t bother with the hotels. They&#39;re crime-ridden.
+[22:29:04]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> coughs with embaressment.
+[22:29:12]SAY: Experiment 97d/ : EHEHEHEHEH
+[22:29:16]EMOTE: Ian/ : <B>Ian</B> yaps.
+[22:29:17]SAY: Amira Cook/Marinalightyears : oh?. that bad huh?
+[22:29:20]SAY: Parrot/ : Cracker?
+[22:29:27]SAY: Arabella McClymonds/Kerbal22 : Yeah. The patrol bots don&#39;t go that far out.
+[22:29:28]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> nods.
+[22:29:36]EMOTE: crab/ : <B>The crab</B> clacks.
+[22:29:41]SAY: Igam Yute/Moom241 : Hell, they don&#39;t even come by my place.
+[22:29:47]SAY: Arabella McClymonds/Kerbal22 : If you have to stay in one, i&#39;l walk you there.
+[22:29:50]SAY: Experiment 97d/ : EHEHEHEHEH
+[22:30:03]EMOTE: Arabella McClymonds/Kerbal22 : <B>Arabella McClymonds</B> quite obviously has a handgun in a shoulder-holster.
+[22:30:26]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[22:30:41]SAY: Amira Cook/Marinalightyears : ugh. Well.. I dont know.  I mean, that could work? Or the other thing you said before.
+[22:30:42]SAY: kitten/ : Esp!
+[22:30:59]EMOTE: Ian/ : <B>Ian</B> dances around
+[22:31:09]EMOTE: kitten/ : <B>The kitten</B> mews.
+[22:31:11]EMOTE: Arabella McClymonds/Kerbal22 : <B>Arabella McClymonds</B> shrugs. &#34;Girl, you&#39;re a friend of Igam&#39;s, right? Any friend of his is a friend of mine.&#34;
+[22:31:13]EMOTE: cat/ : <B>The cat</B> mews.
+[22:31:18]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> looks less then pleased that the attention has shifted to her situation. mostly because it embarassed her.
+[22:31:21]DEBUG: Next event of severity Major in 78.406 minutes.
+[22:31:21]DEBUG: Starting event 'Nothing' of severity Major.
+[22:31:23]DEBUG: Event 'Nothing' has completed at 15:56.
+[22:31:32]SAY: Amira Cook/Marinalightyears : hah.. friend, in the sense we talked for awhile and messed with a Parrot..
+[22:31:40]WHISPER: Arabella McClymonds/Kerbal22 : She really shouldn&#39;t be on Biesel. It ain&#39;t safe for her.
+[22:31:45]SAY: Amira Cook/Marinalightyears : but yeah. I dont mind having friends. I like that actually.
+[22:31:49]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> nods.
+[22:32:05]WHISPER: Igam Yute/Moom241 : She&#39;s gonna end up stabbed in an alley for her wallet. Or worse.
+[22:32:09]SAY: Runtime/ : HSSSSS
+[22:32:26]WHISPER: Arabella McClymonds/Kerbal22 : Definitely.
+[22:32:36]SAY: Igam Yute/Moom241 : C&#39;mon! We got smashed on absinthe and polluted together! We&#39;re the bosomest of buddies!
+[22:32:45]WHISPER: Arabella McClymonds/Kerbal22 : 
+[22:32:54]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> smiles a little, then nods.
+[22:32:56]SAY: Amira Cook/Marinalightyears : sure.
+[22:33:01]SAY: Arabella McClymonds/Kerbal22 : But, you want my honest oppionion? Don&#39;t get a house down here. It&#39;s not safe.
+[22:33:03]SAY: Runtime/ : Purr!
+[22:33:10]SAY: Arabella McClymonds/Kerbal22 : Get one on a orbital habitat.
+[22:33:17]SAY: Amira Cook/Marinalightyears : We even tought a Parrot lame things to say to people now.
+[22:33:19]SAY: Amira Cook/Marinalightyears : oh?
+[22:33:35]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[22:33:53]SAY: Igam Yute/Moom241 : Yeah. Them fancy sky apartments are real posh. Won&#39;t have no trouble on one of them.
+[22:33:54]VOTE: Crew_transfer vote started by the server.
+[22:33:54]DEBUG: The server has called a crew transfer vote
+[22:33:55]SAY: Amira Cook/Marinalightyears : Eh.. I will take what I can. Im sure its fine, even if I will have to be careful. yeah.
+[22:33:57]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[22:34:13]EMOTE: Arabella McClymonds/Kerbal22 : <B>Arabella McClymonds</B> snorts, looking at Amira.
+[22:34:16]SAY: Runtime/ : Esp!
+[22:34:16]EMOTE: crab/ : <B>The crab</B> clacks.
+[22:34:22]SAY: Arabella McClymonds/Kerbal22 : No offense, girl, but i don&#39;t think you could hurt a fly.
+[22:34:26]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[22:34:29]SAY: Amira Cook/Marinalightyears : also, it doesnt help I didnt really accept My parents parting money.
+[22:35:02]SAY: cat/ : Meow!
+[22:35:11]SAY: Amira Cook/Marinalightyears : ah.. you might be mildly surprised. My Dad didnt want me getting touched by.. how did he say it? the common rabble.
+[22:35:18]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> laughs.
+[22:35:26]SAY: Amira Cook/Marinalightyears : a few self defence classes wont keep me safe always, of course though..
+[22:35:28]SAY: Igam Yute/Moom241 : Sorry.
+[22:35:34]SAY: Arabella McClymonds/Kerbal22 : Well, girl, igam and me certainly ain&#39;t royal blood.
+[22:35:43]SAY: Amira Cook/Marinalightyears : Oh I know.
+[22:35:45]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[22:35:46]SAY: Amira Cook/Marinalightyears : I couldnt stand him.
+[22:35:55]SAY: Amira Cook/Marinalightyears : My mom either.
+[22:36:03]SAY: Amira Cook/Marinalightyears : part of the reason I decided to make my own way.
+[22:36:05]OOC: (LOCAL) Arabella McClymonds/Kerbal22 : brb
+[22:36:10]SAY: Amira Cook/Marinalightyears : but uh.. enough of that. yep.
+[22:36:13]SAY: Igam Yute/Moom241 : Man, we have more in common than you may think.
+[22:36:15]OOC: (LOCAL) Amira Cook/Marinalightyears : kaaay
+[22:36:23]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[22:36:49]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[22:36:55]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[22:36:59]EMOTE: crab/ : <B>The crab</B> clacks.
+[22:37:19]SAY: Amira Cook/Marinalightyears : .. honestly, I noticed some of that. I think thats why we get along.
+[22:37:20]SAY: Amira Cook/Marinalightyears : maybe.
+[22:37:28]EMOTE: Runtime/ : <B>Runtime</B> meows.
+[22:37:32]SAY: Amira Cook/Marinalightyears : Or maybe its jsut because your friendly.
+[22:37:35]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> smiles a little.
+[22:37:38]EMOTE: Ian/ : <B>Ian</B> dances around
+[22:37:40]SAY: kitten/ : Meow!
+[22:37:41]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> shrugs.
+[22:37:44]EMOTE: crab/ : <B>The crab</B> clacks.
+[22:37:49]SAY: Igam Yute/Moom241 : I dunno. I just like making friends.
+[22:37:52]EMOTE: Ian/ : <B>Ian</B> dances around
+[22:38:04]SAY: Igam Yute/Moom241 : Man, this place is a mess...
+[22:39:00]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> shrugs.
+[22:39:02]DEBUG: Next event of severity Mundane in 14.008 minutes.
+[22:39:02]DEBUG: Starting event 'Nothing' of severity Mundane.
+[22:39:04]DEBUG: Event 'Nothing' has completed at 16:03.
+[22:39:06]SAY: Igam Yute/Moom241 : Eh, good enough for the city.
+[22:39:34]OOC: (LOCAL) Arabella McClymonds/Kerbal22 : baak
+[22:39:54]EMOTE: Parrot/ : <B>The Parrot</B> flutters its wings.
+[22:40:06]EMOTE: Arabella McClymonds/Kerbal22 : <B>Arabella McClymonds</B> laughs. &#34;When you get to know him...Igam can be REALLY ~friendly~.&#34;
+[22:40:08]SAY: cat/ : Meow!
+[22:40:14]EMOTE: Arabella McClymonds/Kerbal22 : <B>Arabella McClymonds</B> wiggles her eyebrows at Igam, laughing.
+[22:40:21]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snickers.
+[22:40:32]SAY: Igam Yute/Moom241 : Yeah.
+[22:40:37]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> yawnbs a little looking distracted a moment
+[22:40:39]SAY: Igam Yute/Moom241 : Just don&#39;t leave me around gin.
+[22:40:40]EMOTE: crab/ : <B>The crab</B> clacks.
+[22:40:42]EMOTE: Ian/ : <B>Ian</B> dances around
+[22:41:13]SAY: Arabella McClymonds/Kerbal22 : So, you said you had self-defense training?
+[22:41:20]SAY: Amira Cook/Marinalightyears : Unless I dont want the gin anymore?
+[22:41:23]SAY: Amira Cook/Marinalightyears : Oh yeah.
+[22:41:31]SAY: Arabella McClymonds/Kerbal22 : What kind?
+[22:41:43]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[22:41:55]EMOTE: kitten/ : <B>The kitten</B> meows.
+[22:42:05]SAY: Amira Cook/Marinalightyears : some basic stuff, like.. how to disarm people who act exactly like my instructor showed, and how to punch people.
+[22:42:05]SAY: kitten/ : HSSSSS
+[22:42:36]SAY: Arabella McClymonds/Kerbal22 : ...can you take someone down? Wound them?
+[22:42:37]SAY: Amira Cook/Marinalightyears : Honestly, nothing uh.. Probably.. &#39;real&#39;
+[22:42:39]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[22:42:41]SAY: Experiment 97d/ : Eh?
+[22:42:52]SAY: Amira Cook/Marinalightyears : .. Sure. I suppose. In a theoretical way.
+[22:43:03]SAY: kitten/ : Meow!
+[22:43:08]SAY: Amira Cook/Marinalightyears : Like.. Ive never done it, and until I do, I cant say with positivity, but yeah.
+[22:43:14]SAY: Amira Cook/Marinalightyears : the.. theory? is there.
+[22:43:14]SAY: Arabella McClymonds/Kerbal22 : ...you&#39;re gonna need a gun, i can say that now.
+[22:43:17]SAY: Igam Yute/Moom241 : Well, your first problem is assuming you&#39;d be punching someone. The first rule of self defense is never fight fair.
+[22:43:38]EMOTE: cat/ : <B>The cat</B> shivers.
+[22:43:40]SAY: Igam Yute/Moom241 : Well, /my/ first rule of self defense is never fight fair.
+[22:43:43]SAY: Amira Cook/Marinalightyears : hey, punches are not always fair.
+[22:43:46]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[22:43:49]SAY: Arabella McClymonds/Kerbal22 : Really?
+[22:43:52]SAY: Arabella McClymonds/Kerbal22 : Try me then?
+[22:43:55]SAY: Igam Yute/Moom241 : Yeah, but I&#39;d still want a weapon in hand.
+[22:44:01]SAY: Amira Cook/Marinalightyears : Depends on if theys ee it coming. It wasnt a bocing class after all.
+[22:44:07]OOC: (LOCAL) Amira Cook/Marinalightyears : boxing*
+[22:44:08]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[22:44:49]SAY: Igam Yute/Moom241 : Wait, Bella, did you mean me or her?
+[22:45:12]SAY: Arabella McClymonds/Kerbal22 : Her.
+[22:45:18]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> nods.
+[22:45:26]SAY: Arabella McClymonds/Kerbal22 : Won&#39;t fight back, just wanna see.
+[22:45:33]EMOTE: kitten/ : <B>The kitten</B> mews.
+[22:45:40]SAY: Amira Cook/Marinalightyears : Try you? like.. show you what I learned?
+[22:45:43]SAY: Runtime/ : Esp!
+[22:45:48]SAY: Amira Cook/Marinalightyears : or what?
+[22:45:53]SAY: Amira Cook/Marinalightyears : cause that sounds a bit silly.
+[22:45:59]SAY: Arabella McClymonds/Kerbal22 : Try to take me down.
+[22:46:10]SAY: Arabella McClymonds/Kerbal22 : ...If they taught you how.
+[22:46:59]SAY: Amira Cook/Marinalightyears : ... Oh uh. hah. That would be awkward for me, sinc eyour sort of my friend now. and that your obviously more well prepared.
+[22:47:20]EMOTE: Ian/ : <B>Ian</B> dances around
+[22:47:55]SAY: Arabella McClymonds/Kerbal22 : ...i&#39;m gonna take it as you don&#39;t know how.
+[22:48:17]EMOTE: Arabella McClymonds/Kerbal22 : <B>Arabella McClymonds</B> walks over to Amira, pulling the pistol from it&#39;s shoulder holster and offering it to her, butt-first.
+[22:48:42]SAY: Amira Cook/Marinalightyears : .. uh.
+[22:48:44]SAY: Arabella McClymonds/Kerbal22 : Know how to shoot it?
+[22:48:49]SAY: Amira Cook/Marinalightyears : .. no.
+[22:49:02]SAY: Arabella McClymonds/Kerbal22 : Well, it&#39;s simple.
+[22:49:08]SAY: Arabella McClymonds/Kerbal22 : Aim, pull the trigger.
+[22:49:11]OOC: (LOCAL) Igam Yute/Moom241 : sorry, was afk
+[22:49:12]SAY: Amira Cook/Marinalightyears : I know how to grab it from someone, and I know how to pull the trigger, but aiming, or anything else is.. sort of vague to me.
+[22:49:17]SAY: Amira Cook/Marinalightyears : .. Oh.
+[22:49:25]SAY: Arabella McClymonds/Kerbal22 : It&#39;s got a little kick to it.
+[22:49:29]SAY: Arabella McClymonds/Kerbal22 : Nothin&#39; major
+[22:49:32]SAY: Amira Cook/Marinalightyears : really? no bracing for recoil, or whatever?
+[22:49:34]SAY: Amira Cook/Marinalightyears : ah.
+[22:50:03]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[22:50:09]SAY: Arabella McClymonds/Kerbal22 : It&#39;s a pistol, not a AR35.
+[22:50:11]SAY: Amira Cook/Marinalightyears : I appreciate the concern.. but uh.. this feels like a bit much.
+[22:50:17]SAY: Arabella McClymonds/Kerbal22 : Girl.
+[22:50:19]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[22:50:25]SAY: kitten/ : Meow!
+[22:50:25]SAY: Amira Cook/Marinalightyears : yeah Bella?
+[22:50:28]SAY: Arabella McClymonds/Kerbal22 : People have tried to take me.
+[22:50:32]EMOTE: Ian/ : <B>Ian</B> dances around
+[22:50:44]SAY: Arabella McClymonds/Kerbal22 : That pistol will be your best friend if you have to go anywhere sketchy.
+[22:50:45]SAY: Igam Yute/Moom241 : You know, I feel like a public beach isn&#39;t the bess place to practice with live rounds...
+[22:50:57]SAY: Arabella McClymonds/Kerbal22 : We ain&#39;t practicing yet..
+[22:51:03]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> shrugs.
+[22:51:06]SAY: Igam Yute/Moom241 : If you say so Bella.
+[22:51:06]SAY: kitten/ : HSSSSS
+[22:51:25]OOC: Arabella McClymonds/Kerbal22 : https://gifsound.com/?gif=orig14.deviantart.net/48f3/f/2015/064/c/2/i_need_professional_help_by_geniusgt-d8kh4sc.gif&v=XZy4M41oMA4
+[22:51:33]OOC: Arabella McClymonds/Kerbal22 : Samus is like &#34;Not even trying anymore.&#34;
+[22:51:43]SAY: Amira Cook/Marinalightyears : You sure you dont want it back? it must be of some value, monetary wise.
+[22:51:48]SAY: Arabella McClymonds/Kerbal22 : neh.
+[22:51:55]SAY: Arabella McClymonds/Kerbal22 : It&#39;s my old standard issue pistol.
+[22:52:00]SAY: Igam Yute/Moom241 : Y&#39;know, you never gave me shooting lessons. Must be because I&#39;m not a pretty rich girl.
+[22:52:16]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[22:52:17]OOC: Igam Yute/Moom241 : gif won&#39;t load. these are the struggles
+[22:52:19]SAY: Arabella McClymonds/Kerbal22 : Igam, you never asked and you&#39;re not a defenseless...well, rich girl.
+[22:52:22]EMOTE: Parrot/ : <B>The Parrot</B> squawks.
+[22:52:27]SAY: Amira Cook/Marinalightyears : I will keep it then, I suppose, but only on your insistance. Thank you.
+[22:52:49]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> awkwardly puts the pistol into her backpack now, looking still not entirely comfortable.
+[22:52:55]EMOTE: Parrot/ : <B>The Parrot</B> squawks.
+[22:53:09]SAY: Igam Yute/Moom241 : Yeah, I guess I&#39;m not defenseless.
+[22:53:11]SAY: Igam Yute/Moom241 : Oh!
+[22:53:12]OOC: Amira Cook/Marinalightyears : lel.
+[22:53:14]SAY: Igam Yute/Moom241 : One more thing.
+[22:53:27]EMOTE: Ian/ : <B>Ian</B> dances around
+[22:53:35]EMOTE: Parrot/ : <B>The Parrot</B> squawks.
+[22:53:39]SAY: Amira Cook/Marinalightyears : ooc I can see it. Its everything you think it is but have no proof.
+[22:53:40]DEBUG: Next event of severity Mundane in 12.306 minutes.
+[22:53:40]DEBUG: Starting event 'Trivial News' of severity Mundane.
+[22:53:45]SAY: Igam Yute/Moom241 : Mira, there is like, zero shame in hoofing it. Well, there is, but I&#39;d rather be dishonored than disemboweld.
+[22:53:48]OOC: (LOCAL) Amira Cook/Marinalightyears : dangit
+[22:53:54]OOC: (LOCAL) Amira Cook/Marinalightyears : omit, that obviosuly.
+[22:54:02]DEBUG: Event 'Trivial News' has completed at 16:18.
+[22:54:11]SAY: Amira Cook/Marinalightyears : honestly, running is my first instinct.
+[22:54:13]SAY: Parrot/ : Cracker?
+[22:54:20]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> nods.
+[22:54:26]SAY: Amira Cook/Marinalightyears : smacking someone aside the head with a barstool or my fist would be the second.. hah.
+[22:54:48]OOC: Amira Cook/Marinalightyears : I can see it. Its everything you think it is but have no proof.
+[22:54:57]OOC: Amira Cook/Marinalightyears : There posted tot he right place finally. eesh
+[22:55:07]SAY: Igam Yute/Moom241 : Go with the barstool. And the moment they are on the ground, get the hell out of there. You don&#39;t know if they have friends in the area, eh?
+[22:55:15]SAY: Amira Cook/Marinalightyears : Right..
+[22:55:16]SAY: Igam Yute/Moom241 : Bella, stop me if I say anything stupid.
+[22:55:24]SAY: Amira Cook/Marinalightyears : but here is to hoping I dont have to do any of that.
+[22:55:38]SAY: Igam Yute/Moom241 : Never hurts to know.
+[22:55:41]EMOTE: Arabella McClymonds/Kerbal22 : <B>Arabella McClymonds</B> shrugs.
+[22:55:51]SAY: kitten/ : Esp!
+[22:55:53]SAY: Arabella McClymonds/Kerbal22 : start spoutin&#39;, iggy
+[22:55:59]OOC: Igam Yute/Moom241 : I fukken luv captain falcon
+[22:56:01]SAY: Amira Cook/Marinalightyears : I mean so far my lucjk has let me get away with becoming drunk on my ass on the beach. hah.
+[22:56:11]OOC: (LOCAL) Amira Cook/Marinalightyears : luck*
+[22:56:23]SAY: cat/ : Meow!
+[22:56:24]SAY: Igam Yute/Moom241 : Yeah, but you can&#39;t rely on luck your whole life.
+[22:56:30]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> indicates his eyepatch.
+[22:56:34]SAY: Igam Yute/Moom241 : This is what happens when you do.
+[22:56:57]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[22:56:58]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> shrugs a little. 
+[22:57:09]SAY: Amira Cook/Marinalightyears : of course..
+[22:57:15]SAY: Igam Yute/Moom241 : Sorry.
+[22:57:19]EMOTE: cat/ : <B>The cat</B> meows.
+[22:57:23]SAY: Amira Cook/Marinalightyears : hmm?
+[22:57:26]SAY: Igam Yute/Moom241 : This is like real heavy and all that.
+[22:57:27]SAY: Amira Cook/Marinalightyears : for..?
+[22:57:33]SAY: Amira Cook/Marinalightyears : oh. nah. its ok.
+[22:57:33]EMOTE: Parrot/ : <B>The Parrot</B> flutters its wings.
+[22:57:48]SAY: Arabella McClymonds/Kerbal22 : anyway.
+[22:57:57]SAY: Arabella McClymonds/Kerbal22 : You guys wanna head back to my place?
+[22:57:58]EMOTE: Ian/ : <B>Ian</B> pants.
+[22:57:59]SAY: Amira Cook/Marinalightyears : Im intending to become a medical worker anyway.
+[22:58:03]SAY: Amira Cook/Marinalightyears : oh. sure.
+[22:58:08]SAY: kitten/ : HSSSSS
+[22:58:08]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[22:58:09]SAY: Arabella McClymonds/Kerbal22 : Iggy?
+[22:58:11]SAY: Igam Yute/Moom241 : Why not.
+[22:58:30]WHISPER: Igam Yute/Moom241 : Eager to get the naive young girl home?
+[22:58:33]WHISPER: Arabella McClymonds/Kerbal22 : 
+[22:58:34]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snickers.
+[22:58:39]WHISPER: Arabella McClymonds/Kerbal22 : She&#39;s got a nice ass.
+[22:58:44]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[22:58:46]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[22:58:46]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> sighs.
+[22:58:47]SAY: Amira Cook/Marinalightyears : me peers around the street now.
+[22:58:47]SAY: Igam Yute/Moom241 : Yeah.
+[22:58:52]OOC: (LOCAL) Amira Cook/Marinalightyears : dangit
+[22:58:54]OOC: (LOCAL) Igam Yute/Moom241 : hueh
+[22:59:13]ADMIN: cassyjenelle/(Penny Islington) jumped to Marinalightyears/(Amira Cook)
+[22:59:20]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> trails her hand along the walla s she walks
+[22:59:29]SAY: Arabella McClymonds/Kerbal22 : cop a squat.
+[22:59:32]EMOTE: Arabella McClymonds/Kerbal22 : <B>Arabella McClymonds</B> sits down.
+[22:59:33]SAY: Amira Cook/Marinalightyears : ooh. nice.
+[22:59:47]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[22:59:49]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> slumps down into the chair with a sigh.
+[22:59:50]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> sits as well, yawning again, finally looking a little tired.
+[23:00:11]SAY: Amira Cook/Marinalightyears : its.. better then it could be. yep.
+[23:00:23]EMOTE: Arabella McClymonds/Kerbal22 : <B>Arabella McClymonds</B> shrugs.
+[23:00:28]SAY: Arabella McClymonds/Kerbal22 : There are worse things in this world
+[23:00:41]SAY: Igam Yute/Moom241 : Way better&#39;n my place. Quieter at night too.
+[23:01:15]SAY: Arabella McClymonds/Kerbal22 : I did tell you that you could stay, Igam/
+[23:01:37]SAY: Amira Cook/Marinalightyears : there are a lot of worse things in the world. this place is nicer then like.. a motel room, Isuppose. unles syou get oen of those super fancy ones I took for granted hah.
+[23:02:00]SAY: Igam Yute/Moom241 : Yeah I guess I could Bella, but then my father would be right about me.
+[23:02:02]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[23:02:05]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> chuckles.
+[23:02:12]EMOTE: Runtime/ : <B>Runtime</B> meows.
+[23:02:30]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[23:02:47]EMOTE: Ian/ : <B>Ian</B> yaps.
+[23:02:56]SAY: Arabella McClymonds/Kerbal22 : Suit yourself.
+[23:03:13]SAY: kitten/ : HSSSSS
+[23:03:15]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[23:03:23]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[23:03:39]SAY: Igam Yute/Moom241 : Well, I mean, if you insist, I may be persuaded...
+[23:03:59]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[23:04:03]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[23:04:06]SAY: Arabella McClymonds/Kerbal22 : Oh, gosh, i&#39;l never get any sleep.
+[23:04:11]EMOTE: Arabella McClymonds/Kerbal22 : <B>Arabella McClymonds</B> snorts and laughs.
+[23:04:18]SAY: Parrot/ : Cracker?
+[23:04:32]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> breaks into snickering.
+[23:05:15]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> scoots over.
+[23:05:15]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> glances to Igam for a moment, then Arabella, and smiles slightly. They were good people.
+[23:05:36]WHISPER: Igam Yute/Moom241 : If Amira and I were both in the apartment, I think it may kill you...
+[23:05:59]WHISPER: Arabella McClymonds/Kerbal22 : Why?
+[23:06:00]EMOTE: cat/ : <B>The cat</B> shivers.
+[23:06:02]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> leans back in the chair, leaning it onto its back legs now, apparently out of habit, kicking back a little, but not putting her feet on the table or anything that rude.
+[23:06:04]SAY: Igam Yute/Moom241 : So, you think you&#39;d be amenable to staying here &#39;til you get your own place? With Bella&#39;s permission of course.
+[23:06:12]WHISPER: Igam Yute/Moom241 : Never mind.
+[23:06:27]WHISPER: Arabella McClymonds/Kerbal22 : ...Explain, or i&#39;l take away the favors i owe you.
+[23:06:35]DEBUG: Next event of severity Mundane in 12.562 minutes.
+[23:06:35]DEBUG: Starting event 'Mundane News' of severity Mundane.
+[23:06:43]EMOTE: crab/ : <B>The crab</B> clicks.
+[23:06:54]WHISPER: Igam Yute/Moom241 : You are too cruel.
+[23:06:56]SAY: Amira Cook/Marinalightyears : oh.. Uh.. sure.  Till I get my own place. which should be soon. If its ok. But Im fine, really, either way.
+[23:06:57]DEBUG: Event 'Mundane News' has completed at 16:30.
+[23:07:05]OOC: Arabella McClymonds/Kerbal22 : https://imgur.com/gallery/l54nf
+[23:07:11]WHISPER: Arabella McClymonds/Kerbal22 : Well?
+[23:07:13]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> nods, indicating how totally fine she would be either way, just as she had said.
+[23:07:23]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[23:07:48]EMOTE: Arabella McClymonds/Kerbal22 : <B>Arabella McClymonds</B> nods to the spare room. &#34;Gonna have to get a bed put in, but that ain&#39;t a issue.&#34;
+[23:08:16]EMOTE: Ian/ : <B>Ian</B> pants.
+[23:08:21]WHISPER: Igam Yute/Moom241 : Well, I simply meant with her being all naive and nice-assed, and me being all handsome and mysterious and great in bed...
+[23:08:29]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snickers.
+[23:08:56]SAY: kitten/ : Purr!
+[23:09:04]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> nods a bit in understanding.
+[23:09:24]SAY: cat/ : Meow!
+[23:09:33]SAY: Amira Cook/Marinalightyears : I have uh.. sheets, if I have to sleep on the floor. so you dont even need to get a bed.
+[23:09:42]WHISPER: Arabella McClymonds/Kerbal22 : ...naughty. Might have to bend you over next time.
+[23:09:56]WHISPER: Igam Yute/Moom241 : Promises promises...
+[23:10:41]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[23:10:48]SAY: Arabella McClymonds/Kerbal22 : It&#39;s fine.
+[23:10:56]SAY: Arabella McClymonds/Kerbal22 : I&#39;l have maintance put one in.
+[23:11:10]WHISPER: Arabella McClymonds/Kerbal22 : 
+[23:11:19]EMOTE: Arabella McClymonds/Kerbal22 : <B>Arabella McClymonds</B> snorts and laughs at Igam&#39;s comment.
+[23:11:23]SAY: cat/ : Esp!
+[23:11:34]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snickers.
+[23:11:37]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[23:11:44]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> notices the whispering again, and decides to lean back a little more in the chair, trying to find the perfect balance.
+[23:11:53]EMOTE: cat/ : <B>The cat</B> shivers.
+[23:12:03]EMOTE: Ian/ : <B>Ian</B> dances around
+[23:12:21]EMOTE: crab/ : <B>The crab</B> clicks.
+[23:12:26]SAY: Amira Cook/Marinalightyears : Maintance handles that? nice, I suppose.
+[23:12:44]SAY: Arabella McClymonds/Kerbal22 : I pay rent early, plus, the landlord and me are old friends.
+[23:12:54]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[23:13:20]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[23:13:21]SAY: Igam Yute/Moom241 : Lucky.
+[23:13:26]EMOTE: Ian/ : <B>Ian</B> dances around
+[23:13:26]SAY: Parrot/ : Cracker?
+[23:13:31]SAY: Igam Yute/Moom241 : All my landlord does is cheat on poker night.
+[23:13:42]SAY: cat/ : Purr!
+[23:13:51]SAY: Amira Cook/Marinalightyears : I dont even have a landlord. It sounds so feudal.
+[23:13:54]SAY: cat/ : Purr!
+[23:14:00]EMOTE: kitten/ : <B>The kitten</B> mews.
+[23:14:00]SAY: Amira Cook/Marinalightyears : lack of a home may have somethign to do witht hat.
+[23:14:09]OOC: (LOCAL) Amira Cook/Marinalightyears : with that*
+[23:14:20]EMOTE: Ian/ : <B>Ian</B> dances around
+[23:15:01]EMOTE: Arabella McClymonds/Kerbal22 : <B>Arabella McClymonds</B> shrugs.
+[23:15:09]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> adopts what one would assume is a peasant accent.
+[23:15:12]SAY: Igam Yute/Moom241 : Well clearly, milady, us serfs live under the harsh terms. I do hope I can harvest enough grain this year, so none of my children die.
+[23:16:01]EMOTE: Arabella McClymonds/Kerbal22 : <B>Arabella McClymonds</B> thwaps Igam on the head. &#34;Back to work, plebian.&#34;
+[23:16:04]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> chuckles.
+[23:16:24]SAY: Igam Yute/Moom241 : Yes master. Please, don&#39;t beat me. I&#39;ve the plauge.
+[23:16:24]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snickers a little suddenly, smiling, her balance thrown off slightly, so she leans forward, letting the chair fall back into place.
+[23:16:53]EMOTE: Arabella McClymonds/Kerbal22 : <B>Arabella McClymonds</B> pushes Igam&#39;s flat-cap off his head. &#34;Off with his head!&#34;
+[23:16:53]EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[23:17:04]SAY: Igam Yute/Moom241 : Oh no!
+[23:17:15]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[23:17:24]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> lays his head on the table as though on the chopping block.
+[23:17:33]EMOTE: Runtime/ : <B>Runtime</B> mews.
+[23:17:35]EMOTE: Ian/ : <B>Ian</B> pants.
+[23:17:38]EMOTE: Arabella McClymonds/Kerbal22 : <B>Arabella McClymonds</B> makes a slicing motion.
+[23:17:45]SAY: Igam Yute/Moom241 : Gerk!
+[23:17:50]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> jerks, and slumps.
+[23:17:52]SAY: Arabella McClymonds/Kerbal22 : Ding-dong the witch is dead!
+[23:17:55]SAY: Experiment 97d/ : Eh?
+[23:17:56]EMOTE: Arabella McClymonds/Kerbal22 : <B>Arabella McClymonds</B> laughs.
+[23:18:20]SAY: Amira Cook/Marinalightyears : yes. that happened. hah..
+[23:18:20]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> picks his head up, laughing.
+[23:18:35]SAY: Igam Yute/Moom241 : Sorry Mira. Would you like to cut off my head too?
+[23:18:37]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> giggles a little
+[23:18:43]SAY: Amira Cook/Marinalightyears : no thanks.
+[23:18:54]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[23:19:29]OOC: (LOCAL) Arabella McClymonds/Kerbal22 : gtg, ignore me dropping.
+[23:19:30]ACCESS: Logout: Kerbal22/(Arabella McClymonds)
+[23:19:36]DEBUG: Next event of severity Mundane in 17.708 minutes.
+[23:19:36]DEBUG: Starting event 'Trivial News' of severity Mundane.
+[23:19:44]SAY: Ian/ : Bark!
+[23:19:48]EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[23:19:57]DEBUG: Event 'Trivial News' has completed at 16:43.
+[23:20:04]SAY: cat/ : Meow!
+[23:20:04]OOC: (LOCAL) Amira Cook/Marinalightyears : mm.
+[23:20:09]OOC: (LOCAL) Amira Cook/Marinalightyears : im getting a bit tired.
+[23:20:20]OOC: (LOCAL) Amira Cook/Marinalightyears : sooo, I will probably ditch myself soonish.
+[23:20:25]OOC: (LOCAL) Igam Yute/Moom241 : yeh, oky, fair enough
+[23:20:37]OOC: (LOCAL) Amira Cook/Marinalightyears : sorry. It was fun though~
+[23:20:38]ADMIN: cassyjenelle/(Penny Islington) spawned /mob/living/simple_animal/mouse/brown at (48,115,7)
+[23:20:40]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[23:20:44]SAY: Parrot/ : Cracker?
+[23:20:46]OOC: (LOCAL) Igam Yute/Moom241 : is oky
+[23:20:50]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[23:20:51]ADMIN: cassyjenelle/(Penny Islington) assumed direct control of the mouse (590).
+[23:20:51]ACCESS: Logout: *no key*/(Penny Islington)
+[23:20:51]ACCESS: Login: cassyjenelle/(mouse) from 81.104.88.62-1964287214 || BYOND v506
+[23:20:51]EMOTE: Arabella McClymonds/Kerbal22 : <B>Arabella McClymonds</B> snores.
+[23:20:53]OOC: (LOCAL) Amira Cook/Marinalightyears : I havent had a lot of fun rping in SS13 for awhile. so, this was cool.
+[23:20:55]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[23:21:11]OOC: (LOCAL) Amira Cook/Marinalightyears : suddenly, a mouse.
+[23:21:16]OOC: (LOCAL) Igam Yute/Moom241 : I&#39;m glad I could help.
+[23:21:26]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> Yawns.
+[23:21:33]DEBUG: Next event of severity Moderate in 53.906 minutes.
+[23:21:33]DEBUG: Starting event 'Carp School' of severity Moderate.
+[23:21:53]EMOTE: Arabella McClymonds/Kerbal22 : <B>Arabella McClymonds</B> snores.
+[23:22:09]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[23:22:30]ACCESS: Logout: *no key*/(mouse)
+[23:22:30]ACCESS: Login: cassyjenelle/(mouse) from 81.104.88.62-1964287214 || BYOND v506
+[23:22:37]ADMIN: cassyjenelle/(mouse) deleted the mouse (590) at (25,110,7)
+[23:22:41]OOC: Amira Cook/Marinalightyears : byeee all
+[23:22:43]OOC: Amira Cook/Marinalightyears : was fun
+[23:22:48]OOC: mouse/Cassy_jenelle : See ya. Mouse haters
+[23:22:57]EMOTE: Arabella McClymonds/Kerbal22 : <B>Arabella McClymonds</B> snores.
+[23:22:59]SAY: kitten/ : HSSSSS
+[23:23:00]OOC: Igam Yute/Moom241 : he tried to put it out
+[23:23:06]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[23:23:25]OOC: mouse/Cassy_jenelle : :c
+[23:23:26]SAY: Experiment 97d/ : EHEHEHEHEH
+[23:23:28]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[23:23:31]SAY: Igam Yute/Moom241 : G&#39;night Bella.
+[23:23:36]OOC: Igam Yute/Moom241 : I meant outside and u no it
+[23:23:39]OOC: Amira Cook/Marinalightyears : I was tryna pet th emouse
+[23:23:43]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> leans down and kisses her on the forehead.
+[23:23:52]OOC: Amira Cook/Marinalightyears : ooc run up and pet it all the pets.
+[23:23:55]OOC: Amira Cook/Marinalightyears : xD
+[23:24:09]ACCESS: Logout: Marinalightyears/(Amira Cook)
+[23:24:34]EMOTE: Ian/ : <B>Ian</B> shakes its head.
+[23:24:44]EMOTE: Arabella McClymonds/Kerbal22 : <B>Arabella McClymonds</B> snores.
+[23:24:46]EMOTE: Arabella McClymonds/Kerbal22 : <B>Arabella McClymonds</B> snores.
+[23:25:26]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[23:25:32]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[23:25:34]SAY: Parrot/ : Cracker?
+[23:25:34]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[23:25:42]EMOTE: Parrot/ : <B>The Parrot</B> bawks.
+[23:25:56]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[23:25:58]EMOTE: kitten/ : <B>The kitten</B> meows.
+[23:26:04]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[23:26:04]EMOTE: Arabella McClymonds/Kerbal22 : <B>Arabella McClymonds</B> snores.
+[23:26:26]ACCESS: Logout: Moom241/(Igam Yute)
+[23:26:39]EMOTE: Arabella McClymonds/Kerbal22 : <B>Arabella McClymonds</B> snores.
+[23:26:47]SAY: Experiment 97d/ : EHEHEHEHEH
+[23:26:47]EMOTE: crab/ : <B>The crab</B> clicks.
+[23:26:53]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[23:26:53]EMOTE: Arabella McClymonds/Kerbal22 : <B>Arabella McClymonds</B> snores.
+[23:27:05]EMOTE: Arabella McClymonds/Kerbal22 : <B>Arabella McClymonds</B> snores.
+[23:27:11]SAY: Ian/ : YAP
+[23:27:27]EMOTE: Ian/ : <B>Ian</B> dances around
+[23:27:29]EMOTE: Ian/ : <B>Ian</B> dances around
+[23:27:29]SAY: kitten/ : Esp!
+[23:27:31]EMOTE: crab/ : <B>The crab</B> clicks.
+[23:27:59]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[23:28:21]EMOTE: Arabella McClymonds/Kerbal22 : <B>Arabella McClymonds</B> snores.
+[23:29:01]EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[23:29:11]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[23:29:25]EMOTE: Arabella McClymonds/Kerbal22 : <B>Arabella McClymonds</B> snores.
+[23:29:51]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[23:30:02]EMOTE: Arabella McClymonds/Kerbal22 : <B>Arabella McClymonds</B> snores.
+[23:30:20]EMOTE: Arabella McClymonds/Kerbal22 : <B>Arabella McClymonds</B> snores.
+[23:30:38]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[23:31:28]EMOTE: cat/ : <B>The cat</B> meows.
+[23:31:44]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[23:31:56]SAY: Experiment 97d/ : Eh?
+[23:31:56]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[23:32:00]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[23:32:14]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[23:32:18]SAY: kitten/ : Meow!
+[23:32:46]EMOTE: Arabella McClymonds/Kerbal22 : <B>Arabella McClymonds</B> snores.
+[23:32:56]EMOTE: Ian/ : <B>Ian</B> shakes its head.
+[23:33:00]EMOTE: Arabella McClymonds/Kerbal22 : <B>Arabella McClymonds</B> snores.
+[23:33:17]EMOTE: Arabella McClymonds/Kerbal22 : <B>Arabella McClymonds</B> snores.
+[23:33:27]SAY: Experiment 97d/ : EHEHEHEHEH
+[23:33:29]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[23:33:37]EMOTE: crab/ : <B>The crab</B> clacks.
+[23:34:21]SAY: kitten/ : Esp!
+[23:34:27]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[23:34:33]EMOTE: Arabella McClymonds/Kerbal22 : <B>Arabella McClymonds</B> snores.
+[23:34:35]SAY: Ian/ : Bark!
+[23:34:37]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[23:35:01]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[23:35:01]EMOTE: cat/ : <B>The cat</B> mews.
+[23:35:03]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[23:35:17]EMOTE: cat/ : <B>The cat</B> shivers.
+[23:35:25]EMOTE: Runtime/ : <B>Runtime</B> shakes their head.
+[23:35:35]SAY: Experiment 97d/ : Eh?
+[23:35:41]ACCESS: Logout: cassyjenelle/(mouse)
+[01:14:22]EMOTE: Arabella McClymonds/Kerbal22 : <B>Arabella McClymonds</B> snores.
+[01:14:55]VOTE: Crew_transfer vote started by the server.
+[01:14:55]DEBUG: The server has called a crew transfer vote
+[01:15:04]ACCESS: Login: Marinalightyears/(Amira Cook) from 98.127.210.230-2261011010 || BYOND v506
+[01:15:19]OOC: Amira Cook/Marinalightyears : aww
+[01:15:41]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[01:15:41]EMOTE: Arabella McClymonds/Kerbal22 : <B>Arabella McClymonds</B> snores.
+[01:15:58]VOTE: <b>Vote Result: Inconclusive - No Votes!</b>
+[01:16:21]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[01:16:34]DEBUG: Next event of severity Mundane in 13.966 minutes.
+[01:16:34]DEBUG: Starting event 'Trivial News' of severity Mundane.
+[01:16:50]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[01:16:56]DEBUG: Event 'Trivial News' has completed at 17:00.
+[01:17:00]SAY: cat/ : Esp!
+[01:17:52]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[01:17:54]SAY: kitten/ : Purr!
+[01:18:09]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[01:18:09]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[01:18:13]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[01:18:19]SAY: Ian/ : Woof!
+[01:18:21]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[01:19:01]EMOTE: Arabella McClymonds/Kerbal22 : <B>Arabella McClymonds</B> snores.
+[01:19:14]SAY: Parrot/ : Cracker?
+[01:19:33]EMOTE: Ian/ : <B>Ian</B> dances around
+[01:19:37]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[01:19:37]EMOTE: Arabella McClymonds/Kerbal22 : <B>Arabella McClymonds</B> snores.
+[01:19:58]ATTACK: Amira Cook (marinalightyears) attacked Amira Cook (marinalightyears) with a bottle. (INTENT: HURT) (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=25;Y=81;Z=7'>JMP</a>)
+[01:20:12]EMOTE: Arabella McClymonds/Kerbal22 : <B>Arabella McClymonds</B> snores.
+[01:20:28]EMOTE: Arabella McClymonds/Kerbal22 : <B>Arabella McClymonds</B> snores.
+[01:20:30]EMOTE: Ian/ : <B>Ian</B> dances around
+[01:20:50]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[01:20:56]SAY: kitten/ : Purr!
+[01:21:06]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[01:21:14]SAY: kitten/ : Meow!
+[01:21:28]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[01:21:43]EMOTE: Ian/ : <B>Ian</B> dances around
+[01:22:07]SAY: Parrot/ : Cracker?
+[01:22:09]EMOTE: Arabella McClymonds/Kerbal22 : <B>Arabella McClymonds</B> snores.
+[01:22:11]EMOTE: Arabella McClymonds/Kerbal22 : <B>Arabella McClymonds</B> snores.
+[01:22:45]EMOTE: Arabella McClymonds/Kerbal22 : <B>Arabella McClymonds</B> snores.
+[01:23:09]EMOTE: Arabella McClymonds/Kerbal22 : <B>Arabella McClymonds</B> snores.
+[01:23:36]DEBUG: Event 'Carp School' has completed at 17:07.
+[01:23:55]EMOTE: crab/ : <B>The crab</B> clicks.
+[01:23:59]EMOTE: Arabella McClymonds/Kerbal22 : <B>Arabella McClymonds</B> snores.
+[01:24:05]EMOTE: Ian/ : <B>Ian</B> pants.
+[01:24:07]SAY: Parrot/ : Cracker?
+[01:25:42]SAY: cat/ : Purr!
+[01:25:44]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[01:26:06]EMOTE: Parrot/ : <B>The Parrot</B> squawks.
+[01:26:36]EMOTE: Arabella McClymonds/Kerbal22 : <B>Arabella McClymonds</B> snores.
+[01:26:40]EMOTE: Runtime/ : <B>Runtime</B> mews.
+[01:26:46]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[01:26:46]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[01:26:50]SAY: Ian/ : YAP
+[01:27:21]SAY: cat/ : Esp!
+[01:27:31]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[01:27:31]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[01:27:35]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[01:27:43]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[01:28:11]SAY: Parrot/ : Cracker?
+[01:28:37]SAY: kitten/ : Esp!
+[01:28:51]SAY: Parrot/ : Cracker?
+[01:28:53]EMOTE: Ian/ : <B>Ian</B> dances around
+[01:30:11]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[01:30:13]SAY: cat/ : Meow!
+[01:30:23]SAY: Parrot/ : Cracker?
+[01:31:08]DEBUG: Next event of severity Mundane in 16.63 minutes.
+[01:31:08]DEBUG: Starting event 'Trivial News' of severity Mundane.
+[01:31:30]DEBUG: Event 'Trivial News' has completed at 17:14.
+[01:31:32]EMOTE: Arabella McClymonds/Kerbal22 : <B>Arabella McClymonds</B> snores.
+[01:31:34]DEBUG: Next event of severity Major in 76.464 minutes.
+[01:31:34]DEBUG: Starting event 'Nothing' of severity Major.
+[01:31:36]DEBUG: Event 'Nothing' has completed at 17:15.
+[01:32:16]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[01:32:16]EMOTE: Arabella McClymonds/Kerbal22 : <B>Arabella McClymonds</B> snores.
+[01:32:28]EMOTE: Arabella McClymonds/Kerbal22 : <B>Arabella McClymonds</B> snores.
+[01:32:34]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[01:33:04]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[01:33:18]SAY: Ian/ : YAP
+[01:33:22]SAY: cat/ : HSSSSS
+[01:33:28]SAY: Parrot/ : Cracker?
+[01:33:46]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[01:33:56]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[01:34:42]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[01:34:48]SAY: Runtime/ : Meow!
+[01:34:52]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> gasps!
+[01:34:58]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[01:35:07]SAY: cat/ : HSSSSS
+[01:35:23]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> gasps!
+[01:35:29]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> gasps!
+[01:35:29]EMOTE: Arabella McClymonds/Kerbal22 : <B>Arabella McClymonds</B> snores.
+[01:35:45]EMOTE: Ian/ : <B>Ian</B> dances around
+[01:35:47]SAY: Experiment 97d/ : EHEHEHEHEH
+[01:35:55]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> gasps!
+[01:36:09]EMOTE: Arabella McClymonds/Kerbal22 : <B>Arabella McClymonds</B> snores.
+[01:36:15]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[01:36:23]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> gasps!
+[01:36:25]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> gasps!
+[01:36:27]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[01:36:33]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> gasps!
+[01:36:33]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[01:37:05]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[01:37:07]SAY: cat/ : HSSSSS
+[01:37:17]EMOTE: Ian/ : <B>Ian</B> dances around
+[01:37:21]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> gasps!
+[01:37:23]SAY: kitten/ : Meow!
+[01:37:29]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> gasps!
+[01:37:35]SAY: Experiment 97d/ : Eh?
+[01:37:51]EMOTE: kitten/ : <B>The kitten</B> mews.
+[01:37:53]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> gasps!
+[01:38:15]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[01:38:31]SAY: kitten/ : Purr!
+[01:38:41]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[01:38:45]SAY: kitten/ : HSSSSS
+[01:39:09]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[01:39:15]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[01:39:19]SAY: Parrot/ : Cracker?
+[01:39:27]EMOTE: Arabella McClymonds/Kerbal22 : <B>Arabella McClymonds</B> snores.
+[01:39:45]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> gasps!
+[01:39:49]EMOTE: Arabella McClymonds/Kerbal22 : <B>Arabella McClymonds</B> snores.
+[01:39:56]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> gasps!
+[01:40:00]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> gasps!
+[01:40:06]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> gasps!
+[01:40:18]SAY: cat/ : Meow!
+[01:40:20]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> gasps!
+[01:40:22]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> gasps!
+[01:40:28]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> gasps!
+[01:40:38]EMOTE: Ian/ : <B>Ian</B> dances around
+[01:40:38]EMOTE: cat/ : <B>The cat</B> meows.
+[01:40:38]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> gasps!
+[01:40:42]EMOTE: Arabella McClymonds/Kerbal22 : <B>Arabella McClymonds</B> snores.
+[01:41:06]SAY: Runtime/ : Meow!
+[01:41:26]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[01:41:26]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[01:41:34]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[01:41:36]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> gasps!
+[01:41:36]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[01:41:42]SAY: kitten/ : HSSSSS
+[01:41:46]EMOTE: kitten/ : <B>The kitten</B> meows.
+[01:41:50]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> gasps!
+[01:42:22]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> gasps!
+[01:42:26]SAY: kitten/ : Purr!
+[01:42:32]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> gasps!
+[01:42:42]SAY: kitten/ : Esp!
+[01:42:48]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> gasps!
+[01:43:02]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> gasps!
+[01:43:04]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[01:43:18]SAY: Experiment 97d/ : Eh?
+[01:43:28]EMOTE: crab/ : <B>The crab</B> clacks.
+[01:43:28]EMOTE: Arabella McClymonds/Kerbal22 : <B>Arabella McClymonds</B> snores.
+[01:43:58]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[01:44:14]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[01:44:42]SAY: Parrot/ : Cracker?
+[01:44:52]EMOTE: kitten/ : <B>The kitten</B> mews.
+[01:45:02]SAY: kitten/ : Purr!
+[01:45:42]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[01:46:01]EMOTE: Ian/ : <B>Ian</B> dances around
+[01:46:13]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[01:46:15]EMOTE: kitten/ : <B>The kitten</B> mews.
+[01:46:25]EMOTE: Ian/ : <B>Ian</B> dances around
+[01:46:33]EMOTE: cat/ : <B>The cat</B> mews.
+[01:46:49]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[01:46:49]EMOTE: Arabella McClymonds/Kerbal22 : <B>Arabella McClymonds</B> snores.
+[01:46:51]SAY: kitten/ : Purr!
+[01:47:05]SAY: kitten/ : HSSSSS
+[01:47:07]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[01:47:33]EMOTE: Arabella McClymonds/Kerbal22 : <B>Arabella McClymonds</B> snores.
+[01:47:41]EMOTE: Arabella McClymonds/Kerbal22 : <B>Arabella McClymonds</B> snores.
+[01:48:17]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[01:48:19]SAY: kitten/ : Purr!
+[01:48:20]DEBUG: Next event of severity Mundane in 16.068 minutes.
+[01:48:20]DEBUG: Starting event 'Nothing' of severity Mundane.
+[01:48:22]DEBUG: Event 'Nothing' has completed at 17:31.
+[01:48:39]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[01:48:43]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[01:49:28]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[01:50:06]EMOTE: Ian/ : <B>Ian</B> woofs.
+[01:50:14]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[01:51:18]SAY: kitten/ : HSSSSS
+[01:51:18]EMOTE: Arabella McClymonds/Kerbal22 : <B>Arabella McClymonds</B> snores.
+[01:51:24]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[01:51:36]SAY: Experiment 97d/ : EHEHEHEHEH
+[01:51:52]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[01:52:08]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[01:52:32]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[01:53:08]ACCESS: Logout: *no key*/(Amira Cook)
+[01:53:08]ACCESS: Login: Marinalightyears/(Amira Cook) from 98.127.210.230-2261011010 || BYOND v506
+[01:53:22]SAY: Ghost/Marinalightyears : woo
+[01:53:30]EMOTE: Ian/ : <B>Ian</B> dances around
+[01:53:31]ACCESS: Logout: *no key*/(Amira Cook)
+[01:53:31]ACCESS: Login: marinalightyears/(mouse) from 98.127.210.230-2261011010 || BYOND v506
+[01:53:48]VOTE: Crew_transfer vote started by marinalightyears.
+[01:53:54]ACCESS: Logout: marinalightyears/(mouse)
+[10:52:30]SAY: mouse (718)/marinalightyears : Squeek!
+[10:52:56]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[10:53:08]EMOTE: Arabella McClymonds/Kerbal22 : <B>Arabella McClymonds</B> snores.
+[10:53:17]ACCESS: Login: Marinalightyears/(mouse) from 98.127.210.230-2261011010 || BYOND v506
+[10:53:24]EMOTE: Arabella McClymonds/Kerbal22 : <B>Arabella McClymonds</B> snores.
+[10:53:25]VOTE: <b>Vote Result: Initiate Crew Transfer</b>
+[10:53:25]GAME: Autotransfer has called the shuttle.
+[10:53:32]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[10:53:38]EMOTE: Arabella McClymonds/Kerbal22 : <B>Arabella McClymonds</B> snores.
+[10:54:31]EMOTE: Parrot/ : <B>The Parrot</B> flutters its wings.
+[10:55:01]SAY: kitten/ : HSSSSS
+[10:55:21]EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[10:55:57]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[10:56:29]EMOTE: Arabella McClymonds/Kerbal22 : <B>Arabella McClymonds</B> snores.
+[10:56:49]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[10:57:13]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[10:57:17]SAY: cat/ : HSSSSS
+[10:57:21]EMOTE: Arabella McClymonds/Kerbal22 : <B>Arabella McClymonds</B> snores.
+[10:57:29]EMOTE: Runtime/ : <B>Runtime</B> mews.
+[10:58:32]SAY: kitten/ : Meow!
+[10:59:06]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[10:59:28]SAY: cat/ : HSSSSS
+[10:59:44]SAY: kitten/ : Purr!
+[11:01:16]EMOTE: Arabella McClymonds/Kerbal22 : <B>Arabella McClymonds</B> snores.
+[11:01:38]SAY: Runtime/ : Meow!
+[11:02:02]EMOTE: crab/ : <B>The crab</B> clicks.
+[11:02:30]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[11:02:30]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[11:02:36]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[11:02:38]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[11:02:54]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[11:03:26]SAY: kitten/ : HSSSSS
+[11:03:31]DEBUG: Next event of severity Mundane in 12.824 minutes.
+[11:03:31]DEBUG: Starting event 'Mundane News' of severity Mundane.
+[11:03:51]SAY: Runtime/ : HSSSSS
+[11:03:53]DEBUG: Event 'Mundane News' has completed at 17:47.
+[11:03:59]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[11:04:05]EMOTE: Ian/ : <B>Ian</B> dances around
+[11:04:15]EMOTE: Arabella McClymonds/Kerbal22 : <B>Arabella McClymonds</B> snores.
+[11:04:37]SAY: kitten/ : HSSSSS
+[11:04:43]EMOTE: crab/ : <B>The crab</B> clicks.
+[11:04:51]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[11:05:21]EMOTE: Arabella McClymonds/Kerbal22 : <B>Arabella McClymonds</B> snores.
+[11:05:27]EMOTE: Arabella McClymonds/Kerbal22 : <B>Arabella McClymonds</B> snores.
+[11:05:37]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[11:06:37]EMOTE: crab/ : <B>The crab</B> clicks.
+[11:06:45]EMOTE: kitten/ : <B>The kitten</B> meows.
+[11:07:13]EMOTE: kitten/ : <B>The kitten</B> meows.
+[11:07:30]EMOTE: Arabella McClymonds/Kerbal22 : <B>Arabella McClymonds</B> snores.
+[11:07:44]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[11:07:52]EMOTE: Ian/ : <B>Ian</B> dances around
+[11:08:08]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[11:08:38]SAY: kitten/ : Esp!
+[11:08:44]EMOTE: Arabella McClymonds/Kerbal22 : <B>Arabella McClymonds</B> snores.
+[11:08:46]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[11:08:54]SAY: Runtime/ : Purr!
+[11:08:56]SAY: cat/ : Purr!
+[11:09:08]EMOTE: Arabella McClymonds/Kerbal22 : <B>Arabella McClymonds</B> snores.
+[11:09:12]EMOTE: Arabella McClymonds/Kerbal22 : <B>Arabella McClymonds</B> snores.
+[11:09:14]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[11:09:23]EMOTE: Arabella McClymonds/Kerbal22 : <B>Arabella McClymonds</B> snores.
+[11:09:29]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[11:09:33]GAME: Antagonists at round end were...
+[11:09:45]EMOTE: Ian/ : <B>Ian</B> dances around
+[11:09:51]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[11:09:59]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[11:10:03]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[11:10:05]DEBUG: Next event of severity Moderate in 38.268 minutes.
+[11:10:05]DEBUG: Starting event 'Communication Blackout' of severity Moderate.
+[11:10:07]DEBUG: Event 'Communication Blackout' has completed at 17:53.
+[11:10:40]ACCESS: Logout: Marinalightyears/(mouse)

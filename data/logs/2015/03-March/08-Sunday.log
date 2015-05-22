@@ -1,0 +1,1418 @@
+
+
+Starting up. 05:01.00
+---------------------
+[05:01:00]ADMIN: Loading jobban_rank
+[05:01:00]ADMIN: jobban_keylist was empty
+[05:01:00]ADMIN: Loading Banlist
+[05:01:01]DEBUG: Rebuilding Master Controller
+[13:50:27]ACCESS: Login: Kerbal22/(Kerbal22) from 75.137.144.204-3696110726 || BYOND v506
+[13:51:02]ACCESS: Logout: Kerbal22/(Kerbal22)
+[15:53:30]ACCESS: Login: JohnnyMnemonic/(JohnnyMnemonic) from 93.137.124.138-1873374081 || BYOND v506
+[15:53:54]VOTE: Gamemode vote started by the server.
+[15:53:54]DEBUG: The server has called a gamemode vote
+[15:54:54]DEBUG: The server has called a gamemode vote
+[15:54:54]VOTE: <b>Vote Result: Inconclusive - No Votes!</b>
+[15:55:01]ACCESS: Logout: JohnnyMnemonic/(JohnnyMnemonic)
+[16:50:19]ACCESS: Login: Crescentise/(Crescentise) from 85.210.35.131-1743965798 || BYOND v506
+[16:50:34]ACCESS: Logout: Crescentise/(Crescentise)
+[01:45:48]ACCESS: Login: Ejundersc0re/(Ejundersc0re) from 24.23.252.157-3989897360 || BYOND v506
+[01:45:56]DEBUG: Next event of severity Mundane in 13.784 minutes.
+[01:45:56]DEBUG: Next event of severity Moderate in 53.34 minutes.
+[01:45:56]DEBUG: Next event of severity Major in 89.9083 minutes.
+[01:45:56]SAY: mouse (66)/ : SQUEEK!
+[01:46:08]ACCESS: Logout: Ejundersc0re/(Ejundersc0re)
+[10:21:28]EMOTE: mouse (443)/ : <B>The mouse (443)</B> shakes.
+[10:21:28]EMOTE: mouse (495)/ : <B>The mouse (495)</B> squeeks.
+[10:21:32]EMOTE: Parrot/ : <B>The Parrot</B> turns and flies towards the deck of cards
+[10:22:01]ACCESS: Login: Cassy_jenelle/(Cassy_jenelle) from 81.104.88.62-1964287214 || BYOND v506
+[10:22:36]SAY: Ian/ : Bark!
+[10:23:03]EMOTE: Ian/ : <B>Ian</B> dances around
+[10:23:08]ACCESS: Logout: *no key*/(Cassy_jenelle)
+[10:23:08]ACCESS: Login: Cassy_jenelle/(Camile Crafter) from 81.104.88.62-1964287214 || BYOND v506
+[10:23:12]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[10:23:34]SAY: grey baby slime (189)/ : Lonely...
+[10:23:40]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[10:24:06]ADMIN: Cassy_jenelle/(Camile Crafter) spawned /obj/machinery/computer/teleporter at (203,51,2)
+[10:24:16]EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[10:24:16]ADMIN: Cassy_jenelle/(Camile Crafter) spawned /obj/item/rig_module/teleporter at (204,51,2)
+[10:24:22]EMOTE: Tom (598)/ : <B>Tom (598)</B> squeeks.
+[10:24:22]ADMIN: Cassy_jenelle/(Camile Crafter) deleted the teleportation module at (204,51,2)
+[10:25:05]ADMIN: Cassy_jenelle/(Camile Crafter) spawned /obj/machinery/teleport/station at (204,51,2)
+[10:25:18]ADMIN: Cassy_jenelle/(Camile Crafter) spawned /obj/machinery/teleport/hub at (205,51,2)
+[10:25:18]SAY: mouse (772)/ : Squeek?
+[10:25:46]ADMIN: Cassy_jenelle/(Camile Crafter) spawned /obj/item/weapon/implant/tracking at (206,54,2)
+[10:25:53]ADMIN: Cassy_jenelle/(Camile Crafter) deleted the tracking implant at (0,0,0)
+[10:25:59]EMOTE: Tom (598)/ : <B>Tom (598)</B> runs in a circle.
+[10:26:01]ADMIN: Cassy_jenelle/(Camile Crafter) spawned /obj/item/mecha_parts/mecha_tracking at (206,54,2)
+[10:26:05]ADMIN: Cassy_jenelle/(Camile Crafter) deleted Exosuit tracking beacon at (206,54,2)
+[10:26:07]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[10:26:35]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[10:26:47]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[10:26:47]ADMIN: Cassy_jenelle/(Camile Crafter) spawned /obj/machinery/bluespace_beacon at (204,54,2)
+[10:27:20]ADMIN: Cassy_jenelle/(Camile Crafter) spawned /obj/item/device/radio/beacon at (204,54,2)
+[10:27:45]EMOTE: crab/ : <B>The crab</B> clacks.
+[10:27:51]ADMIN: Cassy_jenelle/(Camile Crafter) spawned /obj/item/device/radio/beacon/bacon at (206,54,2)
+[10:27:53]EMOTE: Ian/ : <B>Ian</B> dances around
+[10:28:33]EMOTE: Parrot/ : <B>The Parrot</B> bawks.
+[10:28:34]ADMIN: Cassy_jenelle/(Camile Crafter) spawned /obj/item/device/beacon_locator at (205,54,2)
+[10:28:41]ADMIN: Cassy_jenelle/(Camile Crafter) deleted the locater device at (0,0,0)
+[10:28:50]ADMIN: Cassy_jenelle/(Camile Crafter) spawned /obj/machinery/navbeacon at (205,54,2)
+[10:28:57]EMOTE: mouse (443)/ : <B>The mouse (443)</B> squiks.
+[10:29:08]ADMIN: Cassy_jenelle/(Camile Crafter) spawned /obj/item/device/radio/beacon/syndicate at (202,53,2)
+[10:29:11]EMOTE: Ian/ : <B>Ian</B> pants.
+[10:29:11]EMOTE: mouse (594)/ : <B>The mouse (594)</B> scritches at something.
+[10:29:19]EMOTE: crab/ : <B>The crab</B> clacks.
+[10:29:22]ADMIN: Cassy_jenelle/(Camile Crafter) deleted the ominous beacon at (203,53,2)
+[10:29:33]SAY: cat/ : Purr!
+[10:29:37]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[10:29:59]ADMIN: Cassy_jenelle/(Camile Crafter) teleported Cassy_jenelle/(Camile Crafter) to the Bridge
+[10:30:15]ADMIN: Cassy_jenelle/(Camile Crafter) teleported Cassy_jenelle/(Camile Crafter) to the Centcom Living Quarters
+[10:30:19]EMOTE: mouse (594)/ : <B>The mouse (594)</B> squeaks.
+[10:30:23]SAY: Experiment 97d/ : EHEHEHEHEH
+[10:30:39]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[10:30:43]SAY: kitten/ : Meow!
+[10:31:02]ACCESS: Logout: *no key*/(Camile Crafter)
+[10:31:02]ACCESS: Login: Cassy_jenelle/(Camile Crafter) from 81.104.88.62-1964287214 || BYOND v506
+[10:31:11]ADMIN: Cassy_jenelle/(Camile Crafter) teleported @Cassy_jenelle/(Camile Crafter)
+[10:31:13]ACCESS: Logout: *no key*/(Camile Crafter)
+[10:31:13]ACCESS: Login: Cassy_jenelle/(Camile Crafter) from 81.104.88.62-1964287214 || BYOND v506
+[10:31:29]EMOTE: mouse (594)/ : <B>The mouse (594)</B> squiks.
+[10:31:41]EMOTE: cat/ : <B>The cat</B> mews.
+[10:31:47]EMOTE: Ian/ : <B>Ian</B> barks.
+[10:31:49]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[10:32:21]EMOTE: cat/ : <B>The cat</B> mews.
+[10:33:11]EMOTE: kitten/ : <B>The kitten</B> mews.
+[10:34:52]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[10:35:04]EMOTE: crab/ : <B>The crab</B> clicks.
+[10:35:39]DEBUG: Next event of severity Mundane in 17.53 minutes.
+[10:35:39]DEBUG: Starting event 'Mundane News' of severity Mundane.
+[10:35:42]SAY: kitten/ : Purr!
+[10:35:44]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[10:36:01]DEBUG: Event 'Mundane News' has completed at 12:17.
+[10:36:49]SAY: cat/ : Purr!
+[10:37:07]EMOTE: Ian/ : <B>Ian</B> shivers.
+[10:38:08]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[10:41:25]SAY: cat/ : HSSSSS
+[10:41:35]SAY: grey baby slime (189)/ : Blop...
+[10:42:54]SAY: kitten/ : Esp!
+[10:44:06]EMOTE: crab/ : <B>The crab</B> clacks.
+[10:44:43]SAY: grey baby slime (189)/ : Lonely...
+[10:45:09]SAY: kitten/ : HSSSSS
+[10:45:49]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[10:45:59]SAY: Ian/ : Woof!
+[10:46:58]ADMIN: Cassy_jenelle/(Camile Crafter) deleted Teleporter Control Console at (203,51,2)
+[10:47:07]ADMIN: Cassy_jenelle/(Camile Crafter) deleted the station at (204,51,2)
+[10:47:10]ADMIN: Cassy_jenelle/(Camile Crafter) deleted the teleporter hub at (205,51,2)
+[10:47:14]ADMIN: Cassy_jenelle/(Camile Crafter) deleted the tracking beacon at (206,54,2)
+[10:47:18]ADMIN: Cassy_jenelle/(Camile Crafter) deleted the tracking beacon at (204,54,2)
+[10:47:23]ADMIN: Cassy_jenelle/(Camile Crafter) deleted the tracking beacon at (202,53,2)
+[10:47:58]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[10:48:02]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[10:48:04]SAY: Experiment 97d/ : EHEHEHEHEH
+[10:48:04]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[10:49:17]EMOTE: Ian/ : <B>Ian</B> dances around
+[10:51:30]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[10:51:58]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[10:52:02]EMOTE: Runtime/ : <B>Runtime</B> mews.
+[10:52:02]EMOTE: Ian/ : <B>Ian</B> dances around
+[10:52:20]EMOTE: crab/ : <B>The crab</B> clacks.
+[10:52:33]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[10:53:03]EMOTE: Parrot/ : <B>The Parrot</B> flutters its wings.
+[10:53:25]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[10:53:31]EMOTE: Runtime/ : <B>Runtime</B> shakes their head.
+[10:53:55]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[10:54:03]DEBUG: Next event of severity Mundane in 17.592 minutes.
+[10:54:03]DEBUG: Starting event 'Trivial News' of severity Mundane.
+[10:54:19]EMOTE: Ian/ : <B>Ian</B> dances around
+[10:54:25]DEBUG: Event 'Trivial News' has completed at 12:35.
+[10:54:33]EMOTE: crab/ : <B>The crab</B> clacks.
+[10:54:35]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[10:55:15]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[10:55:45]SAY: Parrot/ : BAWWWWK george mellons griffing me
+[10:55:45]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[10:56:12]ACCESS: Login: Decy19/(Decy19) from 75.118.190.254-2674911532 || BYOND v506
+[10:56:53]EMOTE: Ian/ : <B>Ian</B> dances around
+[10:58:06]EMOTE: Ian/ : <B>Ian</B> dances around
+[10:58:14]SAY: Experiment 97d/ : EHEHEHEHEH
+[10:58:22]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[10:58:30]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[10:58:58]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> shakes its head.
+[10:59:54]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[10:59:58]ADMIN: Cassy_jenelle/(Camile Crafter) modified Fountain's layer to 5
+[11:01:23]EMOTE: Ian/ : <B>Ian</B> dances around
+[11:01:27]SAY: Parrot/ : Cracker?
+[11:02:10]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[11:02:54]SAY: cat/ : HSSSSS
+[11:03:38]SAY: Runtime/ : Esp!
+[11:04:24]EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[11:04:50]SAY: Parrot/ : BAWWWWK george mellons griffing me
+[11:04:51]ACCESS: Logout: *no key*/(Decy19)
+[11:04:51]ACCESS: Login: Decy19/(Greta Bickerson) from 75.118.190.254-2674911532 || BYOND v506
+[11:04:58]SAY: grey baby slime (189)/ : I want to eat...
+[11:04:58]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[11:05:07]ACCESS: Logout: *no key*/(Camile Crafter)
+[11:05:07]ACCESS: Login: Cassy_jenelle/(Camile Crafter) from 81.104.88.62-1964287214 || BYOND v506
+[11:06:02]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[11:06:04]SAY: kitten/ : HSSSSS
+[11:06:04]SAY: kitten/ : Meow!
+[11:06:58]EMOTE: cat/ : <B>The cat</B> meows.
+[11:07:12]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[11:07:39]EMOTE: Parrot/ : <B>The Parrot</B> flutters its wings.
+[11:07:51]EMOTE: Ian/ : <B>Ian</B> dances around
+[11:08:13]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[11:08:29]SAY: Parrot/ : Hello!
+[11:08:36]ACCESS: Logout: Decy19/(Greta Bickerson)
+[11:08:43]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[11:08:53]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[11:09:01]EMOTE: Ian/ : <B>Ian</B> dances around
+[11:09:03]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[11:09:05]EMOTE: Ian/ : <B>Ian</B> shivers.
+[11:09:09]EMOTE: cat/ : <B>The cat</B> meows.
+[11:09:23]ACCESS: Login: Decy19/(Greta Bickerson) from 75.118.190.254-2674911532 || BYOND v506
+[11:10:27]EMOTE: crab/ : <B>The crab</B> clacks.
+[11:11:19]EMOTE: Runtime/ : <B>Runtime</B> meows.
+[11:11:48]ACCESS: Logout: *no key*/(Camile Crafter)
+[11:11:48]ACCESS: Login: Cassy_jenelle/(Camile Crafter) from 81.104.88.62-1964287214 || BYOND v506
+[11:12:18]SAY: Greta Bickerson/Decy19 : Ah&#39; swear ah&#39; ain&#39;t stealin&#39; stuff
+[11:12:21]SAY: Runtime/ : Meow!
+[11:12:32]EMOTE: Ian/ : <B>Ian</B> shakes its head.
+[11:12:33]SAY: Camile Crafter/Cassy_jenelle : Pretend you didn&#39;t see the weed.
+[11:12:40]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> chuckles
+[11:12:42]DEBUG: Next event of severity Mundane in 17.026 minutes.
+[11:12:42]DEBUG: Starting event 'Vermin Infestation' of severity Mundane.
+[11:12:43]SAY: Camile Crafter/Cassy_jenelle : And we&#39;ll be cool.
+[11:12:50]SAY: grey baby slime (189)/ : Lonely...
+[11:12:52]EMOTE: mouse (416)/ : <B>The mouse (416)</B> squeeks.
+[11:12:58]SAY: Parrot/ : Cracker?
+[11:13:06]DEBUG: Event 'Vermin Infestation' has completed at 12:52.
+[11:13:06]EMOTE: Ian/ : <B>Ian</B> dances around
+[11:13:16]SAY: mouse (409)/ : SQUEEK!
+[11:14:42]EMOTE: mouse (618)/ : <B>The mouse (618)</B> shakes.
+[11:14:46]EMOTE: Runtime/ : <B>Runtime</B> mews.
+[11:14:54]EMOTE: mouse (618)/ : <B>The mouse (618)</B> shakes.
+[11:15:03]EMOTE: Ian/ : <B>Ian</B> dances around
+[11:15:17]EMOTE: Ian/ : <B>Ian</B> pants.
+[11:15:17]SAY: mouse (986)/ : SQUEEK!
+[11:15:33]EMOTE: crab/ : <B>The crab</B> clacks.
+[11:16:24]EMOTE: Ian/ : <B>Ian</B> dances around
+[11:16:31]ACCESS: Logout: *no key*/(Camile Crafter)
+[11:16:31]ACCESS: Login: Cassy_jenelle/(Camile Crafter) from 81.104.88.62-1964287214 || BYOND v506
+[11:17:17]DEBUG: Next event of severity Moderate in 41.632 minutes.
+[11:17:17]DEBUG: Starting event 'Nothing' of severity Moderate.
+[11:17:17]EMOTE: mouse (618)/ : <B>The mouse (618)</B> squeaks.
+[11:17:19]DEBUG: Event 'Nothing' has completed at 12:56.
+[11:17:31]EMOTE: mouse (618)/ : <B>The mouse (618)</B> shakes.
+[11:17:39]ADMIN: Cassy_jenelle/(Camile Crafter) teleported Decy19/(Greta Bickerson)
+[11:17:57]EMOTE: mouse (416)/ : <B>The mouse (416)</B> scritches at something.
+[11:18:14]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> twitches violently.
+[11:18:20]EMOTE: Ian/ : <B>Ian</B> dances around
+[11:18:26]EMOTE: Parrot/ : <B>The Parrot</B> squawks.
+[11:18:46]SAY: mouse (416)/ : Squeek?
+[11:18:48]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> moans!
+[11:18:56]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> drools.
+[11:19:13]SAY: grey baby slime (829)/ : Where is the food?
+[11:19:17]EMOTE: kitten/ : <B>The kitten</B> meows.
+[11:19:19]SAY: Experiment 97d/ : EHEHEHEHEH
+[11:19:23]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> moans!
+[11:19:43]SAY: kitten/ : Meow!
+[11:19:51]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> giggles.
+[11:19:59]SAY: Parrot/ : Cracker?
+[11:20:08]EMOTE: Ian/ : <B>Ian</B> pants.
+[11:20:12]EMOTE: Ian/ : <B>Ian</B> dances around
+[11:20:20]EMOTE: crab/ : <B>The crab</B> clicks.
+[11:20:42]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> giggles.
+[11:20:59]ADMIN: Cassy_jenelle/(Camile Crafter) teleported Decy19/(Greta Bickerson)
+[11:21:19]EMOTE: crab/ : <B>The crab</B> clacks.
+[11:21:21]EMOTE: Ian/ : <B>Ian</B> dances around
+[11:21:36]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> giggles.
+[11:21:40]EMOTE: Ian/ : <B>Ian</B> shivers.
+[11:21:42]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> giggles.
+[11:21:42]EMOTE: mouse (618)/ : <B>The mouse (618)</B> squeaks.
+[11:21:52]EMOTE: Ian/ : <B>Ian</B> dances around
+[11:21:56]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> giggles.
+[11:22:29]ADMIN: Cassy_jenelle/(Camile Crafter) teleported Decy19/(Greta Bickerson)
+[11:22:41]EMOTE: mouse (416)/ : <B>The mouse (416)</B> squiks.
+[11:23:17]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[11:23:38]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[11:23:40]ATTACK: Greta Bickerson (decy19) Used the flash to flash Greta Bickerson (decy19) (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=185;Y=76;Z=2'>JMP</a>)
+[11:23:44]EMOTE: mouse (416)/ : <B>The mouse (416)</B> squeaks.
+[11:24:00]SAY: Ian/ : YAP
+[11:24:13]EMOTE: Ian/ : <B>Ian</B> dances around
+[11:25:26]SAY: kitten/ : Esp!
+[11:26:48]SAY: kitten/ : HSSSSS
+[11:26:53]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[11:26:55]EMOTE: cat/ : <B>The cat</B> meows.
+[11:27:17]EMOTE: Parrot/ : <B>The Parrot</B> flutters its wings.
+[11:27:46]SAY: cat/ : Esp!
+[11:29:12]EMOTE: mouse (448)/ : <B>The mouse (448)</B> squeaks.
+[11:29:42]SAY: Ian/ : YAP
+[11:29:42]EMOTE: Parrot/ : <B>The Parrot</B> bawks.
+[11:29:54]SAY: mouse (448)/ : SQUEEK!
+[11:29:56]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[11:30:11]SAY: Experiment 97d/ : Eh?
+[11:30:21]EMOTE: Runtime/ : <B>Runtime</B> meows.
+[11:30:25]DEBUG: Next event of severity Mundane in 12.672 minutes.
+[11:30:25]DEBUG: Starting event 'Trivial News' of severity Mundane.
+[11:30:46]DEBUG: Event 'Trivial News' has completed at 13:09.
+[11:30:53]EMOTE: crab/ : <B>The crab</B> clacks.
+[11:30:56]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[11:31:04]EMOTE: crab/ : <B>The crab</B> clacks.
+[11:31:43]ADMIN: Cassy_jenelle/(Camile Crafter) teleported Decy19/(Greta Bickerson)
+[11:31:51]SAY: kitten/ : Meow!
+[11:32:18]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[11:33:22]EMOTE: Ian/ : <B>Ian</B> dances around
+[11:34:36]SAY: Experiment 97d/ : Eh?
+[11:34:38]SAY: Parrot/ : BAWWWWK george mellons griffing me
+[11:34:38]SAY: kitten/ : Esp!
+[11:34:44]SAY: grey baby slime (189)/ : Where is the food?
+[11:35:00]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[11:35:18]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[11:35:53]ADMIN: HELP: Decy19/(Greta Bickerson): gimme hatz pl0x - heard by 1 non-AFK admins.
+[11:35:53]EMOTE: crab/ : <B>The crab</B> clicks.
+[11:35:59]ADMIN: PM: Cassy_jenelle/(Camile Crafter)->Decy19/(Greta Bickerson): nu
+[11:36:01]SAY: Runtime/ : HSSSSS
+[11:36:01]EMOTE: Ian/ : <B>Ian</B> dances around
+[11:36:34]ACCESS: Logout: *no key*/(Camile Crafter)
+[11:36:34]ACCESS: Login: Cassy_jenelle/(Camile Crafter) from 81.104.88.62-1964287214 || BYOND v506
+[11:36:42]ADMIN: Cassy_jenelle/(Camile Crafter) spawned /obj/item/clothing/under/rank/mailman at (204,60,2)
+[11:36:49]SAY: grey baby slime (829)/ : I want to eat...
+[11:36:53]SAY: cat/ : HSSSSS
+[11:37:22]ADMIN: Cassy_jenelle/(Camile Crafter) spawned /obj/item/clothing/head/mailman at (202,64,2)
+[11:38:27]EMOTE: cat/ : <B>The cat</B> mews.
+[11:39:52]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[11:40:02]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[11:40:08]SAY: Runtime/ : HSSSSS
+[11:40:26]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[11:40:59]SAY: Ian/ : Bark!
+[11:42:42]SAY: kitten/ : Meow!
+[11:42:52]SAY: grey baby slime (829)/ : Hungry...
+[11:43:32]SAY: Runtime/ : Purr!
+[11:43:33]DEBUG: Next event of severity Mundane in 12.45 minutes.
+[11:43:33]DEBUG: Starting event 'Lost Carp' of severity Mundane.
+[11:44:08]ACCESS: Logout: *no key*/(Camile Crafter)
+[11:44:08]ACCESS: Login: Cassy_jenelle/(Camile Crafter) from 81.104.88.62-1964287214 || BYOND v506
+[11:44:10]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[11:44:23]ADMIN: Cassy_jenelle/(Camile Crafter) teleported @Cassy_jenelle/(Camile Crafter)
+[11:44:25]ACCESS: Logout: *no key*/(Camile Crafter)
+[11:44:25]ACCESS: Login: Cassy_jenelle/(Camile Crafter) from 81.104.88.62-1964287214 || BYOND v506
+[11:45:01]EMOTE: Ian/ : <B>Ian</B> woofs.
+[11:45:47]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[11:45:56]SAY: grey baby slime (829)/ : Blorble...
+[11:45:56]SAY: Experiment 97d/ : EHEHEHEHEH
+[11:46:00]SAY: grey baby slime (189)/ : Blorble...
+[11:46:40]EMOTE: Ian/ : <B>Ian</B> dances around
+[11:46:46]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[11:46:46]SAY: Parrot/ : Hello!
+[11:46:50]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[11:46:59]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[11:47:21]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[11:47:47]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[11:48:01]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[11:48:11]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[11:48:48]EMOTE: Ian/ : <B>Ian</B> dances around
+[11:49:26]EMOTE: Ian/ : <B>Ian</B> woofs.
+[11:49:30]SAY: kitten/ : Meow!
+[11:49:57]SAY: Parrot/ : Cracker?
+[11:50:01]SAY: Parrot/ : BAWWWWK george mellons griffing me
+[11:50:36]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[11:51:47]EMOTE: crab/ : <B>The crab</B> clicks.
+[11:52:54]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[11:52:58]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> shakes its head.
+[11:54:45]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> shakes its head.
+[11:54:57]EMOTE: crab/ : <B>The crab</B> clicks.
+[11:54:59]SAY: grey baby slime (829)/ : Blorble...
+[11:55:10]DEBUG: Next event of severity Major in 79.44 minutes.
+[11:55:10]DEBUG: Starting event 'Nothing' of severity Major.
+[11:55:12]DEBUG: Event 'Nothing' has completed at 13:33.
+[11:55:42]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[11:56:04]EMOTE: Ian/ : <B>Ian</B> dances around
+[11:56:27]DEBUG: Next event of severity Mundane in 12.922 minutes.
+[11:56:27]DEBUG: Starting event 'Economic News' of severity Mundane.
+[11:56:34]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[11:56:39]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[11:57:25]SAY: Ian/ : Bark!
+[11:57:25]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[11:57:35]SAY: grey baby slime (189)/ : I want to eat...
+[11:57:43]SAY: Parrot/ : BAWWWWK george mellons griffing me
+[11:57:51]ADMIN: Cassy_jenelle/(Camile Crafter) spawned /obj/item/clothing/under/rank/vice at (251,90,2)
+[11:59:12]EMOTE: Runtime/ : <B>Runtime</B> meows.
+[12:00:26]DEBUG: Next event of severity Moderate in 36.368 minutes.
+[12:00:26]DEBUG: Starting event 'Nothing' of severity Moderate.
+[12:00:28]DEBUG: Event 'Nothing' has completed at 13:38.
+[12:00:29]EMOTE: kitten/ : <B>The kitten</B> meows.
+[12:00:40]SAY: grey baby slime (189)/ : Blop...
+[12:00:42]EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[12:01:34]EMOTE: Ian/ : <B>Ian</B> dances around
+[12:01:50]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[12:02:14]SAY: kitten/ : Meow!
+[12:02:26]SAY: grey baby slime (829)/ : Blop...
+[12:03:39]SAY: cat/ : Esp!
+[12:03:52]EMOTE: Runtime/ : <B>Runtime</B> shakes their head.
+[12:04:04]DEBUG: Event 'Economic News' has completed at 13:41.
+[12:05:35]SAY: grey baby slime (829)/ : Blop...
+[12:05:49]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[12:06:13]SAY: cat/ : HSSSSS
+[12:06:37]EMOTE: crab/ : <B>The crab</B> clacks.
+[12:08:14]SAY: grey baby slime (829)/ : Hungry...
+[12:08:14]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[12:08:35]SAY: kitten/ : Esp!
+[12:09:41]EMOTE: crab/ : <B>The crab</B> clicks.
+[12:09:52]DEBUG: Next event of severity Mundane in 15.246 minutes.
+[12:09:52]DEBUG: Starting event 'Trivial News' of severity Mundane.
+[12:10:14]DEBUG: Event 'Trivial News' has completed at 13:47.
+[12:10:22]EMOTE: space carp/ : <B>The space carp</B> nashes at the mouse (622)
+[12:10:40]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[12:10:44]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[12:11:14]SAY: kitten/ : Purr!
+[12:11:16]EMOTE: space carp/ : <B>The space carp</B> nashes at the mouse (438)
+[12:11:40]EMOTE: space carp/ : <B>The space carp</B> nashes at the mouse (438)
+[12:11:46]SAY: Runtime/ : Meow!
+[12:11:46]EMOTE: crab/ : <B>The crab</B> clacks.
+[12:12:29]SAY: Runtime/ : Meow!
+[12:13:37]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[12:13:41]SAY: grey baby slime (189)/ : Rawr...
+[12:14:04]SAY: cat/ : Meow!
+[12:14:46]SAY: Runtime/ : Esp!
+[12:15:53]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[12:16:03]EMOTE: cat/ : <B>The cat</B> shivers.
+[12:16:19]EMOTE: kitten/ : <B>The kitten</B> mews.
+[12:16:27]EMOTE: Ian/ : <B>Ian</B> woofs.
+[12:16:49]SAY: grey baby slime (189)/ : Blorble...
+[12:17:25]EMOTE: cat/ : <B>The cat</B> mews.
+[12:17:28]DEBUG: Event 'Lost Carp' has completed at 13:54.
+[12:17:55]SAY: cat/ : Esp!
+[12:18:24]EMOTE: Ian/ : <B>Ian</B> pants.
+[12:18:40]EMOTE: crab/ : <B>The crab</B> clacks.
+[12:19:53]SAY: cat/ : Esp!
+[12:20:29]SAY: grey baby slime (829)/ : Rawr...
+[12:21:15]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[12:21:39]EMOTE: Runtime/ : <B>Runtime</B> shakes their head.
+[12:21:39]EMOTE: Ian/ : <B>Ian</B> barks.
+[12:22:24]EMOTE: Ian/ : <B>Ian</B> dances around
+[12:22:30]EMOTE: Ian/ : <B>Ian</B> dances around
+[12:22:34]SAY: cat/ : Purr!
+[12:23:31]SAY: Runtime/ : Meow!
+[12:24:46]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[12:24:58]SAY: Ian/ : YAP
+[12:25:10]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[12:25:29]SAY: kitten/ : Purr!
+[12:25:47]DEBUG: Next event of severity Mundane in 15.858 minutes.
+[12:25:47]DEBUG: Starting event 'Economic News' of severity Mundane.
+[12:25:47]SAY: kitten/ : Purr!
+[12:26:31]SAY: grey baby slime (829)/ : Need... food...
+[12:26:37]SAY: Ian/ : AUUUUUU
+[12:26:41]SAY: Ian/ : YAP
+[12:27:42]SAY: Parrot/ : BAWWWWK george mellons griffing me
+[12:28:08]SAY: Parrot/ : BAWWWWK george mellons griffing me
+[12:28:12]EMOTE: Runtime/ : <B>Runtime</B> mews.
+[12:29:06]EMOTE: kitten/ : <B>The kitten</B> meows.
+[12:29:40]SAY: Runtime/ : HSSSSS
+[12:29:52]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[12:30:04]EMOTE: crab/ : <B>The crab</B> clacks.
+[12:30:47]SAY: Ian/ : AUUUUUU
+[12:32:26]EMOTE: kitten/ : <B>The kitten</B> meows.
+[12:32:28]DEBUG: Event 'Economic News' has completed at 14:09.
+[12:32:53]ADMIN: Cassy_jenelle/(Camile Crafter) spawned /obj/item/clothing/under/rank/nursesuit at (254,91,2)
+[12:33:04]SAY: grey baby slime (189)/ : Very... hungry...
+[12:33:28]SAY: cat/ : HSSSSS
+[12:33:45]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[12:33:45]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[12:33:49]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[12:34:59]EMOTE: Ian/ : <B>Ian</B> dances around
+[12:35:28]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[12:35:54]EMOTE: Ian/ : <B>Ian</B> barks.
+[12:35:58]SAY: grey baby slime (189)/ : Very... hungry...
+[12:36:16]SAY: Ian/ : AUUUUUU
+[12:36:20]SAY: grey baby slime (829)/ : Rawr...
+[12:36:50]SAY: grey baby slime (189)/ : Must... eat...
+[12:37:21]EMOTE: Ian/ : <B>Ian</B> dances around
+[12:37:29]EMOTE: Runtime/ : <B>Runtime</B> mews.
+[12:37:39]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[12:37:45]SAY: kitten/ : HSSSSS
+[12:38:17]DEBUG: Next event of severity Moderate in 38.19 minutes.
+[12:38:17]DEBUG: Starting event 'Nothing' of severity Moderate.
+[12:38:18]DEBUG: Event 'Nothing' has completed at 14:14.
+[12:38:19]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[12:38:37]EMOTE: Ian/ : <B>Ian</B> shivers.
+[12:38:45]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[12:38:59]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[12:39:31]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[12:41:28]EMOTE: cat/ : <B>The cat</B> mews.
+[12:41:28]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[12:42:04]EMOTE: Ian/ : <B>Ian</B> dances around
+[12:42:08]EMOTE: crab/ : <B>The crab</B> clicks.
+[12:42:13]DEBUG: Next event of severity Mundane in 12.196 minutes.
+[12:42:13]DEBUG: Starting event 'Economic News' of severity Mundane.
+[12:42:54]SAY: grey baby slime (189)/ : Blop...
+[12:43:04]EMOTE: Ian/ : <B>Ian</B> barks.
+[12:43:11]ADMIN: Cassy_jenelle/(Camile Crafter) spawned /obj/item/clothing/suit/neocoat at (254,92,2)
+[12:43:51]ADMIN: Cassy_jenelle/(Camile Crafter) deleted the black coat at (0,0,0)
+[12:44:05]ADMIN: Cassy_jenelle/(Camile Crafter) spawned /obj/item/clothing/suit/greatcoat at (254,92,2)
+[12:44:21]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[12:44:29]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[12:44:33]SAY: grey baby slime (189)/ : Blorble...
+[12:45:00]SAY: Runtime/ : Purr!
+[12:45:07]ADMIN: Cassy_jenelle/(Camile Crafter) spawned /obj/item/clothing/suit/storage/det_suit/fluff/leatherjack at (254,92,2)
+[12:45:10]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[12:45:28]SAY: Ian/ : Bark!
+[12:45:32]ADMIN: Cassy_jenelle/(Camile Crafter) spawned /obj/item/clothing/head/det_hat/fluff/retpolcap at (253,92,2)
+[12:45:50]ADMIN: Cassy_jenelle/(Camile Crafter) spawned /obj/item/clothing/under/det/fluff/retpoluniform at (253,92,2)
+[12:46:12]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[12:46:14]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[12:47:13]ADMIN: Cassy_jenelle/(Camile Crafter) spawned /obj/item/clothing/suit/bio_suit/plaguedoctorsuit at (253,94,2)
+[12:47:29]DEBUG: Event 'Economic News' has completed at 14:23.
+[12:47:29]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[12:47:45]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[12:47:53]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[12:47:55]ADMIN: Cassy_jenelle/(Camile Crafter) spawned /obj/item/clothing/suit/johnny_coat at (253,93,2)
+[12:48:01]EMOTE: Ian/ : <B>Ian</B> dances around
+[12:48:53]EMOTE: crab/ : <B>The crab</B> clacks.
+[12:49:42]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[12:50:50]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[12:50:58]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[12:51:12]EMOTE: kitten/ : <B>The kitten</B> meows.
+[12:51:36]SAY: grey baby slime (829)/ : Blop...
+[12:51:58]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[12:52:36]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[12:53:59]SAY: kitten/ : Purr!
+[12:54:53]EMOTE: Parrot/ : <B>The Parrot</B> bawks.
+[12:54:55]DEBUG: Next event of severity Mundane in 17.51 minutes.
+[12:54:55]DEBUG: Starting event 'Trivial News' of severity Mundane.
+[12:55:16]DEBUG: Event 'Trivial News' has completed at 14:31.
+[12:55:33]SAY: Ian/ : Woof!
+[12:55:51]SAY: grey baby slime (829)/ : Blorble...
+[12:55:51]EMOTE: Ian/ : <B>Ian</B> dances around
+[12:56:31]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> shakes its head.
+[12:56:31]EMOTE: crab/ : <B>The crab</B> clicks.
+[12:56:39]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[12:56:49]SAY: grey baby slime (829)/ : Blop...
+[12:57:14]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[12:57:28]EMOTE: cat/ : <B>The cat</B> meows.
+[12:57:40]EMOTE: Ian/ : <B>Ian</B> dances around
+[12:58:36]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[12:59:12]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[13:00:09]EMOTE: crab/ : <B>The crab</B> clicks.
+[13:00:13]EMOTE: Ian/ : <B>Ian</B> dances around
+[13:01:05]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[13:01:43]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[13:02:07]EMOTE: crab/ : <B>The crab</B> clacks.
+[13:02:45]ADMIN: Cassy_jenelle/(Camile Crafter) spawned /obj/effect/portal at (253,93,2)
+[13:02:47]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[13:02:49]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[13:03:13]ADMIN: Cassy_jenelle/(Camile Crafter) spawned /obj/effect/mist at (253,92,2)
+[13:03:22]ADMIN: Cassy_jenelle/(Camile Crafter) spawned /obj/effect/mist at (253,93,2)
+[13:03:28]ADMIN: Cassy_jenelle/(Camile Crafter) deleted the mist at (253,92,2)
+[13:03:34]ADMIN: Cassy_jenelle/(Camile Crafter) deleted the mist at (253,93,2)
+[13:03:39]EMOTE: crab/ : <B>The crab</B> clacks.
+[13:04:02]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[13:04:03]ADMIN: Cassy_jenelle/(Camile Crafter) spawned /obj/effect/rend at (254,93,2)
+[13:04:09]ACCESS: Logout: *no key*/(Camile Crafter)
+[13:04:09]ACCESS: Login: Cassy_jenelle/(Camile Crafter) from 81.104.88.62-1964287214 || BYOND v506
+[13:04:13]ADMIN: Cassy_jenelle/(Camile Crafter) deleted Nar-Sie at (10,172,6)
+[13:04:19]OOC: (LOCAL) Camile Crafter/Cassy_jenelle : Whoops.
+[13:04:30]OOC: Camile Crafter/Cassy_jenelle : Whoops. Accidentally spawned narsie
+[13:05:16]ACCESS: Logout: *no key*/(Camile Crafter)
+[13:05:16]ACCESS: Login: Cassy_jenelle/(Camile Crafter) from 81.104.88.62-1964287214 || BYOND v506
+[13:06:04]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[13:06:46]ADMIN: HELP: Decy19/(Greta Bickerson): Why&#39;d you leave the call? - heard by 1 non-AFK admins.
+[13:06:50]EMOTE: crab/ : <B>The crab</B> clicks.
+[13:07:15]ADMIN: PM: Cassy_jenelle/(Camile Crafter)->Decy19/(Greta Bickerson): Really busy. The talking is distracting and I gotta search through all the messy code.
+[13:07:24]ADMIN: PM: Decy19/(Greta Bickerson)->Cassy_jenelle/(Camile Crafter): Laaaaaaaaaame
+[13:07:34]ADMIN: Cassy_jenelle/(Camile Crafter) spawned /turf/simulated/wall at (251,96,2)
+[13:07:48]EMOTE: crab/ : <B>The crab</B> clacks.
+[13:07:50]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[13:08:04]ADMIN: Cassy_jenelle/(Camile Crafter) spawned /turf/simulated/wall/cult at (251,95,2)
+[13:08:07]ADMIN: Cassy_jenelle/(Camile Crafter) spawned /turf/simulated/wall/cult at (252,95,2)
+[13:08:09]ADMIN: Cassy_jenelle/(Camile Crafter) spawned /turf/simulated/wall/cult at (252,94,2)
+[13:08:11]ADMIN: Cassy_jenelle/(Camile Crafter) spawned /turf/simulated/wall/cult at (252,93,2)
+[13:08:14]ADMIN: Cassy_jenelle/(Camile Crafter) spawned /turf/simulated/wall/cult at (252,92,2)
+[13:08:14]EMOTE: Ian/ : <B>Ian</B> pants.
+[13:08:15]ADMIN: Cassy_jenelle/(Camile Crafter) spawned /turf/simulated/wall/cult at (251,92,2)
+[13:08:16]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[13:08:18]EMOTE: Ian/ : <B>Ian</B> barks.
+[13:08:28]ADMIN: Cassy_jenelle/(Camile Crafter) spawned /turf/simulated/wall/cult at (255,96,2)
+[13:08:29]ADMIN: Cassy_jenelle/(Camile Crafter) spawned /turf/simulated/wall/cult at (255,95,2)
+[13:08:31]ADMIN: Cassy_jenelle/(Camile Crafter) spawned /turf/simulated/wall/cult at (255,93,2)
+[13:08:33]ADMIN: Cassy_jenelle/(Camile Crafter) spawned /turf/simulated/wall/cult at (255,94,2)
+[13:08:34]ADMIN: Cassy_jenelle/(Camile Crafter) spawned /turf/simulated/wall/cult at (255,91,2)
+[13:08:37]ADMIN: Cassy_jenelle/(Camile Crafter) spawned /turf/simulated/wall/cult at (255,92,2)
+[13:08:39]ADMIN: Cassy_jenelle/(Camile Crafter) spawned /turf/simulated/wall/cult at (255,90,2)
+[13:08:56]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[13:09:17]ADMIN: Cassy_jenelle/(Camile Crafter) spawned /turf/simulated/floor/wood at (254,90,2)
+[13:09:28]ADMIN: Cassy_jenelle/(Camile Crafter) spawned /turf/simulated/floor/wood at (252,96,2)
+[13:09:32]ADMIN: Cassy_jenelle/(Camile Crafter) spawned /turf/simulated/floor/wood at (253,96,2)
+[13:09:37]ADMIN: Cassy_jenelle/(Camile Crafter) spawned /turf/simulated/floor/wood at (254,96,2)
+[13:09:39]ADMIN: Cassy_jenelle/(Camile Crafter) spawned /turf/simulated/floor/wood at (254,94,2)
+[13:09:43]ADMIN: Cassy_jenelle/(Camile Crafter) spawned /turf/simulated/floor/wood at (254,95,2)
+[13:09:45]EMOTE: crab/ : <B>The crab</B> clicks.
+[13:09:47]ADMIN: Cassy_jenelle/(Camile Crafter) spawned /turf/simulated/floor/wood at (254,93,2)
+[13:09:49]ADMIN: Cassy_jenelle/(Camile Crafter) spawned /turf/simulated/floor/wood at (254,92,2)
+[13:09:51]ADMIN: Cassy_jenelle/(Camile Crafter) spawned /turf/simulated/floor/wood at (254,91,2)
+[13:09:55]ADMIN: Cassy_jenelle/(Camile Crafter) spawned /turf/simulated/floor/wood at (252,91,2)
+[13:09:59]ADMIN: Cassy_jenelle/(Camile Crafter) spawned /turf/simulated/floor/wood at (252,90,2)
+[13:10:02]ADMIN: Cassy_jenelle/(Camile Crafter) spawned /turf/simulated/floor/wood at (251,90,2)
+[13:10:04]ADMIN: Cassy_jenelle/(Camile Crafter) spawned /turf/simulated/floor/wood at (251,91,2)
+[13:10:05]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[13:10:10]ADMIN: Cassy_jenelle/(Camile Crafter) spawned /turf/simulated/floor/wood at (253,90,2)
+[13:10:12]ADMIN: Cassy_jenelle/(Camile Crafter) spawned /turf/simulated/floor/wood at (253,91,2)
+[13:10:15]ADMIN: Cassy_jenelle/(Camile Crafter) spawned /turf/simulated/floor/wood at (253,93,2)
+[13:10:17]ADMIN: Cassy_jenelle/(Camile Crafter) spawned /turf/simulated/floor/wood at (253,92,2)
+[13:10:21]ADMIN: Cassy_jenelle/(Camile Crafter) spawned /turf/simulated/floor/wood at (253,94,2)
+[13:10:24]ADMIN: Cassy_jenelle/(Camile Crafter) spawned /turf/simulated/floor/wood at (253,95,2)
+[13:10:45]EMOTE: kitten/ : <B>The kitten</B> meows.
+[13:11:23]EMOTE: crab/ : <B>The crab</B> clicks.
+[13:11:28]ADMIN: Cassy_jenelle/(Camile Crafter) spawned /obj/effect/rune at (253,90,2)
+[13:12:43]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[13:13:01]DEBUG: Next event of severity Mundane in 17.37 minutes.
+[13:13:01]DEBUG: Starting event 'Mundane News' of severity Mundane.
+[13:13:22]DEBUG: Event 'Mundane News' has completed at 14:48.
+[13:14:27]EMOTE: Ian/ : <B>Ian</B> dances around
+[13:14:27]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[13:14:39]EMOTE: crab/ : <B>The crab</B> clacks.
+[13:15:25]EMOTE: Ian/ : <B>Ian</B> woofs.
+[13:16:10]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[13:16:34]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[13:16:54]EMOTE: Parrot/ : <B>The Parrot</B> squawks.
+[13:17:32]DEBUG: Next event of severity Major in 63.92 minutes.
+[13:17:32]DEBUG: Starting event 'Nothing' of severity Major.
+[13:17:32]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[13:17:34]DEBUG: Event 'Nothing' has completed at 14:52.
+[13:17:46]DEBUG: Next event of severity Moderate in 40.682 minutes.
+[13:17:46]DEBUG: Starting event 'Nothing' of severity Moderate.
+[13:17:48]DEBUG: Event 'Nothing' has completed at 14:53.
+[13:18:08]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[13:18:42]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[13:20:24]EMOTE: Ian/ : <B>Ian</B> woofs.
+[13:20:48]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[13:20:56]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[13:21:28]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[13:21:28]EMOTE: cat/ : <B>The cat</B> shivers.
+[13:22:43]SAY: kitten/ : Purr!
+[13:22:51]SAY: Experiment 97d/ : Eh?
+[13:23:07]SAY: Parrot/ : BAWWWWK george mellons griffing me
+[13:23:15]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[13:23:29]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[13:23:43]SAY: Ian/ : YAP
+[13:23:56]VOTE: Crew_transfer vote started by the server.
+[13:23:56]DEBUG: The server has called a crew transfer vote
+[13:24:13]SAY: Parrot/ : Cracker?
+[13:25:13]SAY: kitten/ : Purr!
+[13:26:10]ADMIN: Cassy_jenelle/(Camile Crafter) allowed Cassy_jenelle/(Camile Crafter) to bypass the 30 minute respawn limit
+[13:26:13]GAME: Camile Crafter/Cassy_jenelle used abandon mob.
+[13:26:13]ACCESS: Logout: *no key*/(Camile Crafter)
+[13:26:13]ACCESS: Login: Cassy_jenelle/(new player) from 81.104.88.62-1964287214 || BYOND v506
+[13:26:38]ACCESS: Logout: *no key*/(new player)
+[13:26:38]ACCESS: Login: Cassy_jenelle/(RETINA) from 81.104.88.62-1964287214 || BYOND v506
+[13:26:41]EMOTE: Ian/ : <B>Ian</B> yaps.
+[13:26:45]SAY: kitten/ : HSSSSS
+[13:26:56]ACCESS: Logout: Decy19/(Greta Bickerson)
+[13:27:03]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[13:27:23]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[13:27:25]ADMIN: Cassy_jenelle/(RETINA) spawned /obj/effect/landmark/zcontroller/level_4_top at (252,91,2)
+[13:27:47]EMOTE: crab/ : <B>The crab</B> clicks.
+[13:27:47]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[13:28:33]EMOTE: kitten/ : <B>The kitten</B> meows.
+[13:29:22]EMOTE: Parrot/ : <B>The Parrot</B> flutters its wings.
+[13:29:38]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[13:30:59]DEBUG: Next event of severity Mundane in 16.618 minutes.
+[13:30:59]DEBUG: Starting event 'Mundane News' of severity Mundane.
+[13:31:21]DEBUG: Event 'Mundane News' has completed at 15:06.
+[13:31:31]SAY: Parrot/ : BAWWWWK george mellons griffing me
+[13:31:37]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[13:32:11]SAY: Parrot/ : Cracker?
+[13:33:23]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[13:34:38]EMOTE: crab/ : <B>The crab</B> clicks.
+[13:34:56]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[13:35:14]EMOTE: Ian/ : <B>Ian</B> shakes its head.
+[13:35:20]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[13:36:07]SAY: cat/ : Meow!
+[13:36:09]SAY: Ian/ : Bark!
+[13:37:05]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[13:38:09]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[13:38:19]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[13:38:33]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[13:38:35]EMOTE: crab/ : <B>The crab</B> clacks.
+[13:38:49]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[13:40:18]EMOTE: Ian/ : <B>Ian</B> dances around
+[13:40:30]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[13:40:44]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[13:41:02]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[13:41:24]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[13:41:48]EMOTE: cat/ : <B>The cat</B> meows.
+[13:42:28]SAY: Runtime/ : Meow!
+[13:43:55]SAY: kitten/ : Esp!
+[13:44:13]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[13:44:19]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[13:44:41]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[13:45:50]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> shakes its head.
+[13:46:10]EMOTE: crab/ : <B>The crab</B> clacks.
+[13:46:14]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[13:46:16]EMOTE: Ian/ : <B>Ian</B> barks.
+[13:46:42]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[13:47:08]SAY: kitten/ : HSSSSS
+[13:47:10]EMOTE: Ian/ : <B>Ian</B> dances around
+[13:48:09]DEBUG: Next event of severity Mundane in 12.966 minutes.
+[13:48:09]DEBUG: Starting event 'Trivial News' of severity Mundane.
+[13:48:13]EMOTE: Runtime/ : <B>Runtime</B> meows.
+[13:48:21]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[13:48:31]DEBUG: Event 'Trivial News' has completed at 15:22.
+[13:48:45]EMOTE: crab/ : <B>The crab</B> clicks.
+[13:48:55]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[13:49:15]SAY: Parrot/ : BAWWWWK george mellons griffing me
+[13:49:17]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[13:49:19]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[13:49:39]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[13:50:13]EMOTE: Ian/ : <B>Ian</B> barks.
+[13:52:38]EMOTE: crab/ : <B>The crab</B> clicks.
+[13:53:10]EMOTE: Ian/ : <B>Ian</B> dances around
+[13:53:17]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[13:53:31]SAY: Experiment 97d/ : EHEHEHEHEH
+[13:53:45]EMOTE: Ian/ : <B>Ian</B> dances around
+[13:54:01]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[13:54:21]EMOTE: Runtime/ : <B>Runtime</B> mews.
+[13:54:45]EMOTE: Parrot/ : <B>The Parrot</B> squawks.
+[13:55:07]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[13:56:00]SAY: Parrot/ : BAWWWWK george mellons griffing me
+[13:56:28]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[13:57:21]EMOTE: crab/ : <B>The crab</B> clicks.
+[13:57:23]SAY: kitten/ : Purr!
+[13:57:27]SAY: kitten/ : Purr!
+[13:57:45]EMOTE: crab/ : <B>The crab</B> clicks.
+[13:57:59]EMOTE: Ian/ : <B>Ian</B> dances around
+[13:58:26]EMOTE: Ian/ : <B>Ian</B> woofs.
+[13:59:14]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[13:59:22]SAY: Runtime/ : HSSSSS
+[13:59:47]DEBUG: Next event of severity Moderate in 47.518 minutes.
+[13:59:47]DEBUG: Starting event 'Nothing' of severity Moderate.
+[13:59:49]DEBUG: Event 'Nothing' has completed at 15:33.
+[14:01:01]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[14:01:32]DEBUG: Next event of severity Mundane in 15.208 minutes.
+[14:01:32]DEBUG: Starting event 'Nothing' of severity Mundane.
+[14:01:34]DEBUG: Event 'Nothing' has completed at 15:35.
+[14:01:56]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[14:02:04]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[14:02:12]EMOTE: kitten/ : <B>The kitten</B> meows.
+[14:02:20]EMOTE: crab/ : <B>The crab</B> clicks.
+[14:02:49]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[14:03:37]SAY: kitten/ : Meow!
+[14:03:48]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[14:03:56]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[14:04:02]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[14:04:12]SAY: cat/ : Meow!
+[14:04:44]SAY: kitten/ : Meow!
+[14:05:00]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[14:05:57]SAY: kitten/ : Purr!
+[14:08:22]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[14:08:51]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[14:09:31]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[14:10:26]SAY: kitten/ : HSSSSS
+[14:10:32]SAY: kitten/ : Purr!
+[14:10:38]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[14:10:44]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[14:11:22]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[14:12:00]SAY: Runtime/ : Meow!
+[14:12:06]SAY: Runtime/ : Purr!
+[14:12:33]SAY: Runtime/ : Esp!
+[14:13:03]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[14:13:07]EMOTE: Ian/ : <B>Ian</B> dances around
+[14:13:09]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[14:13:54]SAY: Runtime/ : HSSSSS
+[14:14:34]SAY: cat/ : HSSSSS
+[14:14:42]SAY: cat/ : Purr!
+[14:15:02]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[14:15:19]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[14:16:37]EMOTE: Parrot/ : <B>The Parrot</B> squawks.
+[14:16:56]EMOTE: crab/ : <B>The crab</B> clacks.
+[14:17:08]EMOTE: Ian/ : <B>Ian</B> pants.
+[14:17:14]DEBUG: Next event of severity Mundane in 13.504 minutes.
+[14:17:14]DEBUG: Starting event 'Trivial News' of severity Mundane.
+[14:17:36]DEBUG: Event 'Trivial News' has completed at 15:50.
+[14:17:36]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[14:18:06]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[14:19:21]SAY: cat/ : HSSSSS
+[14:19:23]EMOTE: crab/ : <B>The crab</B> clacks.
+[14:20:18]EMOTE: crab/ : <B>The crab</B> clicks.
+[14:20:46]SAY: Runtime/ : HSSSSS
+[14:20:56]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[14:21:29]SAY: Runtime/ : Purr!
+[14:21:51]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[14:21:53]SAY: cat/ : Esp!
+[14:22:07]EMOTE: crab/ : <B>The crab</B> clicks.
+[14:22:19]EMOTE: Ian/ : <B>Ian</B> dances around
+[14:22:59]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[14:23:32]DEBUG: Next event of severity Major in 72.486 minutes.
+[14:23:32]DEBUG: Starting event 'Nothing' of severity Major.
+[14:23:34]DEBUG: Event 'Nothing' has completed at 15:56.
+[14:23:48]EMOTE: kitten/ : <B>The kitten</B> meows.
+[14:24:24]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[14:24:26]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[14:24:47]EMOTE: Ian/ : <B>Ian</B> dances around
+[14:25:25]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[14:25:51]VOTE: Crew_transfer vote started by the server.
+[14:25:51]DEBUG: The server has called a crew transfer vote
+[14:26:30]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[14:26:44]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[14:26:46]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[14:26:54]VOTE: <b>Vote Result: Inconclusive - No Votes!</b>
+[14:28:27]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[14:29:25]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[14:29:30]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[14:31:11]DEBUG: Next event of severity Mundane in 13.994 minutes.
+[14:31:11]DEBUG: Starting event 'Nothing' of severity Mundane.
+[14:31:13]DEBUG: Event 'Nothing' has completed at 16:04.
+[14:32:35]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[14:33:20]EMOTE: crab/ : <B>The crab</B> clacks.
+[14:33:24]SAY: kitten/ : Esp!
+[14:33:36]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[14:33:44]EMOTE: cat/ : <B>The cat</B> meows.
+[14:33:46]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[14:34:02]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[14:34:14]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[14:34:47]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[14:35:05]EMOTE: kitten/ : <B>The kitten</B> meows.
+[14:35:17]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[14:35:29]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[14:35:47]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[14:35:57]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[14:36:16]EMOTE: kitten/ : <B>The kitten</B> mews.
+[14:36:54]EMOTE: crab/ : <B>The crab</B> clicks.
+[14:36:58]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[14:37:54]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[14:37:56]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[14:40:20]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[14:41:36]SAY: kitten/ : Esp!
+[14:41:43]EMOTE: Ian/ : <B>Ian</B> dances around
+[14:42:05]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[14:42:29]EMOTE: cat/ : <B>The cat</B> mews.
+[14:42:37]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[14:42:54]EMOTE: crab/ : <B>The crab</B> clacks.
+[14:42:56]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[14:43:20]EMOTE: crab/ : <B>The crab</B> clicks.
+[14:44:04]EMOTE: crab/ : <B>The crab</B> clicks.
+[14:44:43]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[14:45:05]EMOTE: crab/ : <B>The crab</B> clicks.
+[14:45:19]SAY: cat/ : Meow!
+[14:45:37]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[14:45:38]DEBUG: Next event of severity Mundane in 16.462 minutes.
+[14:45:38]DEBUG: Starting event 'Mundane News' of severity Mundane.
+[14:46:00]DEBUG: Event 'Mundane News' has completed at 16:18.
+[14:46:54]SAY: Experiment 97d/ : EHEHEHEHEH
+[14:46:56]SAY: kitten/ : Purr!
+[14:47:46]SAY: kitten/ : Purr!
+[14:48:10]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[14:48:16]SAY: Ian/ : Woof!
+[14:48:29]EMOTE: Ian/ : <B>Ian</B> shivers.
+[14:48:49]DEBUG: Next event of severity Moderate in 46.728 minutes.
+[14:48:49]DEBUG: Starting event 'Carp School' of severity Moderate.
+[14:48:53]EMOTE: Runtime/ : <B>Runtime</B> mews.
+[14:49:11]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[14:49:31]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[14:49:59]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[14:50:44]EMOTE: Ian/ : <B>Ian</B> dances around
+[14:50:50]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[14:50:54]SAY: Parrot/ : Cracker?
+[14:50:56]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[14:51:10]SAY: Parrot/ : Cracker?
+[14:53:11]EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[14:53:22]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[14:53:42]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[14:53:58]SAY: Ian/ : Bark!
+[14:54:00]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[14:55:06]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[14:55:25]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[14:56:19]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[14:56:23]SAY: kitten/ : Purr!
+[14:56:25]SAY: Parrot/ : BAWWWWK george mellons griffing me
+[14:57:11]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[14:57:19]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[14:57:48]EMOTE: Ian/ : <B>Ian</B> shivers.
+[14:58:02]EMOTE: Parrot/ : <B>The Parrot</B> squawks.
+[14:58:54]EMOTE: Ian/ : <B>Ian</B> dances around
+[14:58:58]SAY: kitten/ : HSSSSS
+[14:59:12]EMOTE: kitten/ : <B>The kitten</B> mews.
+[14:59:49]SAY: Parrot/ : Cracker?
+[15:00:11]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[15:00:17]EMOTE: Ian/ : <B>Ian</B> woofs.
+[15:00:59]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[15:01:22]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[15:01:32]SAY: cat/ : Esp!
+[15:02:28]EMOTE: kitten/ : <B>The kitten</B> mews.
+[15:02:32]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[15:02:35]DEBUG: Next event of severity Mundane in 16.34 minutes.
+[15:02:35]DEBUG: Starting event 'Money Hacker' of severity Mundane.
+[15:02:40]ADMIN: Cassy_jenelle/(RETINA) spawned /obj/item/mecha_parts/mecha_equipment/wormhole_generator at (252,91,2)
+[15:02:51]ADMIN: Cassy_jenelle/(RETINA) deleted the wormhole generator at (0,0,0)
+[15:02:52]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[15:03:04]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[15:03:09]ADMIN: Cassy_jenelle/(RETINA) spawned /obj/effect/portal at (251,91,2)
+[15:03:19]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[15:03:25]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[15:03:57]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[15:04:11]SAY: cat/ : Esp!
+[15:04:19]EMOTE: crab/ : <B>The crab</B> clacks.
+[15:04:49]SAY: Experiment 97d/ : EHEHEHEHEH
+[15:06:10]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[15:06:42]ADMIN: Cassy_jenelle/(RETINA) healed / revived Cassy_jenelle/(RETINA)
+[15:06:42]SAY: cat/ : Purr!
+[15:06:52]ADMIN: Cassy_jenelle/(RETINA) spawned /obj/effect/portal at (250,81,2)
+[15:06:57]ACCESS: Logout: *no key*/(RETINA)
+[15:06:57]ACCESS: Login: Cassy_jenelle/(RETINA) from 81.104.88.62-1964287214 || BYOND v506
+[15:07:08]EMOTE: crab/ : <B>The crab</B> clacks.
+[15:07:10]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[15:07:14]ACCESS: Logout: *no key*/(RETINA)
+[15:07:14]ACCESS: Login: Cassy_jenelle/(RETINA) from 81.104.88.62-1964287214 || BYOND v506
+[15:07:33]SAY: kitten/ : Esp!
+[15:07:43]EMOTE: Parrot/ : <B>The Parrot</B> flutters its wings.
+[15:07:53]SAY: Parrot/ : Cracker?
+[15:08:51]SAY: cat/ : Purr!
+[15:08:59]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[15:09:21]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[15:09:54]SAY: Experiment 97d/ : EHEHEHEHEH
+[15:10:10]SAY: Runtime/ : Esp!
+[15:10:32]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[15:10:50]EMOTE: Ian/ : <B>Ian</B> dances around
+[15:10:56]SAY: Parrot/ : Cracker?
+[15:11:10]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[15:11:25]ADMIN: Cassy_jenelle/(RETINA) teleported Cassy_jenelle/(RETINA)
+[15:12:33]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[15:12:47]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[15:12:54]DEBUG: Event 'Money Hacker' has completed at 16:44.
+[15:13:01]EMOTE: Ian/ : <B>Ian</B> dances around
+[15:13:13]EMOTE: cat/ : <B>The cat</B> mews.
+[15:13:13]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[15:13:25]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[15:13:45]SAY: Experiment 97d/ : Eh?
+[15:13:51]EMOTE: Ian/ : <B>Ian</B> dances around
+[15:13:57]SAY: Runtime/ : Purr!
+[15:14:06]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[15:14:10]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[15:14:38]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[15:15:02]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[15:16:02]EMOTE: kitten/ : <B>The kitten</B> mews.
+[15:16:05]SAY: Runtime/ : Purr!
+[15:16:19]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[15:16:33]DEBUG: Event 'Carp School' has completed at 16:48.
+[15:16:45]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[15:17:03]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[15:17:33]EMOTE: crab/ : <B>The crab</B> clicks.
+[15:17:48]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[15:17:48]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[15:17:54]SAY: Ian/ : YAP
+[15:19:29]DEBUG: Next event of severity Mundane in 16.148 minutes.
+[15:19:29]DEBUG: Starting event 'Mundane News' of severity Mundane.
+[15:19:49]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[15:19:51]DEBUG: Event 'Mundane News' has completed at 16:51.
+[15:20:03]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[15:20:25]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[15:20:37]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[15:21:44]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[15:22:06]SAY: Experiment 97d/ : Eh?
+[15:22:42]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[15:22:54]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[15:23:37]EMOTE: crab/ : <B>The crab</B> clicks.
+[15:23:43]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[15:25:05]EMOTE: kitten/ : <B>The kitten</B> mews.
+[15:25:30]SAY: Parrot/ : Cracker?
+[15:25:36]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> shakes its head.
+[15:26:42]SAY: kitten/ : Purr!
+[15:27:11]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[15:27:13]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[15:27:44]VOTE: Crew_transfer vote started by the server.
+[15:27:44]DEBUG: The server has called a crew transfer vote
+[15:27:45]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[15:28:22]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[15:28:32]SAY: kitten/ : Esp!
+[15:28:36]SAY: Parrot/ : Cracker?
+[15:28:48]VOTE: <b>Vote Result: Inconclusive - No Votes!</b>
+[15:29:32]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[15:30:37]EMOTE: Parrot/ : <B>The Parrot</B> bawks.
+[15:30:51]EMOTE: Ian/ : <B>Ian</B> barks.
+[15:31:07]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[15:31:20]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> shakes its head.
+[15:31:48]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[15:32:40]SAY: Runtime/ : Purr!
+[15:32:58]EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[15:33:07]SAY: kitten/ : Purr!
+[15:33:15]SAY: kitten/ : Purr!
+[15:33:21]EMOTE: Ian/ : <B>Ian</B> dances around
+[15:33:39]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[15:33:53]EMOTE: crab/ : <B>The crab</B> clicks.
+[15:33:57]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[15:34:05]EMOTE: kitten/ : <B>The kitten</B> meows.
+[15:36:00]SAY: kitten/ : Esp!
+[15:36:12]DEBUG: Next event of severity Mundane in 16.712 minutes.
+[15:36:12]DEBUG: Starting event 'Economic News' of severity Mundane.
+[15:36:38]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[15:37:01]DEBUG: Next event of severity Moderate in 53.102 minutes.
+[15:37:01]DEBUG: Starting event 'Nothing' of severity Moderate.
+[15:37:03]DEBUG: Event 'Nothing' has completed at 17:08.
+[15:37:10]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[15:37:49]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[15:38:07]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[15:38:20]DEBUG: Next event of severity Major in 77.302 minutes.
+[15:38:20]DEBUG: Starting event 'Nothing' of severity Major.
+[15:38:22]DEBUG: Event 'Nothing' has completed at 17:09.
+[15:38:23]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[15:38:29]EMOTE: Parrot/ : <B>The Parrot</B> squawks.
+[15:39:12]SAY: Parrot/ : Cracker?
+[15:39:22]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[15:39:56]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[15:39:58]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[15:40:24]EMOTE: kitten/ : <B>The kitten</B> meows.
+[15:40:28]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[15:40:40]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[15:41:18]SAY: Runtime/ : Esp!
+[15:41:30]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[15:41:48]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[15:42:01]EMOTE: Ian/ : <B>Ian</B> dances around
+[15:42:03]EMOTE: crab/ : <B>The crab</B> clacks.
+[15:42:09]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[15:42:33]DEBUG: Event 'Economic News' has completed at 17:13.
+[15:42:43]SAY: Parrot/ : Cracker?
+[15:42:55]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[15:43:01]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> shakes its head.
+[15:43:03]EMOTE: Ian/ : <B>Ian</B> woofs.
+[15:43:49]SAY: Parrot/ : Cracker?
+[15:43:57]EMOTE: kitten/ : <B>The kitten</B> meows.
+[15:44:06]EMOTE: crab/ : <B>The crab</B> clacks.
+[15:44:30]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[15:44:48]SAY: kitten/ : Meow!
+[15:44:58]EMOTE: crab/ : <B>The crab</B> clacks.
+[15:45:06]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[15:45:22]SAY: Ian/ : AUUUUUU
+[15:45:42]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[15:45:58]SAY: Runtime/ : HSSSSS
+[15:45:58]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[15:46:29]SAY: Ian/ : Bark!
+[15:46:33]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[15:46:41]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[15:46:43]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[15:47:31]SAY: Experiment 97d/ : EHEHEHEHEH
+[15:47:51]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[15:47:53]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[15:48:34]EMOTE: Ian/ : <B>Ian</B> dances around
+[15:48:44]SAY: Parrot/ : Cracker?
+[15:48:44]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[15:48:54]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[15:49:08]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[15:49:18]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[15:50:00]EMOTE: crab/ : <B>The crab</B> clacks.
+[15:50:09]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[15:51:07]EMOTE: Runtime/ : <B>Runtime</B> meows.
+[15:51:11]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[15:51:29]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[15:51:35]SAY: Ian/ : AUUUUUU
+[15:51:55]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[15:52:16]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[15:52:18]EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[15:52:36]SAY: Experiment 97d/ : EHEHEHEHEH
+[15:53:25]DEBUG: Next event of severity Mundane in 13.922 minutes.
+[15:53:25]DEBUG: Starting event 'Economic News' of severity Mundane.
+[15:53:28]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[15:53:44]SAY: Ian/ : Bark!
+[15:53:48]EMOTE: crab/ : <B>The crab</B> clacks.
+[15:53:57]EMOTE: crab/ : <B>The crab</B> clicks.
+[15:53:59]SAY: Runtime/ : Purr!
+[15:54:13]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[15:55:30]SAY: Experiment 97d/ : Eh?
+[15:55:40]EMOTE: Ian/ : <B>Ian</B> dances around
+[15:57:00]SAY: Parrot/ : Cracker?
+[15:57:19]SAY: Experiment 97d/ : EHEHEHEHEH
+[15:57:43]EMOTE: crab/ : <B>The crab</B> clicks.
+[15:57:57]EMOTE: Parrot/ : <B>The Parrot</B> bawks.
+[15:58:18]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[15:59:24]EMOTE: Ian/ : <B>Ian</B> yaps.
+[16:00:23]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[16:00:25]DEBUG: Event 'Economic News' has completed at 17:30.
+[16:00:27]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[16:00:51]SAY: Runtime/ : Purr!
+[16:00:59]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[16:01:21]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[16:01:53]EMOTE: Ian/ : <B>Ian</B> dances around
+[16:02:06]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[16:02:38]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[16:03:08]EMOTE: Ian/ : <B>Ian</B> dances around
+[16:04:19]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[16:05:22]SAY: Experiment 97d/ : Eh?
+[16:06:16]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[16:06:18]EMOTE: Ian/ : <B>Ian</B> dances around
+[16:06:18]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[16:06:48]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[16:07:15]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[16:07:46]DEBUG: Next event of severity Mundane in 12.932 minutes.
+[16:07:46]DEBUG: Starting event 'Mundane News' of severity Mundane.
+[16:07:53]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[16:07:55]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[16:08:08]DEBUG: Event 'Mundane News' has completed at 17:38.
+[16:08:17]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[16:08:19]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[16:08:19]EMOTE: Parrot/ : <B>The Parrot</B> bawks.
+[16:09:08]EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[16:09:20]EMOTE: crab/ : <B>The crab</B> clicks.
+[16:10:17]EMOTE: Parrot/ : <B>The Parrot</B> squawks.
+[16:10:31]EMOTE: crab/ : <B>The crab</B> clicks.
+[16:10:43]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[16:10:55]SAY: Ian/ : Woof!
+[16:11:19]EMOTE: crab/ : <B>The crab</B> clacks.
+[16:12:00]SAY: kitten/ : Purr!
+[16:12:12]EMOTE: crab/ : <B>The crab</B> clicks.
+[16:12:24]EMOTE: cat/ : <B>The cat</B> mews.
+[16:13:14]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[16:13:16]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[16:13:17]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[16:13:45]EMOTE: Ian/ : <B>Ian</B> dances around
+[16:14:01]SAY: Runtime/ : Purr!
+[16:14:25]SAY: Runtime/ : Purr!
+[16:14:47]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[16:15:11]SAY: kitten/ : Purr!
+[16:15:30]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[16:15:44]EMOTE: crab/ : <B>The crab</B> clicks.
+[16:15:48]EMOTE: Ian/ : <B>Ian</B> woofs.
+[16:16:18]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[16:17:05]SAY: kitten/ : Purr!
+[16:17:09]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[16:17:11]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[16:17:21]EMOTE: crab/ : <B>The crab</B> clacks.
+[16:17:41]SAY: Ian/ : YAP
+[16:18:07]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[16:18:19]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[16:19:12]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[16:19:26]SAY: cat/ : Meow!
+[16:19:46]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[16:19:48]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[16:20:37]EMOTE: Ian/ : <B>Ian</B> dances around
+[16:20:53]SAY: kitten/ : Meow!
+[16:21:05]DEBUG: Next event of severity Mundane in 13 minutes.
+[16:21:05]DEBUG: Starting event 'PDA Spam' of severity Mundane.
+[16:21:35]SAY: Ian/ : Woof!
+[16:22:19]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[16:22:31]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[16:22:38]SAY: Runtime/ : Purr!
+[16:23:22]EMOTE: Parrot/ : <B>The Parrot</B> flutters its wings.
+[16:23:50]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[16:24:02]SAY: Parrot/ : Cracker?
+[16:24:45]EMOTE: kitten/ : <B>The kitten</B> meows.
+[16:25:11]EMOTE: Ian/ : <B>Ian</B> dances around
+[16:25:45]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[16:25:59]SAY: cat/ : HSSSSS
+[16:26:34]SAY: Parrot/ : Cracker?
+[16:27:26]SAY: Experiment 97d/ : Eh?
+[16:27:53]EMOTE: crab/ : <B>The crab</B> clicks.
+[16:28:25]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[16:28:41]EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[16:28:41]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[16:28:43]SAY: kitten/ : Esp!
+[16:28:45]EMOTE: cat/ : <B>The cat</B> shivers.
+[16:29:09]EMOTE: crab/ : <B>The crab</B> clacks.
+[16:29:15]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[16:29:20]SAY: Parrot/ : Cracker?
+[16:29:22]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[16:29:28]SAY: cat/ : Esp!
+[16:29:30]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[16:29:32]VOTE: Crew_transfer vote started by the server.
+[16:29:32]DEBUG: The server has called a crew transfer vote
+[16:29:32]SAY: kitten/ : Esp!
+[16:29:52]EMOTE: crab/ : <B>The crab</B> clicks.
+[16:29:58]EMOTE: crab/ : <B>The crab</B> clacks.
+[16:30:00]SAY: kitten/ : Meow!
+[16:30:30]SAY: cat/ : Esp!
+[16:30:33]ADMIN: Cassy_jenelle/(RETINA) spawned /obj/effect/portal at (250,81,2)
+[16:30:35]VOTE: <b>Vote Result: Inconclusive - No Votes!</b>
+[16:31:44]DEBUG: Next event of severity Moderate in 53.646 minutes.
+[16:31:44]DEBUG: Starting event 'Nothing' of severity Moderate.
+[16:31:46]DEBUG: Event 'Nothing' has completed at 18:01.
+[16:32:10]EMOTE: Parrot/ : <B>The Parrot</B> flutters its wings.
+[16:32:16]EMOTE: Parrot/ : <B>The Parrot</B> bawks.
+[16:32:26]EMOTE: Ian/ : <B>Ian</B> pants.
+[16:32:38]SAY: Experiment 97d/ : EHEHEHEHEH
+[16:32:54]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[16:33:00]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[16:33:33]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[16:33:37]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[16:34:17]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[16:34:30]DEBUG: Next event of severity Mundane in 16.79 minutes.
+[16:34:30]DEBUG: Starting event 'Mundane News' of severity Mundane.
+[16:34:35]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[16:34:52]DEBUG: Event 'Mundane News' has completed at 18:04.
+[16:35:01]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[16:35:36]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[16:36:02]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[16:36:06]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[16:36:12]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[16:36:42]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[16:37:04]EMOTE: Ian/ : <B>Ian</B> dances around
+[16:37:31]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[16:37:53]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[16:38:27]SAY: Runtime/ : Meow!
+[16:40:00]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[16:40:10]EMOTE: crab/ : <B>The crab</B> clicks.
+[16:41:09]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[16:41:19]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[16:41:45]SAY: Runtime/ : Esp!
+[16:42:55]EMOTE: Ian/ : <B>Ian</B> yaps.
+[16:42:55]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[16:43:28]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[16:44:18]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[16:45:49]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[16:45:57]EMOTE: cat/ : <B>The cat</B> mews.
+[16:46:05]EMOTE: crab/ : <B>The crab</B> clicks.
+[16:46:17]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[16:46:24]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[16:46:42]EMOTE: Ian/ : <B>Ian</B> shivers.
+[16:46:48]EMOTE: Ian/ : <B>Ian</B> dances around
+[16:47:14]EMOTE: Ian/ : <B>Ian</B> dances around
+[16:47:16]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[16:47:24]EMOTE: Parrot/ : <B>The Parrot</B> bawks.
+[16:48:23]SAY: Runtime/ : Purr!
+[16:48:35]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[16:49:05]SAY: kitten/ : HSSSSS
+[16:49:25]SAY: kitten/ : HSSSSS
+[16:50:22]SAY: kitten/ : Esp!
+[16:50:40]SAY: kitten/ : Meow!
+[16:50:52]EMOTE: cat/ : <B>The cat</B> shivers.
+[16:51:26]EMOTE: crab/ : <B>The crab</B> clacks.
+[16:51:45]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[16:51:49]DEBUG: Next event of severity Mundane in 15.088 minutes.
+[16:51:49]DEBUG: Starting event 'Trivial News' of severity Mundane.
+[16:52:11]DEBUG: Event 'Trivial News' has completed at 18:20.
+[16:52:15]EMOTE: kitten/ : <B>The kitten</B> meows.
+[16:52:51]EMOTE: crab/ : <B>The crab</B> clacks.
+[16:53:07]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[16:53:16]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[16:53:24]EMOTE: kitten/ : <B>The kitten</B> mews.
+[16:53:46]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[16:53:50]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[16:53:58]SAY: Ian/ : Bark!
+[16:54:30]SAY: kitten/ : Meow!
+[16:55:17]EMOTE: Ian/ : <B>Ian</B> dances around
+[16:55:55]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[16:56:12]EMOTE: cat/ : <B>The cat</B> shivers.
+[16:56:14]SAY: kitten/ : HSSSSS
+[16:56:44]EMOTE: Ian/ : <B>Ian</B> shivers.
+[16:57:16]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[16:57:26]EMOTE: Ian/ : <B>Ian</B> dances around
+[16:57:57]DEBUG: Next event of severity Major in 68.73 minutes.
+[16:57:57]DEBUG: Starting event 'Nothing' of severity Major.
+[16:57:59]DEBUG: Event 'Nothing' has completed at 18:26.
+[16:58:37]EMOTE: Ian/ : <B>Ian</B> dances around
+[16:59:38]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[16:59:50]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[16:59:54]EMOTE: Runtime/ : <B>Runtime</B> shakes their head.
+[16:59:58]SAY: cat/ : Esp!
+[17:00:00]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[17:00:22]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[17:00:36]EMOTE: Ian/ : <B>Ian</B> dances around
+[17:00:40]SAY: Parrot/ : Cracker?
+[17:01:15]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[17:01:37]SAY: kitten/ : Purr!
+[17:02:27]SAY: Parrot/ : Cracker?
+[17:02:41]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[17:02:51]EMOTE: crab/ : <B>The crab</B> clicks.
+[17:02:57]SAY: kitten/ : Meow!
+[17:03:03]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[17:03:14]SAY: Parrot/ : Cracker?
+[17:04:08]SAY: cat/ : Esp!
+[17:04:12]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[17:04:20]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[17:04:49]EMOTE: Ian/ : <B>Ian</B> dances around
+[17:05:11]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[17:05:13]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[17:05:19]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> shakes its head.
+[17:05:23]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[17:05:29]SAY: Ian/ : YAP
+[17:05:41]SAY: cat/ : Purr!
+[17:06:18]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[17:06:38]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[17:06:44]SAY: cat/ : Esp!
+[17:06:46]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[17:06:58]EMOTE: Ian/ : <B>Ian</B> dances around
+[17:07:00]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[17:07:23]DEBUG: Next event of severity Mundane in 14.05 minutes.
+[17:07:23]DEBUG: Starting event 'Money Lotto' of severity Mundane.
+[17:07:25]DEBUG: Event 'Money Lotto' has completed at 18:35.
+[17:07:39]EMOTE: Parrot/ : <B>The Parrot</B> bawks.
+[17:07:59]EMOTE: Runtime/ : <B>Runtime</B> shakes their head.
+[17:08:39]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[17:09:26]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[17:09:44]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[17:10:06]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[17:10:18]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[17:10:18]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[17:10:24]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[17:10:44]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[17:11:09]SAY: cat/ : Esp!
+[17:11:29]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[17:13:10]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[17:13:54]EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[17:14:12]EMOTE: crab/ : <B>The crab</B> clacks.
+[17:14:37]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[17:14:53]EMOTE: Parrot/ : <B>The Parrot</B> squawks.
+[17:14:55]SAY: Ian/ : Woof!
+[17:15:17]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[17:16:36]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[17:17:28]EMOTE: Runtime/ : <B>Runtime</B> shakes their head.
+[17:17:34]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[17:17:55]EMOTE: Runtime/ : <B>Runtime</B> meows.
+[17:17:57]EMOTE: Ian/ : <B>Ian</B> dances around
+[17:17:57]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[17:18:15]EMOTE: Ian/ : <B>Ian</B> pants.
+[17:18:17]EMOTE: crab/ : <B>The crab</B> clicks.
+[17:18:25]EMOTE: kitten/ : <B>The kitten</B> mews.
+[17:18:33]SAY: Parrot/ : Cracker?
+[17:19:34]SAY: kitten/ : HSSSSS
+[17:19:36]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[17:19:40]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[17:19:42]EMOTE: Ian/ : <B>Ian</B> barks.
+[17:19:48]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[17:20:08]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[17:21:49]SAY: Ian/ : YAP
+[17:21:52]DEBUG: Next event of severity Mundane in 14.534 minutes.
+[17:21:52]DEBUG: Starting event 'Mundane News' of severity Mundane.
+[17:21:53]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[17:22:14]DEBUG: Event 'Mundane News' has completed at 18:50.
+[17:22:54]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[17:22:56]EMOTE: Runtime/ : <B>Runtime</B> mews.
+[17:24:00]EMOTE: Ian/ : <B>Ian</B> pants.
+[17:24:08]SAY: Parrot/ : Cracker?
+[17:24:28]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[17:25:17]SAY: kitten/ : HSSSSS
+[17:25:29]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[17:26:22]EMOTE: Runtime/ : <B>Runtime</B> mews.
+[17:26:38]EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[17:26:46]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[17:27:01]DEBUG: Next event of severity Moderate in 46.104 minutes.
+[17:27:01]DEBUG: Starting event 'Nothing' of severity Moderate.
+[17:27:03]DEBUG: Event 'Nothing' has completed at 18:54.
+[17:27:04]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[17:27:10]SAY: kitten/ : Purr!
+[17:27:34]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[17:27:46]SAY: Parrot/ : Cracker?
+[17:27:52]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[17:28:33]SAY: Ian/ : Woof!
+[17:28:59]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[17:29:36]SAY: Parrot/ : Cracker?
+[17:29:44]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[17:30:34]SAY: kitten/ : Esp!
+[17:30:52]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[17:31:11]EMOTE: cat/ : <B>The cat</B> shivers.
+[17:31:19]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[17:31:21]VOTE: Crew_transfer vote started by the server.
+[17:31:21]DEBUG: The server has called a crew transfer vote
+[17:31:41]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[17:32:01]ACCESS: Logout: Cassy_jenelle/(RETINA)
+[18:04:40]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[18:05:01]VOTE: <b>Vote Result: Initiate Crew Transfer</b>
+[18:05:01]GAME: Autotransfer has called the shuttle.
+[18:05:02]ACCESS: Login: Keinto/(Keinto) from 50.175.17.207-2903697659 || BYOND v506
+[18:05:16]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[18:05:20]ACCESS: Login: Crescentise/(Crescentise) from 85.210.35.131-1743965798 || BYOND v506
+[18:05:35]SAY: kitten/ : Meow!
+[18:05:45]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[18:05:49]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[18:06:23]ACCESS: Logout: *no key*/(Crescentise)
+[18:06:23]ACCESS: Login: Crescentise/(Luna Fountain) from 85.210.35.131-1743965798 || BYOND v506
+[18:06:40]ACCESS: Logout: *no key*/(Keinto)
+[18:06:40]ACCESS: Login: Keinto/(Roy Wyatt) from 50.175.17.207-2903697659 || BYOND v506
+[18:06:49]SAY: Parrot/ : Cracker?
+[18:06:51]EMOTE: Roy Wyatt/Keinto : <B>Roy Wyatt</B> gasps!
+[18:07:16]SAY: Experiment 97d/ : Eh?
+[18:07:32]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[18:07:43]OOC: (LOCAL) Luna Fountain/Crescentise : wat
+[18:08:00]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[18:08:04]SAY: cat/ : Purr!
+[18:08:06]EMOTE: Parrot/ : <B>The Parrot</B> flutters its wings.
+[18:08:06]EMOTE: Roy Wyatt/Keinto : <B>Roy Wyatt</B> gasps!
+[18:08:16]OOC: (LOCAL) Roy Wyatt/Keinto : thing is fucked
+[18:08:18]EMOTE: cat/ : <B>The cat</B> mews.
+[18:08:20]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[18:08:32]EMOTE: crab/ : <B>The crab</B> clicks.
+[18:08:40]EMOTE: kitten/ : <B>The kitten</B> meows.
+[18:09:05]EMOTE: crab/ : <B>The crab</B> clicks.
+[18:09:27]DEBUG: Next event of severity Mundane in 14.398 minutes.
+[18:09:27]DEBUG: Starting event 'Mundane News' of severity Mundane.
+[18:09:37]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[18:09:48]DEBUG: Event 'Mundane News' has completed at 19:04.
+[18:09:49]EMOTE: RETINA/Cassy_jenelle : <B>RETINA</B> snores.
+[18:09:59]EMOTE: cat/ : <B>The cat</B> shivers.
+[18:10:09]SAY: Experiment 97d/ : EHEHEHEHEH
+[18:10:11]EMOTE: Roy Wyatt/Keinto : <B>Roy Wyatt</B> looks at Luna&#39;s feet.
+[18:10:21]EMOTE: Luna Fountain/Crescentise : <B>Luna Fountain</B> &#39;s toes wiggle in the dirst.
+[18:10:22]OOC: (LOCAL) Luna Fountain/Crescentise : dirt
+[18:10:23]EMOTE: crab/ : <B>The crab</B> clicks.
+[18:10:29]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[18:10:37]EMOTE: RETINA/Cassy_jenelle : <B>RETINA</B> snores.
+[18:11:17]EMOTE: Roy Wyatt/Keinto : <B>Roy Wyatt</B> stretches.
+[18:11:36]EMOTE: RETINA/Cassy_jenelle : <B>RETINA</B> snores.
+[18:11:38]EMOTE: Parrot/ : <B>The Parrot</B> flutters its wings.
+[18:11:56]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[18:12:06]SAY: kitten/ : Esp!
+[18:12:06]EMOTE: Roy Wyatt/Keinto : <B>Roy Wyatt</B> bites his lower lip.
+[18:12:20]SAY: Runtime/ : Esp!
+[18:12:30]EMOTE: RETINA/Cassy_jenelle : <B>RETINA</B> snores.
+[18:12:32]EMOTE: Luna Fountain/Crescentise : <B>Luna Fountain</B> presses herself against the gass.
+[18:12:36]OOC: (LOCAL) Luna Fountain/Crescentise : glass fuck
+[18:12:37]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[18:12:42]SAY: Luna Fountain/Crescentise : Nya.
+[18:12:47]OOC: (LOCAL) Luna Fountain/Crescentise : wat
+[18:12:53]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[18:13:05]SAY: Luna Fountain/Crescentise : Nyaa.
+[18:13:25]ATTACK: Keinto/(Roy Wyatt) fed Crescentise/(Luna Fountain) with Space Milk Reagents: milk(50 units);  (INTENT: HELP) (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=206;Y=82;Z=2'>JMP</a>)
+[18:13:35]EMOTE: Luna Fountain/Crescentise : <B>Luna Fountain</B> is a kitty drinking milk.
+[18:13:37]EMOTE: Roy Wyatt/Keinto : <B>Roy Wyatt</B> grins.
+[18:13:57]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[18:14:18]EMOTE: kitten/ : <B>The kitten</B> meows.
+[18:14:27]SAY: Roy Wyatt/Keinto : no white creme...
+[18:14:32]EMOTE: Luna Fountain/Crescentise : <B>Luna Fountain</B> pouts.
+[18:14:32]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[18:14:37]WHISPER: Luna Fountain/Crescentise : We can get it elsewhere~
+[18:14:38]EMOTE: RETINA/Cassy_jenelle : <B>RETINA</B> snores.
+[18:14:59]EMOTE: Roy Wyatt/Keinto : <B>Roy Wyatt</B> smirks.
+[18:15:26]EMOTE: Ian/ : <B>Ian</B> dances around
+[18:15:26]OOC: (LOCAL) Luna Fountain/Crescentise : bokaza might be joining &gt;____&gt;
+[18:15:32]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[18:15:34]EMOTE: Ian/ : <B>Ian</B> barks.
+[18:15:34]SAY: cat/ : Esp!
+[18:15:34]OOC: (LOCAL) Roy Wyatt/Keinto : yyy
+[18:15:37]OOC: (LOCAL) Luna Fountain/Crescentise : &#39;is the rp server up&#39;
+[18:15:39]OOC: (LOCAL) Luna Fountain/Crescentise : wat
+[18:15:42]SAY: Runtime/ : Esp!
+[18:15:45]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[18:16:13]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[18:16:33]EMOTE: Roy Wyatt/Keinto : <B>Roy Wyatt</B> sits on the bed.
+[18:16:44]EMOTE: Roy Wyatt/Keinto : <B>Roy Wyatt</B> frowns slightly.
+[18:16:57]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[18:17:21]EMOTE: Luna Fountain/Crescentise : <B>Luna Fountain</B> flops.
+[18:17:30]EMOTE: Roy Wyatt/Keinto : <B>Roy Wyatt</B> glances at the TV, then looks at Luna.
+[18:17:32]SAY: Parrot/ : Cracker?
+[18:17:40]EMOTE: Ian/ : <B>Ian</B> dances around
+[18:17:42]EMOTE: Luna Fountain/Crescentise : <B>Luna Fountain</B> snuggles.
+[18:17:47]EMOTE: Roy Wyatt/Keinto : <B>Roy Wyatt</B> tilts his head, smiling.
+[18:17:50]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[18:17:52]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[18:17:54]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> shakes its head.
+[18:18:05]OOC: (LOCAL) Luna Fountain/Crescentise : meatball
+[18:18:07]OOC: (LOCAL) Luna Fountain/Crescentise : hue
+[18:18:39]EMOTE: cat/ : <B>The cat</B> mews.
+[18:18:59]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[18:19:07]EMOTE: Greta Bickerson/Decy19 : <B>Greta Bickerson</B> snores.
+[18:19:09]SAY: Runtime/ : HSSSSS
+[18:19:36]EMOTE: Roy Wyatt/Keinto : <B>Roy Wyatt</B> sits next to Luna, looking down at her.
+[18:19:39]SAY: Parrot/ : Cracker?
+[18:19:49]EMOTE: RETINA/Cassy_jenelle : <B>RETINA</B> snores.
+[18:19:51]SAY: Parrot/ : Cracker?
+[18:19:51]EMOTE: RETINA/Cassy_jenelle : <B>RETINA</B> snores.
+[18:19:59]EMOTE: crab/ : <B>The crab</B> clicks.
+[18:20:54]SAY: cat/ : Esp!
+[18:20:56]SAY: kitten/ : Meow!
+[18:20:57]GAME: Antagonists at round end were...
+[18:21:11]ACCESS: Logout: Crescentise/(Luna Fountain)
+[18:21:20]ACCESS: Logout: Keinto/(Roy Wyatt)
+[19:46:00]EMOTE: Luna Fountain/Crescentise : <B>Luna Fountain</B> snores.
+[19:46:02]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[19:46:07]ACCESS: Login: Kerbal22/(Kerbal22) from 75.137.144.204-3696110726 || BYOND v506
+[19:46:12]EMOTE: Runtime/ : <B>Runtime</B> meows.
+[19:46:12]EMOTE: Roy Wyatt/Keinto : <B>Roy Wyatt</B> snores.
+[19:46:18]EMOTE: crab/ : <B>The crab</B> clicks.
+[19:46:31]ADMIN: Kerbal22/(Kerbal22) initiated a reboot.
+[19:46:33]ACCESS: Logout: Kerbal22/(Kerbal22)

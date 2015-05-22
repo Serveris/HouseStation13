@@ -1,0 +1,11 @@
+// BEGIN_INTERNALS
+/*
+MAP_ICON_TYPE: 0
+WINDOW: maps\Sol-England_2.dmm;maps\TauCeti-Biezel.dmm;code\modules\mob\living\carbon\zombie\zombie.dm;icons\obj\items.dmi
+LAST_COMPILE_VERSION: 506.1250
+DIR: code code\modules code\modules\mob code\modules\mob\living code\modules\mob\living\carbon code\modules\mob\living\carbon\human code\modules\mob\living\carbon\zombie icons icons\obj maps 
+FILE: code\modules\mob\living\carbon\zombie\zombie.dm
+LAST_COMPILE_TIME: 1432322273
+AUTO_FILE_DIR: OFF
+*/
+// END_INTERNALS

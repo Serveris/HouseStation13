@@ -1,0 +1,1090 @@
+
+
+Starting up. 00:18.19
+---------------------
+[00:18:30]ADMIN: Loading jobban_rank
+[00:18:30]ADMIN: jobban_keylist was empty
+[00:18:30]ADMIN: Loading Banlist
+[00:18:33]DEBUG: Rebuilding Master Controller
+[00:20:02]ACCESS: Login: Cassy_jenelle/(Cassy_jenelle) from 127.0.0.1-1964287214 || BYOND v506
+[00:20:56]ADMIN: Cassy_jenelle has started the game.
+[00:20:56]ACCESS: Logout: *no key*/(Cassy_jenelle)
+[00:20:56]ACCESS: Login: Cassy_jenelle/(Camile Crafter) from 127.0.0.1-1964287214 || BYOND v506
+[00:21:03]DEBUG: Next event of severity Mundane in 16.888 minutes.
+[00:21:03]DEBUG: Next event of severity Moderate in 40.328 minutes.
+[00:21:03]DEBUG: Next event of severity Major in 89.9633 minutes.
+[00:21:04]EMOTE: Parrot/ : <B>The Parrot</B> turns and flies towards the deck of cards
+[00:22:30]SAY: kitten/ : Meow!
+[00:22:41]ADMIN: Cassy_jenelle/(Camile Crafter) spawned /obj/item/weapon/card/id/housekeys at (126,125,9)
+[00:22:50]EMOTE: cat/ : <B>The cat</B> meows.
+[00:22:57]ADMIN: Cassy_jenelle/(Camile Crafter) modified House Keys's req_access_txt to 40
+[00:22:59]EMOTE: Ian/ : <B>Ian</B> dances around
+[00:23:03]EMOTE: Ian/ : <B>Ian</B> shakes its head.
+[00:23:06]ADMIN: Cassy_jenelle/(Camile Crafter) modified House Keys's req_access to 40
+[00:23:13]ADMIN: Cassy_jenelle/(Camile Crafter) modified House Keys's req_one_access_txt to 40
+[00:23:32]ADMIN: Cassy_jenelle/(Camile Crafter) spawned /obj/item/weapon/card/id/captains_spare at (125,125,9)
+[00:23:58]EMOTE: Tom (173)/ : <B>Tom (173)</B> squeaks.
+[00:24:00]EMOTE: Tom (173)/ : <B>Tom (173)</B> squeeks.
+[00:24:32]SAY: Tom (173)/ : Squeek?
+[00:24:58]ADMIN: Cassy_jenelle/(Camile Crafter) jumped to *no key*/(Tiger)
+[00:25:22]SAY: Wittley/ : HSSSSS
+[00:25:31]EMOTE: Ian/ : <B>Ian</B> dances around
+[00:25:40]EMOTE: Runtime/ : <B>Runtime</B> mews.
+[00:25:40]EMOTE: Ian/ : <B>Ian</B> dances around
+[00:25:55]EMOTE: Tiger/ : <B>Tiger</B> meows.
+[00:26:10]EMOTE: crab/ : <B>The crab</B> clacks.
+[00:26:12]EMOTE: mouse (756)/ : <B>The mouse (756)</B> squeaks.
+[00:26:14]EMOTE: Ian/ : <B>Ian</B> dances around
+[00:26:26]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[00:27:01]SAY: cat/ : Meow!
+[00:27:06]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[00:27:13]EMOTE: Runtime/ : <B>Runtime</B> meows.
+[00:27:32]EMOTE: Dr. NibbleFluff/ : <B>Dr. NibbleFluff</B> mews.
+[00:27:34]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[00:29:28]EMOTE: cat/ : <B>The cat</B> shivers.
+[00:29:41]EMOTE: cat/ : <B>The cat</B> meows.
+[00:30:02]EMOTE: cat/ : <B>The cat</B> mews.
+[00:30:08]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[00:30:14]SAY: Wittley/ : Purr!
+[00:30:18]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[00:31:10]EMOTE: cat/ : <B>The cat</B> shivers.
+[00:31:47]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[00:32:15]EMOTE: crab/ : <B>The crab</B> clacks.
+[00:32:22]ADMIN: Cassy_jenelle/(Camile Crafter) jumped to *no key*/(Tiger)
+[00:32:23]EMOTE: mouse (653)/ : <B>The mouse (653)</B> shakes.
+[00:33:03]EMOTE: cat/ : <B>The cat</B> meows.
+[00:33:05]SAY: kitten/ : Purr!
+[00:33:21]SAY: grey baby slime (830)/ : Blop...
+[00:33:25]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[00:33:32]EMOTE: Ian/ : <B>Ian</B> barks.
+[00:33:47]SAY: Experiment 97d/ : Eh?
+[00:33:59]SAY: mouse (653)/ : SQUEEK!
+[00:34:03]ADMIN: Cassy_jenelle/(Camile Crafter) modified House Keys's req_access to 
+[00:34:14]EMOTE: Ian/ : <B>Ian</B> dances around
+[00:34:22]SAY: Dr. NibbleFluff/ : HSSSSS
+[00:34:31]SAY: cat/ : Esp!
+[00:34:43]EMOTE: crab/ : <B>The crab</B> clicks.
+[00:35:18]SAY: mouse (653)/ : Squeek!
+[00:35:28]EMOTE: Runtime/ : <B>Runtime</B> mews.
+[00:35:57]SAY: cat/ : Esp!
+[00:36:01]SAY: Wittley/ : Meow!
+[00:37:18]SAY: kitten/ : HSSSSS
+[00:37:22]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[00:37:26]SAY: cat/ : Meow!
+[00:37:36]SAY: Tiger/ : HSSSSS
+[00:37:36]SAY: Wittley/ : Meow!
+[00:37:39]SAY: mouse (459)/ : SQUEEK!
+[00:37:45]EMOTE: cat/ : <B>The cat</B> shivers.
+[00:38:33]SAY: kitten/ : HSSSSS
+[00:38:39]SAY: Runtime/ : Meow!
+[00:38:57]SAY: Parrot/ : Hi
+[00:39:12]SAY: Parrot/ : Hi
+[00:39:39]SAY: cat/ : Purr!
+[00:40:05]SAY: grey baby slime (698)/ : Blop...
+[00:40:16]SAY: cat/ : HSSSSS
+[00:40:27]SAY: Tiger/ : HSSSSS
+[00:40:31]SAY: kitten/ : Purr!
+[00:40:44]EMOTE: crab/ : <B>The crab</B> clacks.
+[00:41:25]SAY: Parrot/ : Hello!
+[00:42:06]SAY: Experiment 97d/ : Eh?
+[00:42:09]SAY: cat/ : Purr!
+[00:43:20]SAY: Parrot/ : Hi
+[00:43:47]EMOTE: Ian/ : <B>Ian</B> dances around
+[00:44:02]SAY: Parrot/ : BAWWWWK george mellons griffing me
+[00:44:13]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[00:45:20]SAY: grey baby slime (830)/ : Lonely...
+[00:45:24]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[00:46:04]EMOTE: Dr. NibbleFluff/ : <B>Dr. NibbleFluff</B> nibbles on something.
+[00:47:02]ADMIN: Cassy_jenelle/(Camile Crafter) jumped to 143,139,7 in the Residential Area
+[00:47:07]ADMIN: Cassy_jenelle/(Camile Crafter) jumped to 140,137,7 in the Residential Area
+[00:47:19]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[00:47:20]ADMIN: Cassy_jenelle/(Camile Crafter) jumped to 136,135,7 in the Residential Area
+[00:47:22]EMOTE: cat/ : <B>The cat</B> meows.
+[00:47:24]ADMIN: Cassy_jenelle/(Camile Crafter) jumped to 132,138,7 in the Residential Area
+[00:48:33]SAY: kitten/ : Esp!
+[00:48:58]SAY: cat/ : Purr!
+[00:49:20]EMOTE: cat/ : <B>The cat</B> mews.
+[00:49:22]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[00:49:22]EMOTE: cat/ : <B>The cat</B> shivers.
+[00:49:23]ACCESS: Login: OneOneThreeEight/(OneOneThreeEight) from 65.29.71.4-1720679108 || BYOND v506
+[00:49:42]ADMIN: Cassy_jenelle/(Camile Crafter) modified house curtain's layer to 8
+[00:49:54]OOC: OneOneThreeEight/OneOneThreeEight : Meep.
+[00:49:59]OOC: Camile Crafter (as Unknown)/Cassy_jenelle : hi
+[00:50:13]EMOTE: Parrot/ : <B>The Parrot</B> squawks.
+[00:50:13]EMOTE: Wittley/ : <B>Wittley</B> mews.
+[00:50:13]OOC: OneOneThreeEight/OneOneThreeEight : Ghosting.
+[00:50:16]ACCESS: Logout: *no key*/(OneOneThreeEight)
+[00:50:16]ACCESS: Login: OneOneThreeEight/(Catherine Kemble) from 65.29.71.4-1720679108 || BYOND v506
+[00:50:22]OOC: Camile Crafter (as Unknown)/Cassy_jenelle : Still kinda bug-fixing but feel free to run around and stuff
+[00:50:44]ADMIN: Cassy_jenelle/(Camile Crafter) spawned /obj/item/seeds/cabbageseed at (62,87,9)
+[00:51:16]SAY: Ghost/OneOneThreeEight : That is an inflatable duck.
+[00:51:29]SAY: Ghost/OneOneThreeEight : This place has everything now.
+[00:51:42]EMOTE: Dr. NibbleFluff/ : <B>Dr. NibbleFluff</B> nibbles on something.
+[00:51:46]ADMIN: Cassy_jenelle/(Camile Crafter) : Yeeeup.
+[00:51:59]EMOTE: Tiger/ : <B>Tiger</B> shivers.
+[00:52:12]SAY: Runtime/ : HSSSSS
+[00:52:15]ACCESS: Logout: *no key*/(Camile Crafter)
+[00:52:15]ACCESS: Login: Cassy_jenelle/(Camile Crafter) from 127.0.0.1-1964287214 || BYOND v506
+[00:52:18]ACCESS: Logout: *no key*/(Camile Crafter)
+[00:52:18]ACCESS: Login: Cassy_jenelle/(Camile Crafter) from 127.0.0.1-1964287214 || BYOND v506
+[00:52:33]SAY: kitten/ : HSSSSS
+[00:52:45]EMOTE: crab/ : <B>The crab</B> clacks.
+[00:52:45]EMOTE: Tiger/ : <B>Tiger</B> shakes their head.
+[00:53:19]EMOTE: Dr. NibbleFluff/ : <B>Dr. NibbleFluff</B> mews.
+[00:53:31]SAY: kitten/ : Esp!
+[00:54:00]EMOTE: kitten/ : <B>The kitten</B> mews.
+[00:54:07]EMOTE: Ian/ : <B>Ian</B> dances around
+[00:54:07]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[00:54:09]SAY: Ian/ : Bark!
+[00:54:12]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[00:54:28]EMOTE: Ian/ : <B>Ian</B> dances around
+[00:54:33]EMOTE: kitten/ : <B>The kitten</B> meows.
+[00:54:39]ADMIN: Cassy_jenelle/(Camile Crafter) jumped to 132,137,9 in the Residential Area
+[00:55:00]ADMIN: Cassy_jenelle/(Camile Crafter) jumped to 126,126,9 in the Residential Area
+[00:55:08]OOC: Catherine Kemble/OneOneThreeEight : A lot of work put into this.
+[00:55:17]OOC: Catherine Kemble/OneOneThreeEight : When did the project first go up?
+[00:55:18]ADMIN: Cassy_jenelle/(Camile Crafter) : Wanna see the Seto home?
+[00:55:18]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[00:55:25]OOC: Camile Crafter (as Unknown)/Cassy_jenelle : Months ago, maybe about two?
+[00:55:34]OOC: Catherine Kemble/OneOneThreeEight : He&#39;s shown me already.
+[00:55:37]OOC: Catherine Kemble/OneOneThreeEight : It&#39;s pretty nice.
+[00:55:38]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[00:55:46]ADMIN: Cassy_jenelle/(Camile Crafter) : looks better in-game
+[00:56:03]SAY: Experiment 97d/ : Eh?
+[00:56:19]OOC: Camile Crafter (as Unknown)/Cassy_jenelle : Check out the disco
+[00:56:26]EMOTE: Tiger/ : <B>Tiger</B> mews.
+[00:56:29]EMOTE: Ian/ : <B>Ian</B> dances around
+[00:56:29]SAY: Experiment 97d/ : Eh?
+[00:56:31]SAY: kitten/ : Meow!
+[00:56:38]OOC: Catherine Kemble/OneOneThreeEight : Neat.
+[00:56:58]SAY: kitten/ : Esp!
+[00:57:06]OOC: Catherine Kemble/OneOneThreeEight : Oh god. Seizuuuuuure inducing
+[00:57:12]OOC: Camile Crafter (as Unknown)/Cassy_jenelle : I know... XD
+[00:57:21]OOC: Camile Crafter (as Unknown)/Cassy_jenelle : I need to find a way to slow the lights down
+[00:57:26]OOC: Catherine Kemble/OneOneThreeEight : I can practically hear the dubstep wubbing.
+[00:57:44]OOC: Camile Crafter (as Unknown)/Cassy_jenelle : Heh
+[00:58:06]EMOTE: crab/ : <B>The crab</B> clacks.
+[00:58:20]OOC: Camile Crafter (as Unknown)/Cassy_jenelle : This is the church.
+[00:58:22]SAY: grey baby slime (698)/ : Lonely...
+[00:58:28]OOC: Catherine Kemble/OneOneThreeEight : Without the crazy chaplains.
+[00:58:30]OOC: Camile Crafter (as Unknown)/Cassy_jenelle : Not that any of these sinners will ever be going here.
+[00:58:30]OOC: Catherine Kemble/OneOneThreeEight : gut
+[00:58:34]SAY: grey baby slime (698)/ : Blorble...
+[00:58:55]OOC: Camile Crafter (as Unknown)/Cassy_jenelle : Hospital...
+[00:59:19]EMOTE: Dr. NibbleFluff/ : <B>Dr. NibbleFluff</B> shivers.
+[00:59:34]OOC: Camile Crafter (as Unknown)/Cassy_jenelle : Fookin monkeys escaped. I&#39;ve got so many doors to ascribe access to...
+[00:59:53]ACCESS: Logout: *no key*/(Camile Crafter)
+[00:59:53]ACCESS: Login: Cassy_jenelle/(Camile Crafter) from 127.0.0.1-1964287214 || BYOND v506
+[01:00:00]OOC: Catherine Kemble/OneOneThreeEight : Containment?
+[01:00:07]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[01:00:07]OOC: Camile Crafter/Cassy_jenelle : Psych ward.
+[01:00:16]OOC: Catherine Kemble/OneOneThreeEight : Ah. I hope this doesn&#39;t need to get used.
+[01:00:22]OOC: Camile Crafter/Cassy_jenelle : Forgot to put the area things on it so it&#39;s not lit up
+[01:00:27]OOC: Camile Crafter/Cassy_jenelle : But yes, this is it
+[01:00:35]ACCESS: Logout: *no key*/(Camile Crafter)
+[01:00:35]ACCESS: Login: Cassy_jenelle/(Camile Crafter) from 127.0.0.1-1964287214 || BYOND v506
+[01:00:47]SAY: cat/ : HSSSSS
+[01:00:51]OOC: Catherine Kemble/OneOneThreeEight : So far, so good. Kerbal and whomever else is helping, right?
+[01:00:58]SAY: Experiment 97d/ : EHEHEHEHEH
+[01:01:06]OOC: Camile Crafter (as Unknown)/Cassy_jenelle : Ah, Kerbals hosts this thing. I map and code
+[01:01:30]OOC: Catherine Kemble/OneOneThreeEight : I wonder if I could get a dedicated box for this. There is noticable delay.
+[01:01:44]EMOTE: crab/ : <B>The crab</B> clicks.
+[01:01:47]OOC: Camile Crafter (as Unknown)/Cassy_jenelle : Kerbals not hosting this
+[01:01:56]OOC: Camile Crafter (as Unknown)/Cassy_jenelle : This is hosted my computer atm due to bug testing
+[01:02:00]EMOTE: kitten/ : <B>The kitten</B> mews.
+[01:02:02]EMOTE: Tiger/ : <B>Tiger</B> shivers.
+[01:02:02]OOC: Camile Crafter (as Unknown)/Cassy_jenelle : He has a dedicated
+[01:02:03]OOC: Catherine Kemble/OneOneThreeEight : Ah alright. Which makes sense
+[01:02:10]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[01:02:20]OOC: Catherine Kemble/OneOneThreeEight : That must&#39;ve scared a couple people when he said he was leaving
+[01:02:21]OOC: Camile Crafter (as Unknown)/Cassy_jenelle : Seto residence
+[01:02:23]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[01:02:30]OOC: Camile Crafter (as Unknown)/Cassy_jenelle : aye
+[01:02:48]OOC: Catherine Kemble/OneOneThreeEight : The study is a nice touch
+[01:03:19]OOC: Camile Crafter (as Unknown)/Cassy_jenelle : Need to change the windows soon.
+[01:03:28]SAY: Tiger/ : Esp!
+[01:03:36]OOC: Camile Crafter (as Unknown)/Cassy_jenelle : And the under-door stay floor tile
+[01:03:43]EMOTE: Ian/ : <B>Ian</B> dances around
+[01:03:51]OOC: Catherine Kemble/OneOneThreeEight : In a couple weeks school will be out for me and state finals will be done.
+[01:03:52]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[01:03:56]SAY: Camile Crafter (as Unknown)/Cassy_jenelle : Hay ELENA. I&#39;m going to steal yer shit!
+[01:03:59]OOC: Catherine Kemble/OneOneThreeEight : So, eh. I could learn code and help out.
+[01:04:09]OOC: Camile Crafter (as Unknown)/Cassy_jenelle : Sure. That&#39;ll be nice
+[01:04:14]ADMIN: Cassy_jenelle/(Camile Crafter) spawned /obj/item/weapon/pickaxe/silver at (225,111,9)
+[01:04:17]SAY: cat/ : Meow!
+[01:04:23]EMOTE: Ian/ : <B>Ian</B> dances around
+[01:04:23]OOC: Catherine Kemble/OneOneThreeEight : terrible thief
+[01:04:47]OOC: Catherine Kemble/OneOneThreeEight : Oh, those can break?
+[01:04:52]OOC: Camile Crafter (as Unknown)/Cassy_jenelle : Yuep!
+[01:05:07]OOC: Catherine Kemble/OneOneThreeEight : That&#39;s weird.
+[01:05:23]OOC: Camile Crafter (as Unknown)/Cassy_jenelle : You can also break them by switching to harm intent and clicking on them
+[01:05:29]OOC: Catherine Kemble/OneOneThreeEight : Interesting
+[01:05:37]EMOTE: Ian/ : <B>Ian</B> dances around
+[01:05:44]SAY: Tiger/ : HSSSSS
+[01:05:46]OOC: Catherine Kemble/OneOneThreeEight : Alright, gonna head back to Aurora.
+[01:05:48]OOC: Catherine Kemble/OneOneThreeEight : this was interesting
+[01:05:52]OOC: Catherine Kemble/OneOneThreeEight : Very cool.
+[01:05:55]OOC: Camile Crafter (as Unknown)/Cassy_jenelle : Aite. See ya then
+[01:05:57]ACCESS: Logout: OneOneThreeEight/(Catherine Kemble)
+[01:06:57]SAY: Tiger/ : HSSSSS
+[01:07:03]EMOTE: Wittley/ : <B>Wittley</B> meows.
+[01:07:09]EMOTE: crab/ : <B>The crab</B> clicks.
+[01:07:13]EMOTE: cat/ : <B>The cat</B> mews.
+[01:07:18]ADMIN: Cassy_jenelle/(Camile Crafter) jumped to the Residential Area
+[01:08:07]SAY: cat/ : HSSSSS
+[01:09:04]SAY: Dr. NibbleFluff/ : Purr!
+[01:09:25]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[01:10:28]SAY: Parrot/ : Hi
+[01:10:35]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[01:12:05]EMOTE: Ian/ : <B>Ian</B> shivers.
+[01:12:07]EMOTE: Parrot/ : <B>The Parrot</B> bawks.
+[01:12:28]SAY: grey baby slime (830)/ : Rawr...
+[01:12:53]EMOTE: kitten/ : <B>The kitten</B> mews.
+[01:12:59]SAY: kitten/ : HSSSSS
+[01:13:04]EMOTE: Tiger/ : <B>Tiger</B> mews.
+[01:13:08]SAY: grey baby slime (830)/ : Hungry...
+[01:13:35]SAY: kitten/ : Esp!
+[01:13:41]EMOTE: cat/ : <B>The cat</B> meows.
+[01:14:11]SAY: Experiment 97d/ : EHEHEHEHEH
+[01:14:40]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[01:14:44]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[01:14:48]SAY: kitten/ : Meow!
+[01:14:59]SAY: kitten/ : Purr!
+[01:15:27]EMOTE: kitten/ : <B>The kitten</B> meows.
+[01:15:35]SAY: cat/ : Purr!
+[01:15:37]SAY: kitten/ : Purr!
+[01:15:59]SAY: kitten/ : HSSSSS
+[01:15:59]EMOTE: Wittley/ : <B>Wittley</B> shakes their head.
+[01:16:16]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[01:16:37]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[01:16:45]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[01:17:01]EMOTE: Runtime/ : <B>Runtime</B> meows.
+[01:17:17]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[01:17:17]EMOTE: kitten/ : <B>The kitten</B> mews.
+[01:17:21]EMOTE: kitten/ : <B>The kitten</B> meows.
+[01:17:40]SAY: cat/ : Meow!
+[01:18:25]EMOTE: kitten/ : <B>The kitten</B> meows.
+[01:19:07]EMOTE: cat/ : <B>The cat</B> meows.
+[01:19:17]SAY: Wittley/ : Meow!
+[01:19:26]EMOTE: crab/ : <B>The crab</B> clicks.
+[01:19:39]SAY: cat/ : Meow!
+[01:19:39]SAY: kitten/ : Meow!
+[01:19:53]SAY: kitten/ : Esp!
+[01:20:22]EMOTE: Runtime/ : <B>Runtime</B> meows.
+[01:20:24]EMOTE: Ian/ : <B>Ian</B> dances around
+[01:20:24]EMOTE: Wittley/ : <B>Wittley</B> mews.
+[01:20:43]SAY: Ian/ : AUUUUUU
+[01:21:06]EMOTE: Dr. NibbleFluff/ : <B>Dr. NibbleFluff</B> nibbles on something.
+[01:21:23]SAY: grey baby slime (830)/ : Lonely...
+[01:21:40]SAY: Experiment 97d/ : Eh?
+[01:22:41]SAY: cat/ : Purr!
+[01:23:01]SAY: kitten/ : Purr!
+[01:23:11]EMOTE: kitten/ : <B>The kitten</B> meows.
+[01:23:31]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[01:23:31]SAY: cat/ : Meow!
+[01:23:31]SAY: Wittley/ : HSSSSS
+[01:24:08]EMOTE: Ian/ : <B>Ian</B> dances around
+[01:24:14]EMOTE: Wittley/ : <B>Wittley</B> shakes their head.
+[01:24:16]EMOTE: Runtime/ : <B>Runtime</B> mews.
+[01:24:29]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[01:24:31]EMOTE: Parrot/ : <B>The Parrot</B> squawks.
+[01:24:39]EMOTE: Ian/ : <B>Ian</B> dances around
+[01:24:50]EMOTE: Runtime/ : <B>Runtime</B> mews.
+[01:25:06]EMOTE: Dr. NibbleFluff/ : <B>Dr. NibbleFluff</B> shivers.
+[01:25:14]SAY: grey baby slime (698)/ : Blop...
+[01:25:27]EMOTE: cat/ : <B>The cat</B> shivers.
+[01:25:31]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[01:26:12]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[01:26:20]EMOTE: Ian/ : <B>Ian</B> dances around
+[01:26:30]SAY: Ian/ : Woof!
+[01:26:37]SAY: Ian/ : Bark!
+[01:26:41]SAY: Dr. NibbleFluff/ : Meow!
+[01:26:45]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[01:26:53]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[01:28:46]SAY: kitten/ : HSSSSS
+[01:29:09]SAY: Parrot/ : Hi
+[01:30:14]EMOTE: kitten/ : <B>The kitten</B> meows.
+[01:30:25]SAY: cat/ : Meow!
+[01:30:40]EMOTE: Parrot/ : <B>The Parrot</B> bawks.
+[01:31:05]EMOTE: kitten/ : <B>The kitten</B> meows.
+[01:31:20]SAY: grey baby slime (830)/ : Rawr...
+[01:32:17]SAY: cat/ : HSSSSS
+[01:32:25]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[01:32:29]ACCESS: Logout: *no key*/(Camile Crafter)
+[01:32:29]ACCESS: Login: Cassy_jenelle/(Camile Crafter) from 127.0.0.1-1964287214 || BYOND v506
+[01:32:46]SAY: Ian/ : Bark!
+[01:32:50]SAY: kitten/ : Esp!
+[01:34:07]SAY: cat/ : HSSSSS
+[01:34:11]EMOTE: Tiger/ : <B>Tiger</B> shakes their head.
+[01:35:12]SAY: Wittley/ : HSSSSS
+[01:35:23]EMOTE: Ian/ : <B>Ian</B> dances around
+[01:36:16]SAY: grey baby slime (830)/ : Rawr...
+[01:36:18]SAY: kitten/ : HSSSSS
+[01:36:24]SAY: Wittley/ : Esp!
+[01:37:02]EMOTE: cat/ : <B>The cat</B> shivers.
+[01:37:06]EMOTE: cat/ : <B>The cat</B> shivers.
+[01:37:15]EMOTE: kitten/ : <B>The kitten</B> meows.
+[01:37:19]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[01:37:21]EMOTE: cat/ : <B>The cat</B> meows.
+[01:37:34]SAY: Runtime/ : Purr!
+[01:38:16]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[01:38:20]EMOTE: Dr. NibbleFluff/ : <B>Dr. NibbleFluff</B> shakes their head.
+[01:38:29]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[01:38:35]EMOTE: Dr. NibbleFluff/ : <B>Dr. NibbleFluff</B> mews.
+[01:38:39]SAY: grey baby slime (830)/ : Lonely...
+[01:39:08]SAY: kitten/ : HSSSSS
+[01:39:14]EMOTE: kitten/ : <B>The kitten</B> meows.
+[01:39:23]SAY: Runtime/ : Meow!
+[01:39:49]EMOTE: Dr. NibbleFluff/ : <B>Dr. NibbleFluff</B> meows.
+[01:40:03]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[01:40:07]SAY: kitten/ : Esp!
+[01:40:45]SAY: kitten/ : Meow!
+[01:41:15]EMOTE: crab/ : <B>The crab</B> clacks.
+[01:41:31]SAY: cat/ : Meow!
+[01:41:33]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[01:42:12]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[01:42:23]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[01:42:30]EMOTE: kitten/ : <B>The kitten</B> mews.
+[01:43:04]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[01:43:28]SAY: cat/ : Esp!
+[01:43:44]SAY: kitten/ : HSSSSS
+[01:43:48]EMOTE: Ian/ : <B>Ian</B> dances around
+[01:44:14]SAY: Ian/ : AUUUUUU
+[01:44:35]EMOTE: cat/ : <B>The cat</B> mews.
+[01:44:52]SAY: cat/ : Meow!
+[01:44:56]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[01:46:15]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[01:46:27]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[01:46:51]SAY: Experiment 97d/ : Eh?
+[01:46:56]SAY: cat/ : Purr!
+[01:47:16]EMOTE: Runtime/ : <B>Runtime</B> shakes their head.
+[01:47:31]EMOTE: Dr. NibbleFluff/ : <B>Dr. NibbleFluff</B> meows.
+[01:47:48]EMOTE: Wittley/ : <B>Wittley</B> shakes their head.
+[01:48:36]EMOTE: Wittley/ : <B>Wittley</B> mews.
+[01:49:00]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[01:49:27]EMOTE: Ian/ : <B>Ian</B> pants.
+[01:49:29]EMOTE: Ian/ : <B>Ian</B> barks.
+[01:50:21]EMOTE: Tiger/ : <B>Tiger</B> shivers.
+[01:50:23]SAY: Ian/ : Bark!
+[01:50:44]EMOTE: kitten/ : <B>The kitten</B> mews.
+[01:52:09]EMOTE: Ian/ : <B>Ian</B> barks.
+[01:52:18]EMOTE: kitten/ : <B>The kitten</B> meows.
+[01:52:25]EMOTE: kitten/ : <B>The kitten</B> mews.
+[01:53:26]EMOTE: Runtime/ : <B>Runtime</B> shakes their head.
+[01:53:41]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[01:53:55]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[01:54:42]SAY: cat/ : Meow!
+[01:55:00]EMOTE: cat/ : <B>The cat</B> shivers.
+[01:55:13]SAY: kitten/ : HSSSSS
+[01:55:49]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[01:55:53]SAY: Runtime/ : HSSSSS
+[01:56:03]SAY: Dr. NibbleFluff/ : Meow!
+[01:56:24]SAY: cat/ : Purr!
+[01:56:30]SAY: Dr. NibbleFluff/ : Esp!
+[01:56:35]SAY: cat/ : Purr!
+[01:57:08]EMOTE: kitten/ : <B>The kitten</B> mews.
+[01:57:13]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> shakes its head.
+[01:57:25]SAY: kitten/ : Esp!
+[01:57:59]SAY: cat/ : HSSSSS
+[01:58:03]EMOTE: cat/ : <B>The cat</B> shivers.
+[01:58:07]EMOTE: kitten/ : <B>The kitten</B> mews.
+[01:58:11]SAY: grey baby slime (830)/ : Where is the food?
+[01:58:11]EMOTE: Parrot/ : <B>The Parrot</B> flutters its wings.
+[01:58:39]EMOTE: crab/ : <B>The crab</B> clacks.
+[01:58:45]SAY: kitten/ : Meow!
+[01:59:00]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[01:59:08]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[01:59:16]EMOTE: Tiger/ : <B>Tiger</B> shakes their head.
+[01:59:24]SAY: cat/ : HSSSSS
+[01:59:34]SAY: grey baby slime (830)/ : Blop...
+[02:00:16]SAY: Ian/ : AUUUUUU
+[02:00:35]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[02:00:52]SAY: Tiger/ : Purr!
+[02:00:58]EMOTE: Ian/ : <B>Ian</B> shakes its head.
+[02:01:07]SAY: grey baby slime (698)/ : Where is the food?
+[02:01:30]EMOTE: crab/ : <B>The crab</B> clacks.
+[02:02:03]SAY: kitten/ : HSSSSS
+[02:02:18]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[02:03:23]EMOTE: cat/ : <B>The cat</B> mews.
+[02:03:25]SAY: kitten/ : Purr!
+[02:04:09]EMOTE: kitten/ : <B>The kitten</B> meows.
+[02:05:00]EMOTE: Ian/ : <B>Ian</B> dances around
+[02:06:19]SAY: kitten/ : Esp!
+[02:06:34]EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[02:06:34]SAY: kitten/ : Purr!
+[02:07:27]SAY: cat/ : HSSSSS
+[02:07:29]SAY: kitten/ : HSSSSS
+[02:07:48]SAY: kitten/ : Purr!
+[02:07:50]SAY: kitten/ : Purr!
+[02:08:26]EMOTE: cat/ : <B>The cat</B> mews.
+[02:08:30]SAY: cat/ : HSSSSS
+[02:08:42]EMOTE: Ian/ : <B>Ian</B> dances around
+[02:09:08]SAY: Dr. NibbleFluff/ : Purr!
+[02:09:27]SAY: kitten/ : Meow!
+[02:09:33]SAY: kitten/ : HSSSSS
+[02:09:37]EMOTE: Dr. NibbleFluff/ : <B>Dr. NibbleFluff</B> shivers.
+[02:09:39]EMOTE: kitten/ : <B>The kitten</B> mews.
+[02:09:57]EMOTE: cat/ : <B>The cat</B> meows.
+[02:10:11]SAY: Wittley/ : HSSSSS
+[02:10:36]EMOTE: kitten/ : <B>The kitten</B> mews.
+[02:11:00]EMOTE: cat/ : <B>The cat</B> shivers.
+[02:11:00]EMOTE: cat/ : <B>The cat</B> mews.
+[02:11:13]EMOTE: cat/ : <B>The cat</B> meows.
+[02:12:00]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[02:12:15]EMOTE: kitten/ : <B>The kitten</B> mews.
+[02:13:04]EMOTE: Dr. NibbleFluff/ : <B>Dr. NibbleFluff</B> mews.
+[02:13:12]ACCESS: Logout: Cassy_jenelle/(Camile Crafter)
+
+
+Starting up. 20:30.22
+---------------------
+[20:30:32]ADMIN: Loading jobban_rank
+[20:30:32]ADMIN: jobban_keylist was empty
+[20:30:32]ADMIN: Loading Banlist
+[20:30:34]DEBUG: Rebuilding Master Controller
+[20:33:13]ACCESS: Login: Cassy_jenelle/(Cassy_jenelle) from 127.0.0.1-1964287214 || BYOND v506
+[20:34:14]ADMIN: Cassy_jenelle has started the game.
+[20:34:14]ACCESS: Logout: *no key*/(Cassy_jenelle)
+[20:34:14]ACCESS: Login: Cassy_jenelle/(Camile Crafter) from 127.0.0.1-1964287214 || BYOND v506
+[20:34:23]DEBUG: Next event of severity Mundane in 14.56 minutes.
+[20:34:23]DEBUG: Next event of severity Moderate in 47.304 minutes.
+[20:34:23]DEBUG: Next event of severity Major in 93.9717 minutes.
+[20:34:24]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[20:34:31]EMOTE: mouse (111)/ : <B>The mouse (111)</B> squeaks.
+[20:34:39]EMOTE: Parrot/ : <B>The Parrot</B> turns and flies towards the deck of cards
+[20:35:01]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[20:35:19]EMOTE: cat/ : <B>The cat</B> mews.
+[20:35:21]EMOTE: Parrot/ : <B>The Parrot</B> bawks.
+[20:35:30]EMOTE: mouse (465)/ : <B>The mouse (465)</B> scritches at something.
+[20:35:30]SAY: mouse (946)/ : SQUEEK!
+[20:35:32]SAY: Dr. NibbleFluff/ : Esp!
+[20:35:34]ADMIN: Cassy_jenelle/(Camile Crafter) jumped to 109,126,9 in the Residential Area
+[20:35:45]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[20:36:01]ADMIN: Cassy_jenelle/(Camile Crafter) jumped to *no key*/(Catherina Palson)
+[20:36:11]ADMIN: Cassy_jenelle/(Camile Crafter) assumed direct control of Catherina Palson.
+[20:36:11]ACCESS: Logout: *no key*/(Camile Crafter)
+[20:36:11]ACCESS: Login: cassyjenelle/(Catherina Palson) from 127.0.0.1-1964287214 || BYOND v506
+[20:36:55]ACCESS: Logout: *no key*/(Catherina Palson)
+[20:36:55]ACCESS: Login: cassyjenelle/(Catherina Palson) from 127.0.0.1-1964287214 || BYOND v506
+[20:37:05]ADMIN: cassyjenelle/(Catherina Palson) teleported @Cassy_jenelle/(Catherina Palson)
+[20:37:08]ACCESS: Logout: *no key*/(Catherina Palson)
+[20:37:08]ACCESS: Login: cassyjenelle/(Catherina Palson) from 127.0.0.1-1964287214 || BYOND v506
+[20:37:13]SAY: Tom (178)/ : SQUEEK!
+[20:37:23]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[20:37:23]EMOTE: mouse (124)/ : <B>The mouse (124)</B> squeeks.
+[20:37:23]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[20:37:28]EMOTE: Ian/ : <B>Ian</B> dances around
+[20:37:30]EMOTE: Ian/ : <B>Ian</B> pants.
+[20:37:51]SAY: Tom (694)/ : Squeek!
+[20:38:15]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[20:38:17]EMOTE: Ian/ : <B>Ian</B> yaps.
+[20:38:36]EMOTE: Wittley/ : <B>Wittley</B> meows.
+[20:38:57]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[20:39:04]EMOTE: cat/ : <B>The cat</B> mews.
+[20:39:10]SAY: kitten/ : HSSSSS
+[20:39:17]ADMIN: cassyjenelle/(Catherina Palson) spawned /obj/item/weapon/baby at (204,97,9)
+[20:39:38]SAY: cat/ : Purr!
+[20:39:44]SAY: Tiger/ : Purr!
+[20:40:27]EMOTE: Ian/ : <B>Ian</B> dances around
+[20:40:27]EMOTE: cat/ : <B>The cat</B> mews.
+[20:40:35]EMOTE: mouse (111)/ : <B>The mouse (111)</B> squeeks.
+[20:41:16]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[20:41:41]SAY: Wittley/ : Meow!
+[20:41:54]SAY: Tom (178)/ : Squeek?
+[20:41:58]SAY: Wittley/ : HSSSSS
+[20:42:11]SAY: mouse (111)/ : Squeek!
+[20:42:18]SAY: Tiger/ : Esp!
+[20:42:41]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[20:43:20]EMOTE: Parrot/ : <B>The Parrot</B> flutters its wings.
+[20:43:20]SAY: Dr. NibbleFluff/ : HSSSSS
+[20:43:29]SAY: Tom (694)/ : Squeek!
+[20:43:43]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[20:44:06]SAY: kitten/ : Purr!
+[20:44:24]EMOTE: cat/ : <B>The cat</B> mews.
+[20:44:32]SAY: Ian/ : Bark!
+[20:44:40]ADMIN: cassyjenelle/(Catherina Palson) spawned /obj/structure/sink at (204,104,9)
+[20:44:45]EMOTE: cat/ : <B>The cat</B> shivers.
+[20:44:53]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[20:45:02]ADMIN: cassyjenelle/(Catherina Palson) deleted the glass at (0,0,0)
+[20:45:12]ADMIN: cassyjenelle/(Catherina Palson) spawned /obj/item/weapon/reagent_containers/food/drinks/drinkingglass/bottle at (204,101,9)
+[20:45:12]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[20:45:18]ADMIN: cassyjenelle/(Catherina Palson) spawned /obj/item/weapon/reagent_containers/food/drinks/bottle/absinthe at (204,102,9)
+[20:45:29]ADMIN: cassyjenelle/(Catherina Palson) deleted the glass of absinthe at (204,101,9)
+[20:45:33]ADMIN: cassyjenelle/(Catherina Palson) deleted Jailbreaker Verte at (0,0,0)
+[20:45:34]SAY: grey baby slime (659)/ : Blop...
+[20:45:37]ADMIN: cassyjenelle/(Catherina Palson) spawned /obj/item/weapon/reagent_containers/food/drinks/drinkingglass/bottle at (204,102,9)
+[20:45:40]EMOTE: Tiger/ : <B>Tiger</B> mews.
+[20:46:03]ADMIN: cassyjenelle/(Catherina Palson) spawned /obj/item/weapon/storage/pill_bottle/antitox at (204,101,9)
+[20:46:08]ADMIN: cassyjenelle/(Catherina Palson) deleted the bottle of Dylovene pills at (204,101,9)
+[20:46:10]EMOTE: Tiger/ : <B>Tiger</B> shakes their head.
+[20:46:14]EMOTE: Runtime/ : <B>Runtime</B> shakes their head.
+[20:46:19]ADMIN: cassyjenelle/(Catherina Palson) spawned /obj/item/weapon/reagent_containers/glass/bottle/inaprovaline at (204,101,9)
+[20:46:32]ADMIN: cassyjenelle/(Catherina Palson) deleted the inaprovaline bottle at (0,0,0)
+[20:46:35]ADMIN: cassyjenelle/(Catherina Palson) deleted Glass of.. what? at (204,102,9)
+[20:47:12]EMOTE: cat/ : <B>The cat</B> meows.
+[20:47:19]EMOTE: mouse (111)/ : <B>The mouse (111)</B> runs in a circle.
+[20:47:33]ADMIN: Cassy_jenelle/(Catherina Palson) modified Containment Door's id_tag to lol
+[20:47:43]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[20:47:56]ADMIN: Cassy_jenelle/(Catherina Palson) modified access button's uid to lol
+[20:48:19]EMOTE: Ian/ : <B>Ian</B> dances around
+[20:48:52]SAY: kitten/ : Purr!
+[20:49:07]SAY: cat/ : Purr!
+[20:49:08]ADMIN: cassyjenelle/(Catherina Palson) jumped to 200,115,9 in the Residential Area
+[20:49:13]ADMIN: cassyjenelle/(Catherina Palson) deleted the straight jacket at (201,111,9)
+[20:49:14]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[20:49:17]ADMIN: cassyjenelle/(Catherina Palson) deleted the stok (586) at (198,112,9)
+[20:49:42]SAY: Parrot/ : Cracker?
+[20:49:54]SAY: mouse (111)/ : Squeek?
+[20:50:20]SAY: kitten/ : Purr!
+[20:50:29]SAY: kitten/ : Purr!
+[20:51:02]EMOTE: Ian/ : <B>Ian</B> dances around
+[20:51:08]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[20:51:15]EMOTE: cat/ : <B>The cat</B> shivers.
+[20:51:17]ADMIN: cassyjenelle/(Catherina Palson) spawned /obj/item/clothing/suit/storage/toggle/brown_jacket at (201,111,9)
+[20:51:47]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[20:52:15]SAY: cat/ : Meow!
+[20:52:17]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[20:52:22]ADMIN: cassyjenelle/(Catherina Palson) jumped to *no key*/(Camile Crafter)
+[20:52:28]SAY: cat/ : Esp!
+[20:52:29]ADMIN: cassyjenelle/(Catherina Palson) jumped to *no key*/(Tiger)
+[20:52:32]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[20:52:55]EMOTE: Ian/ : <B>Ian</B> dances around
+[20:53:09]EMOTE: mouse (111)/ : <B>The mouse (111)</B> squiks.
+[20:53:11]EMOTE: cat/ : <B>The cat</B> mews.
+[20:53:15]ADMIN: cassyjenelle/(Catherina Palson) jumped to 136,150,7 in the Residential Area
+[20:53:34]EMOTE: Tiger/ : <B>Tiger</B> mews.
+[20:55:00]EMOTE: Ian/ : <B>Ian</B> dances around
+[20:55:16]SAY: Tiger/ : Esp!
+[20:56:22]EMOTE: crab/ : <B>The crab</B> clicks.
+[20:57:15]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[20:57:44]EMOTE: kitten/ : <B>The kitten</B> mews.
+[20:57:53]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[20:58:21]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[20:58:21]EMOTE: crab/ : <B>The crab</B> clicks.
+[20:58:57]SAY: Wittley/ : Purr!
+[20:59:32]SAY: cat/ : HSSSSS
+[20:59:36]EMOTE: Ian/ : <B>Ian</B> dances around
+[21:00:30]EMOTE: kitten/ : <B>The kitten</B> meows.
+[21:00:52]EMOTE: cat/ : <B>The cat</B> meows.
+[21:01:00]SAY: kitten/ : Esp!
+[21:01:03]SAY: Runtime/ : Meow!
+[21:01:38]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[21:01:53]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[21:01:57]SAY: cat/ : Meow!
+[21:02:31]EMOTE: cat/ : <B>The cat</B> shivers.
+[21:02:45]EMOTE: crab/ : <B>The crab</B> clacks.
+[21:02:52]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[21:03:19]SAY: grey baby slime (435)/ : Blop...
+[21:04:03]EMOTE: Runtime/ : <B>Runtime</B> shakes their head.
+[21:04:26]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[21:04:33]SAY: Runtime/ : HSSSSS
+[21:04:37]SAY: Tiger/ : Purr!
+[21:04:41]EMOTE: kitten/ : <B>The kitten</B> meows.
+[21:04:50]SAY: kitten/ : Purr!
+[21:05:05]EMOTE: cat/ : <B>The cat</B> meows.
+[21:05:35]SAY: kitten/ : Meow!
+[21:05:45]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[21:05:54]EMOTE: Ian/ : <B>Ian</B> dances around
+[21:05:58]EMOTE: Ian/ : <B>Ian</B> shakes its head.
+[21:06:20]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[21:06:43]EMOTE: kitten/ : <B>The kitten</B> meows.
+[21:08:10]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[21:08:12]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[21:08:27]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[21:08:42]SAY: Tiger/ : Purr!
+[21:08:50]SAY: grey baby slime (435)/ : Blorble...
+[21:08:52]EMOTE: Runtime/ : <B>Runtime</B> mews.
+[21:09:35]SAY: kitten/ : Purr!
+[21:09:35]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[21:09:37]SAY: kitten/ : Purr!
+[21:09:39]EMOTE: Tiger/ : <B>Tiger</B> shivers.
+[21:10:10]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[21:10:20]EMOTE: Dr. NibbleFluff/ : <B>Dr. NibbleFluff</B> shakes their head.
+[21:10:48]EMOTE: cat/ : <B>The cat</B> shivers.
+[21:10:56]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[21:11:01]SAY: Tiger/ : Meow!
+[21:11:07]SAY: Dr. NibbleFluff/ : HSSSSS
+[21:11:37]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[21:12:11]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[21:12:30]EMOTE: Ian/ : <B>Ian</B> dances around
+[21:12:56]EMOTE: cat/ : <B>The cat</B> shivers.
+[21:13:11]EMOTE: kitten/ : <B>The kitten</B> mews.
+[21:13:30]SAY: Experiment 97d/ : Eh?
+[21:14:14]SAY: grey baby slime (659)/ : Lonely...
+[21:14:46]EMOTE: cat/ : <B>The cat</B> shivers.
+[21:15:05]EMOTE: Ian/ : <B>Ian</B> woofs.
+[21:15:24]SAY: kitten/ : HSSSSS
+[21:15:37]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[21:15:45]SAY: cat/ : Purr!
+[21:15:53]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[21:16:29]SAY: Runtime/ : HSSSSS
+[21:16:29]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[21:16:47]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[21:17:49]SAY: grey baby slime (435)/ : Rawr...
+[21:17:51]SAY: cat/ : Esp!
+[21:19:11]EMOTE: Dr. NibbleFluff/ : <B>Dr. NibbleFluff</B> mews.
+[21:19:15]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[21:19:26]SAY: kitten/ : Purr!
+[21:19:52]EMOTE: kitten/ : <B>The kitten</B> meows.
+[21:20:02]EMOTE: crab/ : <B>The crab</B> clicks.
+[21:20:23]EMOTE: kitten/ : <B>The kitten</B> meows.
+[21:20:51]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[21:21:19]SAY: kitten/ : Purr!
+[21:21:29]SAY: Parrot/ : Hello!
+[21:21:38]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[21:21:42]SAY: grey baby slime (659)/ : Lonely...
+[21:22:06]EMOTE: kitten/ : <B>The kitten</B> mews.
+[21:22:15]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[21:22:29]EMOTE: cat/ : <B>The cat</B> mews.
+[21:23:14]SAY: Tiger/ : Esp!
+[21:23:16]SAY: Wittley/ : HSSSSS
+[21:23:41]SAY: kitten/ : HSSSSS
+[21:24:08]EMOTE: Ian/ : <B>Ian</B> dances around
+[21:24:18]SAY: grey baby slime (435)/ : I want to eat...
+[21:24:18]SAY: cat/ : Purr!
+[21:24:24]EMOTE: crab/ : <B>The crab</B> clacks.
+[21:24:33]ACCESS: Logout: *no key*/(Catherina Palson)
+[21:24:33]ACCESS: Login: cassyjenelle/(Catherina Palson) from 127.0.0.1-1964287214 || BYOND v506
+[21:25:01]EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[21:25:13]ADMIN: cassyjenelle/(Catherina Palson) teleported *no key*/(Camile Crafter)
+[21:25:19]ADMIN: cassyjenelle/(Catherina Palson) teleported *no key*/(Camile Crafter)
+[21:25:25]ADMIN: cassyjenelle/(Catherina Palson) teleported @Cassy_jenelle/(Catherina Palson)
+[21:25:27]ACCESS: Logout: *no key*/(Catherina Palson)
+[21:25:27]ACCESS: Login: cassyjenelle/(Catherina Palson) from 127.0.0.1-1964287214 || BYOND v506
+[21:25:30]EMOTE: Wittley/ : <B>Wittley</B> mews.
+[21:25:50]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[21:26:21]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[21:26:33]SAY: grey baby slime (435)/ : I want to eat...
+[21:26:51]SAY: grey baby slime (435)/ : Blop...
+[21:26:53]SAY: Wittley/ : HSSSSS
+[21:27:12]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[21:27:12]SAY: cat/ : Purr!
+[21:27:14]EMOTE: crab/ : <B>The crab</B> clicks.
+[21:27:25]SAY: grey baby slime (435)/ : Blorble...
+[21:27:32]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[21:27:58]EMOTE: Ian/ : <B>Ian</B> dances around
+[21:28:07]EMOTE: kitten/ : <B>The kitten</B> meows.
+[21:28:37]SAY: cat/ : HSSSSS
+[21:29:20]EMOTE: Ian/ : <B>Ian</B> dances around
+[21:29:23]SAY: Wittley/ : Esp!
+[21:29:45]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[21:30:00]SAY: Wittley/ : Purr!
+[21:30:11]SAY: kitten/ : Purr!
+[21:31:30]SAY: Ian/ : YAP
+[21:31:40]SAY: Experiment 97d/ : Eh?
+[21:31:44]EMOTE: crab/ : <B>The crab</B> clacks.
+[21:31:54]EMOTE: Ian/ : <B>Ian</B> shakes its head.
+[21:32:03]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[21:32:05]SAY: grey baby slime (435)/ : Where is the food?
+[21:32:30]EMOTE: cat/ : <B>The cat</B> mews.
+[21:32:32]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[21:32:45]EMOTE: Ian/ : <B>Ian</B> shivers.
+[21:32:51]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[21:33:31]EMOTE: Wittley/ : <B>Wittley</B> mews.
+[21:33:50]SAY: cat/ : Meow!
+[21:34:03]EMOTE: cat/ : <B>The cat</B> mews.
+[21:34:16]SAY: kitten/ : Esp!
+[21:35:08]SAY: kitten/ : Esp!
+[21:35:10]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[21:35:13]SAY: cat/ : HSSSSS
+[21:35:18]SAY: kitten/ : Meow!
+[21:35:29]SAY: grey baby slime (659)/ : Hungry...
+[21:35:40]EMOTE: cat/ : <B>The cat</B> mews.
+[21:35:48]SAY: Wittley/ : Esp!
+[21:35:50]SAY: Runtime/ : Meow!
+[21:37:19]SAY: kitten/ : Esp!
+[21:37:30]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[21:38:23]SAY: grey baby slime (659)/ : Hungry...
+[21:38:28]SAY: grey baby slime (435)/ : Rawr...
+[21:39:20]SAY: cat/ : Esp!
+[21:40:14]SAY: Tiger/ : Esp!
+[21:40:30]SAY: Wittley/ : HSSSSS
+[21:40:42]SAY: kitten/ : HSSSSS
+[21:40:47]SAY: Runtime/ : Esp!
+[21:40:51]EMOTE: cat/ : <B>The cat</B> meows.
+[21:41:07]EMOTE: cat/ : <B>The cat</B> mews.
+[21:41:18]EMOTE: Dr. NibbleFluff/ : <B>Dr. NibbleFluff</B> shakes their head.
+[21:41:21]SAY: Dr. NibbleFluff/ : HSSSSS
+[21:41:25]EMOTE: cat/ : <B>The cat</B> shivers.
+[21:41:48]SAY: cat/ : Purr!
+[21:41:57]EMOTE: Runtime/ : <B>Runtime</B> mews.
+[21:42:27]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[21:42:48]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[21:43:03]EMOTE: Dr. NibbleFluff/ : <B>Dr. NibbleFluff</B> nibbles on something.
+[21:43:27]EMOTE: Tiger/ : <B>Tiger</B> shivers.
+[21:43:53]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[21:45:23]EMOTE: Wittley/ : <B>Wittley</B> shakes their head.
+[21:45:29]SAY: Parrot/ : Hi
+[21:45:52]EMOTE: Wittley/ : <B>Wittley</B> mews.
+[21:46:17]SAY: Runtime/ : Esp!
+[21:47:18]EMOTE: crab/ : <B>The crab</B> clacks.
+[21:47:50]SAY: grey baby slime (659)/ : Lonely...
+[21:47:50]SAY: kitten/ : Meow!
+[21:47:52]SAY: kitten/ : Purr!
+[21:48:44]SAY: kitten/ : Purr!
+[21:48:46]EMOTE: Ian/ : <B>Ian</B> dances around
+[21:49:23]SAY: Parrot/ : Hi
+[21:50:08]EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[21:50:35]SAY: Wittley/ : HSSSSS
+[21:50:49]SAY: Wittley/ : Meow!
+[21:51:42]EMOTE: cat/ : <B>The cat</B> shivers.
+[21:52:57]ADMIN: cassyjenelle/(Catherina Palson) jumped to 171,143,7 in the Residential Area
+[21:53:03]EMOTE: Parrot/ : <B>The Parrot</B> flutters its wings.
+[21:53:05]EMOTE: cat/ : <B>The cat</B> mews.
+[21:53:08]ADMIN: cassyjenelle/(Catherina Palson) jumped to *no key*/(Dr. NibbleFluff)
+[21:53:12]ACCESS: Logout: *no key*/(Catherina Palson)
+[21:53:12]ACCESS: Login: cassyjenelle/(Catherina Palson) from 127.0.0.1-1964287214 || BYOND v506
+[21:53:34]ADMIN: cassyjenelle/(Catherina Palson) teleported @Cassy_jenelle/(Catherina Palson)
+[21:53:36]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[21:53:37]ACCESS: Logout: *no key*/(Catherina Palson)
+[21:53:41]ACCESS: Login: cassyjenelle/(Catherina Palson) from 127.0.0.1-1964287214 || BYOND v506
+[21:54:22]EMOTE: Tiger/ : <B>Tiger</B> shivers.
+[21:54:36]SAY: Parrot/ : Hi
+[21:54:42]SAY: kitten/ : Esp!
+[21:54:52]SAY: Dr. NibbleFluff/ : HSSSSS
+[21:55:00]ADMIN: Cassy_jenelle/(Catherina Palson) modified Residential Area's luminosity to 1
+[21:55:02]EMOTE: Wittley/ : <B>Wittley</B> shakes their head.
+[21:55:13]ADMIN: Cassy_jenelle/(Catherina Palson) modified Residential Area's luminosity to 0
+[21:55:31]SAY: grey baby slime (659)/ : Lonely...
+[21:55:44]ADMIN: cassyjenelle/(Catherina Palson) spawned /obj/effect/light_emitter at (204,104,9)
+[21:55:46]SAY: Parrot/ : Hi
+[21:56:15]SAY: kitten/ : Purr!
+[21:56:20]ADMIN: cassyjenelle/(Catherina Palson) jumped to *no key*/(Tiger)
+[21:56:34]EMOTE: cat/ : <B>The cat</B> meows.
+[21:56:55]ADMIN: cassyjenelle/(Catherina Palson) jumped to 136,150,7 in the Residential Area
+[21:57:12]EMOTE: Ian/ : <B>Ian</B> barks.
+[21:57:26]SAY: kitten/ : Purr!
+[21:58:05]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[21:59:06]ADMIN: Cassy_jenelle/(Catherina Palson) modified Residential Area's infra_luminosity to 1
+[21:59:10]ADMIN: Cassy_jenelle/(Catherina Palson) modified Residential Area's infra_luminosity to 0
+[21:59:17]SAY: Runtime/ : HSSSSS
+[21:59:17]EMOTE: kitten/ : <B>The kitten</B> meows.
+[21:59:18]ADMIN: Cassy_jenelle/(Catherina Palson) modified Residential Area's lighting_use_dynamic to 1
+[21:59:28]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[21:59:42]EMOTE: cat/ : <B>The cat</B> shivers.
+[22:00:13]ADMIN: Cassy_jenelle/(Catherina Palson) modified Residential Area's luminosity to 1
+[22:00:16]ADMIN: Cassy_jenelle/(Catherina Palson) modified Residential Area's luminosity to 1
+[22:00:18]ADMIN: Cassy_jenelle/(Catherina Palson) modified Residential Area's luminosity to 1
+[22:00:22]ADMIN: Cassy_jenelle/(Catherina Palson) modified Residential Area's luminosity to 0
+[22:00:27]ADMIN: Cassy_jenelle/(Catherina Palson) modified Residential Area's lighting_space to 1
+[22:00:29]SAY: Experiment 97d/ : EHEHEHEHEH
+[22:00:33]ADMIN: Cassy_jenelle/(Catherina Palson) modified Residential Area's lighting_subarea to 1
+[22:00:47]ADMIN: Cassy_jenelle/(Catherina Palson) modified Residential Area's power_light to 1
+[22:00:47]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[22:01:00]ADMIN: cassyjenelle/(Catherina Palson) jumped to 136,150,7 in the Residential Area
+[22:01:18]EMOTE: Runtime/ : <B>Runtime</B> meows.
+[22:01:33]SAY: grey baby slime (435)/ : I want to eat...
+[22:01:56]SAY: Parrot/ : Hi
+[22:02:28]SAY: Tiger/ : HSSSSS
+[22:02:40]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[22:02:48]ACCESS: Logout: *no key*/(Catherina Palson)
+[22:02:48]ACCESS: Login: cassyjenelle/(Catherina Palson) from 127.0.0.1-1964287214 || BYOND v506
+[22:02:51]SAY: cat/ : Esp!
+[22:02:56]EMOTE: Ian/ : <B>Ian</B> woofs.
+[22:03:01]ADMIN: cassyjenelle/(Catherina Palson) teleported *no key*/(cat)
+[22:03:07]ADMIN: cassyjenelle/(Catherina Palson) teleported @Cassy_jenelle/(Catherina Palson)
+[22:03:10]ACCESS: Logout: *no key*/(Catherina Palson)
+[22:03:10]ACCESS: Login: cassyjenelle/(Catherina Palson) from 127.0.0.1-1964287214 || BYOND v506
+[22:04:18]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[22:04:51]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[22:05:24]EMOTE: Dr. NibbleFluff/ : <B>Dr. NibbleFluff</B> mews.
+[22:05:43]EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[22:05:43]EMOTE: Ian/ : <B>Ian</B> dances around
+[22:06:22]SAY: cat/ : Esp!
+[22:06:34]SAY: cat/ : Meow!
+[22:06:36]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[22:06:49]EMOTE: Parrot/ : <B>The Parrot</B> flutters its wings.
+[22:06:53]SAY: kitten/ : Purr!
+[22:07:08]EMOTE: crab/ : <B>The crab</B> clacks.
+[22:07:35]ADMIN: Cassy_jenelle/(Catherina Palson) modified Residential Area's luminosity to 1
+[22:07:37]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> shakes its head.
+[22:07:37]SAY: Tiger/ : Esp!
+[22:08:00]ADMIN: cassyjenelle/(Catherina Palson) jumped to *no key*/(Tiger)
+[22:08:03]ACCESS: Logout: *no key*/(Catherina Palson)
+[22:08:03]ACCESS: Login: cassyjenelle/(Catherina Palson) from 127.0.0.1-1964287214 || BYOND v506
+[22:08:42]ADMIN: cassyjenelle/(Catherina Palson) teleported *no key*/(Camile Crafter)
+[22:08:49]SAY: kitten/ : HSSSSS
+[22:08:50]ADMIN: cassyjenelle/(Catherina Palson) teleported @Cassy_jenelle/(Catherina Palson)
+[22:08:53]ACCESS: Logout: *no key*/(Catherina Palson)
+[22:08:53]ACCESS: Login: cassyjenelle/(Catherina Palson) from 127.0.0.1-1964287214 || BYOND v506
+[22:09:09]EMOTE: kitten/ : <B>The kitten</B> mews.
+[22:09:19]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[22:09:27]EMOTE: Ian/ : <B>Ian</B> dances around
+[22:09:29]EMOTE: Runtime/ : <B>Runtime</B> meows.
+[22:09:43]SAY: grey baby slime (435)/ : Blorble...
+[22:09:53]EMOTE: Ian/ : <B>Ian</B> shivers.
+[22:09:57]ADMIN: cassyjenelle/(Catherina Palson) jumped to 136,150,7 in the Residential Area
+[22:10:37]EMOTE: crab/ : <B>The crab</B> clacks.
+[22:10:53]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[22:10:55]EMOTE: Ian/ : <B>Ian</B> shivers.
+[22:11:25]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[22:11:32]EMOTE: Ian/ : <B>Ian</B> barks.
+[22:12:41]SAY: kitten/ : Esp!
+[22:13:37]SAY: cat/ : Esp!
+[22:13:39]EMOTE: Wittley/ : <B>Wittley</B> shakes their head.
+[22:14:09]ACCESS: Logout: *no key*/(Catherina Palson)
+[22:14:09]ACCESS: Login: cassyjenelle/(Catherina Palson) from 127.0.0.1-1964287214 || BYOND v506
+[22:14:15]ADMIN: cassyjenelle/(Catherina Palson) spawned /obj/machinery/light_switch at (153,154,7)
+[22:14:18]SAY: grey baby slime (659)/ : Where is the food?
+[22:14:19]ACCESS: Logout: *no key*/(Catherina Palson)
+[22:14:20]ACCESS: Login: cassyjenelle/(Catherina Palson) from 127.0.0.1-1964287214 || BYOND v506
+[22:14:41]SAY: cat/ : Esp!
+[22:14:41]ACCESS: Logout: *no key*/(Catherina Palson)
+[22:14:41]ACCESS: Login: cassyjenelle/(Catherina Palson) from 127.0.0.1-1964287214 || BYOND v506
+[22:14:51]EMOTE: Ian/ : <B>Ian</B> woofs.
+[22:14:53]ACCESS: Logout: *no key*/(Catherina Palson)
+[22:14:53]ACCESS: Login: cassyjenelle/(Catherina Palson) from 127.0.0.1-1964287214 || BYOND v506
+[22:15:19]ADMIN: cassyjenelle/(Catherina Palson) jumped to the Disco
+[22:15:54]ADMIN: Cassy_jenelle/(Catherina Palson) modified Disco's power_light to 1
+[22:16:02]ADMIN: Cassy_jenelle/(Catherina Palson) modified Disco's lighting_use_dynamic to 1
+[22:16:40]ADMIN: Cassy_jenelle/(Catherina Palson) modified Disco's luminosity to 0
+[22:16:43]ACCESS: Logout: *no key*/(Catherina Palson)
+[22:16:43]ACCESS: Login: cassyjenelle/(Catherina Palson) from 127.0.0.1-1964287214 || BYOND v506
+[22:16:44]EMOTE: kitten/ : <B>The kitten</B> mews.
+[22:16:54]SAY: kitten/ : Esp!
+[22:16:56]EMOTE: Tiger/ : <B>Tiger</B> shivers.
+[22:16:57]ADMIN: cassyjenelle/(Catherina Palson) spawned /obj/machinery/light/small at (189,128,9)
+[22:17:12]ADMIN: cassyjenelle/(Catherina Palson) spawned /obj/machinery/floodlight at (185,129,9)
+[22:17:14]ACCESS: Logout: *no key*/(Catherina Palson)
+[22:17:14]ACCESS: Login: cassyjenelle/(Catherina Palson) from 127.0.0.1-1964287214 || BYOND v506
+[22:17:21]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[22:17:48]EMOTE: Ian/ : <B>Ian</B> dances around
+[22:18:11]SAY: cat/ : Esp!
+[22:18:58]SAY: cat/ : Esp!
+[22:19:08]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[22:19:46]EMOTE: Dr. NibbleFluff/ : <B>Dr. NibbleFluff</B> shakes their head.
+[22:20:03]ACCESS: Logout: cassyjenelle/(Catherina Palson)
+[22:26:55]ACCESS: Login: Cassy_jenelle/(Catherina Palson) from 127.0.0.1-1964287214 || BYOND v506
+[22:27:20]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[22:27:20]EMOTE: cat/ : <B>The cat</B> meows.
+[22:27:35]EMOTE: Parrot/ : <B>The Parrot</B> bawks.
+[22:28:26]SAY: Ian/ : Bark!
+[22:28:37]SAY: kitten/ : Meow!
+[22:29:10]SAY: cat/ : Purr!
+[22:29:18]EMOTE: Runtime/ : <B>Runtime</B> meows.
+[22:29:39]ADMIN: Cassy_jenelle/(Catherina Palson) jumped to *no key*/(Tiger)
+[22:29:39]SAY: kitten/ : Meow!
+[22:29:45]ACCESS: Logout: *no key*/(Catherina Palson)
+[22:29:45]ACCESS: Login: Cassy_jenelle/(Catherina Palson) from 127.0.0.1-1964287214 || BYOND v506
+[22:30:00]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[22:30:21]SAY: Wittley/ : HSSSSS
+[22:30:29]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[22:30:41]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[22:31:01]SAY: kitten/ : Esp!
+[22:31:29]SAY: grey baby slime (435)/ : Rawr...
+[22:31:48]SAY: cat/ : Purr!
+[22:33:35]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[22:33:52]SAY: Tiger/ : Meow!
+[22:34:00]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[22:34:10]EMOTE: Wittley/ : <B>Wittley</B> meows.
+[22:34:16]SAY: Ian/ : YAP
+[22:34:20]EMOTE: Ian/ : <B>Ian</B> dances around
+[22:34:27]SAY: grey baby slime (435)/ : I want to eat...
+[22:34:52]SAY: kitten/ : Meow!
+[22:35:10]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[22:35:14]SAY: Parrot/ : Hi
+[22:35:18]EMOTE: Runtime/ : <B>Runtime</B> mews.
+[22:35:28]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[22:36:09]EMOTE: Ian/ : <B>Ian</B> dances around
+[22:36:09]EMOTE: Tiger/ : <B>Tiger</B> shivers.
+[22:36:13]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[22:36:19]EMOTE: Dr. NibbleFluff/ : <B>Dr. NibbleFluff</B> nibbles on something.
+[22:36:35]EMOTE: cat/ : <B>The cat</B> mews.
+[22:36:47]ACCESS: Logout: Cassy_jenelle/(Catherina Palson)
+
+
+Starting up. 22:47.39
+---------------------
+[22:47:48]ADMIN: Loading jobban_rank
+[22:47:48]ADMIN: jobban_keylist was empty
+[22:47:48]ADMIN: Loading Banlist
+[22:47:50]DEBUG: Rebuilding Master Controller
+[22:49:30]ACCESS: Login: Cassy_jenelle/(Cassy_jenelle) from 127.0.0.1-1964287214 || BYOND v506
+[22:50:34]ADMIN: Cassy_jenelle has started the game.
+[22:50:35]ACCESS: Logout: *no key*/(Cassy_jenelle)
+[22:50:35]ACCESS: Login: Cassy_jenelle/(Camile Crafter) from 127.0.0.1-1964287214 || BYOND v506
+[22:50:43]DEBUG: Next event of severity Mundane in 14.652 minutes.
+[22:50:43]DEBUG: Next event of severity Moderate in 51.926 minutes.
+[22:50:43]DEBUG: Next event of severity Major in 86.885 minutes.
+[22:50:48]EMOTE: Parrot/ : <B>The Parrot</B> turns and flies towards the deck of cards
+[22:50:59]SAY: kitten/ : Purr!
+[22:50:59]SAY: cat/ : Meow!
+[22:51:11]ADMIN: Cassy_jenelle/(Camile Crafter) jumped to 104,169,7 in the Residential Area
+[22:51:38]SAY: Dr. NibbleFluff/ : Meow!
+[22:51:59]EMOTE: Ian/ : <B>Ian</B> dances around
+[22:51:59]SAY: mouse (886)/ : Squeek?
+[22:52:07]ADMIN: Cassy_jenelle/(Camile Crafter) jumped to 125,154,7 in the Residential Area
+[22:52:08]SAY: cat/ : Esp!
+[22:52:27]EMOTE: Ian/ : <B>Ian</B> dances around
+[22:52:34]SAY: mouse (296)/ : SQUEEK!
+[22:52:49]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[22:53:14]ADMIN: Cassy_jenelle/(Camile Crafter) modified Residential Area's power_light to 1
+[22:53:21]SAY: mouse (670)/ : Squeek?
+[22:53:32]EMOTE: Tom (768)/ : <B>Tom (768)</B> squeaks.
+[22:53:51]EMOTE: Tom (170)/ : <B>Tom (170)</B> squiks.
+[22:53:55]EMOTE: mouse (670)/ : <B>The mouse (670)</B> scritches at something.
+[22:53:55]EMOTE: Ian/ : <B>Ian</B> dances around
+[22:54:19]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[22:54:34]EMOTE: crab/ : <B>The crab</B> clicks.
+[22:54:49]EMOTE: mouse (983)/ : <B>The mouse (983)</B> scritches at something.
+[22:55:04]SAY: kitten/ : Purr!
+[22:55:06]SAY: grey baby slime (931)/ : Rawr...
+[22:55:10]EMOTE: mouse (886)/ : <B>The mouse (886)</B> squeeks.
+[22:55:14]SAY: Parrot/ : Hello!
+[22:55:33]SAY: mouse (983)/ : Squeek!
+[22:55:37]EMOTE: Ian/ : <B>Ian</B> barks.
+[22:55:46]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[22:55:50]EMOTE: Ian/ : <B>Ian</B> dances around
+[22:55:52]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[22:56:07]EMOTE: crab/ : <B>The crab</B> clicks.
+[22:56:23]EMOTE: crab/ : <B>The crab</B> clacks.
+[22:57:21]EMOTE: Wittley/ : <B>Wittley</B> shakes their head.
+[22:57:33]EMOTE: Tom (170)/ : <B>Tom (170)</B> shakes.
+[22:57:42]SAY: kitten/ : Purr!
+[22:58:11]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[22:58:19]SAY: cat/ : Purr!
+[22:58:40]SAY: mouse (942)/ : Squeek!
+[22:58:44]EMOTE: Dr. NibbleFluff/ : <B>Dr. NibbleFluff</B> mews.
+[22:58:55]SAY: kitten/ : Purr!
+[22:58:57]EMOTE: mouse (983)/ : <B>The mouse (983)</B> runs in a circle.
+[22:59:29]SAY: kitten/ : Meow!
+[22:59:52]EMOTE: kitten/ : <B>The kitten</B> meows.
+[23:00:05]EMOTE: mouse (670)/ : <B>The mouse (670)</B> squeeks.
+[23:00:09]SAY: Runtime/ : Esp!
+[23:00:15]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[23:00:53]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[23:01:03]SAY: Experiment 97d/ : EHEHEHEHEH
+[23:01:30]EMOTE: cat/ : <B>The cat</B> shivers.
+[23:01:52]EMOTE: mouse (670)/ : <B>The mouse (670)</B> squiks.
+[23:02:09]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[23:02:18]ADMIN: Cassy_jenelle/(Camile Crafter) modified Residential Area's lighting_use_dynamic to 1
+[23:02:31]EMOTE: cat/ : <B>The cat</B> meows.
+[23:03:58]ADMIN: Cassy_jenelle/(Camile Crafter) modified Residential Area's lighting_use_dynamic to 0
+[23:04:49]EMOTE: crab/ : <B>The crab</B> clacks.
+[23:04:58]SAY: mouse (942)/ : Squeek!
+[23:05:01]ADMIN: Cassy_jenelle/(Camile Crafter) modified Residential Area's luminosity to 1
+[23:05:17]EMOTE: Ian/ : <B>Ian</B> dances around
+[23:05:19]ADMIN: Cassy_jenelle/(Camile Crafter) modified Residential Area's luminosity to 0
+[23:05:32]EMOTE: cat/ : <B>The cat</B> mews.
+[23:05:41]EMOTE: Runtime/ : <B>Runtime</B> meows.
+[23:05:47]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[23:06:03]ADMIN: Cassy_jenelle/(Camile Crafter) modified Residential Area's lighting_space to 1
+[23:06:07]ADMIN: Cassy_jenelle/(Camile Crafter) modified Residential Area's lighting_space to 0
+[23:06:14]ADMIN: Cassy_jenelle/(Camile Crafter) modified Residential Area's lighting_use_dynamic to 0
+[23:06:17]SAY: grey baby slime (931)/ : Blorble...
+[23:06:24]ADMIN: Cassy_jenelle/(Camile Crafter) deleted the wooden barricade at (143,127,7)
+[23:06:30]SAY: cat/ : Meow!
+[23:06:44]ADMIN: Cassy_jenelle/(Camile Crafter) modified Residential Area's lighting_use_dynamic to 1
+[23:07:17]ADMIN: Cassy_jenelle/(Camile Crafter) modified Residential Area's forced_ambience to 1
+[23:07:27]EMOTE: Runtime/ : <B>Runtime</B> mews.
+[23:07:31]SAY: cat/ : Meow!
+[23:08:07]EMOTE: cat/ : <B>The cat</B> mews.
+[23:08:13]ADMIN: Cassy_jenelle/(Camile Crafter) modified Residential Area's luminosity to 1
+[23:08:17]ADMIN: Cassy_jenelle/(Camile Crafter) modified Residential Area's trueLuminosity to 1
+[23:08:20]ADMIN: Cassy_jenelle/(Camile Crafter) modified Residential Area's infra_luminosity to 1
+[23:08:26]ADMIN: Cassy_jenelle/(Camile Crafter) modified Residential Area's lighting_use_dynamic to 0
+[23:08:27]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[23:08:34]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[23:08:49]EMOTE: Ian/ : <B>Ian</B> dances around
+[23:09:15]EMOTE: crab/ : <B>The crab</B> clicks.
+[23:10:01]EMOTE: Wittley/ : <B>Wittley</B> meows.
+[23:10:16]ADMIN: Cassy_jenelle/(Camile Crafter) jumped to 109,126,9 in the Residential Area
+[23:10:35]ACCESS: Logout: *no key*/(Camile Crafter)
+[23:10:35]ACCESS: Login: Cassy_jenelle/(Camile Crafter) from 127.0.0.1-1964287214 || BYOND v506
+[23:10:52]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[23:10:57]ADMIN: Cassy_jenelle/(Camile Crafter) teleported @Cassy_jenelle/(Camile Crafter)
+[23:11:00]ACCESS: Logout: *no key*/(Camile Crafter)
+[23:11:00]ACCESS: Login: Cassy_jenelle/(Camile Crafter) from 127.0.0.1-1964287214 || BYOND v506
+[23:11:07]EMOTE: crab/ : <B>The crab</B> clicks.
+[23:11:30]ADMIN: Cassy_jenelle/(Camile Crafter) spawned /obj/item/weapon/baby at (204,97,9)
+[23:12:05]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[23:12:20]SAY: cat/ : Purr!
+[23:12:20]EMOTE: Wittley/ : <B>Wittley</B> meows.
+[23:12:41]EMOTE: Wittley/ : <B>Wittley</B> shakes their head.
+[23:14:03]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[23:14:05]EMOTE: cat/ : <B>The cat</B> shivers.
+[23:14:18]SAY: cat/ : Esp!
+[23:14:27]EMOTE: Wittley/ : <B>Wittley</B> shakes their head.
+[23:14:31]SAY: cat/ : Meow!
+[23:14:33]EMOTE: Dr. NibbleFluff/ : <B>Dr. NibbleFluff</B> mews.
+[23:15:07]SAY: grey baby slime (618)/ : Blorble...
+[23:15:15]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[23:15:24]EMOTE: Wittley/ : <B>Wittley</B> meows.
+[23:15:26]SAY: cat/ : Purr!
+[23:15:28]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[23:15:32]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[23:15:38]EMOTE: cat/ : <B>The cat</B> shivers.
+[23:16:15]EMOTE: Wittley/ : <B>Wittley</B> shakes their head.
+[23:16:39]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[23:16:46]EMOTE: cat/ : <B>The cat</B> shivers.
+[23:17:09]EMOTE: Ian/ : <B>Ian</B> dances around
+[23:17:11]SAY: kitten/ : HSSSSS
+[23:17:26]SAY: Tiger/ : Meow!
+[23:17:35]EMOTE: Ian/ : <B>Ian</B> dances around
+[23:18:02]SAY: Ian/ : YAP
+[23:18:02]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[23:18:28]SAY: Wittley/ : HSSSSS
+[23:18:45]SAY: Runtime/ : HSSSSS
+[23:19:11]EMOTE: Runtime/ : <B>Runtime</B> meows.
+[23:19:11]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[23:19:26]EMOTE: Runtime/ : <B>Runtime</B> meows.
+[23:19:28]EMOTE: Runtime/ : <B>Runtime</B> meows.
+[23:20:06]SAY: kitten/ : HSSSSS
+[23:20:27]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[23:20:31]EMOTE: Ian/ : <B>Ian</B> dances around
+[23:20:31]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[23:21:20]SAY: cat/ : Purr!
+[23:21:53]SAY: cat/ : Meow!
+[23:23:52]EMOTE: mouse (983)/ : <B>The mouse (983)</B> shakes.
+[23:24:45]SAY: kitten/ : HSSSSS
+[23:25:05]EMOTE: mouse (983)/ : <B>The mouse (983)</B> scritches at something.
+[23:25:07]EMOTE: kitten/ : <B>The kitten</B> mews.
+[23:25:44]EMOTE: crab/ : <B>The crab</B> clicks.
+[23:26:27]EMOTE: kitten/ : <B>The kitten</B> meows.
+[23:26:50]SAY: Ian/ : Woof!
+[23:26:54]EMOTE: Runtime/ : <B>Runtime</B> mews.
+[23:27:07]EMOTE: Runtime/ : <B>Runtime</B> meows.
+[23:27:13]SAY: cat/ : Esp!
+[23:27:19]SAY: kitten/ : Meow!
+[23:28:08]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[23:28:21]SAY: Runtime/ : Meow!
+[23:28:25]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[23:28:25]EMOTE: cat/ : <B>The cat</B> mews.
+[23:28:29]SAY: Parrot/ : Hello!
+[23:28:38]EMOTE: Parrot/ : <B>The Parrot</B> bawks.
+[23:28:51]EMOTE: Ian/ : <B>Ian</B> pants.
+[23:29:19]SAY: cat/ : HSSSSS
+[23:31:03]SAY: grey baby slime (618)/ : Blop...
+[23:31:35]EMOTE: kitten/ : <B>The kitten</B> meows.
+[23:31:42]EMOTE: Parrot/ : <B>The Parrot</B> flutters its wings.
+[23:31:59]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[23:32:01]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[23:32:03]SAY: kitten/ : Purr!
+[23:32:46]EMOTE: cat/ : <B>The cat</B> shivers.
+[23:32:51]EMOTE: cat/ : <B>The cat</B> mews.
+[23:34:16]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[23:35:08]EMOTE: Runtime/ : <B>Runtime</B> shakes their head.
+[23:35:19]EMOTE: Ian/ : <B>Ian</B> dances around
+[23:35:34]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[23:35:59]EMOTE: cat/ : <B>The cat</B> meows.
+[23:36:01]SAY: Runtime/ : Meow!
+[23:36:01]EMOTE: Parrot/ : <B>The Parrot</B> bawks.
+[23:36:34]SAY: Runtime/ : Purr!
+[23:36:36]EMOTE: cat/ : <B>The cat</B> mews.
+[23:36:41]EMOTE: crab/ : <B>The crab</B> clicks.
+[23:37:33]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[23:37:54]EMOTE: kitten/ : <B>The kitten</B> mews.
+[23:38:02]SAY: Wittley/ : Esp!
+[23:38:26]SAY: kitten/ : HSSSSS
+[23:38:44]SAY: Dr. NibbleFluff/ : Meow!
+[23:38:46]EMOTE: kitten/ : <B>The kitten</B> mews.
+[23:38:55]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[23:38:57]EMOTE: Wittley/ : <B>Wittley</B> meows.
+[23:39:01]SAY: Experiment 97d/ : EHEHEHEHEH
+[23:39:06]EMOTE: Wittley/ : <B>Wittley</B> shivers.
+[23:39:41]SAY: cat/ : Meow!
+[23:39:41]EMOTE: Tiger/ : <B>Tiger</B> shivers.
+[23:39:56]EMOTE: crab/ : <B>The crab</B> clicks.
+[23:40:03]SAY: kitten/ : Esp!
+[23:40:04]SAY: cat/ : Meow!
+[23:40:32]ACCESS: Logout: Cassy_jenelle/(Camile Crafter)

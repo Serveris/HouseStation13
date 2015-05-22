@@ -1,0 +1,396 @@
+
+
+Starting up. 05:20.36
+---------------------
+[05:20:47]ADMIN: Loading jobban_rank
+[05:20:48]ADMIN: jobban_keylist was empty
+[05:20:48]ADMIN: Loading Banlist
+[05:20:50]DEBUG: Rebuilding Master Controller
+[05:22:35]ACCESS: Login: Cassy_jenelle/(Cassy_jenelle) from 127.0.0.1-1964287214 || BYOND v506
+[05:23:27]ADMIN: Cassy_jenelle has started the game.
+[05:23:28]ACCESS: Logout: *no key*/(Cassy_jenelle)
+[05:23:28]ACCESS: Login: Cassy_jenelle/(Camile Crafter) from 127.0.0.1-1964287214 || BYOND v506
+[05:23:32]EMOTE: bear/ : <B>The bear</B> stares alertly at the samak
+[05:23:32]EMOTE: bear/ : <B>The bear</B> closely watches the samak
+[05:23:32]EMOTE: bear/ : <B>The bear</B> grumbles.
+[05:23:32]EMOTE: bear/ : <B>The bear</B> stares alertly at the diyaab
+[05:23:32]EMOTE: bear/ : <B>The bear</B> prepares to attack the diyaab
+[05:23:32]EMOTE: bear/ : <B>The bear</B> stares alertly at the shantak
+[05:23:32]EMOTE: bear/ : <B>The bear</B> prepares to attack the shantak
+[05:23:33]DEBUG: Next event of severity Mundane in 16.542 minutes.
+[05:23:33]DEBUG: Next event of severity Moderate in 43.98 minutes.
+[05:23:33]DEBUG: Next event of severity Major in 92.355 minutes.
+[05:23:36]EMOTE: diyaab/ : <B>The diyaab</B> looks around.
+[05:23:36]SAY: shantak/ : Shuhn
+[05:23:38]EMOTE: bear/ : <B>The bear</B> closely watches the samak
+[05:23:38]EMOTE: bear/ : <B>The bear</B> growls at the diyaab
+[05:23:38]EMOTE: bear/ : <B>The bear</B> prepares to attack the shantak
+[05:23:42]EMOTE: Tom (49)/ : <B>Tom (49)</B> squiks.
+[05:23:42]EMOTE: shantak/ : <B>The shantak</B> tinkles gently.
+[05:23:44]EMOTE: bear/ : <B>The bear</B> growls at the samak
+[05:23:44]EMOTE: bear/ : <B>The bear</B> prepares to attack the diyaab
+[05:23:44]EMOTE: bear/ : <B>The bear</B> prepares to attack the shantak
+[05:23:48]EMOTE: bear/ : <B>The bear</B> bites the diyaab
+[05:23:52]EMOTE: kitten/ : <B>The kitten</B> mews.
+[05:23:54]EMOTE: samak/ : <B>The samak</B> snuffles.
+[05:23:56]EMOTE: diyaab/ : <B>The diyaab</B> snuffles.
+[05:24:02]EMOTE: diyaab/ : <B>The diyaab</B> snuffles.
+[05:24:02]EMOTE: shantak/ : <B>The shantak</B> scratches the ground.
+[05:24:04]EMOTE: Parrot/ : <B>The Parrot</B> turns and flies towards the deck of cards
+[05:24:04]SAY: samak/ : Hruuugh!
+[05:24:08]SAY: samak/ : Hruuugh!
+[05:24:16]SAY: diyaab/ : Worrl
+[05:24:20]SAY: shantak/ : Shunpf
+[05:24:22]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[05:24:26]SAY: samak/ : Hrunnph
+[05:24:30]SAY: shantak/ : Shunpf
+[05:24:40]EMOTE: Dr. NibbleFluff/ : <B>Dr. NibbleFluff</B> nibbles on something.
+[05:24:44]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[05:24:50]ADMIN: Cassy_jenelle/(Camile Crafter) jumped to *no key*/(Tiger)
+[05:24:50]EMOTE: samak/ : <B>The samak</B> snuffles.
+[05:24:58]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[05:25:00]EMOTE: shantak/ : <B>The shantak</B> tinkles gently.
+[05:25:02]EMOTE: samak/ : <B>The samak</B> snuffles.
+[05:25:06]SAY: Tom (924)/ : SQUEEK!
+[05:25:06]EMOTE: shantak/ : <B>The shantak</B> shakes out it's mane.
+[05:25:08]SAY: diyaab/ : Awrr?
+[05:25:12]EMOTE: diyaab/ : <B>The diyaab</B> snuffles.
+[05:25:14]EMOTE: diyaab/ : <B>The diyaab</B> sniffs the air cautiously.
+[05:25:14]EMOTE: shantak/ : <B>The shantak</B> tinkles gently.
+[05:25:16]SAY: shantak/ : Shrunnph?
+[05:25:20]EMOTE: samak/ : <B>The samak</B> snuffles.
+[05:25:22]EMOTE: samak/ : <B>The samak</B> stomps.
+[05:25:22]SAY: shantak/ : Shuhn
+[05:25:25]EMOTE: samak/ : <B>The samak</B> stomps.
+[05:25:29]SAY: diyaab/ : Awrr?
+[05:25:33]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[05:25:33]EMOTE: samak/ : <B>The samak</B> snuffles.
+[05:25:39]SAY: Runtime/ : Esp!
+[05:25:39]EMOTE: diyaab/ : <B>The diyaab</B> sniffs the air cautiously.
+[05:25:43]SAY: grey baby slime (349)/ : Lonely...
+[05:25:47]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[05:25:49]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[05:25:51]SAY: samak/ : Hrunnph
+[05:25:53]SAY: samak/ : Hruuugh!
+[05:25:55]SAY: shantak/ : Shuhn
+[05:25:59]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[05:26:03]SAY: samak/ : Hruuugh!
+[05:26:11]SAY: mouse (310)/ : SQUEEK!
+[05:26:11]SAY: samak/ : Hruuugh!
+[05:26:17]EMOTE: diyaab/ : <B>The diyaab</B> snuffles.
+[05:26:21]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[05:26:21]EMOTE: shantak/ : <B>The shantak</B> shakes out it's mane.
+[05:26:23]EMOTE: samak/ : <B>The samak</B> stomps.
+[05:26:37]EMOTE: shantak/ : <B>The shantak</B> shakes out it's mane.
+[05:26:43]SAY: grey baby slime (349)/ : Blop...
+[05:26:43]SAY: samak/ : Hruuugh!
+[05:26:43]EMOTE: bear/ : <B>The bear</B> stares alertly at the diyaab
+[05:26:43]EMOTE: shantak/ : <B>The shantak</B> tinkles gently.
+[05:26:45]SAY: Tiger/ : Esp!
+[05:26:47]EMOTE: bear/ : <B>The bear</B> bites the diyaab
+[05:26:59]SAY: samak/ : Hruuugh!
+[05:27:01]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[05:27:05]SAY: mouse (839)/ : Squeek?
+[05:27:09]EMOTE: diyaab/ : <B>The diyaab</B> snuffles.
+[05:27:11]EMOTE: cat/ : <B>The cat</B> mews.
+[05:27:13]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[05:27:21]EMOTE: samak/ : <B>The samak</B> stomps.
+[05:27:21]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[05:27:31]SAY: samak/ : Hruuugh!
+[05:27:37]SAY: samak/ : Hrunnph
+[05:27:37]EMOTE: shantak/ : <B>The shantak</B> tinkles gently.
+[05:27:41]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[05:27:41]EMOTE: samak/ : <B>The samak</B> stomps.
+[05:27:41]SAY: bear/ : Rawr!
+[05:27:41]SAY: shantak/ : Shrunnph?
+[05:27:51]EMOTE: shantak/ : <B>The shantak</B> tinkles gently.
+[05:27:53]SAY: samak/ : Hruuugh!
+[05:27:53]SAY: shantak/ : Shuhn
+[05:28:05]SAY: samak/ : Hrunnph
+[05:28:07]EMOTE: samak/ : <B>The samak</B> snuffles.
+[05:28:13]SAY: kitten/ : Purr!
+[05:28:15]EMOTE: shantak/ : <B>The shantak</B> shakes out it's mane.
+[05:28:19]SAY: kitten/ : Esp!
+[05:28:25]EMOTE: samak/ : <B>The samak</B> snuffles.
+[05:28:29]SAY: samak/ : Hruuugh!
+[05:28:31]SAY: shantak/ : Shunpf
+[05:28:40]EMOTE: Tiger/ : <B>Tiger</B> shakes their head.
+[05:28:40]SAY: samak/ : Hrunnph
+[05:28:48]EMOTE: Ian/ : <B>Ian</B> shivers.
+[05:28:48]EMOTE: Ian/ : <B>Ian</B> dances around
+[05:28:50]EMOTE: samak/ : <B>The samak</B> stomps.
+[05:28:52]EMOTE: samak/ : <B>The samak</B> snuffles.
+[05:28:58]SAY: diyaab/ : Worrl
+[05:28:58]SAY: samak/ : Hrunnph
+[05:29:02]SAY: grey baby slime (349)/ : Lonely...
+[05:29:02]EMOTE: bear/ : <B>The bear</B> stares alertly at the diyaab
+[05:29:02]EMOTE: shantak/ : <B>The shantak</B> tinkles gently.
+[05:29:06]EMOTE: bear/ : <B>The bear</B> bites the diyaab
+[05:29:08]EMOTE: bear/ : <B>The bear</B> slashes at the diyaab
+[05:29:08]SAY: samak/ : Hruuugh!
+[05:29:08]SAY: shantak/ : Shrunnph?
+[05:29:16]SAY: samak/ : Hrunnph
+[05:29:18]SAY: Tom (924)/ : Squeek?
+[05:29:20]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[05:29:24]EMOTE: Tiger/ : <B>Tiger</B> shivers.
+[05:29:30]SAY: samak/ : Hrunnph
+[05:29:30]EMOTE: shantak/ : <B>The shantak</B> tinkles gently.
+[05:29:34]SAY: Experiment 97d/ : EHEHEHEHEH
+[05:29:34]SAY: samak/ : Hruuugh!
+[05:29:37]SAY: shantak/ : Shuhn
+[05:29:49]EMOTE: samak/ : <B>The samak</B> stomps.
+[05:29:53]SAY: cat/ : HSSSSS
+[05:29:55]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[05:29:57]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[05:29:59]SAY: Tiger/ : Esp!
+[05:30:01]SAY: shantak/ : Shuhn
+[05:30:03]SAY: shantak/ : Shrunnph?
+[05:30:09]EMOTE: shantak/ : <B>The shantak</B> scratches the ground.
+[05:30:17]SAY: samak/ : Hrunnph
+[05:30:17]SAY: shantak/ : Shuhn
+[05:30:17]EMOTE: shantak/ : <B>The shantak</B> shakes out it's mane.
+[05:30:29]EMOTE: Ian/ : <B>Ian</B> dances around
+[05:30:31]SAY: Experiment 97d/ : EHEHEHEHEH
+[05:30:35]ADMIN: Cassy_jenelle/(Camile Crafter) modified home wall-mounted fireplace's density to 0
+[05:30:38]EMOTE: crab/ : <B>The crab</B> clacks.
+[05:30:38]EMOTE: shantak/ : <B>The shantak</B> tinkles gently.
+[05:30:48]EMOTE: diyaab/ : <B>The diyaab</B> snuffles.
+[05:30:52]EMOTE: cat/ : <B>The cat</B> mews.
+[05:31:02]EMOTE: diyaab/ : <B>The diyaab</B> sniffs the air cautiously.
+[05:31:02]EMOTE: shantak/ : <B>The shantak</B> tinkles gently.
+[05:31:10]EMOTE: samak/ : <B>The samak</B> snuffles.
+[05:31:14]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[05:31:22]EMOTE: shantak/ : <B>The shantak</B> shakes out it's mane.
+[05:31:28]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[05:31:30]SAY: shantak/ : Shunpf
+[05:31:34]EMOTE: samak/ : <B>The samak</B> stomps.
+[05:31:38]SAY: shantak/ : Shunpf
+[05:31:40]SAY: samak/ : Hruuugh!
+[05:31:42]EMOTE: diyaab/ : <B>The diyaab</B> looks around.
+[05:31:42]SAY: samak/ : Hrunnph
+[05:31:47]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[05:31:51]EMOTE: shantak/ : <B>The shantak</B> scratches the ground.
+[05:32:00]SAY: samak/ : Hruuugh!
+[05:32:02]SAY: kitten/ : Meow!
+[05:32:02]SAY: shantak/ : Shunpf
+[05:32:04]EMOTE: shantak/ : <B>The shantak</B> tinkles gently.
+[05:32:10]EMOTE: shantak/ : <B>The shantak</B> scratches the ground.
+[05:32:18]SAY: shantak/ : Shunpf
+[05:32:20]SAY: samak/ : Hruuugh!
+[05:32:20]SAY: shantak/ : Shuhn
+[05:32:26]EMOTE: cat/ : <B>The cat</B> meows.
+[05:32:36]EMOTE: diyaab/ : <B>The diyaab</B> looks around.
+[05:32:47]EMOTE: kitten/ : <B>The kitten</B> meows.
+[05:32:47]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[05:32:53]SAY: samak/ : Hruuugh!
+[05:32:57]EMOTE: samak/ : <B>The samak</B> stomps.
+[05:33:01]SAY: cat/ : Esp!
+[05:33:07]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[05:33:07]EMOTE: Parrot/ : <B>The Parrot</B> squawks.
+[05:33:17]EMOTE: shantak/ : <B>The shantak</B> tinkles gently.
+[05:33:21]SAY: samak/ : Hruuugh!
+[05:33:29]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[05:33:31]SAY: samak/ : Hruuugh!
+[05:33:43]SAY: shantak/ : Shuhn
+[05:33:47]EMOTE: samak/ : <B>The samak</B> snuffles.
+[05:34:05]EMOTE: samak/ : <B>The samak</B> snuffles.
+[05:34:15]EMOTE: shantak/ : <B>The shantak</B> scratches the ground.
+[05:34:21]EMOTE: Parrot/ : <B>The Parrot</B> squawks.
+[05:34:21]SAY: shantak/ : Shuhn
+[05:34:31]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[05:34:31]SAY: shantak/ : Shrunnph?
+[05:34:31]SAY: shantak/ : Shuhn
+[05:34:37]EMOTE: shantak/ : <B>The shantak</B> shakes out it's mane.
+[05:34:47]EMOTE: shantak/ : <B>The shantak</B> tinkles gently.
+[05:34:53]SAY: cat/ : Esp!
+[05:34:55]SAY: bear/ : Growl!
+[05:34:57]EMOTE: shantak/ : <B>The shantak</B> shakes out it's mane.
+[05:34:59]EMOTE: samak/ : <B>The samak</B> snuffles.
+[05:35:09]SAY: shantak/ : Shrunnph?
+[05:35:23]SAY: Runtime/ : HSSSSS
+[05:35:33]EMOTE: Ian/ : <B>Ian</B> dances around
+[05:35:47]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[05:35:51]EMOTE: shantak/ : <B>The shantak</B> tinkles gently.
+[05:35:59]SAY: shantak/ : Shrunnph?
+[05:36:01]SAY: shantak/ : Shrunnph?
+[05:36:13]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[05:36:35]SAY: shantak/ : Shuhn
+[05:36:37]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[05:36:39]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[05:36:57]SAY: samak/ : Hruuugh!
+[05:37:21]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[05:37:23]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[05:37:29]EMOTE: samak/ : <B>The samak</B> snuffles.
+[05:37:45]EMOTE: samak/ : <B>The samak</B> snuffles.
+[05:37:49]EMOTE: samak/ : <B>The samak</B> snuffles.
+[05:38:22]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[05:38:24]SAY: kitten/ : Meow!
+[05:38:26]EMOTE: samak/ : <B>The samak</B> stomps.
+[05:38:30]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[05:38:42]SAY: shantak/ : Shrunnph?
+[05:38:42]ADMIN: Cassy_jenelle/(Camile Crafter) deleted the curtain at (139,161,7)
+[05:38:46]EMOTE: shantak/ : <B>The shantak</B> scratches the ground.
+[05:38:50]SAY: samak/ : Hruuugh!
+[05:38:56]SAY: samak/ : Hrunnph
+[05:39:00]EMOTE: shantak/ : <B>The shantak</B> scratches the ground.
+[05:39:16]SAY: samak/ : Hruuugh!
+[05:39:20]EMOTE: samak/ : <B>The samak</B> snuffles.
+[05:39:22]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[05:39:24]SAY: shantak/ : Shrunnph?
+[05:39:26]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[05:39:34]EMOTE: samak/ : <B>The samak</B> snuffles.
+[05:39:34]EMOTE: shantak/ : <B>The shantak</B> tinkles gently.
+[05:39:58]EMOTE: bear/ : <B>The bear</B> stares alertly at the samak
+[05:40:06]EMOTE: Ian/ : <B>Ian</B> dances around
+[05:40:06]SAY: shantak/ : Shunpf
+[05:40:30]EMOTE: Ian/ : <B>Ian</B> barks.
+[05:40:30]SAY: shantak/ : Shuhn
+[05:40:30]EMOTE: shantak/ : <B>The shantak</B> scratches the ground.
+[05:40:32]SAY: samak/ : Hrunnph
+[05:40:50]SAY: shantak/ : Shunpf
+[05:41:02]EMOTE: Ian/ : <B>Ian</B> woofs.
+[05:41:02]SAY: cat/ : Esp!
+[05:41:04]SAY: shantak/ : Shunpf
+[05:41:06]EMOTE: shantak/ : <B>The shantak</B> shakes out it's mane.
+[05:41:22]SAY: shantak/ : Shunpf
+[05:41:32]SAY: cat/ : Meow!
+[05:41:32]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[05:41:44]EMOTE: Runtime/ : <B>Runtime</B> meows.
+[05:41:48]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[05:42:00]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[05:42:06]EMOTE: samak/ : <B>The samak</B> stomps.
+[05:42:12]SAY: shantak/ : Shrunnph?
+[05:42:18]EMOTE: Runtime/ : <B>Runtime</B> mews.
+[05:42:18]EMOTE: shantak/ : <B>The shantak</B> shakes out it's mane.
+[05:42:19]ACCESS: Logout: Cassy_jenelle/(Camile Crafter)
+
+
+Starting up. 05:51.34
+---------------------
+[05:51:42]ADMIN: Loading jobban_rank
+[05:51:42]ADMIN: jobban_keylist was empty
+[05:51:42]ADMIN: Loading Banlist
+[05:51:44]DEBUG: Rebuilding Master Controller
+[05:52:12]ACCESS: Login: Cassy_jenelle/(Cassy_jenelle) from 127.0.0.1-1964287214 || BYOND v506
+[05:53:33]VOTE: Gamemode vote started by the server.
+[05:53:33]DEBUG: The server has called a gamemode vote
+[05:54:06]ADMIN: Cassy_jenelle has started the game.
+[05:54:07]ACCESS: Logout: *no key*/(Cassy_jenelle)
+[05:54:07]ACCESS: Login: Cassy_jenelle/(Camile Crafter) from 127.0.0.1-1964287214 || BYOND v506
+[05:54:12]EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[05:54:12]EMOTE: diyaab/ : <B>The diyaab</B> looks around.
+[05:54:12]EMOTE: bear/ : <B>The bear</B> stares alertly at the samak
+[05:54:12]EMOTE: bear/ : <B>The bear</B> prepares to attack the samak
+[05:54:12]EMOTE: bear/ : <B>The bear</B> stares alertly at the diyaab
+[05:54:12]EMOTE: bear/ : <B>The bear</B> closely watches the diyaab
+[05:54:12]EMOTE: bear/ : <B>The bear</B> stares alertly at the shantak
+[05:54:12]EMOTE: bear/ : <B>The bear</B> growls at the shantak
+[05:54:12]EMOTE: shantak/ : <B>The shantak</B> tinkles gently.
+[05:54:14]DEBUG: Next event of severity Mundane in 16.272 minutes.
+[05:54:14]DEBUG: Next event of severity Moderate in 48.216 minutes.
+[05:54:14]DEBUG: Next event of severity Major in 85.0633 minutes.
+[05:54:17]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[05:54:17]SAY: shantak/ : Shuhn
+[05:54:19]EMOTE: bear/ : <B>The bear</B> prepares to attack the samak
+[05:54:19]EMOTE: bear/ : <B>The bear</B> growls at the diyaab
+[05:54:19]EMOTE: bear/ : <B>The bear</B> growls at the shantak
+[05:54:23]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[05:54:23]EMOTE: diyaab/ : <B>The diyaab</B> snuffles.
+[05:54:24]ADMIN: Cassy_jenelle/(Camile Crafter) jumped to *no key*/(Tiger)
+[05:54:25]EMOTE: bear/ : <B>The bear</B> prepares to attack the diyaab
+[05:54:25]EMOTE: bear/ : <B>The bear</B> closely watches the shantak
+[05:54:29]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[05:54:29]EMOTE: bear/ : <B>The bear</B> bites the diyaab
+[05:54:31]EMOTE: mouse (892)/ : <B>The mouse (892)</B> squiks.
+[05:54:33]EMOTE: Parrot/ : <B>The Parrot</B> turns and flies towards the deck of cards
+[05:54:35]SAY: diyaab/ : Aowrl!
+[05:54:35]EMOTE: diyaab/ : <B>The diyaab</B> sniffs the air cautiously.
+[05:54:35]SAY: shantak/ : Shrunnph?
+[05:54:44]EMOTE: diyaab/ : <B>The diyaab</B> looks around.
+[05:54:46]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[05:54:46]SAY: diyaab/ : Awrr?
+[05:54:54]SAY: samak/ : Hruuugh!
+[05:54:58]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[05:55:05]SAY: samak/ : Hrunnph
+[05:55:11]SAY: mouse (446)/ : Squeek!
+[05:55:13]EMOTE: mouse (876)/ : <B>The mouse (876)</B> shakes.
+[05:55:17]SAY: diyaab/ : Awrr?
+[05:55:23]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[05:55:25]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[05:55:32]ADMIN: Cassy_jenelle/(Camile Crafter) jumped to 139,161,7 in the Residential Area
+[05:55:49]ADMIN: Cassy_jenelle/(Camile Crafter) jumped to 133,160,7 in the Residential Area
+[05:55:51]SAY: diyaab/ : Aowrl!
+[05:55:53]SAY: mouse (892)/ : SQUEEK!
+[05:56:03]EMOTE: samak/ : <B>The samak</B> snuffles.
+[05:56:04]ADMIN: Cassy_jenelle/(Camile Crafter) spawned /area/centcom/living at (134,158,7)
+[05:56:05]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[05:56:05]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[05:56:11]EMOTE: mouse (213)/ : <B>The mouse (213)</B> squiks.
+[05:56:15]EMOTE: mouse (213)/ : <B>The mouse (213)</B> shakes.
+[05:56:15]SAY: samak/ : Hrunnph
+[05:56:19]EMOTE: mouse (678)/ : <B>The mouse (678)</B> runs in a circle.
+[05:56:21]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[05:56:35]EMOTE: crab/ : <B>The crab</B> clicks.
+[05:56:58]SAY: samak/ : Hrunnph
+[05:57:00]EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[05:57:00]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[05:57:10]SAY: kitten/ : HSSSSS
+[05:57:28]SAY: samak/ : Hrunnph
+[05:57:32]EMOTE: samak/ : <B>The samak</B> snuffles.
+[05:57:36]EMOTE: samak/ : <B>The samak</B> snuffles.
+[05:57:40]EMOTE: samak/ : <B>The samak</B> stomps.
+[05:57:40]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[05:57:47]EMOTE: Ian/ : <B>Ian</B> dances around
+[05:57:51]EMOTE: diyaab/ : <B>The diyaab</B> looks around.
+[05:57:59]SAY: mouse (446)/ : SQUEEK!
+[05:58:05]SAY: shantak/ : Shunpf
+[05:58:07]SAY: samak/ : Hruuugh!
+[05:58:37]EMOTE: bear/ : <B>The bear</B> stares alertly at the shantak
+[05:58:39]EMOTE: samak/ : <B>The samak</B> snuffles.
+[05:58:41]EMOTE: bear/ : <B>The bear</B> rawrs.
+[05:58:41]EMOTE: bear/ : <B>The bear</B> slashes at the shantak
+[05:58:41]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[05:58:43]EMOTE: bear/ : <B>The bear</B> slashes at the shantak
+[05:59:03]SAY: diyaab/ : Aowrl!
+[05:59:07]EMOTE: shantak/ : <B>The shantak</B> tinkles gently.
+[05:59:15]EMOTE: Runtime/ : <B>Runtime</B> mews.
+[05:59:17]EMOTE: Ian/ : <B>Ian</B> dances around
+[05:59:23]SAY: diyaab/ : Aowrl!
+[05:59:35]SAY: kitten/ : Purr!
+[05:59:37]EMOTE: shantak/ : <B>The shantak</B> scratches the ground.
+[05:59:43]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[05:59:43]EMOTE: diyaab/ : <B>The diyaab</B> snuffles.
+[05:59:45]SAY: samak/ : Hrunnph
+[05:59:55]SAY: diyaab/ : Awrr?
+[05:59:57]EMOTE: samak/ : <B>The samak</B> snuffles.
+[06:00:01]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[06:00:05]EMOTE: diyaab/ : <B>The diyaab</B> looks around.
+[06:00:09]EMOTE: samak/ : <B>The samak</B> stomps.
+[06:00:20]EMOTE: samak/ : <B>The samak</B> snuffles.
+[06:00:22]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[06:00:22]SAY: samak/ : Hruuugh!
+[06:00:24]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[06:00:32]SAY: samak/ : Hruuugh!
+[06:00:34]SAY: samak/ : Hrunnph
+[06:00:36]SAY: diyaab/ : Aowrl!
+[06:00:44]SAY: samak/ : Hruuugh!
+[06:00:48]SAY: Tiger/ : Esp!
+[06:00:52]EMOTE: Tiger/ : <B>Tiger</B> shakes their head.
+[06:01:08]EMOTE: samak/ : <B>The samak</B> snuffles.
+[06:01:12]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[06:01:14]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[06:01:20]SAY: shantak/ : Shuhn
+[06:01:24]SAY: diyaab/ : Worrl
+[06:01:24]EMOTE: diyaab/ : <B>The diyaab</B> looks around.
+[06:01:24]EMOTE: shantak/ : <B>The shantak</B> shakes out it's mane.
+[06:01:26]SAY: shantak/ : Shrunnph?
+[06:01:34]SAY: diyaab/ : Aowrl!
+[06:01:36]EMOTE: diyaab/ : <B>The diyaab</B> sniffs the air cautiously.
+[06:01:38]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[06:01:42]EMOTE: diyaab/ : <B>The diyaab</B> looks around.
+[06:01:50]EMOTE: samak/ : <B>The samak</B> stomps.
+[06:01:54]SAY: cat/ : Esp!
+[06:01:54]SAY: shantak/ : Shuhn
+[06:02:02]SAY: shantak/ : Shuhn
+[06:02:04]EMOTE: shantak/ : <B>The shantak</B> tinkles gently.
+[06:02:05]ACCESS: Logout: Cassy_jenelle/(Camile Crafter)

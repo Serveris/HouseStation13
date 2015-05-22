@@ -1,0 +1,2586 @@
+
+
+Starting up. 23:48.12
+---------------------
+[23:48:13]ADMIN: Loading jobban_rank
+[23:48:13]ADMIN: jobban_keylist was empty
+[23:48:13]ADMIN: Loading Banlist
+[23:48:15]DEBUG: Rebuilding Master Controller
+[23:48:29]ACCESS: Login: Kerbal22/(Kerbal22) from 24.181.70.89-3696110726 || BYOND v506
+[23:49:35]VOTE: Gamemode vote started by the server.
+[23:49:35]DEBUG: The server has called a gamemode vote
+[23:49:58]VOTE: Gamemode vote started by the server.
+[23:49:58]DEBUG: The server has called a gamemode vote
+[23:50:09]ACCESS: Login: Moom241/(Moom241) from 172.2.114.177-1501114251 || BYOND v506
+[23:50:58]VOTE: <b>Vote Result: extended</b>
+[23:52:20]DEBUG: Next event of severity Mundane in 16.352 minutes.
+[23:52:20]DEBUG: Next event of severity Moderate in 51.134 minutes.
+[23:52:20]DEBUG: Next event of severity Major in 96.4333 minutes.
+[23:52:25]EMOTE: Parrot/ : <B>The Parrot</B> turns and flies towards the deck of cards
+[23:52:27]EMOTE: mouse (674)/ : <B>The mouse (674)</B> squiks.
+[23:52:44]ACCESS: Logout: *no key*/(Moom241)
+[23:52:44]ACCESS: Login: Moom241/(Igam Yute) from 172.2.114.177-1501114251 || BYOND v506
+[23:52:59]EMOTE: mouse (457)/ : <B>The mouse (457)</B> shakes.
+[23:53:22]ACCESS: Logout: *no key*/(Kerbal22)
+[23:53:22]ACCESS: Login: Kerbal22/(Dominika Kuznetsov) from 24.181.70.89-3696110726 || BYOND v506
+[23:53:32]ADMIN: Kerbal22/(Dominika Kuznetsov) jumped to Aft Starboard Solar Maintenance
+[23:53:34]SAY: mouse (450)/ : Squeek!
+[23:53:44]EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[23:53:46]EMOTE: cat/ : <B>The cat</B> meows.
+[23:54:28]EMOTE: mouse (450)/ : <B>The mouse (450)</B> runs in a circle.
+[23:54:37]ACCESS: Logout: Kerbal22/(Dominika Kuznetsov)
+[23:54:40]EMOTE: kitten/ : <B>The kitten</B> mews.
+[23:54:46]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[23:54:48]SAY: Ian/ : YAP
+[23:54:54]EMOTE: Tom (255)/ : <B>Tom (255)</B> shakes.
+[23:54:56]EMOTE: kitten/ : <B>The kitten</B> mews.
+[23:55:18]SAY: mouse (753)/ : Squeek!
+[23:55:48]SAY: mouse (753)/ : Squeek!
+[23:55:52]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[23:56:00]SAY: Parrot/ : Hi
+[23:56:28]SAY: kitten/ : Purr!
+[23:57:11]SAY: Runtime/ : Purr!
+[23:57:11]EMOTE: cat/ : <B>The cat</B> meows.
+[23:57:25]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[23:59:00]EMOTE: Tom (118)/ : <B>Tom (118)</B> shakes.
+[00:00:11]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[00:00:44]EMOTE: cat/ : <B>The cat</B> mews.
+[00:01:34]EMOTE: mouse (457)/ : <B>The mouse (457)</B> runs in a circle.
+[00:02:02]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[00:02:04]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[00:02:06]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[00:02:14]EMOTE: mouse (457)/ : <B>The mouse (457)</B> shakes.
+[00:02:14]SAY: kitten/ : HSSSSS
+[00:02:18]EMOTE: kitten/ : <B>The kitten</B> mews.
+[00:02:30]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[00:03:03]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[00:03:09]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[00:03:15]EMOTE: mouse (753)/ : <B>The mouse (753)</B> squiks.
+[00:03:15]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[00:04:11]SAY: Experiment 97d/ : EHEHEHEHEH
+[00:04:29]EMOTE: cat/ : <B>The cat</B> mews.
+[00:05:01]EMOTE: crab/ : <B>The crab</B> clacks.
+[00:05:15]SAY: Runtime/ : Esp!
+[00:05:41]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[00:05:47]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[00:05:49]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[00:05:59]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[00:06:03]SAY: kitten/ : Meow!
+[00:06:09]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[00:06:17]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[00:07:06]SAY: kitten/ : HSSSSS
+[00:07:18]EMOTE: mouse (332)/ : <B>The mouse (332)</B> shakes.
+[00:07:46]EMOTE: kitten/ : <B>The kitten</B> meows.
+[00:08:43]SAY: kitten/ : HSSSSS
+[00:09:21]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[00:09:39]EMOTE: mouse (332)/ : <B>The mouse (332)</B> scritches at something.
+[00:09:42]DEBUG: Next event of severity Mundane in 16.282 minutes.
+[00:09:42]DEBUG: Starting event 'Lost Carp' of severity Mundane.
+[00:09:55]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[00:10:26]SAY: cat/ : HSSSSS
+[00:10:42]EMOTE: Tom (118)/ : <B>Tom (118)</B> squeaks.
+[00:10:42]SAY: kitten/ : HSSSSS
+[00:10:46]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[00:11:04]EMOTE: Ian/ : <B>Ian</B> dances around
+[00:11:30]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[00:11:32]EMOTE: Ian/ : <B>Ian</B> dances around
+[00:11:51]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[00:12:01]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[00:12:13]EMOTE: crab/ : <B>The crab</B> clacks.
+[00:12:29]EMOTE: mouse (332)/ : <B>The mouse (332)</B> shakes.
+[00:13:03]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[00:13:15]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[00:13:19]EMOTE: Ian/ : <B>Ian</B> shakes its head.
+[00:13:19]EMOTE: Ian/ : <B>Ian</B> dances around
+[00:13:38]SAY: cat/ : Meow!
+[00:13:40]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[00:13:52]SAY: Parrot/ : BAWWWWK george mellons griffing me
+[00:14:28]EMOTE: cat/ : <B>The cat</B> mews.
+[00:14:50]SAY: kitten/ : Esp!
+[00:15:06]SAY: kitten/ : Esp!
+[00:16:48]SAY: Ian/ : Bark!
+[00:16:55]ACCESS: Logout: Moom241/(Igam Yute)
+[00:18:16]EMOTE: Ian/ : <B>Ian</B> dances around
+[00:18:20]ACCESS: Login: Moom241/(Igam Yute) from 172.2.114.177-1501114251 || BYOND v506
+[00:18:36]SAY: grey baby slime (367)/ : Lonely...
+[00:18:55]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[00:19:03]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[00:19:11]EMOTE: crab/ : <B>The crab</B> clicks.
+[00:19:41]SAY: kitten/ : Meow!
+[00:19:53]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[00:20:01]EMOTE: mouse (332)/ : <B>The mouse (332)</B> squeeks.
+[00:20:03]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[00:20:07]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[00:21:18]EMOTE: crab/ : <B>The crab</B> clicks.
+[00:21:42]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[00:22:04]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[00:22:12]EMOTE: cat/ : <B>The cat</B> shivers.
+[00:22:59]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[00:23:49]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[00:24:09]SAY: grey baby slime (324)/ : Lonely...
+[00:24:25]SAY: cat/ : HSSSSS
+[00:25:05]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[00:25:41]EMOTE: crab/ : <B>The crab</B> clicks.
+[00:26:07]SAY: grey baby slime (367)/ : Rawr...
+[00:26:09]EMOTE: kitten/ : <B>The kitten</B> meows.
+[00:26:33]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[00:26:39]EMOTE: Parrot/ : <B>The Parrot</B> flutters its wings.
+[00:27:09]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[00:27:19]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[00:28:09]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[00:28:10]DEBUG: Next event of severity Mundane in 17.572 minutes.
+[00:28:10]DEBUG: Starting event 'Economic News' of severity Mundane.
+[00:28:11]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[00:28:25]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[00:28:44]ACCESS: Logout: Moom241/(Igam Yute)
+[00:35:45]ACCESS: Login: Moom241/(Igam Yute) from 172.2.114.177-1501114251 || BYOND v506
+[00:35:52]SAY: Parrot/ : BAWWWWK george mellons griffing me
+[00:36:04]SAY: grey baby slime (367)/ : Blop...
+[00:36:18]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[00:36:20]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[00:36:56]EMOTE: crab/ : <B>The crab</B> clicks.
+[00:37:14]EMOTE: Ian/ : <B>Ian</B> dances around
+[00:37:48]ACCESS: Logout: Moom241/(Igam Yute)
+[00:42:07]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[00:42:23]EMOTE: Ian/ : <B>Ian</B> dances around
+[00:42:49]ACCESS: Login: Moom241/(Igam Yute) from 172.2.114.177-1501114251 || BYOND v506
+[00:43:06]ACCESS: Logout: Moom241/(Igam Yute)
+[00:45:39]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[00:45:45]EMOTE: kitten/ : <B>The kitten</B> meows.
+[00:45:49]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[00:45:51]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[00:46:05]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[00:46:06]ACCESS: Login: Crescentise/(Crescentise) from 50.175.17.207-1743965798 || BYOND v506
+[00:46:13]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[00:46:44]SAY: kitten/ : Esp!
+[00:46:54]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[00:47:00]SAY: Runtime/ : Esp!
+[00:47:24]ACCESS: Logout: Crescentise/(Crescentise)
+[01:02:02]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[01:02:02]ACCESS: Login: Erik Tiber/(Erik Tiber) from 24.182.165.147-312342457 || BYOND v506
+[01:02:04]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[01:02:06]EMOTE: Ian/ : <B>Ian</B> woofs.
+[01:02:26]ACCESS: Logout: *no key*/(Erik Tiber)
+[01:02:26]ACCESS: Login: Erik Tiber/(Lachina Green) from 24.182.165.147-312342457 || BYOND v506
+[01:02:41]SAY: grey baby slime (367)/ : Lonely...
+[01:03:27]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[01:03:37]SAY: kitten/ : Meow!
+[01:03:41]ACCESS: Login: Cassy_jenelle/(Cassy_jenelle) from 81.104.88.62-1964287214 || BYOND v506
+[01:03:42]DEBUG: Event 'Economic News' has completed at 12:44.
+[01:04:14]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[01:04:16]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[01:04:28]EMOTE: Parrot/ : <B>The Parrot</B> bawks.
+[01:05:00]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[01:05:38]ACCESS: Login: Crescentise/(Crescentise) from 50.175.17.207-1743965798 || BYOND v506
+[01:06:20]SAY: Lachina Green/Erik Tiber : Oooooh, I can&#39;t seee me lovin&#39; nobody but you! For all my life!~
+[01:06:27]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[01:06:38]SAY: cat/ : HSSSSS
+[01:06:45]SAY: Lachina Green/Erik Tiber : When you&#39;re with me, baby, the skies will be blue, for all of time!~
+[01:07:36]EMOTE: Ian/ : <B>Ian</B> dances around
+[01:07:42]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[01:08:11]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[01:08:29]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[01:08:49]SAY: kitten/ : HSSSSS
+[01:08:53]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[01:09:04]SAY: kitten/ : Meow!
+[01:09:06]EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[01:09:18]SAY: cat/ : HSSSSS
+[01:09:50]EMOTE: kitten/ : <B>The kitten</B> mews.
+[01:10:20]EMOTE: crab/ : <B>The crab</B> clacks.
+[01:10:31]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[01:10:41]EMOTE: Ian/ : <B>Ian</B> dances around
+[01:10:51]ACCESS: Logout: *no key*/(Cassy_jenelle)
+[01:10:51]ACCESS: Login: Cassy_jenelle/(Lhinton Lovely) from 81.104.88.62-1964287214 || BYOND v506
+[01:10:55]EMOTE: Ian/ : <B>Ian</B> dances around
+[01:11:13]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[01:11:19]SAY: Ian/ : Bark!
+[01:12:15]EMOTE: kitten/ : <B>The kitten</B> mews.
+[01:12:44]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[01:12:50]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[01:12:58]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[01:13:14]EMOTE: kitten/ : <B>The kitten</B> mews.
+[01:13:22]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[01:13:28]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[01:13:39]DEBUG: Next event of severity Mundane in 15.444 minutes.
+[01:13:39]DEBUG: Starting event 'Trivial News' of severity Mundane.
+[01:13:40]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[01:13:46]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[01:14:01]DEBUG: Event 'Trivial News' has completed at 12:54.
+[01:14:37]DEBUG: Next event of severity Moderate in 52.318 minutes.
+[01:14:37]DEBUG: Starting event 'Communication Blackout' of severity Moderate.
+[01:14:39]DEBUG: Event 'Communication Blackout' has completed at 12:54.
+[01:14:53]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[01:14:57]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[01:14:57]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[01:14:59]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[01:15:03]SAY: Ian/ : Bark!
+[01:15:03]SAY: Parrot/ : Cracker?
+[01:15:21]DEBUG: Event 'Lost Carp' has completed at 12:55.
+[01:15:22]ACCESS: Logout: *no key*/(Lhinton Lovely)
+[01:15:22]ACCESS: Login: Cassy_jenelle/(Lhinton Lovely) from 81.104.88.62-1964287214 || BYOND v506
+[01:15:29]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[01:15:53]EMOTE: kitten/ : <B>The kitten</B> mews.
+[01:15:59]SAY: grey baby slime (324)/ : Where is the food?
+[01:15:59]ACCESS: Logout: *no key*/(Lhinton Lovely)
+[01:15:59]ACCESS: Login: Cassy_jenelle/(Lhinton Lovely) from 81.104.88.62-1964287214 || BYOND v506
+[01:16:26]SAY: grey baby slime (324)/ : Blop...
+[01:16:35]ACCESS: Logout: Crescentise/(Crescentise)
+[01:16:35]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> blinks.
+[01:16:38]SAY: kitten/ : Purr!
+[01:16:39]EMOTE: Lhinton Lovely/Cassy_jenelle : <B>Lhinton Lovely</B> winks, lifting up a hand to wave.
+[01:16:42]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[01:16:44]SAY: kitten/ : Meow!
+[01:16:44]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[01:16:53]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> blinks and waves.
+[01:16:59]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> nods slightly.
+[01:17:14]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[01:17:16]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[01:17:28]SAY: kitten/ : HSSSSS
+[01:17:40]EMOTE: Runtime/ : <B>Runtime</B> shakes their head.
+[01:17:43]ACCESS: Logout: *no key*/(Lhinton Lovely)
+[01:17:43]ACCESS: Login: Cassy_jenelle/(Lhinton Lovely) from 81.104.88.62-1964287214 || BYOND v506
+[01:17:46]EMOTE: cat/ : <B>The cat</B> shivers.
+[01:17:48]ADMIN: Cassy_jenelle/(Lhinton Lovely) allowed Cassy_jenelle/(Lhinton Lovely) to bypass the 30 minute respawn limit
+[01:17:53]GAME: Lhinton Lovely/Cassy_jenelle used abandon mob.
+[01:17:53]ACCESS: Logout: *no key*/(Lhinton Lovely)
+[01:17:53]ACCESS: Login: Cassy_jenelle/(new player) from 81.104.88.62-1964287214 || BYOND v506
+[01:18:08]EMOTE: kitten/ : <B>The kitten</B> meows.
+[01:18:20]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[01:18:20]ACCESS: Logout: *no key*/(new player)
+[01:18:20]ACCESS: Login: Cassy_jenelle/(Camile Crafter) from 81.104.88.62-1964287214 || BYOND v506
+[01:18:26]EMOTE: crab/ : <B>The crab</B> clicks.
+[01:18:28]SAY: kitten/ : HSSSSS
+[01:18:51]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> knocks on the door.
+[01:18:58]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> blinks. &#34;Oh, hello!&#34;
+[01:19:03]SAY: Camile Crafter/Cassy_jenelle : Uh...
+[01:19:04]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[01:19:05]SAY: Lachina Green/Erik Tiber : Heya  Cam, that must be why you didn&#39;t answer.
+[01:19:06]SAY: Camile Crafter/Cassy_jenelle : Lhinton?
+[01:19:10]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> blinks.
+[01:19:18]SAY: Lhinton Lovely/@Cassy_jenelle : Sup, Cam.
+[01:19:18]ADMIN: Cassy_jenelle/(Camile Crafter) forced @Cassy_jenelle/(Lhinton Lovely) to say: Sup, Cam.
+[01:19:26]SAY: Camile Crafter/Cassy_jenelle : Come in. Take a seat.
+[01:19:29]SAY: Lachina Green/Erik Tiber : ...Oh, right, sorry, heh-
+[01:19:31]SAY: Camile Crafter/Cassy_jenelle : Lhinton.
+[01:19:32]SAY: Lachina Green/Erik Tiber : O-oh, really?
+[01:19:34]SAY: Camile Crafter/Cassy_jenelle : Why don&#39;t you?
+[01:19:38]EMOTE: cat/ : <B>The cat</B> meows.
+[01:19:38]SAY: Camile Crafter/Cassy_jenelle : I mean...
+[01:19:39]SAY: Lachina Green/Erik Tiber : Oh, thank you!
+[01:19:51]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> sits down, smiling and folding her hands together on the table.
+[01:19:51]SAY: Camile Crafter/Cassy_jenelle : You&#39;ve already made yourself at home. Haven&#39;t you Lhint?
+[01:20:01]SAY: Lhinton Lovely/@Cassy_jenelle : Aren&#39;t you precious?
+[01:20:01]ADMIN: Cassy_jenelle/(Camile Crafter) forced @Cassy_jenelle/(Lhinton Lovely) to say: Aren&#39;t you precious?
+[01:20:10]SAY: Camile Crafter/Cassy_jenelle : Get out Lhinton. You&#39;re not welcome here.
+[01:20:12]SAY: grey baby slime (367)/ : Hungry...
+[01:20:12]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> blinks.
+[01:20:16]EMOTE: Ian/ : <B>Ian</B> dances around
+[01:20:16]SAY: kitten/ : Purr!
+[01:20:16]SAY: Lhinton Lovely/@Cassy_jenelle : Why not?
+[01:20:16]ADMIN: Cassy_jenelle/(Camile Crafter) forced @Cassy_jenelle/(Lhinton Lovely) to say: Why not?
+[01:20:21]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> shifts uncomfotably in her seat.
+[01:20:26]SAY: Parrot/ : BAWWWWK george mellons griffing me
+[01:20:26]SAY: kitten/ : HSSSSS
+[01:20:28]ADMIN: Cassy_jenelle/(Camile Crafter) assumed direct control of Lhinton Lovely.
+[01:20:28]ACCESS: Logout: *no key*/(Camile Crafter)
+[01:20:28]ACCESS: Login: cassyjenelle/(Lhinton Lovely) from 81.104.88.62-1964287214 || BYOND v506
+[01:20:38]SAY: Experiment 97d/ : Eh?
+[01:20:50]SAY: Runtime/ : Esp!
+[01:20:54]SAY: kitten/ : HSSSSS
+[01:20:58]SAY: kitten/ : Meow!
+[01:21:01]EMOTE: Lhinton Lovely/cassyjenelle : <B>Lhinton Lovely</B> crosses his arms, smiling widely at Camile Crafter with a hint of mischief in his eyes, &#34;I said, why not?&#34;
+[01:21:11]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> bites her lip.
+[01:21:19]SAY: Camile Crafter/ : Lhinton. I don&#39;t know what you want from me.
+[01:21:19]ADMIN: cassyjenelle/(Lhinton Lovely) forced *no key*/(Camile Crafter) to say: Lhinton. I don&#39;t know what you want from me.
+[01:21:39]SAY: Camile Crafter/ : I can&#39;t stand you bastards... just...
+[01:21:39]ADMIN: cassyjenelle/(Lhinton Lovely) forced *no key*/(Camile Crafter) to say: I can&#39;t stand you bastards... just...
+[01:21:44]SAY: Lhinton Lovely/cassyjenelle : Cam. Cam.
+[01:21:45]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> sinks down into the chair.
+[01:21:50]SAY: Lhinton Lovely/cassyjenelle : Cammy. Sweetheart.
+[01:21:54]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[01:21:55]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> attempts to meld into the chair.
+[01:21:56]SAY: kitten/ : Meow!
+[01:22:07]SAY: Lhinton Lovely/cassyjenelle : Came here for a reason blud.
+[01:22:18]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[01:22:20]SAY: Ian/ : YAP
+[01:22:26]SAY: Camile Crafter/ : What would that be?
+[01:22:26]ADMIN: cassyjenelle/(Lhinton Lovely) forced *no key*/(Camile Crafter) to say: What would that be?
+[01:22:29]ADMIN: cassyjenelle/(Lhinton Lovely) assumed direct control of Camile Crafter.
+[01:22:29]ACCESS: Logout: *no key*/(Lhinton Lovely)
+[01:22:29]ACCESS: Login: cassyjenelle/(Camile Crafter) from 81.104.88.62-1964287214 || BYOND v506
+[01:22:38]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[01:22:39]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> continues in her attempts to assimilate the chair into her being.
+[01:22:46]EMOTE: crab/ : <B>The crab</B> clacks.
+[01:22:52]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[01:23:06]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[01:23:07]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> stares coldly as Lhinton Lovely, you can see a hint of weariness in her eyes as they are focused on him.
+[01:23:14]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[01:23:27]ADMIN: cassyjenelle/(Camile Crafter) assumed direct control of Lhinton Lovely.
+[01:23:27]ACCESS: Logout: *no key*/(Camile Crafter)
+[01:23:27]ACCESS: Login: cassyjenelle/(Lhinton Lovely) from 81.104.88.62-1964287214 || BYOND v506
+[01:23:32]SAY: grey baby slime (367)/ : I want to eat...
+[01:23:44]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[01:23:52]EMOTE: Lhinton Lovely/cassyjenelle : <B>Lhinton Lovely</B> smiles, he extends a hand to carress Camile on her right cheek.
+[01:24:07]ADMIN: cassyjenelle/(Lhinton Lovely) assumed direct control of Camile Crafter.
+[01:24:07]ACCESS: Logout: *no key*/(Lhinton Lovely)
+[01:24:07]ACCESS: Login: cassyjenelle/(Camile Crafter) from 81.104.88.62-1964287214 || BYOND v506
+[01:24:10]SAY: grey baby slime (367)/ : Rawr...
+[01:24:16]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> grimaces.
+[01:24:28]SAY: cat/ : HSSSSS
+[01:24:30]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[01:24:30]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[01:24:30]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> angrily flicks Lhinton&#39;s hand away in disgust, &#34;Don&#39;t even try it.&#34;
+[01:24:35]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> flinches.
+[01:24:41]ADMIN: cassyjenelle/(Camile Crafter) assumed direct control of Lhinton Lovely.
+[01:24:41]ACCESS: Logout: *no key*/(Camile Crafter)
+[01:24:41]ACCESS: Login: cassyjenelle/(Lhinton Lovely) from 81.104.88.62-1964287214 || BYOND v506
+[01:24:50]SAY: Lhinton Lovely/cassyjenelle : Cam. Come back to us.
+[01:24:53]SAY: Lhinton Lovely/cassyjenelle : We miss you.
+[01:25:12]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[01:25:12]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[01:25:14]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[01:25:20]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[01:25:32]EMOTE: Lhinton Lovely/cassyjenelle : <B>Lhinton Lovely</B> continues smiling, retracting his hand back to his side, &#34;Think about it.&#34;
+[01:25:34]EMOTE: crab/ : <B>The crab</B> clacks.
+[01:25:39]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> opens her mouth, and closes it. 
+[01:25:50]SAY: Lhinton Lovely/cassyjenelle : Anyway. Just came to see ya. See how&#39;re you&#39;re doin&#39;...
+[01:25:59]SAY: Parrot/ : Hello!
+[01:26:11]SAY: Parrot/ : Hello!
+[01:26:11]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[01:26:20]EMOTE: Lhinton Lovely/cassyjenelle : <B>Lhinton Lovely</B> squints his eyes, smirking wickedly, &#34;Y&#39;know... where you /live/.&#34;
+[01:26:25]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[01:26:34]SAY: Camile Crafter/ : ...
+[01:26:34]ADMIN: cassyjenelle/(Lhinton Lovely) forced *no key*/(Camile Crafter) to say: ...
+[01:26:37]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[01:26:55]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[01:26:55]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[01:27:02]EMOTE: Lhinton Lovely/cassyjenelle : <B>Lhinton Lovely</B> chuckles a bit, &#34;Don&#39;t worry babe. Not bringing &#34;friends&#34; over. Not today anyway.&#34;
+[01:27:26]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> attempts to hide her face under her cap.
+[01:27:43]SAY: cat/ : HSSSSS
+[01:28:16]SAY: Runtime/ : Meow!
+[01:28:18]EMOTE: Lhinton Lovely/cassyjenelle : <B>Lhinton Lovely</B> quickly leans over to kiss Camile on the cheek as he goes to leave out of the door, &#34;Nice switchblade in your bedroom by the way. Glad to see you kept my gift.&#34;. He winks.
+[01:28:27]ACCESS: Logout: *no key*/(Lhinton Lovely)
+[01:28:27]ACCESS: Login: cassyjenelle/(Lhinton Lovely) from 81.104.88.62-1964287214 || BYOND v506
+[01:28:28]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> blinks.
+[01:28:31]ADMIN: cassyjenelle/(Lhinton Lovely) deleted Lhinton Lovely at (174,109,7)
+[01:28:33]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> blinks repeatedly.
+[01:28:43]ADMIN: cassyjenelle/(Lhinton Lovely) assumed direct control of Camile Crafter.
+[01:28:43]ACCESS: Logout: *no key*/(Lhinton Lovely)
+[01:28:43]ACCESS: Login: cassyjenelle/(Camile Crafter) from 81.104.88.62-1964287214 || BYOND v506
+[01:28:44]SAY: grey baby slime (367)/ : Where is the food?
+[01:28:44]SAY: Lachina Green/Erik Tiber : ...C-camile? Dear?
+[01:28:48]SAY: Lachina Green/Erik Tiber : ...W-who was that?
+[01:28:50]SAY: Camile Crafter/cassyjenelle : ...
+[01:28:51]SAY: Camile Crafter/cassyjenelle : God.
+[01:29:07]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> grimaces, &#34;I&#39;m sorry Locks. Just a moment.&#34;
+[01:29:12]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> nods slightly.
+[01:29:35]ACCESS: Logout: *no key*/(Camile Crafter)
+[01:29:35]ACCESS: Login: cassyjenelle/(Camile Crafter) from 81.104.88.62-1964287214 || BYOND v506
+[01:29:36]EMOTE: Parrot/ : <B>The Parrot</B> squawks.
+[01:29:55]ACCESS: Logout: *no key*/(Camile Crafter)
+[01:29:55]ACCESS: Login: cassyjenelle/(Camile Crafter) from 81.104.88.62-1964287214 || BYOND v506
+[01:30:01]DEBUG: Next event of severity Mundane in 14.72 minutes.
+[01:30:01]DEBUG: Starting event 'Trivial News' of severity Mundane.
+[01:30:08]SAY: Camile Crafter/cassyjenelle : I&#39;m sorry you had to see that.
+[01:30:11]EMOTE: Parrot/ : <B>The Parrot</B> bawks.
+[01:30:13]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> bites her lip and stares down at the table, nodding.
+[01:30:16]SAY: Lachina Green/Erik Tiber : S&#39;okay.
+[01:30:23]DEBUG: Event 'Trivial News' has completed at 13:09.
+[01:30:23]SAY: Lachina Green/Erik Tiber : But, ah, are you alright?
+[01:30:26]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> scratches her neck awkwardly, &#34;Y&#39;know... an ex. Ha.&#34;
+[01:30:33]SAY: Camile Crafter/cassyjenelle : It&#39;s nothin&#39;. Nothin&#39;.
+[01:30:35]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> nods slightly, grimacing.
+[01:30:48]SAY: Lachina Green/Erik Tiber : ...Oh, dear. Ah,  uh...
+[01:30:51]SAY: grey baby slime (367)/ : Blop...
+[01:31:05]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> nods, smiling slightly. It&#39;s obviously forced.
+[01:31:08]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[01:31:12]EMOTE: Ian/ : <B>Ian</B> barks.
+[01:31:19]SAY: Camile Crafter/cassyjenelle : So... How&#39;ve you been?
+[01:31:23]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> blinks.
+[01:31:25]SAY: Lachina Green/Erik Tiber : Oh, ah..
+[01:31:28]SAY: Lachina Green/Erik Tiber : ..R-rather, ah, good?
+[01:31:32]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[01:31:33]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> nods to herself.
+[01:31:38]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[01:31:38]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[01:31:40]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[01:31:50]SAY: Lachina Green/Erik Tiber : Just ah. YEah.
+[01:32:01]SAY: Camile Crafter/cassyjenelle : Need anything?
+[01:32:05]SAY: Camile Crafter/cassyjenelle : Coffee maybe?
+[01:32:10]SAY: Lachina Green/Erik Tiber : Bea&#39;s, she&#39;s, having some ,ah, she&#39;s... dealing with, ah Nova&#39;s stuff-oh, ah..
+[01:32:12]SAY: Lachina Green/Erik Tiber : Y-yes please.
+[01:32:14]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> nods.
+[01:32:16]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> nods a bit.
+[01:32:20]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[01:32:26]EMOTE: cat/ : <B>The cat</B> meows.
+[01:32:30]SAY: Experiment 97d/ : EHEHEHEHEH
+[01:32:31]ADMIN: cassyjenelle/(Camile Crafter) spawned /obj/item/weapon/reagent_containers/food/drinks/coffee at (182,112,7)
+[01:32:47]ADMIN: cassyjenelle/(Camile Crafter) spawned /obj/item/weapon/reagent_containers/food/drinks/britcup at (182,111,7)
+[01:33:02]SAY: kitten/ : Esp!
+[01:33:08]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[01:33:10]SAY: grey baby slime (324)/ : Lonely...
+[01:33:10]EMOTE: crab/ : <B>The crab</B> clicks.
+[01:33:26]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> places the mug onto the table, &#34;Here you go, it&#39;s hot though...&#34;
+[01:33:42]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[01:33:53]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> rests her arm onto the armchair, &#34;You were saying about Bea?&#34;
+[01:34:08]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[01:34:10]SAY: cat/ : Purr!
+[01:34:13]SAY: Lachina Green/Erik Tiber : 0hl ah;\
+[01:34:14]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[01:34:21]SAY: Lachina Green/Erik Tiber : Well, ah.
+[01:34:27]SAY: Lachina Green/Erik Tiber : She&#39;s, ah... well, we, had a discussion.
+[01:34:34]SAY: Camile Crafter/cassyjenelle : Mhm?
+[01:34:35]SAY: Lachina Green/Erik Tiber : And. Ah, told each other. Private things.
+[01:34:44]SAY: Camile Crafter/cassyjenelle : Oh? What about?
+[01:34:45]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[01:34:52]SAY: Lachina Green/Erik Tiber : And he and, ah ,...
+[01:35:01]SAY: Lachina Green/Erik Tiber : Well, erm, it was. er,...
+[01:35:07]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[01:35:11]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[01:35:31]SAY: Lachina Green/Erik Tiber : Persoal.
+[01:35:38]SAY: Camile Crafter/cassyjenelle : Personal things hm?
+[01:35:38]SAY: Lachina Green/Erik Tiber : I would. Rather not talk about it.
+[01:35:43]SAY: Lachina Green/Erik Tiber : ..Sorry.
+[01:35:49]SAY: Camile Crafter/cassyjenelle : I won&#39;t prod, no worries.
+[01:35:57]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[01:36:01]EMOTE: Ian/ : <B>Ian</B> dances around
+[01:36:01]SAY: Camile Crafter/cassyjenelle : Bea and I have been through stuff recently.
+[01:36:11]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[01:36:12]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> grimaces.
+[01:36:13]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[01:36:13]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> sighs deeply resting back into her chair.
+[01:36:24]SAY: Camile Crafter/cassyjenelle : I don&#39;t wanna talk about those things either.
+[01:36:39]SAY: Camile Crafter/cassyjenelle : Considering what to do with my life really.
+[01:36:41]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> lightly leans over, pulling Camile into a hug and pattan EMme nods.
+[01:36:48]OOC: (LOCAL) Lachina Green/Erik Tiber : shit.
+[01:36:49]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[01:36:51]OOC: (LOCAL) Lachina Green/Erik Tiber : shitttt
+[01:36:56]OOC: (LOCAL) Camile Crafter/Cassy_jenelle : lel
+[01:37:08]EMOTE: Parrot/ : <B>The Parrot</B> bawks.
+[01:37:09]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> leans over, pulling Camile into a hug and patting her on the back.
+[01:37:23]SAY: Camile Crafter/cassyjenelle : You know...
+[01:37:28]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[01:37:32]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[01:37:36]SAY: Lachina Green/Erik Tiber : Yes, dear?
+[01:37:40]SAY: grey baby slime (367)/ : I want to eat...
+[01:37:56]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[01:38:00]SAY: Camile Crafter/cassyjenelle : I don&#39;t know how to feel about anything.
+[01:38:00]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[01:38:16]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> nods slightly.
+[01:38:17]SAY: Lachina Green/Erik Tiber : ...Yeah.
+[01:38:19]SAY: Camile Crafter/cassyjenelle : I... like Bea quite a bit I &#39;ppose.
+[01:38:23]SAY: Runtime/ : Meow!
+[01:38:24]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[01:38:24]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[01:38:27]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[01:38:43]SAY: Camile Crafter/cassyjenelle : But... I think she&#39;s moreova... sentimental type.
+[01:38:57]SAY: Camile Crafter/cassyjenelle : I mean, this wouldn&#39;t be such a big deal overall but.
+[01:38:58]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> nods slightly.
+[01:38:59]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[01:39:35]SAY: Parrot/ : Hello!
+[01:39:43]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> slumps in her chair a bit, sighing lightly, &#34;I think she&#39;s going through a lot right now, I don&#39;t want to be a rebound or anythin&#39;&#34;
+[01:40:00]SAY: Camile Crafter/cassyjenelle : And I don&#39;t want to offer her things I can&#39;t provide and stuff.
+[01:40:02]EMOTE: Ian/ : <B>Ian</B> dances around
+[01:40:02]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[01:40:04]SAY: grey baby slime (367)/ : Hungry...
+[01:40:04]EMOTE: kitten/ : <B>The kitten</B> meows.
+[01:40:10]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[01:40:14]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[01:40:16]SAY: Camile Crafter/cassyjenelle : Like... a serious relationship or commitment.
+[01:40:48]SAY: Camile Crafter/cassyjenelle : Those things are really hard for me, I&#39;m scared.
+[01:41:13]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[01:41:15]SAY: Camile Crafter/cassyjenelle : But, since I told her I like her... thing&#39;ve been awkward. I kind of regret it, but at the same time I don&#39;t.
+[01:41:15]EMOTE: kitten/ : <B>The kitten</B> mews.
+[01:41:22]SAY: Camile Crafter/cassyjenelle : I&#39;m so conflicted...
+[01:41:31]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> places her head on her fists.
+[01:41:35]SAY: kitten/ : Meow!
+[01:41:45]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[01:41:55]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[01:42:40]EMOTE: Ian/ : <B>Ian</B> dances around
+[01:43:12]SAY: cat/ : Esp!
+[01:43:14]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[01:44:07]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[01:44:41]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[01:44:51]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[01:45:24]EMOTE: Ian/ : <B>Ian</B> dances around
+[01:45:24]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[01:45:28]DEBUG: Next event of severity Mundane in 16.172 minutes.
+[01:45:28]DEBUG: Starting event 'Money Hacker' of severity Mundane.
+[01:45:56]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[01:46:06]EMOTE: Ian/ : <B>Ian</B> pants.
+[01:46:16]SAY: kitten/ : Meow!
+[01:47:23]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[01:47:36]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> yawns a bit with a hand waving over her mouth, &#34;Woah. I&#39;m tired. Gonna hit the hay.&#34;
+[01:47:41]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[01:48:00]SAY: Camile Crafter/cassyjenelle : If you wanna sleep over, feel free. There&#39;s bedcovers in the bathroom.
+[01:48:06]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[01:48:55]EMOTE: cat/ : <B>The cat</B> mews.
+[01:48:58]ADMIN: cassyjenelle/(Camile Crafter) spawned /obj/structure/closet/wardrobe/pjs at (172,119,7)
+[01:49:03]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[01:49:13]ADMIN: cassyjenelle/(Camile Crafter) deleted the pajama wardrobe at (172,119,7)
+[01:49:27]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[01:49:28]ACCESS: Logout: *no key*/(Camile Crafter)
+[01:49:28]ACCESS: Login: cassyjenelle/(Camile Crafter) from 81.104.88.62-1964287214 || BYOND v506
+[01:49:29]SAY: Runtime/ : Meow!
+[01:49:35]ACCESS: Logout: *no key*/(Camile Crafter)
+[01:49:35]ACCESS: Login: cassyjenelle/(Camile Crafter) from 81.104.88.62-1964287214 || BYOND v506
+[01:49:45]ACCESS: Logout: cassyjenelle/(Camile Crafter)
+[01:49:52]EMOTE: kitten/ : <B>The kitten</B> meows.
+[01:50:00]SAY: grey baby slime (367)/ : Rawr...
+[01:50:22]EMOTE: cat/ : <B>The cat</B> meows.
+[01:50:26]SAY: Ian/ : YAP
+[01:50:40]SAY: Parrot/ : BAWWWWK george mellons griffing me
+[01:50:52]SAY: grey baby slime (367)/ : Rawr...
+[01:50:58]SAY: grey baby slime (367)/ : Hungry...
+[01:50:58]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[01:51:19]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[01:51:27]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[01:51:31]SAY: Runtime/ : HSSSSS
+[01:51:39]EMOTE: Ian/ : <B>Ian</B> dances around
+[01:51:49]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[01:51:58]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[01:52:18]EMOTE: Ian/ : <B>Ian</B> woofs.
+[01:52:40]EMOTE: kitten/ : <B>The kitten</B> mews.
+[01:52:53]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[01:53:01]EMOTE: Runtime/ : <B>Runtime</B> shakes their head.
+[01:53:01]EMOTE: Ian/ : <B>Ian</B> dances around
+[01:53:03]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[01:53:44]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[01:54:14]EMOTE: cat/ : <B>The cat</B> meows.
+[01:54:34]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[01:54:56]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[01:55:19]EMOTE: cat/ : <B>The cat</B> shivers.
+[01:55:31]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[01:55:39]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[01:55:52]DEBUG: Event 'Money Hacker' has completed at 13:34.
+[01:55:57]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[01:56:07]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[01:56:40]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[01:57:04]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[01:57:08]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[01:57:39]EMOTE: Parrot/ : <B>The Parrot</B> squawks.
+[01:57:45]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[01:58:24]SAY: grey baby slime (324)/ : Blop...
+[01:58:32]EMOTE: Ian/ : <B>Ian</B> shivers.
+[01:58:50]EMOTE: Ian/ : <B>Ian</B> woofs.
+[01:58:50]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[01:58:52]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[01:59:04]SAY: grey baby slime (324)/ : Blop...
+[01:59:08]EMOTE: Ian/ : <B>Ian</B> dances around
+[01:59:13]EMOTE: Ian/ : <B>Ian</B> dances around
+[01:59:15]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[01:59:19]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[01:59:35]SAY: grey baby slime (324)/ : Rawr...
+[02:00:05]SAY: grey baby slime (367)/ : Where is the food?
+[02:00:11]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[02:00:26]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[02:00:28]EMOTE: crab/ : <B>The crab</B> clacks.
+[02:00:36]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[02:00:42]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[02:00:48]SAY: grey baby slime (324)/ : Where is the food?
+[02:00:52]EMOTE: Ian/ : <B>Ian</B> dances around
+[02:01:00]EMOTE: Ian/ : <B>Ian</B> shivers.
+[02:01:11]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[02:02:01]SAY: cat/ : Purr!
+[02:02:06]DEBUG: Next event of severity Major in 81.496 minutes.
+[02:02:06]DEBUG: Starting event 'Nothing' of severity Major.
+[02:02:08]DEBUG: Event 'Nothing' has completed at 13:40.
+[02:02:14]SAY: Ian/ : Bark!
+[02:02:14]SAY: Experiment 97d/ : Eh?
+[02:02:18]DEBUG: Next event of severity Mundane in 13.608 minutes.
+[02:02:18]DEBUG: Starting event 'Nothing' of severity Mundane.
+[02:02:20]DEBUG: Event 'Nothing' has completed at 13:40.
+[02:02:26]EMOTE: kitten/ : <B>The kitten</B> mews.
+[02:02:28]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[02:02:32]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[02:02:46]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[02:02:54]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[02:03:02]EMOTE: Ian/ : <B>Ian</B> yaps.
+[02:03:15]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[02:03:21]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[02:03:23]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[02:03:29]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> shakes its head.
+[02:03:31]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[02:04:06]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> shakes its head.
+[02:04:10]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[02:04:18]EMOTE: crab/ : <B>The crab</B> clacks.
+[02:04:30]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[02:04:55]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[02:04:57]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[02:05:01]EMOTE: Parrot/ : <B>The Parrot</B> flutters its wings.
+[02:05:13]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[02:05:21]SAY: Parrot/ : Hello!
+[02:05:56]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[02:06:08]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[02:07:07]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[02:07:09]SAY: grey baby slime (367)/ : Rawr...
+[02:07:23]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[02:07:47]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[02:07:59]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[02:08:24]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[02:08:28]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[02:08:38]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[02:08:58]SAY: cat/ : Purr!
+[02:09:11]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[02:09:15]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[02:09:23]DEBUG: Next event of severity Moderate in 52.776 minutes.
+[02:09:23]DEBUG: Starting event 'Nothing' of severity Moderate.
+[02:09:25]DEBUG: Event 'Nothing' has completed at 13:47.
+[02:09:41]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[02:09:48]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[02:09:54]SAY: Ian/ : YAP
+[02:09:58]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[02:10:44]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[02:11:15]SAY: kitten/ : Esp!
+[02:11:23]EMOTE: cat/ : <B>The cat</B> meows.
+[02:11:37]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[02:11:51]EMOTE: crab/ : <B>The crab</B> clicks.
+[02:12:11]SAY: cat/ : Purr!
+[02:12:11]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[02:12:25]EMOTE: Ian/ : <B>Ian</B> dances around
+[02:12:38]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[02:12:42]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[02:12:44]SAY: grey baby slime (324)/ : Where is the food?
+[02:13:34]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[02:14:00]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[02:14:47]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[02:15:02]EMOTE: kitten/ : <B>The kitten</B> meows.
+[02:15:04]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[02:15:06]EMOTE: crab/ : <B>The crab</B> clacks.
+[02:15:34]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[02:15:36]SAY: cat/ : Purr!
+[02:16:19]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[02:16:26]DEBUG: Next event of severity Mundane in 15.822 minutes.
+[02:16:26]DEBUG: Starting event 'Economic News' of severity Mundane.
+[02:16:30]EMOTE: crab/ : <B>The crab</B> clicks.
+[02:16:34]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[02:16:44]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[02:16:50]EMOTE: crab/ : <B>The crab</B> clicks.
+[02:16:52]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[02:16:56]SAY: kitten/ : Meow!
+[02:16:56]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[02:17:08]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[02:17:16]SAY: grey baby slime (324)/ : So... hungry...
+[02:18:46]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[02:18:48]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[02:18:56]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[02:19:33]SAY: grey baby slime (324)/ : Rawr...
+[02:19:37]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[02:19:57]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[02:20:07]SAY: kitten/ : HSSSSS
+[02:20:12]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[02:20:20]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[02:20:30]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[02:20:30]EMOTE: cat/ : <B>The cat</B> mews.
+[02:20:32]EMOTE: Ian/ : <B>Ian</B> shakes its head.
+[02:21:04]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[02:21:05]DEBUG: Event 'Economic News' has completed at 13:58.
+[02:21:31]SAY: grey baby slime (324)/ : Need... food...
+[02:21:37]SAY: kitten/ : Purr!
+[02:22:05]SAY: kitten/ : Esp!
+[02:22:26]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[02:22:28]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[02:22:32]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[02:22:32]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[02:22:34]EMOTE: crab/ : <B>The crab</B> clacks.
+[02:22:38]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[02:22:48]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[02:23:05]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[02:23:35]SAY: Ian/ : Bark!
+[02:23:35]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[02:23:39]EMOTE: Runtime/ : <B>Runtime</B> mews.
+[02:23:41]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[02:23:49]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[02:24:26]SAY: grey baby slime (367)/ : Blop...
+[02:24:58]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[02:25:02]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[02:25:02]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[02:25:43]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[02:26:03]SAY: Runtime/ : Meow!
+[02:26:29]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[02:26:50]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[02:26:52]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[02:26:54]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[02:27:08]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[02:27:14]EMOTE: kitten/ : <B>The kitten</B> meows.
+[02:27:31]SAY: grey baby slime (324)/ : So... hungry...
+[02:27:35]SAY: Ian/ : AUUUUUU
+[02:27:55]EMOTE: Ian/ : <B>Ian</B> yaps.
+[02:28:11]EMOTE: cat/ : <B>The cat</B> mews.
+[02:28:19]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[02:28:23]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[02:28:31]EMOTE: Ian/ : <B>Ian</B> pants.
+[02:29:08]SAY: grey baby slime (367)/ : Need... food...
+[02:29:14]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[02:29:16]EMOTE: Ian/ : <B>Ian</B> shivers.
+[02:29:26]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[02:29:32]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> nods.
+[02:29:34]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[02:30:09]SAY: grey baby slime (367)/ : Very... hungry...
+[02:30:15]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[02:30:21]EMOTE: cat/ : <B>The cat</B> meows.
+[02:30:52]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[02:31:22]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[02:31:22]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[02:31:41]EMOTE: crab/ : <B>The crab</B> clicks.
+[02:31:43]SAY: kitten/ : HSSSSS
+[02:31:43]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[02:31:55]SAY: Parrot/ : Hello!
+[02:32:19]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[02:32:23]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[02:32:33]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[02:32:53]DEBUG: Next event of severity Mundane in 15.388 minutes.
+[02:32:53]DEBUG: Starting event 'Trivial News' of severity Mundane.
+[02:32:55]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[02:33:05]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[02:33:14]DEBUG: Event 'Trivial News' has completed at 14:10.
+[02:33:19]SAY: kitten/ : Meow!
+[02:33:40]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[02:33:48]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[02:34:12]SAY: grey baby slime (324)/ : Must... eat...
+[02:34:16]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[02:34:16]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[02:34:40]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[02:34:48]SAY: cat/ : Esp!
+[02:35:13]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[02:35:27]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[02:35:31]SAY: grey baby slime (367)/ : Rawr...
+[02:35:47]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[02:36:01]SAY: grey baby slime (324)/ : Very... hungry...
+[02:36:11]EMOTE: crab/ : <B>The crab</B> clacks.
+[02:36:17]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[02:37:04]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[02:37:12]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[02:37:14]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[02:37:25]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[02:37:39]SAY: Runtime/ : Esp!
+[02:37:49]SAY: grey baby slime (324)/ : Need... food...
+[02:37:51]EMOTE: cat/ : <B>The cat</B> shivers.
+[02:37:51]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[02:38:01]SAY: Runtime/ : Esp!
+[02:38:09]SAY: grey baby slime (367)/ : Blop...
+[02:38:13]SAY: grey baby slime (367)/ : Need... food...
+[02:38:13]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[02:38:18]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[02:39:00]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[02:39:02]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[02:39:02]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[02:39:03]EMOTE: kitten/ : <B>The kitten</B> mews.
+[02:39:15]SAY: kitten/ : Meow!
+[02:39:17]SAY: grey baby slime (324)/ : So... hungry...
+[02:39:37]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[02:39:53]SAY: Runtime/ : Purr!
+[02:40:09]SAY: kitten/ : Esp!
+[02:40:21]SAY: Runtime/ : HSSSSS
+[02:40:36]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[02:40:52]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[02:41:02]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[02:41:04]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[02:41:34]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[02:41:42]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[02:41:48]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[02:42:11]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[02:42:13]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[02:42:27]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[02:42:59]SAY: grey baby slime (367)/ : Blop...
+[02:43:04]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[02:43:06]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[02:43:18]SAY: Ian/ : Woof!
+[02:43:20]SAY: kitten/ : HSSSSS
+[02:44:27]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[02:44:29]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[02:44:41]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[02:44:51]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[02:44:58]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[02:45:04]SAY: cat/ : Meow!
+[02:45:42]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[02:45:44]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[02:46:01]SAY: Parrot/ : Hello!
+[02:46:15]EMOTE: crab/ : <B>The crab</B> clacks.
+[02:46:29]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[02:46:33]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[02:47:02]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[02:47:08]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[02:47:16]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[02:47:18]EMOTE: Ian/ : <B>Ian</B> dances around
+[02:48:07]SAY: grey baby slime (367)/ : Need... food...
+[02:48:50]DEBUG: Next event of severity Mundane in 12.106 minutes.
+[02:48:50]DEBUG: Starting event 'Trivial News' of severity Mundane.
+[02:49:12]DEBUG: Event 'Trivial News' has completed at 14:25.
+[02:49:30]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[02:49:58]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[02:50:00]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[02:50:07]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[02:50:23]SAY: Ian/ : Bark!
+[02:50:25]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[02:50:39]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[02:50:49]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[02:50:54]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[02:50:58]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[02:51:16]SAY: kitten/ : Purr!
+[02:51:34]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[02:52:01]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[02:52:35]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[02:52:41]EMOTE: Ian/ : <B>Ian</B> dances around
+[02:52:58]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[02:53:10]EMOTE: Ian/ : <B>Ian</B> dances around
+[02:53:12]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[02:53:20]EMOTE: crab/ : <B>The crab</B> clicks.
+[02:53:48]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[02:54:19]SAY: cat/ : Esp!
+[02:54:31]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[02:54:39]SAY: grey baby slime (324)/ : Blop...
+[02:55:02]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[02:55:30]EMOTE: Ian/ : <B>Ian</B> dances around
+[02:55:44]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[02:55:55]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[02:55:55]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[02:56:01]EMOTE: Ian/ : <B>Ian</B> shivers.
+[02:56:03]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[02:56:17]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[02:56:37]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[02:56:39]SAY: grey baby slime (324)/ : Rawr...
+[02:56:39]SAY: Experiment 97d/ : Eh?
+[02:57:04]SAY: cat/ : Purr!
+[02:57:06]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[02:58:11]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[02:58:45]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[02:59:20]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[03:00:51]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[03:00:52]EMOTE: crab/ : <B>The crab</B> clacks.
+[03:01:04]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[03:01:20]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[03:01:25]DEBUG: Next event of severity Mundane in 17.008 minutes.
+[03:01:25]DEBUG: Starting event 'Economic News' of severity Mundane.
+[03:01:26]SAY: cat/ : Meow!
+[03:01:26]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[03:01:28]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[03:01:28]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[03:01:32]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[03:01:38]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[03:01:46]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[03:02:00]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[03:02:41]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[03:02:43]EMOTE: crab/ : <B>The crab</B> clacks.
+[03:03:03]EMOTE: crab/ : <B>The crab</B> clacks.
+[03:03:09]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[03:03:26]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[03:03:38]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[03:03:48]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[03:04:07]DEBUG: Next event of severity Moderate in 42.71 minutes.
+[03:04:07]DEBUG: Starting event 'Nothing' of severity Moderate.
+[03:04:09]DEBUG: Event 'Nothing' has completed at 14:40.
+[03:04:29]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[03:04:53]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[03:05:05]EMOTE: cat/ : <B>The cat</B> meows.
+[03:05:08]DEBUG: Event 'Economic News' has completed at 14:41.
+[03:05:11]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[03:05:17]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[03:05:21]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[03:05:23]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[03:05:25]EMOTE: Ian/ : <B>Ian</B> dances around
+[03:05:47]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[03:05:52]EMOTE: Ian/ : <B>Ian</B> barks.
+[03:05:56]SAY: Runtime/ : HSSSSS
+[03:06:18]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[03:06:59]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[03:07:53]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[03:08:18]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[03:08:20]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[03:08:22]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[03:08:59]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[03:09:39]EMOTE: Ian/ : <B>Ian</B> dances around
+[03:09:45]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[03:09:51]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[03:09:58]EMOTE: kitten/ : <B>The kitten</B> meows.
+[03:10:14]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[03:10:22]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[03:10:28]SAY: Ian/ : AUUUUUU
+[03:10:38]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[03:10:44]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[03:10:54]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[03:11:00]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[03:11:08]SAY: cat/ : Meow!
+[03:11:16]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[03:11:18]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[03:11:22]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[03:11:27]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[03:11:35]EMOTE: cat/ : <B>The cat</B> shivers.
+[03:11:47]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> shakes its head.
+[03:11:47]SAY: kitten/ : HSSSSS
+[03:12:11]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[03:12:21]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[03:12:52]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[03:12:56]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[03:13:54]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[03:14:02]SAY: Runtime/ : Purr!
+[03:14:35]SAY: kitten/ : HSSSSS
+[03:14:41]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[03:14:55]EMOTE: Ian/ : <B>Ian</B> woofs.
+[03:15:18]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[03:15:36]EMOTE: crab/ : <B>The crab</B> clicks.
+[03:15:36]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[03:15:44]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[03:15:46]SAY: Parrot/ : Hello!
+[03:15:54]SAY: cat/ : Purr!
+[03:16:00]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[03:16:08]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[03:16:20]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[03:16:47]SAY: cat/ : Esp!
+[03:17:07]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[03:17:09]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[03:17:13]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[03:17:40]SAY: kitten/ : HSSSSS
+[03:17:42]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[03:18:22]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[03:19:07]DEBUG: Next event of severity Mundane in 15.89 minutes.
+[03:19:07]DEBUG: Starting event 'Trivial News' of severity Mundane.
+[03:19:13]SAY: kitten/ : Esp!
+[03:19:27]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[03:19:29]DEBUG: Event 'Trivial News' has completed at 14:54.
+[03:19:45]SAY: Runtime/ : HSSSSS
+[03:19:53]EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[03:20:03]SAY: Ian/ : Woof!
+[03:20:22]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[03:20:30]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[03:21:36]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[03:21:49]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[03:21:59]SAY: Ian/ : Bark!
+[03:22:27]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[03:22:39]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[03:22:45]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[03:22:49]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[03:23:04]SAY: Ian/ : YAP
+[03:23:42]SAY: Ian/ : Woof!
+[03:23:48]VOTE: Crew_transfer vote started by the server.
+[03:23:48]DEBUG: The server has called a crew transfer vote
+[03:23:56]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[03:24:13]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[03:24:25]EMOTE: kitten/ : <B>The kitten</B> meows.
+[03:24:52]VOTE: <b>Vote Result: Inconclusive - No Votes!</b>
+[03:24:59]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[03:25:03]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[03:25:24]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[03:25:50]EMOTE: Ian/ : <B>Ian</B> dances around
+[03:26:00]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[03:26:06]SAY: cat/ : HSSSSS
+[03:26:20]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[03:26:31]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[03:26:33]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[03:26:35]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[03:26:41]DEBUG: Next event of severity Major in 73.644 minutes.
+[03:26:41]DEBUG: Starting event 'Nothing' of severity Major.
+[03:26:43]DEBUG: Event 'Nothing' has completed at 15:01.
+[03:26:43]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[03:26:43]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[03:26:57]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[03:27:05]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[03:27:07]EMOTE: kitten/ : <B>The kitten</B> meows.
+[03:27:46]EMOTE: cat/ : <B>The cat</B> mews.
+[03:27:48]EMOTE: crab/ : <B>The crab</B> clacks.
+[03:27:56]EMOTE: cat/ : <B>The cat</B> meows.
+[03:28:14]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[03:28:20]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[03:28:34]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[03:28:38]SAY: cat/ : HSSSSS
+[03:28:59]SAY: cat/ : Esp!
+[03:29:01]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[03:29:15]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[03:30:03]EMOTE: crab/ : <B>The crab</B> clicks.
+[03:30:52]EMOTE: cat/ : <B>The cat</B> mews.
+[03:31:11]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[03:31:23]EMOTE: crab/ : <B>The crab</B> clacks.
+[03:32:52]SAY: kitten/ : Purr!
+[03:33:02]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[03:33:26]SAY: Experiment 97d/ : Eh?
+[03:34:05]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[03:34:17]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[03:34:48]SAY: kitten/ : HSSSSS
+[03:34:48]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[03:34:54]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[03:35:02]SAY: cat/ : Esp!
+[03:35:08]EMOTE: cat/ : <B>The cat</B> shivers.
+[03:35:08]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[03:35:10]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[03:35:28]EMOTE: crab/ : <B>The crab</B> clicks.
+[03:35:35]DEBUG: Next event of severity Mundane in 17.772 minutes.
+[03:35:35]DEBUG: Starting event 'Nothing' of severity Mundane.
+[03:35:37]DEBUG: Event 'Nothing' has completed at 15:10.
+[03:35:49]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[03:36:11]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[03:36:31]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[03:36:58]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[03:37:00]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[03:37:08]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[03:38:07]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[03:38:09]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[03:38:21]EMOTE: Ian/ : <B>Ian</B> dances around
+[03:38:45]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[03:39:01]EMOTE: kitten/ : <B>The kitten</B> meows.
+[03:39:11]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[03:39:23]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[03:39:36]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[03:39:38]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[03:40:02]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[03:40:14]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[03:40:41]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[03:40:59]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[03:41:01]EMOTE: crab/ : <B>The crab</B> clacks.
+[03:41:19]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[03:41:44]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[03:42:10]SAY: kitten/ : HSSSSS
+[03:42:22]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[03:42:32]SAY: Runtime/ : Esp!
+[03:42:36]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[03:44:11]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[03:44:18]SAY: Parrot/ : Hello!
+[03:44:24]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[03:44:26]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[03:44:34]EMOTE: crab/ : <B>The crab</B> clacks.
+[03:44:48]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[03:45:24]EMOTE: Runtime/ : <B>Runtime</B> meows.
+[03:45:38]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[03:45:42]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[03:45:48]EMOTE: Parrot/ : <B>The Parrot</B> squawks.
+[03:45:57]SAY: Parrot/ : BAWWWWK george mellons griffing me
+[03:45:59]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[03:46:31]EMOTE: crab/ : <B>The crab</B> clicks.
+[03:46:41]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[03:47:29]EMOTE: Ian/ : <B>Ian</B> dances around
+[03:47:54]EMOTE: cat/ : <B>The cat</B> mews.
+[03:48:04]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[03:48:10]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[03:48:26]DEBUG: Next event of severity Moderate in 51.094 minutes.
+[03:48:26]DEBUG: Starting event 'Communication Blackout' of severity Moderate.
+[03:48:28]DEBUG: Event 'Communication Blackout' has completed at 15:22.
+[03:48:32]SAY: kitten/ : Esp!
+[03:48:42]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[03:49:18]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[03:50:29]EMOTE: cat/ : <B>The cat</B> mews.
+[03:51:04]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[03:51:46]SAY: kitten/ : Purr!
+[03:51:54]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[03:51:58]SAY: cat/ : Meow!
+[03:52:04]EMOTE: Ian/ : <B>Ian</B> dances around
+[03:52:15]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[03:52:17]SAY: cat/ : Meow!
+[03:52:17]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[03:52:25]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[03:52:25]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[03:52:51]EMOTE: crab/ : <B>The crab</B> clicks.
+[03:52:51]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[03:53:45]EMOTE: crab/ : <B>The crab</B> clacks.
+[03:53:55]EMOTE: kitten/ : <B>The kitten</B> meows.
+[03:53:57]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[03:54:00]DEBUG: Next event of severity Mundane in 14.1 minutes.
+[03:54:00]DEBUG: Starting event 'Economic News' of severity Mundane.
+[03:54:36]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[03:54:38]EMOTE: crab/ : <B>The crab</B> clacks.
+[03:55:24]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[03:55:33]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[03:55:57]SAY: kitten/ : HSSSSS
+[03:56:15]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[03:56:49]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[03:56:55]EMOTE: Ian/ : <B>Ian</B> woofs.
+[03:57:08]EMOTE: cat/ : <B>The cat</B> shivers.
+[03:57:34]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> shakes its head.
+[03:57:54]SAY: Parrot/ : Hello!
+[03:57:58]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> shakes its head.
+[03:58:16]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[03:58:30]SAY: Parrot/ : Hello!
+[03:58:30]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[03:58:34]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[03:58:51]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[03:59:47]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[03:59:53]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> shakes its head.
+[03:59:55]SAY: Parrot/ : Hello!
+[03:59:57]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[04:00:11]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[04:00:18]SAY: kitten/ : Purr!
+[04:00:26]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[04:00:46]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[04:00:54]DEBUG: Event 'Economic News' has completed at 15:34.
+[04:01:04]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[04:01:14]EMOTE: crab/ : <B>The crab</B> clicks.
+[04:01:14]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[04:01:22]EMOTE: Ian/ : <B>Ian</B> dances around
+[04:01:30]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[04:01:34]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[04:01:46]SAY: kitten/ : Esp!
+[04:01:46]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[04:02:23]EMOTE: Ian/ : <B>Ian</B> yaps.
+[04:02:37]SAY: cat/ : Purr!
+[04:02:43]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[04:03:01]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[04:03:01]SAY: cat/ : Purr!
+[04:03:05]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[04:03:17]EMOTE: Ian/ : <B>Ian</B> dances around
+[04:03:26]EMOTE: Parrot/ : <B>The Parrot</B> squawks.
+[04:03:48]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[04:04:27]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[04:04:35]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[04:05:09]SAY: cat/ : Purr!
+[04:05:19]SAY: Runtime/ : HSSSSS
+[04:05:21]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[04:05:39]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[04:05:41]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[04:05:43]EMOTE: crab/ : <B>The crab</B> clicks.
+[04:05:45]SAY: cat/ : Purr!
+[04:06:00]SAY: kitten/ : Esp!
+[04:06:16]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[04:06:22]SAY: Experiment 97d/ : Eh?
+[04:06:36]EMOTE: Runtime/ : <B>Runtime</B> mews.
+[04:06:52]SAY: kitten/ : Purr!
+[04:07:08]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[04:07:31]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[04:07:45]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[04:07:51]SAY: Parrot/ : Hello!
+[04:08:38]DEBUG: Next event of severity Mundane in 14.678 minutes.
+[04:08:38]DEBUG: Starting event 'Mundane News' of severity Mundane.
+[04:08:46]EMOTE: Ian/ : <B>Ian</B> woofs.
+[04:08:46]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[04:08:58]EMOTE: Ian/ : <B>Ian</B> barks.
+[04:09:00]DEBUG: Event 'Mundane News' has completed at 15:42.
+[04:09:08]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[04:09:28]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[04:09:58]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[04:10:08]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[04:10:51]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[04:11:01]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[04:11:05]SAY: kitten/ : Meow!
+[04:11:15]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[04:11:29]EMOTE: Ian/ : <B>Ian</B> yaps.
+[04:11:49]SAY: Parrot/ : Hello!
+[04:12:29]EMOTE: cat/ : <B>The cat</B> shivers.
+[04:12:46]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[04:13:06]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[04:13:22]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[04:13:30]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[04:13:44]SAY: kitten/ : Esp!
+[04:13:46]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[04:13:48]EMOTE: kitten/ : <B>The kitten</B> meows.
+[04:14:15]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[04:14:17]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[04:14:55]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[04:15:01]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[04:15:15]SAY: cat/ : Meow!
+[04:15:40]EMOTE: Ian/ : <B>Ian</B> shivers.
+[04:15:48]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[04:15:58]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[04:16:24]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[04:16:42]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[04:17:12]SAY: kitten/ : HSSSSS
+[04:17:44]EMOTE: Ian/ : <B>Ian</B> barks.
+[04:17:50]EMOTE: Ian/ : <B>Ian</B> dances around
+[04:17:50]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[04:17:59]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[04:18:01]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[04:18:15]SAY: Parrot/ : Hello!
+[04:18:17]EMOTE: cat/ : <B>The cat</B> shivers.
+[04:18:25]EMOTE: kitten/ : <B>The kitten</B> meows.
+[04:18:25]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[04:18:39]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[04:18:43]EMOTE: crab/ : <B>The crab</B> clicks.
+[04:18:49]EMOTE: cat/ : <B>The cat</B> meows.
+[04:19:51]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[04:19:58]SAY: cat/ : Esp!
+[04:19:58]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[04:20:00]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[04:20:04]EMOTE: Ian/ : <B>Ian</B> shakes its head.
+[04:20:24]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[04:20:36]SAY: Experiment 97d/ : EHEHEHEHEH
+[04:20:40]EMOTE: Ian/ : <B>Ian</B> dances around
+[04:21:06]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[04:21:08]EMOTE: Ian/ : <B>Ian</B> dances around
+[04:21:14]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[04:21:16]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[04:21:24]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[04:21:24]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[04:21:33]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[04:21:37]EMOTE: kitten/ : <B>The kitten</B> meows.
+[04:21:43]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[04:22:57]EMOTE: cat/ : <B>The cat</B> shivers.
+[04:23:05]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[04:23:07]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[04:23:17]EMOTE: Ian/ : <B>Ian</B> pants.
+[04:23:50]DEBUG: Next event of severity Mundane in 16.412 minutes.
+[04:23:50]DEBUG: Starting event 'Economic News' of severity Mundane.
+[04:24:08]EMOTE: Ian/ : <B>Ian</B> woofs.
+[04:24:10]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[04:24:20]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[04:24:24]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[04:25:03]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[04:25:09]EMOTE: cat/ : <B>The cat</B> meows.
+[04:25:31]SAY: cat/ : HSSSSS
+[04:25:33]SAY: kitten/ : Esp!
+[04:25:33]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[04:25:39]EMOTE: kitten/ : <B>The kitten</B> meows.
+[04:25:58]VOTE: Crew_transfer vote started by the server.
+[04:25:58]DEBUG: The server has called a crew transfer vote
+[04:26:05]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[04:26:13]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[04:26:13]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[04:26:19]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[04:26:20]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[04:26:20]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[04:26:56]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[04:27:02]VOTE: <b>Vote Result: Inconclusive - No Votes!</b>
+[04:27:48]SAY: Runtime/ : Esp!
+[04:27:48]EMOTE: Ian/ : <B>Ian</B> shakes its head.
+[04:28:06]SAY: Experiment 97d/ : EHEHEHEHEH
+[04:28:11]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[04:28:21]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[04:28:29]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[04:28:29]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[04:28:41]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[04:28:51]DEBUG: Event 'Economic News' has completed at 16:01.
+[04:28:55]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[04:29:11]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[04:30:20]EMOTE: Ian/ : <B>Ian</B> dances around
+[04:30:20]SAY: kitten/ : Meow!
+[04:30:24]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[04:30:48]EMOTE: crab/ : <B>The crab</B> clicks.
+[04:30:52]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[04:30:58]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[04:31:31]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[04:31:53]SAY: cat/ : Purr!
+[04:32:27]SAY: Ian/ : AUUUUUU
+[04:32:29]SAY: Parrot/ : Hello!
+[04:32:47]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[04:32:55]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[04:33:24]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[04:33:28]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[04:33:48]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[04:33:54]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[04:34:22]SAY: Parrot/ : Hello!
+[04:35:01]EMOTE: Parrot/ : <B>The Parrot</B> bawks.
+[04:35:07]EMOTE: Runtime/ : <B>Runtime</B> shakes their head.
+[04:35:59]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[04:36:15]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[04:36:25]SAY: kitten/ : Esp!
+[04:36:31]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[04:36:56]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[04:37:30]EMOTE: Runtime/ : <B>Runtime</B> meows.
+[04:37:44]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[04:37:54]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[04:38:00]EMOTE: crab/ : <B>The crab</B> clicks.
+[04:38:10]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[04:38:18]SAY: kitten/ : HSSSSS
+[04:38:33]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[04:38:33]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[04:38:41]EMOTE: Runtime/ : <B>Runtime</B> shakes their head.
+[04:39:37]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[04:39:39]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[04:40:10]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[04:40:12]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[04:40:22]EMOTE: Ian/ : <B>Ian</B> dances around
+[04:40:32]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[04:40:40]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[04:40:50]DEBUG: Next event of severity Mundane in 12.416 minutes.
+[04:40:50]DEBUG: Starting event 'Mundane News' of severity Mundane.
+[04:40:52]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[04:41:11]DEBUG: Event 'Mundane News' has completed at 16:13.
+[04:41:18]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[04:41:21]DEBUG: Next event of severity Moderate in 38.534 minutes.
+[04:41:21]DEBUG: Starting event 'Electrical Storm' of severity Moderate.
+[04:41:23]DEBUG: Event 'Electrical Storm' has completed at 16:13.
+[04:41:46]SAY: kitten/ : Esp!
+[04:41:51]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[04:42:03]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[04:42:17]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[04:42:19]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[04:42:43]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[04:42:51]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[04:42:56]DEBUG: Next event of severity Major in 65.708 minutes.
+[04:42:56]DEBUG: Starting event 'Nothing' of severity Major.
+[04:42:58]DEBUG: Event 'Nothing' has completed at 16:15.
+[04:43:13]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[04:43:15]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[04:43:15]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[04:43:29]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[04:43:38]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[04:43:40]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[04:44:04]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[04:44:24]EMOTE: cat/ : <B>The cat</B> shivers.
+[04:44:24]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[04:44:36]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[04:44:50]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[04:45:05]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[04:45:15]SAY: Parrot/ : Hello!
+[04:45:31]SAY: Experiment 97d/ : EHEHEHEHEH
+[04:45:45]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[04:46:25]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[04:46:27]SAY: Parrot/ : Hello!
+[04:46:53]SAY: Ian/ : YAP
+[04:46:55]EMOTE: cat/ : <B>The cat</B> mews.
+[04:47:03]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[04:47:10]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[04:47:28]EMOTE: Ian/ : <B>Ian</B> dances around
+[04:47:38]EMOTE: crab/ : <B>The crab</B> clicks.
+[04:48:06]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[04:48:10]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[04:48:36]EMOTE: Ian/ : <B>Ian</B> dances around
+[04:48:46]EMOTE: Ian/ : <B>Ian</B> dances around
+[04:48:53]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[04:48:55]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[04:49:01]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[04:49:17]EMOTE: crab/ : <B>The crab</B> clicks.
+[04:49:21]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[04:49:25]EMOTE: kitten/ : <B>The kitten</B> meows.
+[04:49:53]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[04:49:53]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[04:50:03]EMOTE: crab/ : <B>The crab</B> clacks.
+[04:50:05]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[04:50:25]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[04:50:37]SAY: kitten/ : Esp!
+[04:50:43]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[04:50:45]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[04:51:10]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[04:51:12]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[04:51:16]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[04:51:36]SAY: kitten/ : Purr!
+[04:51:40]SAY: Ian/ : AUUUUUU
+[04:51:42]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[04:53:23]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[04:53:39]SAY: kitten/ : HSSSSS
+[04:53:43]DEBUG: Next event of severity Mundane in 17.65 minutes.
+[04:53:43]DEBUG: Starting event 'Trivial News' of severity Mundane.
+[04:53:49]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[04:54:05]DEBUG: Event 'Trivial News' has completed at 16:26.
+[04:54:05]EMOTE: crab/ : <B>The crab</B> clicks.
+[04:54:07]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[04:54:41]EMOTE: Ian/ : <B>Ian</B> dances around
+[04:54:49]SAY: kitten/ : Purr!
+[04:55:01]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[04:55:01]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[04:55:11]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[04:56:02]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[04:56:06]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[04:56:10]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[04:56:54]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[04:56:58]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[04:57:45]EMOTE: Runtime/ : <B>Runtime</B> shakes their head.
+[04:57:57]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[04:58:15]SAY: kitten/ : Meow!
+[04:59:01]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[04:59:21]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[04:59:33]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[05:00:04]EMOTE: kitten/ : <B>The kitten</B> meows.
+[05:00:06]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[05:00:16]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[05:00:52]EMOTE: kitten/ : <B>The kitten</B> mews.
+[05:01:26]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[05:01:32]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[05:01:32]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[05:01:40]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[05:01:42]SAY: Runtime/ : HSSSSS
+[05:01:49]SAY: Runtime/ : Meow!
+[05:01:49]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[05:01:59]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[05:02:21]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[05:02:37]SAY: cat/ : Esp!
+[05:02:43]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[05:03:01]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[05:03:27]EMOTE: Ian/ : <B>Ian</B> dances around
+[05:03:50]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[05:04:00]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[05:04:32]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[05:04:34]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[05:05:35]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[05:06:11]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[05:06:13]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[05:06:15]SAY: Ian/ : Bark!
+[05:06:29]SAY: cat/ : Purr!
+[05:06:29]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[05:06:41]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[05:06:49]SAY: Ian/ : Woof!
+[05:07:07]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[05:07:15]EMOTE: Ian/ : <B>Ian</B> shivers.
+[05:07:15]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[05:07:21]SAY: Runtime/ : Meow!
+[05:08:12]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[05:08:24]EMOTE: crab/ : <B>The crab</B> clacks.
+[05:09:34]SAY: cat/ : Meow!
+[05:09:50]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[05:09:56]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[05:10:24]EMOTE: Ian/ : <B>Ian</B> dances around
+[05:10:29]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[05:10:47]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[05:11:11]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[05:11:45]EMOTE: Ian/ : <B>Ian</B> dances around
+[05:11:49]SAY: Experiment 97d/ : EHEHEHEHEH
+[05:11:58]DEBUG: Next event of severity Mundane in 17.824 minutes.
+[05:11:58]DEBUG: Starting event 'Economic News' of severity Mundane.
+[05:11:59]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[05:12:19]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[05:12:31]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[05:12:45]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[05:13:07]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[05:13:14]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[05:13:46]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[05:13:52]EMOTE: kitten/ : <B>The kitten</B> mews.
+[05:13:52]SAY: cat/ : Meow!
+[05:14:00]EMOTE: cat/ : <B>The cat</B> meows.
+[05:14:24]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[05:14:42]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[05:14:54]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[05:15:08]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[05:15:16]SAY: Runtime/ : Purr!
+[05:15:33]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[05:15:39]EMOTE: cat/ : <B>The cat</B> mews.
+[05:15:53]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[05:15:57]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[05:16:03]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[05:16:11]SAY: Ian/ : Woof!
+[05:16:21]SAY: Runtime/ : Meow!
+[05:16:23]SAY: cat/ : Esp!
+[05:17:09]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[05:17:25]EMOTE: Ian/ : <B>Ian</B> dances around
+[05:17:43]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[05:17:51]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[05:17:57]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[05:18:09]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[05:18:56]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[05:19:36]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[05:19:42]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[05:20:06]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[05:20:20]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[05:20:50]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[05:21:13]DEBUG: Next event of severity Moderate in 52.8 minutes.
+[05:21:13]DEBUG: Starting event 'Space vines' of severity Moderate.
+[05:21:15]DEBUG: Event 'Space vines' has completed at 16:52.
+[05:21:27]SAY: Ian/ : Woof!
+[05:21:41]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[05:21:41]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[05:21:43]DEBUG: Event 'Economic News' has completed at 16:52.
+[05:21:47]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[05:21:59]EMOTE: Ian/ : <B>Ian</B> dances around
+[05:22:13]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[05:22:29]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[05:22:31]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[05:22:35]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[05:23:11]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[05:23:13]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[05:23:21]EMOTE: kitten/ : <B>The kitten</B> mews.
+[05:23:33]EMOTE: crab/ : <B>The crab</B> clicks.
+[05:23:33]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[05:23:37]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[05:23:43]EMOTE: Ian/ : <B>Ian</B> dances around
+[05:23:51]SAY: Experiment 97d/ : EHEHEHEHEH
+[05:24:16]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[05:24:32]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[05:24:58]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[05:25:26]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[05:25:28]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[05:25:56]SAY: kitten/ : HSSSSS
+[05:26:08]EMOTE: Ian/ : <B>Ian</B> dances around
+[05:26:08]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[05:26:41]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[05:27:53]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[05:27:59]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[05:28:00]VOTE: Crew_transfer vote started by the server.
+[05:28:00]DEBUG: The server has called a crew transfer vote
+[05:28:10]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[05:28:12]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[05:28:14]SAY: kitten/ : Meow!
+[05:28:24]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[05:28:26]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[05:28:28]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[05:28:28]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[05:28:38]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[05:28:56]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[05:29:04]VOTE: <b>Vote Result: Inconclusive - No Votes!</b>
+[05:29:06]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[05:29:10]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[05:30:08]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[05:30:12]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[05:30:25]DEBUG: Next event of severity Mundane in 15.314 minutes.
+[05:30:25]DEBUG: Starting event 'Economic News' of severity Mundane.
+[05:30:26]SAY: Runtime/ : Purr!
+[05:30:29]EMOTE: crab/ : <B>The crab</B> clacks.
+[05:30:37]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[05:30:43]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[05:30:57]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[05:31:23]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[05:31:31]SAY: Runtime/ : Esp!
+[05:31:41]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[05:31:49]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[05:31:51]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[05:32:19]SAY: cat/ : Purr!
+[05:32:23]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[05:32:27]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[05:32:37]EMOTE: Runtime/ : <B>Runtime</B> meows.
+[05:33:05]SAY: kitten/ : Esp!
+[05:33:07]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[05:33:45]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[05:33:53]EMOTE: cat/ : <B>The cat</B> mews.
+[05:34:10]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[05:34:42]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[05:35:52]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[05:36:00]EMOTE: cat/ : <B>The cat</B> shivers.
+[05:36:22]EMOTE: crab/ : <B>The crab</B> clicks.
+[05:36:22]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[05:36:53]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[05:37:05]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[05:37:11]EMOTE: Ian/ : <B>Ian</B> dances around
+[05:37:29]DEBUG: Event 'Economic News' has completed at 17:08.
+[05:37:33]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[05:37:37]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[05:37:45]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[05:37:47]EMOTE: kitten/ : <B>The kitten</B> mews.
+[05:39:51]EMOTE: Ian/ : <B>Ian</B> dances around
+[05:39:55]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[05:40:07]EMOTE: Ian/ : <B>Ian</B> dances around
+[05:40:42]SAY: Parrot/ : Hello!
+[05:41:22]EMOTE: Parrot/ : <B>The Parrot</B> squawks.
+[05:41:34]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[05:41:36]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[05:41:42]EMOTE: Ian/ : <B>Ian</B> shakes its head.
+[05:43:02]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[05:43:30]SAY: Experiment 97d/ : EHEHEHEHEH
+[05:43:32]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[05:43:36]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[05:43:51]EMOTE: Ian/ : <B>Ian</B> shivers.
+[05:44:13]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[05:44:29]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[05:44:31]SAY: cat/ : HSSSSS
+[05:44:51]SAY: Runtime/ : Meow!
+[05:45:07]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[05:45:27]EMOTE: cat/ : <B>The cat</B> mews.
+[05:45:35]EMOTE: Parrot/ : <B>The Parrot</B> squawks.
+[05:45:35]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[05:45:45]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[05:46:13]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[05:46:14]DEBUG: Next event of severity Mundane in 12.186 minutes.
+[05:46:14]DEBUG: Starting event 'Mundane News' of severity Mundane.
+[05:46:21]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[05:46:29]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[05:46:31]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[05:46:36]DEBUG: Event 'Mundane News' has completed at 17:17.
+[05:47:08]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[05:47:48]EMOTE: Camile Crafter/cassyjenelle : <B>Camile Crafter</B> snores.
+[05:47:50]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[05:47:56]SAY: cat/ : HSSSSS
+[05:48:02]SAY: Runtime/ : Purr!
+[05:48:10]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[05:48:12]SAY: kitten/ : Purr!
+[05:48:12]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[05:48:24]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[05:48:40]EMOTE: Ian/ : <B>Ian</B> yaps.
+[05:48:44]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[05:48:44]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[05:48:46]SAY: cat/ : Meow!
+[05:49:38]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[05:50:07]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[05:50:29]SAY: Parrot/ : Hello!
+[05:50:39]SAY: Runtime/ : Meow!
+[05:50:39]SAY: kitten/ : Meow!
+[05:50:41]EMOTE: cat/ : <B>The cat</B> shivers.
+[05:50:47]ACCESS: Logout: Erik Tiber/(Lachina Green)
+[09:15:37]DEBUG: Next event of severity Major in 73.774 minutes.
+[09:15:37]DEBUG: Starting event 'Nothing' of severity Major.
+[09:15:39]DEBUG: Event 'Nothing' has completed at 17:21.
+[09:15:50]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> snores.
+[09:15:52]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[09:15:54]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[09:16:14]ACCESS: Login: Cassy_jenelle/(Camile Crafter) from 81.104.88.62-1964287214 || BYOND v506
+[09:16:16]EMOTE: Camile Crafter/Cassy_jenelle : <B>Camile Crafter</B> snores.
+[09:16:26]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[09:16:27]ACCESS: Logout: *no key*/(Camile Crafter)
+[09:16:27]ACCESS: Login: Cassy_jenelle/(Camile Crafter) from 81.104.88.62-1964287214 || BYOND v506
+[09:16:57]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[09:17:03]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> snores.
+[09:17:09]SAY: Experiment 97d/ : Eh?
+[09:17:22]ACCESS: Logout: Cassy_jenelle/(Camile Crafter)
+[12:30:04]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[12:30:12]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[12:30:16]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[12:30:16]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> snores.
+[12:30:24]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[12:30:30]EMOTE: Ian/ : <B>Ian</B> dances around
+[12:31:02]SAY: Parrot/ : Hello!
+[12:32:15]EMOTE: Ian/ : <B>Ian</B> shivers.
+[12:32:19]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[12:32:21]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[12:32:39]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[12:32:43]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[12:32:55]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[12:33:11]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[12:33:27]EMOTE: kitten/ : <B>The kitten</B> meows.
+[12:33:56]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> snores.
+[12:33:58]SAY: cat/ : Meow!
+[12:33:58]SAY: kitten/ : Esp!
+[12:34:28]EMOTE: Runtime/ : <B>Runtime</B> mews.
+[12:34:28]EMOTE: cat/ : <B>The cat</B> shivers.
+[12:34:30]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[12:34:36]SAY: Ian/ : Bark!
+[12:35:08]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> snores.
+[12:35:20]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> snores.
+[12:35:22]SAY: Runtime/ : Esp!
+[12:35:28]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> snores.
+[12:35:40]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> snores.
+[12:35:46]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[12:36:06]EMOTE: Parrot/ : <B>The Parrot</B> bawks.
+[12:36:07]DEBUG: Next event of severity Mundane in 15.066 minutes.
+[12:36:07]DEBUG: Starting event 'Mundane News' of severity Mundane.
+[12:36:26]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[12:36:29]DEBUG: Event 'Mundane News' has completed at 17:29.
+[12:37:12]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> snores.
+[12:37:16]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[12:37:42]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> snores.
+[12:38:09]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[12:38:35]EMOTE: crab/ : <B>The crab</B> clicks.
+[12:38:41]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[12:38:47]EMOTE: Parrot/ : <B>The Parrot</B> squawks.
+[12:39:07]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[12:39:11]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> snores.
+[12:39:13]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> snores.
+[12:39:47]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[12:40:03]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[16:16:31]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> snores.
+[16:16:37]EMOTE: cat/ : <B>The cat</B> shivers.
+[16:16:44]ACCESS: Login: Kerbal22/(Dominika Kuznetsov) from 24.181.70.89-1162035905 || BYOND v506
+[16:16:56]ACCESS: Logout: *no key*/(Dominika Kuznetsov)
+[16:16:56]ACCESS: Login: Kerbal22/(Dominika Kuznetsov) from 24.181.70.89-1162035905 || BYOND v506
+[16:17:05]EMOTE: Ian/ : <B>Ian</B> dances around
+[16:17:06]ACCESS: Logout: *no key*/(Dominika Kuznetsov)
+[16:17:06]ACCESS: Login: Kerbal22/(Dominika Kuznetsov) from 24.181.70.89-1162035905 || BYOND v506
+[16:17:11]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[16:17:23]ADMIN: Kerbal22/(Dominika Kuznetsov) healed / revived Kerbal22/(Dominika Kuznetsov)
+[16:17:39]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[16:18:14]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> snores.
+[16:18:16]SAY: kitten/ : Purr!
+[16:18:24]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[16:18:34]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> snores.
+[16:18:44]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[16:18:56]SAY: cat/ : HSSSSS
+[16:18:58]EMOTE: Ian/ : <B>Ian</B> dances around
+[16:19:22]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> snores.
+[16:19:34]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[16:19:42]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> snores.
+[16:20:16]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[16:20:30]SAY: kitten/ : Purr!
+[16:20:32]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[16:20:44]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> snores.
+[16:20:50]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[16:20:51]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> snores.
+[16:21:05]EMOTE: crab/ : <B>The crab</B> clacks.
+[16:21:11]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[16:21:31]EMOTE: crab/ : <B>The crab</B> clacks.
+[16:21:43]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[16:22:03]EMOTE: cat/ : <B>The cat</B> shivers.
+[16:22:21]SAY: Parrot/ : Hello!
+[16:22:37]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[16:23:01]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[16:23:38]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[16:23:48]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> snores.
+[16:26:27]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> snores.
+[16:26:29]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[16:26:39]SAY: Parrot/ : Hello!
+[16:27:00]EMOTE: crab/ : <B>The crab</B> clicks.
+[16:27:14]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[16:27:18]SAY: cat/ : Meow!
+[16:27:26]DEBUG: Next event of severity Mundane in 17.346 minutes.
+[16:27:26]DEBUG: Starting event 'Brand Intelligence' of severity Mundane.
+[16:28:04]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> snores.
+[16:28:14]SAY: Experiment 97d/ : Eh?
+[16:28:16]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[16:28:26]ACCESS: Logout: *no key*/(Dominika Kuznetsov)
+[16:28:26]ACCESS: Login: Kerbal22/(Dominika Kuznetsov) from 24.181.70.89-1162035905 || BYOND v506
+[16:28:34]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[16:28:42]ACCESS: Logout: *no key*/(Dominika Kuznetsov)
+[16:28:42]ACCESS: Login: Kerbal22/(Dominika Kuznetsov) from 24.181.70.89-1162035905 || BYOND v506
+[16:28:46]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> snores.
+[16:28:51]DEBUG: Next event of severity Moderate in 40.742 minutes.
+[16:28:51]DEBUG: Starting event 'Nothing' of severity Moderate.
+[16:28:53]DEBUG: Event 'Nothing' has completed at 17:45.
+[16:28:56]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[16:28:58]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> snores.
+[16:29:04]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[16:29:20]SAY: cat/ : HSSSSS
+[16:29:30]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[16:29:38]EMOTE: Ian/ : <B>Ian</B> dances around
+[16:29:46]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[16:29:50]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[16:29:50]EMOTE: kitten/ : <B>The kitten</B> meows.
+[16:30:01]EMOTE: cat/ : <B>The cat</B> mews.
+[16:30:09]EMOTE: crab/ : <B>The crab</B> clicks.
+[16:30:13]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> snores.
+[16:30:23]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> snores.
+[16:30:55]EMOTE: kitten/ : <B>The kitten</B> meows.
+[16:31:05]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[16:31:32]EMOTE: cat/ : <B>The cat</B> shivers.
+[16:32:02]EMOTE: Ian/ : <B>Ian</B> dances around
+[16:32:42]GAME: Emitter turned on by kerbal22(Dominika Kuznetsov) in (113,65,1)
+[16:32:56]GAME: Emitter turned off by kerbal22(Dominika Kuznetsov) in (113,65,1)
+[16:32:59]EMOTE: kitten/ : <B>The kitten</B> meows.
+[16:33:27]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[16:33:41]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> snores.
+[16:34:02]GAME: Emitter turned on by kerbal22(Dominika Kuznetsov) in (113,65,1)
+[16:34:11]GAME: Emitter turned off by kerbal22(Dominika Kuznetsov) in (113,65,1)
+[16:34:44]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[16:35:06]EMOTE: cat/ : <B>The cat</B> mews.
+[16:35:11]GAME: Emitter turned on by kerbal22(Dominika Kuznetsov) in (113,65,1)
+[16:35:17]GAME: Emitter turned off by kerbal22(Dominika Kuznetsov) in (113,65,1)
+[16:35:52]SAY: kitten/ : Purr!
+[16:35:58]SAY: Ian/ : Bark!
+[16:36:00]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[16:36:03]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[16:36:17]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[16:36:17]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[16:36:25]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[16:36:27]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[16:37:07]EMOTE: kitten/ : <B>The kitten</B> mews.
+[16:37:11]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> snores.
+[16:37:37]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[16:37:37]SAY: kitten/ : Meow!
+[16:37:57]EMOTE: crab/ : <B>The crab</B> clacks.
+[16:38:25]EMOTE: cat/ : <B>The cat</B> meows.
+[16:38:30]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[16:39:01]EMOTE: Runtime/ : <B>Runtime</B> meows.
+[16:39:18]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[16:39:30]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[16:39:32]EMOTE: crab/ : <B>The crab</B> clacks.
+[16:39:36]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> snores.
+[16:39:56]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[16:40:29]SAY: Parrot/ : Hello!
+[16:40:41]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[16:40:59]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> snores.
+[16:41:19]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> snores.
+[16:41:27]SAY: Parrot/ : Hello!
+[16:41:35]SAY: cat/ : Meow!
+[16:41:39]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> snores.
+[16:42:10]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[16:42:32]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> snores.
+[16:43:21]VOTE: Crew_transfer vote started by the server.
+[16:43:21]DEBUG: The server has called a crew transfer vote
+[16:43:37]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[16:43:43]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> snores.
+[16:44:51]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[16:44:55]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[16:45:05]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[16:45:05]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> snores.
+[16:45:07]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> snores.
+[16:45:13]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[16:45:26]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[16:45:44]DEBUG: Next event of severity Mundane in 15.822 minutes.
+[16:45:44]DEBUG: Starting event 'Trivial News' of severity Mundane.
+[16:45:48]SAY: Parrot/ : Hello!
+[16:46:06]DEBUG: Event 'Trivial News' has completed at 18:01.
+[16:46:32]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[16:46:38]EMOTE: crab/ : <B>The crab</B> clicks.
+[16:46:48]SAY: cat/ : Esp!
+[16:47:33]SAY: kitten/ : Esp!
+[16:48:05]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[16:48:10]ADMIN: Kerbal22/(Dominika Kuznetsov) deleted all objects of type or subtype of /obj/effect/biomass (81 objects deleted) 
+[16:48:17]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[16:48:30]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[16:49:10]EMOTE: Ian/ : <B>Ian</B> dances around
+[16:49:41]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[16:50:00]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[16:50:50]SAY: kitten/ : Meow!
+[16:50:50]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[16:51:23]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[16:51:43]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[16:51:47]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> snores.
+[16:51:49]SAY: Ian/ : Bark!
+[16:52:28]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> snores.
+[16:52:58]EMOTE: Parrot/ : <B>The Parrot</B> flutters its wings.
+[16:53:25]EMOTE: crab/ : <B>The crab</B> clicks.
+[16:53:25]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[16:54:03]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[16:54:48]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[16:54:48]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[16:55:59]EMOTE: Ian/ : <B>Ian</B> shivers.
+[16:55:59]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[16:55:59]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[16:56:19]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[16:57:02]SAY: Parrot/ : Hello!
+[16:57:22]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> snores.
+[16:57:26]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[16:57:34]EMOTE: crab/ : <B>The crab</B> clacks.
+[16:57:44]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> snores.
+[16:58:18]EMOTE: Ian/ : <B>Ian</B> dances around
+[16:58:33]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[16:58:43]EMOTE: kitten/ : <B>The kitten</B> mews.
+[16:58:45]EMOTE: kitten/ : <B>The kitten</B> meows.
+[16:59:03]SAY: cat/ : HSSSSS
+[16:59:28]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[16:59:32]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[16:59:34]EMOTE: kitten/ : <B>The kitten</B> mews.
+[16:59:48]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[17:00:12]SAY: cat/ : HSSSSS
+[17:00:29]DEBUG: Event 'Brand Intelligence' has completed at 18:15.
+[17:00:33]ACCESS: Logout: Kerbal22/(Dominika Kuznetsov)
+[17:27:00]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[17:27:26]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[17:27:31]ACCESS: Login: Moom241/(Igam Yute) from 172.2.114.177-1501114251 || BYOND v506
+[17:27:48]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[17:27:55]ACCESS: Logout: Moom241/(Igam Yute)
+[17:39:22]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[17:39:38]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[17:39:49]DEBUG: Next event of severity Mundane in 15.638 minutes.
+[17:39:49]DEBUG: Starting event 'Mundane News' of severity Mundane.
+[17:39:52]EMOTE: crab/ : <B>The crab</B> clacks.
+[17:39:54]EMOTE: Ian/ : <B>Ian</B> pants.
+[17:39:54]ACCESS: Login: Moom241/(Igam Yute) from 172.2.114.177-1501114251 || BYOND v506
+[17:40:10]EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[17:40:11]DEBUG: Event 'Mundane News' has completed at 18:17.
+[17:40:25]ACCESS: Logout: Moom241/(Igam Yute)
+[18:23:18]SAY: kitten/ : Meow!
+[18:23:22]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> snores.
+[18:23:42]ACCESS: Login: Moom241/(Igam Yute) from 172.2.114.177-1501114251 || BYOND v506
+[18:23:52]ACCESS: Logout: Moom241/(Igam Yute)
+[18:41:25]EMOTE: Dominika Kuznetsov/Kerbal22 : <B>Dominika Kuznetsov</B> snores.
+[18:41:41]ACCESS: Login: Moom241/(Igam Yute) from 172.2.114.177-1501114251 || BYOND v506
+[18:41:47]ACCESS: Logout: Moom241/(Igam Yute)
+[18:42:54]ACCESS: Login: Kerbal22/(Dominika Kuznetsov) from 24.181.70.89-1162035905 || BYOND v506
+[18:42:56]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> snores.
+[18:43:42]EMOTE: crab/ : <B>The crab</B> clicks.
+[18:43:54]EMOTE: Ian/ : <B>Ian</B> dances around
+[18:44:08]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[18:44:13]EMOTE: crab/ : <B>The crab</B> clicks.
+[18:44:13]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> snores.
+[18:44:27]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[18:44:43]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[18:44:47]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[18:45:12]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[18:45:26]EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[18:46:13]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[18:46:23]SAY: cat/ : Purr!
+[18:47:17]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[18:47:34]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[18:47:38]EMOTE: Ian/ : <B>Ian</B> barks.
+[18:47:42]SAY: kitten/ : HSSSSS
+[18:47:54]EMOTE: crab/ : <B>The crab</B> clicks.
+[18:48:06]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> snores.
+[18:48:09]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> snores.
+[18:48:27]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[18:48:31]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> shakes its head.
+[18:48:31]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[18:49:01]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[18:49:47]ACCESS: Logout: *no key*/(Dominika Kuznetsov)
+[18:49:47]ACCESS: Login: Kerbal22/(Dominika Kuznetsov) from 24.181.70.89-1162035905 || BYOND v506
+[18:49:49]DEBUG: Next event of severity Moderate in 45.854 minutes.
+[18:49:49]DEBUG: Starting event 'Grid Check' of severity Moderate.
+[18:50:03]ACCESS: Logout: *no key*/(Dominika Kuznetsov)
+[18:50:03]ACCESS: Login: Kerbal22/(Dominika Kuznetsov) from 24.181.70.89-1162035905 || BYOND v506
+[18:50:13]SAY: Dominika Kuznetsov/Kerbal22 : zat is bad.
+[18:50:44]SAY: kitten/ : Esp!
+[18:50:50]EMOTE: Parrot/ : <B>The Parrot</B> flutters its wings.
+[18:51:02]EMOTE: crab/ : <B>The crab</B> clicks.
+[18:51:07]SAY: cat/ : HSSSSS
+[18:51:23]EMOTE: crab/ : <B>The crab</B> clacks.
+[18:51:33]EMOTE: kitten/ : <B>The kitten</B> meows.
+[18:51:35]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[18:51:41]EMOTE: cat/ : <B>The cat</B> meows.
+[18:51:53]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> snores.
+[18:52:12]ACCESS: Logout: *no key*/(Dominika Kuznetsov)
+[18:52:12]ACCESS: Login: Kerbal22/(Dominika Kuznetsov) from 24.181.70.89-1162035905 || BYOND v506
+[18:52:19]ACCESS: Logout: *no key*/(Dominika Kuznetsov)
+[18:52:19]ACCESS: Login: Kerbal22/(Dominika Kuznetsov) from 24.181.70.89-1162035905 || BYOND v506
+[18:52:22]DEBUG: Event 'Grid Check' has completed at 18:28.
+[18:52:38]EMOTE: Parrot/ : <B>The Parrot</B> flutters its wings.
+[18:52:38]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[18:53:00]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[18:53:34]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[18:53:53]EMOTE: kitten/ : <B>The kitten</B> meows.
+[18:53:59]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> shakes its head.
+[18:54:13]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[18:54:21]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[18:54:27]SAY: cat/ : Esp!
+[18:54:31]EMOTE: Parrot/ : <B>The Parrot</B> bawks.
+[18:54:57]SAY: Ian/ : Woof!
+[18:55:11]ACCESS: Logout: *no key*/(Dominika Kuznetsov)
+[18:55:11]ACCESS: Login: Kerbal22/(Dominika Kuznetsov) from 24.181.70.89-1162035905 || BYOND v506
+[18:55:27]ACCESS: Logout: *no key*/(Dominika Kuznetsov)
+[18:55:27]ACCESS: Login: Kerbal22/(Dominika Kuznetsov) from 24.181.70.89-1162035905 || BYOND v506
+[18:56:55]DEBUG: Next event of severity Mundane in 14.578 minutes.
+[18:56:55]DEBUG: Starting event 'Trivial News' of severity Mundane.
+[18:57:01]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[18:57:16]DEBUG: Event 'Trivial News' has completed at 18:33.
+[18:57:33]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> snores.
+[18:57:51]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[18:57:53]SAY: Runtime/ : Meow!
+[18:57:56]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> snores.
+[18:58:08]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[18:58:26]SAY: Runtime/ : Esp!
+[18:58:36]EMOTE: crab/ : <B>The crab</B> clicks.
+[18:58:58]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[18:59:08]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[18:59:09]DEBUG: Next event of severity Major in 72.084 minutes.
+[18:59:09]DEBUG: Starting event 'Nothing' of severity Major.
+[18:59:11]DEBUG: Event 'Nothing' has completed at 18:34.
+[18:59:51]EMOTE: Ian/ : <B>Ian</B> dances around
+[19:00:05]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[19:00:07]SAY: kitten/ : HSSSSS
+[19:00:11]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[19:00:19]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[19:00:40]ACCESS: Logout: Kerbal22/(Dominika Kuznetsov)
+[19:24:53]ACCESS: Login: Echotango23/(Echotango23) from 174.48.132.108-3237278575 || BYOND v506
+[19:25:08]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[19:25:13]ACCESS: Logout: Echotango23/(Echotango23)
+[19:50:11]ACCESS: Login: Kerbal22/(Dominika Kuznetsov) from 24.181.70.89-1162035905 || BYOND v506
+[19:50:29]SAY: cat/ : Purr!
+[19:50:31]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> snores.
+[19:50:37]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[19:50:45]SAY: kitten/ : Esp!
+[19:50:53]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[19:51:01]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> snores.
+[19:51:39]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> snores.
+[19:51:55]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> snores.
+[19:51:57]SAY: kitten/ : Meow!
+[19:52:11]SAY: Parrot/ : Hello!
+[19:52:11]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> snores.
+[19:52:29]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[19:53:22]EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[19:53:44]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[19:54:02]EMOTE: Ian/ : <B>Ian</B> yaps.
+[19:54:14]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> snores.
+[19:54:43]SAY: kitten/ : Meow!
+[19:54:59]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> snores.
+[19:55:33]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> snores.
+[19:56:16]EMOTE: Ian/ : <B>Ian</B> dances around
+[19:57:18]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[19:57:30]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[19:57:45]EMOTE: cat/ : <B>The cat</B> shivers.
+[19:58:05]SAY: kitten/ : Esp!
+[19:58:15]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[19:58:21]EMOTE: Parrot/ : <B>The Parrot</B> bawks.
+[19:58:33]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> snores.
+[19:59:07]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[19:59:56]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> snores.
+[20:00:14]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> snores.
+[20:00:34]SAY: Runtime/ : Purr!
+[20:00:42]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[20:00:53]EMOTE: cat/ : <B>The cat</B> mews.
+[20:01:09]DEBUG: Next event of severity Mundane in 12.774 minutes.
+[20:01:09]DEBUG: Starting event 'Mundane News' of severity Mundane.
+[20:01:09]EMOTE: cat/ : <B>The cat</B> meows.
+[20:01:31]DEBUG: Event 'Mundane News' has completed at 18:47.
+[20:01:37]SAY: kitten/ : HSSSSS
+[20:02:03]SAY: cat/ : Purr!
+[20:02:23]EMOTE: kitten/ : <B>The kitten</B> meows.
+[20:02:29]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> snores.
+[20:02:59]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> snores.
+[20:03:05]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[20:03:05]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[20:03:36]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> snores.
+[20:03:38]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[20:03:40]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[20:05:19]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[20:05:31]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[20:05:49]EMOTE: Ian/ : <B>Ian</B> dances around
+[20:06:18]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[20:07:04]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> snores.
+[20:07:16]EMOTE: crab/ : <B>The crab</B> clacks.
+[20:08:27]EMOTE: Runtime/ : <B>Runtime</B> shakes their head.
+[20:08:44]SAY: Ian/ : Woof!
+[20:09:28]SAY: cat/ : HSSSSS
+[20:09:42]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[20:09:58]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[20:10:19]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[20:10:49]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[20:10:59]EMOTE: crab/ : <B>The crab</B> clicks.
+[20:11:01]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> snores.
+[20:11:03]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[20:11:52]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[20:11:56]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[20:12:28]SAY: kitten/ : Purr!
+[20:13:01]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[20:13:05]ACCESS: Login: Moom241/(Igam Yute) from 172.2.114.177-1501114251 || BYOND v506
+[20:13:05]EMOTE: Ian/ : <B>Ian</B> barks.
+[20:13:07]EMOTE: Parrot/ : <B>The Parrot</B> bawks.
+[20:13:21]VOTE: Crew_transfer vote started by the server.
+[20:13:21]DEBUG: The server has called a crew transfer vote
+[20:13:21]EMOTE: Runtime/ : <B>Runtime</B> meows.
+[20:13:51]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> snores.
+[20:13:57]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[20:13:57]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[20:13:57]OOC: Igam Yute/Moom241 : Hey kerb
+[20:14:01]SAY: Ian/ : YAP
+[20:14:01]OOC: Dominika Kuznetsov/Kerbal22 : yo
+[20:14:05]GAME: Emitter turned on by kerbal22(Dominika Kuznetsov) in (113,65,1)
+[20:14:09]SAY: kitten/ : Meow!
+[20:14:11]SAY: cat/ : Purr!
+[20:14:12]GAME: Emitter turned off by kerbal22(Dominika Kuznetsov) in (113,65,1)
+[20:14:36]DEBUG: Next event of severity Mundane in 12.532 minutes.
+[20:14:36]DEBUG: Starting event 'Mundane News' of severity Mundane.
+[20:14:50]OOC: Dominika Kuznetsov/Kerbal22 : Observe and jump to me
+[20:14:58]DEBUG: Event 'Mundane News' has completed at 19:00.
+[20:15:31]OOC: Igam Yute/Moom241 : lemme goast
+[20:15:33]GAME: <a href='?priv_msg=[0x5000001]'>Moom241</a>/(Igam Yute) has ghosted.
+[20:15:33]ACCESS: Logout: *no key*/(Igam Yute)
+[20:15:33]ACCESS: Login: Moom241/(Igam Yute) from 172.2.114.177-1501114251 || BYOND v506
+[20:15:36]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[20:15:44]ADMIN: Kerbal22/(Dominika Kuznetsov) teleported Moom241/(Igam Yute)
+[20:15:46]ACCESS: Logout: *no key*/(Dominika Kuznetsov)
+[20:15:46]ACCESS: Login: Kerbal22/(Dominika Kuznetsov) from 24.181.70.89-1162035905 || BYOND v506
+[20:15:54]OOC: Dominika Kuznetsov/Kerbal22 : See. I have it running.
+[20:15:56]EMOTE: Ian/ : <B>Ian</B> shivers.
+[20:15:58]EMOTE: Ian/ : <B>Ian</B> dances around
+[20:15:58]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[20:16:00]OOC: Igam Yute/Moom241 : shweet
+[20:16:08]EMOTE: Runtime/ : <B>Runtime</B> meows.
+[20:16:10]OOC: Igam Yute/Moom241 : I got no fukken cloo how supermatter works.
+[20:16:21]OOC: Igam Yute/Moom241 : HELP! RADIATION IS KILLING ME
+[20:16:22]SAY: Parrot/ : Hello!
+[20:16:29]OOC: Igam Yute/Moom241 : hueh
+[20:16:32]OOC: Dominika Kuznetsov/Kerbal22 : It&#39;s not that complicated but, compared to the sing, it does not put out ANYWHERE near the same amount of power.
+[20:16:47]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[20:16:48]OOC: Igam Yute/Moom241 : Isn&#39;t it also more dangerous?
+[20:16:55]OOC: Dominika Kuznetsov/Kerbal22 : You see the engine room?
+[20:17:11]OOC: Dominika Kuznetsov/Kerbal22 : When the supermatter goes up, the entire thing does also.
+[20:17:11]SAY: Experiment 97d/ : EHEHEHEHEH
+[20:17:15]EMOTE: cat/ : <B>The cat</B> mews.
+[20:17:30]OOC: Dominika Kuznetsov/Kerbal22 : and it bathes the station in radation, killing you plus making you hallucinate.
+[20:17:43]OOC: Igam Yute/Moom241 : like, the entire station?
+[20:17:54]OOC: Dominika Kuznetsov/Kerbal22 : aye
+[20:18:00]OOC: Igam Yute/Moom241 : why use it then?
+[20:18:05]OOC: Dominika Kuznetsov/Kerbal22 : Because Baystation.
+[20:18:23]OOC: Igam Yute/Moom241 : I mean like, in universe, singularities are safer, evin if only marginally so.
+[20:18:30]OOC: Dominika Kuznetsov/Kerbal22 : I dunno. Baystation.
+[20:18:41]OOC: Igam Yute/Moom241 : Ooh! I always wanted to try something
+[20:18:51]OOC: Dominika Kuznetsov/Kerbal22 : Wjat?
+[20:18:53]OOC: Igam Yute/Moom241 : can I have a body on the station, some gauze, and a bottle of gin?
+[20:19:06]OOC: Dominika Kuznetsov/Kerbal22 : No, you can&#39;t make molotov cocktails.
+[20:19:08]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[20:19:14]OOC: Igam Yute/Moom241 : aww
+[20:19:19]OOC: Igam Yute/Moom241 : different codebase?
+[20:19:25]OOC: Dominika Kuznetsov/Kerbal22 : You never could.
+[20:19:32]OOC: Igam Yute/Moom241 : can I at least try?
+[20:19:34]OOC: Igam Yute/Moom241 : plox?
+[20:19:39]OOC: Dominika Kuznetsov/Kerbal22 : the code ain&#39;t there.
+[20:19:44]OOC: Igam Yute/Moom241 : LET ME DREAM
+[20:19:47]EMOTE: Runtime/ : <B>Runtime</B> mews.
+[20:19:48]OOC: Dominika Kuznetsov/Kerbal22 : nah
+[20:19:50]EMOTE: Ghost/Moom241 : shakes a ghostly fist.
+[20:19:50]EMOTE: Ghost/Moom241 : shakes a ghostly fist.
+[20:20:07]OOC: Igam Yute/Moom241 : oky. dreams r ded
+[20:20:23]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[20:20:44]OOC: Igam Yute/Moom241 : wish some other people were on teh serber.
+[20:20:48]OOC: Igam Yute/Moom241 : o wells.
+[20:20:48]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[20:21:12]EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[20:21:20]OOC: Igam Yute/Moom241 : hueh
+[20:21:28]OOC: Igam Yute/Moom241 : baycode has a shweet medbay
+[20:21:37]ADMIN: Kerbal22/(Dominika Kuznetsov) played sound sound/misc/notice2.ogg
+[20:21:40]ADMIN: Kerbal22/(Dominika Kuznetsov) played sound sound/misc/notice1.ogg
+[20:21:46]OOC: Igam Yute/Moom241 : what was that?
+[20:21:56]OOC: Dominika Kuznetsov/Kerbal22 : Me screwing with stuffu
+[20:22:08]OOC: Igam Yute/Moom241 : the genetics lab isn&#39;t there?
+[20:22:15]OOC: Igam Yute/Moom241 : they did away with it?
+[20:22:15]ADMIN: Kerbal22/(Dominika Kuznetsov) played sound sound/voice/ManUp1.ogg
+[20:22:20]OOC: Dominika Kuznetsov/Kerbal22 : evidently
+[20:22:33]OOC: Igam Yute/Moom241 : how pedantic
+[20:23:05]EMOTE: Runtime/ : <B>Runtime</B> shakes their head.
+[20:23:05]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[20:23:15]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> snores.
+[20:23:19]SAY: kitten/ : HSSSSS
+[20:23:23]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> snores.
+[20:23:29]OOC: Igam Yute/Moom241 : hueh
+[20:23:29]ADMIN: Kerbal22/(Dominika Kuznetsov) played sound sound/misc/TestLoop1.ogg
+[20:23:41]EMOTE: Ian/ : <B>Ian</B> dances around
+[20:23:44]OOC: Igam Yute/Moom241 : the secret maintenance hangout room comes prebuilt
+[20:23:47]SAY: Runtime/ : Esp!
+[20:23:58]ADMIN: Kerbal22/(Dominika Kuznetsov) played sound sound/music/main.ogg
+[20:24:00]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> shakes its head.
+[20:24:07]OOC: Dominika Kuznetsov/Kerbal22 : ayup
+[20:24:16]SAY: cat/ : Meow!
+[20:24:18]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> snores.
+[20:24:32]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[20:24:51]ADMIN: Kerbal22/(Dominika Kuznetsov) played sound 1.ogg
+[20:25:03]OOC: Igam Yute/Moom241 : cargo aint very different
+[20:25:18]OOC: Igam Yute/Moom241 : nor is science
+[20:25:25]EMOTE: kitten/ : <B>The kitten</B> mews.
+[20:25:26]OOC: Dominika Kuznetsov/Kerbal22 : Cargo never really changes.
+[20:25:33]OOC: Dominika Kuznetsov/Kerbal22 : It has not in..a long fucking time
+[20:25:46]OOC: Igam Yute/Moom241 : they replaced misc with xenoflora
+[20:25:59]EMOTE: kitten/ : <B>The kitten</B> meows.
+[20:26:01]EMOTE: cat/ : <B>The cat</B> meows.
+[20:26:12]OOC: Igam Yute/Moom241 : botany is different
+[20:26:29]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> snores.
+[20:26:35]SAY: Ghost/Moom241 : Let it explode!
+[20:26:49]OOC: Igam Yute/Moom241 : Let it go boom! I wanna see this.
+[20:26:52]OOC: Igam Yute/Moom241 : oh
+[20:26:54]DEBUG: Next event of severity Moderate in 50.34 minutes.
+[20:26:54]DEBUG: Starting event 'Communication Blackout' of severity Moderate.
+[20:26:55]OOC: Igam Yute/Moom241 : it&#39;s going down
+[20:26:56]DEBUG: Event 'Communication Blackout' has completed at 19:11.
+[20:26:59]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> snores.
+[20:27:05]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[20:27:11]SAY: kitten/ : Meow!
+[20:27:13]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[20:27:19]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[20:27:25]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> snores.
+[20:27:29]EMOTE: crab/ : <B>The crab</B> clacks.
+[20:27:42]OOC: Igam Yute/Moom241 : is u fiddlin with the supermatter kerbs?
+[20:27:44]EMOTE: crab/ : <B>The crab</B> clacks.
+[20:27:46]DEBUG: Next event of severity Mundane in 14.836 minutes.
+[20:27:46]DEBUG: Starting event 'Vermin Infestation' of severity Mundane.
+[20:27:47]VOTE: Custom vote started by Kerbal22.
+bombard nss exodus with rocks?
+[20:27:48]EMOTE: kitten/ : <B>The kitten</B> meows.
+[20:27:52]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[20:27:58]SAY: Parrot/ : Hello!
+[20:28:02]OOC: Igam Yute/Moom241 : can only vote 4 1
+[20:28:09]OOC: Igam Yute/Moom241 : what even is point?
+[20:28:10]DEBUG: Event 'Vermin Infestation' has completed at 19:13.
+[20:28:41]OOC: Igam Yute/Moom241 : So, kerbs, u wanna hear my plans for if igam ever dies and gets cloned?
+[20:28:48]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> snores.
+[20:28:48]OOC: Dominika Kuznetsov/Kerbal22 : shure
+[20:28:51]VOTE: <b>Vote Result: Arabellaxigam</b>
+[20:28:55]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> snores.
+[20:29:07]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> snores.
+[20:29:11]OOC: Igam Yute/Moom241 : He&#39;s going to forget an unspecified amount of his life. How original is that?
+[20:29:13]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[20:29:16]ADMIN: Kerbal22/(Dominika Kuznetsov) played sound endoftheworld.ogg
+[20:29:17]EMOTE: crab/ : <B>The crab</B> clacks.
+[20:29:32]OOC: Igam Yute/Moom241 : Also, since I couldn&#39;t vote for 2 things, assume I also said yes.
+[20:29:35]OOC: Dominika Kuznetsov/Kerbal22 : sounds k.
+[20:29:39]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> snores.
+[20:29:40]ADMIN: Kerbal22/(Dominika Kuznetsov) spawned a meteor wave
+[20:29:40]ADMIN: Kerbal22/(Dominika Kuznetsov) used secret wave
+[20:29:41]ADMIN: Kerbal22/(Dominika Kuznetsov) spawned a meteor wave
+[20:29:41]ADMIN: Kerbal22/(Dominika Kuznetsov) used secret wave
+[20:29:41]ADMIN: Kerbal22/(Dominika Kuznetsov) spawned a meteor wave
+[20:29:41]ADMIN: Kerbal22/(Dominika Kuznetsov) used secret wave
+[20:29:41]ADMIN: Kerbal22/(Dominika Kuznetsov) spawned a meteor wave
+[20:29:41]ADMIN: Kerbal22/(Dominika Kuznetsov) used secret wave
+[20:29:42]ADMIN: Kerbal22/(Dominika Kuznetsov) spawned a meteor wave
+[20:29:42]ADMIN: Kerbal22/(Dominika Kuznetsov) used secret wave
+[20:29:42]ADMIN: Kerbal22/(Dominika Kuznetsov) spawned a meteor wave
+[20:29:42]ADMIN: Kerbal22/(Dominika Kuznetsov) used secret wave
+[20:29:42]ADMIN: Kerbal22/(Dominika Kuznetsov) spawned a meteor wave
+[20:29:42]ADMIN: Kerbal22/(Dominika Kuznetsov) used secret wave
+[20:29:43]ADMIN: Kerbal22/(Dominika Kuznetsov) spawned a meteor wave
+[20:29:43]ADMIN: Kerbal22/(Dominika Kuznetsov) used secret wave
+[20:29:43]ADMIN: Kerbal22/(Dominika Kuznetsov) spawned a meteor wave
+[20:29:43]ADMIN: Kerbal22/(Dominika Kuznetsov) used secret wave
+[20:29:43]ADMIN: Kerbal22/(Dominika Kuznetsov) spawned a meteor wave
+[20:29:43]ADMIN: Kerbal22/(Dominika Kuznetsov) used secret wave
+[20:29:44]ADMIN: Kerbal22/(Dominika Kuznetsov) spawned a meteor wave
+[20:29:44]ADMIN: Kerbal22/(Dominika Kuznetsov) used secret wave
+[20:29:44]ADMIN: Kerbal22/(Dominika Kuznetsov) spawned a meteor wave
+[20:29:44]ADMIN: Kerbal22/(Dominika Kuznetsov) used secret wave
+[20:29:44]ADMIN: Kerbal22/(Dominika Kuznetsov) spawned a meteor wave
+[20:29:44]ADMIN: Kerbal22/(Dominika Kuznetsov) used secret wave
+[20:29:45]ADMIN: Kerbal22/(Dominika Kuznetsov) spawned a meteor wave
+[20:29:45]ADMIN: Kerbal22/(Dominika Kuznetsov) used secret wave
+[20:29:45]ADMIN: Kerbal22/(Dominika Kuznetsov) spawned a meteor wave
+[20:29:45]ADMIN: Kerbal22/(Dominika Kuznetsov) used secret wave
+[20:29:45]ADMIN: Kerbal22/(Dominika Kuznetsov) spawned a meteor wave
+[20:29:45]ADMIN: Kerbal22/(Dominika Kuznetsov) used secret wave
+[20:29:46]ADMIN: Kerbal22/(Dominika Kuznetsov) spawned a meteor wave
+[20:29:46]ADMIN: Kerbal22/(Dominika Kuznetsov) used secret wave
+[20:29:46]ADMIN: Kerbal22/(Dominika Kuznetsov) spawned a meteor wave
+[20:29:46]ADMIN: Kerbal22/(Dominika Kuznetsov) used secret wave
+[20:29:46]ADMIN: Kerbal22/(Dominika Kuznetsov) spawned a meteor wave
+[20:29:46]ADMIN: Kerbal22/(Dominika Kuznetsov) used secret wave
+[20:29:46]ADMIN: Kerbal22/(Dominika Kuznetsov) spawned a meteor wave
+[20:29:46]ADMIN: Kerbal22/(Dominika Kuznetsov) used secret wave
+[20:29:47]ADMIN: Kerbal22/(Dominika Kuznetsov) spawned a meteor wave
+[20:29:47]ADMIN: Kerbal22/(Dominika Kuznetsov) used secret wave
+[20:29:47]ADMIN: Kerbal22/(Dominika Kuznetsov) spawned a meteor wave
+[20:29:47]ADMIN: Kerbal22/(Dominika Kuznetsov) used secret wave
+[20:29:48]ADMIN: Kerbal22/(Dominika Kuznetsov) spawned a meteor wave
+[20:29:48]ADMIN: Kerbal22/(Dominika Kuznetsov) used secret wave
+[20:29:48]ADMIN: Kerbal22/(Dominika Kuznetsov) spawned a meteor wave
+[20:29:48]ADMIN: Kerbal22/(Dominika Kuznetsov) used secret wave
+[20:29:48]ADMIN: Kerbal22/(Dominika Kuznetsov) spawned a meteor wave
+[20:29:48]ADMIN: Kerbal22/(Dominika Kuznetsov) used secret wave
+[20:29:48]ADMIN: Kerbal22/(Dominika Kuznetsov) spawned a meteor wave
+[20:29:48]ADMIN: Kerbal22/(Dominika Kuznetsov) used secret wave
+[20:29:49]ADMIN: Kerbal22/(Dominika Kuznetsov) spawned a meteor wave
+[20:29:49]ADMIN: Kerbal22/(Dominika Kuznetsov) used secret wave
+[20:29:49]ADMIN: Kerbal22/(Dominika Kuznetsov) spawned a meteor wave
+[20:29:49]ADMIN: Kerbal22/(Dominika Kuznetsov) used secret wave
+[20:29:49]ADMIN: Kerbal22/(Dominika Kuznetsov) spawned a meteor wave
+[20:29:49]ADMIN: Kerbal22/(Dominika Kuznetsov) used secret wave
+[20:29:50]ADMIN: Kerbal22/(Dominika Kuznetsov) spawned a meteor wave
+[20:29:50]ADMIN: Kerbal22/(Dominika Kuznetsov) used secret wave
+[20:29:50]ADMIN: Kerbal22/(Dominika Kuznetsov) spawned a meteor wave
+[20:29:50]ADMIN: Kerbal22/(Dominika Kuznetsov) used secret wave
+[20:29:50]ADMIN: Kerbal22/(Dominika Kuznetsov) spawned a meteor wave
+[20:29:50]ADMIN: Kerbal22/(Dominika Kuznetsov) used secret wave
+[20:29:51]ADMIN: Kerbal22/(Dominika Kuznetsov) spawned a meteor wave
+[20:29:51]ADMIN: Kerbal22/(Dominika Kuznetsov) used secret wave
+[20:29:51]ADMIN: Kerbal22/(Dominika Kuznetsov) spawned a meteor wave
+[20:29:51]ADMIN: Kerbal22/(Dominika Kuznetsov) used secret wave
+[20:29:51]ADMIN: Kerbal22/(Dominika Kuznetsov) spawned a meteor wave
+[20:29:51]ADMIN: Kerbal22/(Dominika Kuznetsov) used secret wave
+[20:29:51]ADMIN: Kerbal22/(Dominika Kuznetsov) spawned a meteor wave
+[20:29:51]ADMIN: Kerbal22/(Dominika Kuznetsov) used secret wave
+[20:29:52]ADMIN: Kerbal22/(Dominika Kuznetsov) spawned a meteor wave
+[20:29:52]ADMIN: Kerbal22/(Dominika Kuznetsov) used secret wave
+[20:29:52]ADMIN: Kerbal22/(Dominika Kuznetsov) spawned a meteor wave
+[20:29:52]ADMIN: Kerbal22/(Dominika Kuznetsov) used secret wave
+[20:29:52]ADMIN: Kerbal22/(Dominika Kuznetsov) spawned a meteor wave
+[20:29:52]ADMIN: Kerbal22/(Dominika Kuznetsov) used secret wave
+[20:29:52]SAY: mouse (309)/ : SQUEEK!
+[20:29:53]ADMIN: Kerbal22/(Dominika Kuznetsov) spawned a meteor wave
+[20:29:53]ADMIN: Kerbal22/(Dominika Kuznetsov) used secret wave
+[20:29:53]ADMIN: Kerbal22/(Dominika Kuznetsov) spawned a meteor wave
+[20:29:53]ADMIN: Kerbal22/(Dominika Kuznetsov) used secret wave
+[20:29:53]ADMIN: Kerbal22/(Dominika Kuznetsov) spawned a meteor wave
+[20:29:53]ADMIN: Kerbal22/(Dominika Kuznetsov) used secret wave
+[20:29:54]ADMIN: Kerbal22/(Dominika Kuznetsov) spawned a meteor wave
+[20:29:54]ADMIN: Kerbal22/(Dominika Kuznetsov) used secret wave
+[20:29:54]ADMIN: Kerbal22/(Dominika Kuznetsov) spawned a meteor wave
+[20:29:54]ADMIN: Kerbal22/(Dominika Kuznetsov) used secret wave
+[20:29:54]ADMIN: Kerbal22/(Dominika Kuznetsov) spawned a meteor wave
+[20:29:54]ADMIN: Kerbal22/(Dominika Kuznetsov) used secret wave
+[20:29:55]ADMIN: Kerbal22/(Dominika Kuznetsov) spawned a meteor wave
+[20:29:55]ADMIN: Kerbal22/(Dominika Kuznetsov) used secret wave
+[20:29:55]ADMIN: Kerbal22/(Dominika Kuznetsov) spawned a meteor wave
+[20:29:55]ADMIN: Kerbal22/(Dominika Kuznetsov) used secret wave
+[20:29:55]ADMIN: Kerbal22/(Dominika Kuznetsov) spawned a meteor wave
+[20:29:55]ADMIN: Kerbal22/(Dominika Kuznetsov) used secret wave
+[20:29:56]ADMIN: Kerbal22/(Dominika Kuznetsov) spawned a meteor wave
+[20:29:56]ADMIN: Kerbal22/(Dominika Kuznetsov) used secret wave
+[20:29:56]ADMIN: Kerbal22/(Dominika Kuznetsov) spawned a meteor wave
+[20:29:56]ADMIN: Kerbal22/(Dominika Kuznetsov) used secret wave
+[20:29:56]ADMIN: Kerbal22/(Dominika Kuznetsov) spawned a meteor wave
+[20:29:56]ADMIN: Kerbal22/(Dominika Kuznetsov) used secret wave
+[20:29:57]ADMIN: Kerbal22/(Dominika Kuznetsov) spawned a meteor wave
+[20:29:57]ADMIN: Kerbal22/(Dominika Kuznetsov) used secret wave
+[20:29:57]ADMIN: Kerbal22/(Dominika Kuznetsov) spawned a meteor wave
+[20:29:57]ADMIN: Kerbal22/(Dominika Kuznetsov) used secret wave
+[20:29:57]OOC: Igam Yute/Moom241 : Jesus.
+[20:29:57]ADMIN: Kerbal22/(Dominika Kuznetsov) spawned a meteor wave
+[20:29:57]ADMIN: Kerbal22/(Dominika Kuznetsov) used secret wave
+[20:29:58]ADMIN: Kerbal22/(Dominika Kuznetsov) spawned a meteor wave
+[20:29:58]ADMIN: Kerbal22/(Dominika Kuznetsov) used secret wave
+[20:29:58]ADMIN: Kerbal22/(Dominika Kuznetsov) spawned a meteor wave
+[20:29:58]ADMIN: Kerbal22/(Dominika Kuznetsov) used secret wave
+[20:29:58]ADMIN: Kerbal22/(Dominika Kuznetsov) spawned a meteor wave
+[20:29:58]ADMIN: Kerbal22/(Dominika Kuznetsov) used secret wave
+[20:30:15]OOC: Dominika Kuznetsov/Kerbal22 : i spammed the button because why not
+[20:30:19]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[20:30:44]OOC: Igam Yute/Moom241 : you know what saddens me, but I understand why because of mechanics?
+[20:30:48]DEBUG: Event of '/datum/event/meteor_wave' with missing meta-data has completed.
+[20:30:48]DEBUG: Event of '/datum/event/meteor_wave' with missing meta-data has completed.
+[20:30:48]DEBUG: Event of '/datum/event/meteor_wave' with missing meta-data has completed.
+[20:30:48]DEBUG: Event of '/datum/event/meteor_wave' with missing meta-data has completed.
+[20:30:48]DEBUG: Event of '/datum/event/meteor_wave' with missing meta-data has completed.
+[20:30:48]DEBUG: Event of '/datum/event/meteor_wave' with missing meta-data has completed.
+[20:30:49]OOC: Dominika Kuznetsov/Kerbal22 : ?
+[20:30:50]DEBUG: Event of '/datum/event/meteor_wave' with missing meta-data has completed.
+[20:30:50]DEBUG: Event of '/datum/event/meteor_wave' with missing meta-data has completed.
+[20:30:50]DEBUG: Event of '/datum/event/meteor_wave' with missing meta-data has completed.
+[20:30:50]DEBUG: Event of '/datum/event/meteor_wave' with missing meta-data has completed.
+[20:30:50]DEBUG: Event of '/datum/event/meteor_wave' with missing meta-data has completed.
+[20:30:50]DEBUG: Event of '/datum/event/meteor_wave' with missing meta-data has completed.
+[20:30:52]DEBUG: Event of '/datum/event/meteor_wave' with missing meta-data has completed.
+[20:30:52]DEBUG: Event of '/datum/event/meteor_wave' with missing meta-data has completed.
+[20:30:52]DEBUG: Event of '/datum/event/meteor_wave' with missing meta-data has completed.
+[20:30:52]DEBUG: Event of '/datum/event/meteor_wave' with missing meta-data has completed.
+[20:30:52]DEBUG: Event of '/datum/event/meteor_wave' with missing meta-data has completed.
+[20:30:52]DEBUG: Event of '/datum/event/meteor_wave' with missing meta-data has completed.
+[20:30:52]DEBUG: Event of '/datum/event/meteor_wave' with missing meta-data has completed.
+[20:30:52]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[20:30:54]DEBUG: Event of '/datum/event/meteor_wave' with missing meta-data has completed.
+[20:30:54]DEBUG: Event of '/datum/event/meteor_wave' with missing meta-data has completed.
+[20:30:54]DEBUG: Event of '/datum/event/meteor_wave' with missing meta-data has completed.
+[20:30:54]DEBUG: Event of '/datum/event/meteor_wave' with missing meta-data has completed.
+[20:30:54]DEBUG: Event of '/datum/event/meteor_wave' with missing meta-data has completed.
+[20:30:54]DEBUG: Event of '/datum/event/meteor_wave' with missing meta-data has completed.
+[20:30:56]DEBUG: Event of '/datum/event/meteor_wave' with missing meta-data has completed.
+[20:30:56]DEBUG: Event of '/datum/event/meteor_wave' with missing meta-data has completed.
+[20:30:56]DEBUG: Event of '/datum/event/meteor_wave' with missing meta-data has completed.
+[20:30:56]DEBUG: Event of '/datum/event/meteor_wave' with missing meta-data has completed.
+[20:30:56]DEBUG: Event of '/datum/event/meteor_wave' with missing meta-data has completed.
+[20:30:56]DEBUG: Event of '/datum/event/meteor_wave' with missing meta-data has completed.
+[20:30:57]DEBUG: Event of '/datum/event/meteor_wave' with missing meta-data has completed.
+[20:30:57]DEBUG: Event of '/datum/event/meteor_wave' with missing meta-data has completed.
+[20:30:57]DEBUG: Event of '/datum/event/meteor_wave' with missing meta-data has completed.
+[20:30:57]DEBUG: Event of '/datum/event/meteor_wave' with missing meta-data has completed.
+[20:30:58]DEBUG: Event of '/datum/event/meteor_wave' with missing meta-data has completed.
+[20:30:58]DEBUG: Event of '/datum/event/meteor_wave' with missing meta-data has completed.
+[20:30:59]DEBUG: Event of '/datum/event/meteor_wave' with missing meta-data has completed.
+[20:30:59]DEBUG: Event of '/datum/event/meteor_wave' with missing meta-data has completed.
+[20:30:59]DEBUG: Event of '/datum/event/meteor_wave' with missing meta-data has completed.
+[20:30:59]DEBUG: Event of '/datum/event/meteor_wave' with missing meta-data has completed.
+[20:30:59]DEBUG: Event of '/datum/event/meteor_wave' with missing meta-data has completed.
+[20:30:59]DEBUG: Event of '/datum/event/meteor_wave' with missing meta-data has completed.
+[20:31:01]DEBUG: Event of '/datum/event/meteor_wave' with missing meta-data has completed.
+[20:31:01]DEBUG: Event of '/datum/event/meteor_wave' with missing meta-data has completed.
+[20:31:01]DEBUG: Event of '/datum/event/meteor_wave' with missing meta-data has completed.
+[20:31:01]DEBUG: Event of '/datum/event/meteor_wave' with missing meta-data has completed.
+[20:31:01]DEBUG: Event of '/datum/event/meteor_wave' with missing meta-data has completed.
+[20:31:01]DEBUG: Event of '/datum/event/meteor_wave' with missing meta-data has completed.
+[20:31:03]DEBUG: Event of '/datum/event/meteor_wave' with missing meta-data has completed.
+[20:31:03]DEBUG: Event of '/datum/event/meteor_wave' with missing meta-data has completed.
+[20:31:03]DEBUG: Event of '/datum/event/meteor_wave' with missing meta-data has completed.
+[20:31:03]DEBUG: Event of '/datum/event/meteor_wave' with missing meta-data has completed.
+[20:31:03]DEBUG: Event of '/datum/event/meteor_wave' with missing meta-data has completed.
+[20:31:03]DEBUG: Event of '/datum/event/meteor_wave' with missing meta-data has completed.
+[20:31:03]DEBUG: Event of '/datum/event/meteor_wave' with missing meta-data has completed.
+[20:31:05]DEBUG: Event of '/datum/event/meteor_wave' with missing meta-data has completed.
+[20:31:09]OOC: Igam Yute/Moom241 : hueh
+[20:31:14]OOC: Igam Yute/Moom241 : no meteors
+[20:31:24]OOC: Igam Yute/Moom241 : but, back to what i was saying
+[20:31:26]GAME: Explosion with size (1, 2, 4) in area Engineering Maintenance 
+[20:31:32]GAME: Explosion with size (1, 2, 4) in area Locker Room Maintenance 
+[20:31:34]OOC: Igam Yute/Moom241 : Ghosts can&#39;t look at computer screens.
+[20:31:35]GAME: Emitter deleted at (127,83,1)
+[20:31:36]GAME: Explosion with size (1, 2, 4) in area Cargo Maintenance 
+[20:31:43]OOC: Igam Yute/Moom241 : oh shit
+[20:31:44]OOC: Igam Yute/Moom241 : where are booms?
+[20:31:46]GAME: Explosion with size (1, 2, 4) in area Research Maintenance - Port 
+[20:31:47]ADMIN: Kerbal22/(Dominika Kuznetsov) used secret immovable
+[20:31:47]ADMIN: Kerbal22/(Dominika Kuznetsov) used secret immovable
+[20:31:51]ADMIN: Kerbal22/(Dominika Kuznetsov) used secret immovable
+[20:31:55]OOC: Dominika Kuznetsov/Kerbal22 : i sent immovable rods
+[20:31:55]ADMIN: Kerbal22/(Dominika Kuznetsov) used secret immovable
+[20:31:55]ADMIN: Kerbal22/(Dominika Kuznetsov) used secret immovable
+[20:31:56]EMOTE: mouse (309)/ : <B>The mouse (309)</B> runs in a circle.
+[20:31:56]EMOTE: Dominika Kuznetsov/@Kerbal22 : <B>Dominika Kuznetsov</B> gasps!
+[20:31:59]ADMIN: Kerbal22/(Dominika Kuznetsov) used secret immovable
+[20:32:00]EMOTE: Dominika Kuznetsov/@Kerbal22 : <B>Dominika Kuznetsov</B> gasps!
+[20:32:00]ADMIN: Kerbal22/(Dominika Kuznetsov) used secret immovable
+[20:32:01]ADMIN: Kerbal22/(Dominika Kuznetsov) used secret immovable
+[20:32:06]OOC: Igam Yute/Moom241 : where?
+[20:32:10]ADMIN: Kerbal22/(Dominika Kuznetsov) used secret immovable
+[20:32:12]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> snores.
+[20:32:12]OOC: Dominika Kuznetsov/Kerbal22 : -everywhere-
+[20:32:23]EMOTE: Dominika Kuznetsov/@Kerbal22 : <B>Dominika Kuznetsov</B> gasps!
+[20:32:28]OOC: Dominika Kuznetsov/Kerbal22 : One destroyed the SM core
+[20:32:29]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> snores.
+[20:32:33]OOC: Igam Yute/Moom241 : immovable rod beats SM?
+[20:32:35]EMOTE: crab/ : <B>The crab</B> clicks.
+[20:32:37]OOC: Igam Yute/Moom241 : dude
+[20:32:38]OOC: Dominika Kuznetsov/Kerbal22 : Evidently!
+[20:32:41]OOC: Igam Yute/Moom241 : blow up supermatter
+[20:32:43]EMOTE: crab/ : <B>The crab</B> clacks.
+[20:32:45]OOC: Igam Yute/Moom241 : on the bridge
+[20:32:47]EMOTE: Dominika Kuznetsov/@Kerbal22 : <B>Dominika Kuznetsov</B> gasps!
+[20:32:51]EMOTE: Dominika Kuznetsov/@Kerbal22 : <B>Dominika Kuznetsov</B> gasps!
+[20:32:55]EMOTE: Runtime/ : <B>Runtime</B> mews.
+[20:32:57]OOC: Dominika Kuznetsov/Kerbal22 : a rod hit atmos, hilariously enough
+[20:33:03]OOC: Igam Yute/Moom241 : end it all kerbal. end. it. all.
+[20:33:05]EMOTE: Dominika Kuznetsov/@Kerbal22 : <B>Dominika Kuznetsov</B> gasps!
+[20:33:11]EMOTE: Dominika Kuznetsov/@Kerbal22 : <B>Dominika Kuznetsov</B> gasps!
+[20:33:13]EMOTE: Dominika Kuznetsov/@Kerbal22 : <B>Dominika Kuznetsov</B> gasps!
+[20:33:21]EMOTE: Dominika Kuznetsov/@Kerbal22 : <B>Dominika Kuznetsov</B> gasps!
+[20:33:22]ADMIN: Kerbal22/(Dominika Kuznetsov) created a /obj/machinery/power/supermatter
+[20:33:26]ADMIN: Kerbal22/(Dominika Kuznetsov) created a /obj/machinery/power/supermatter
+[20:33:29]SAY: cat/ : HSSSSS
+[20:33:29]ADMIN: Kerbal22/(Dominika Kuznetsov) created a /obj/machinery/power/supermatter
+[20:33:31]EMOTE: Dominika Kuznetsov/@Kerbal22 : <B>Dominika Kuznetsov</B> gasps!
+[20:33:34]ADMIN: Kerbal22/(Dominika Kuznetsov) has entered build mode.
+[20:33:36]ADMIN: Kerbal22/(Dominika Kuznetsov) has left build mode.
+[20:33:43]OOC: Igam Yute/Moom241 : you have excellent taste in music.
+[20:33:54]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> snores.
+[20:33:58]SAY: kitten/ : Purr!
+[20:34:17]OOC: Igam Yute/Moom241 : I think u need 2 zap em
+[20:34:20]EMOTE: Dominika Kuznetsov/@Kerbal22 : <B>Dominika Kuznetsov</B> gasps!
+[20:34:24]SAY: cat/ : Meow!
+[20:34:26]EMOTE: Dominika Kuznetsov/@Kerbal22 : <B>Dominika Kuznetsov</B> gasps!
+[20:34:36]EMOTE: Runtime/ : <B>Runtime</B> shakes their head.
+[20:34:55]EMOTE: Ian/ : <B>Ian</B> dances around
+[20:34:57]EMOTE: Dominika Kuznetsov/@Kerbal22 : <B>Dominika Kuznetsov</B> gasps!
+[20:34:59]EMOTE: Dominika Kuznetsov/@Kerbal22 : <B>Dominika Kuznetsov</B> gasps!
+[20:35:02]OOC: Dominika Kuznetsov/Kerbal22 : i vill be setting plasma fire
+[20:35:05]EMOTE: Dominika Kuznetsov/@Kerbal22 : <B>Dominika Kuznetsov</B> gasps!
+[20:35:15]SAY: cat/ : Esp!
+[20:35:25]EMOTE: Dominika Kuznetsov/@Kerbal22 : <B>Dominika Kuznetsov</B> gasps!
+[20:35:28]ADMIN: Kerbal22/(Dominika Kuznetsov) created a /obj/machinery/portable_atmospherics/canister/phoron
+[20:35:29]ADMIN: Kerbal22/(Dominika Kuznetsov) created a /obj/machinery/portable_atmospherics/canister/phoron
+[20:35:32]ADMIN: Kerbal22/(Dominika Kuznetsov) created a /obj/machinery/portable_atmospherics/canister/phoron
+[20:35:35]ADMIN: Kerbal22/(Dominika Kuznetsov) created a /obj/machinery/portable_atmospherics/canister/oxygen
+[20:35:37]EMOTE: Dominika Kuznetsov/@Kerbal22 : <B>Dominika Kuznetsov</B> gasps!
+[20:35:37]ADMIN: Kerbal22/(Dominika Kuznetsov) created a /obj/machinery/portable_atmospherics/canister/oxygen
+[20:35:39]ADMIN: Kerbal22/(Dominika Kuznetsov) created a /obj/machinery/portable_atmospherics/canister/oxygen
+[20:35:46]ADMIN: Kerbal22/(Dominika Kuznetsov) created a /mob/living/carbon/human/dummy
+[20:35:51]ADMIN: Kerbal22/(Dominika Kuznetsov) deleted the Bridge Air Alarm at (110,134,1)
+[20:35:51]EMOTE: Dominika Kuznetsov/@Kerbal22 : <B>Dominika Kuznetsov</B> gasps!
+[20:35:53]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> snores.
+[20:36:03]EMOTE: Dominika Kuznetsov/@Kerbal22 : <B>Dominika Kuznetsov</B> gasps!
+[20:36:22]EMOTE: Dominika Kuznetsov/@Kerbal22 : <B>Dominika Kuznetsov</B> gasps!
+[20:36:24]EMOTE: Dominika Kuznetsov/@Kerbal22 : <B>Dominika Kuznetsov</B> gasps!
+[20:36:30]EMOTE: Dominika Kuznetsov/@Kerbal22 : <B>Dominika Kuznetsov</B> gasps!
+[20:36:32]EMOTE: Dominika Kuznetsov/@Kerbal22 : <B>Dominika Kuznetsov</B> gasps!
+[20:36:32]OOC: Igam Yute/Moom241 : yes. let it burn
+[20:36:34]EMOTE: Runtime/ : <B>Runtime</B> mews.
+[20:36:36]ADMIN: Kerbal22/(Dominika Kuznetsov) created a /obj/item/device/assembly/igniter
+[20:36:40]OOC: Igam Yute/Moom241 : show them the meaning of pain
+[20:36:44]ADMIN: Kerbal22/(Dominika Kuznetsov) assumed direct control of Test Dummy.
+[20:36:44]ACCESS: Logout: *no key*/(Dominika Kuznetsov)
+[20:36:44]ACCESS: Login: kerbal22/(Test Dummy) from 24.181.70.89-1162035905 || BYOND v506
+[20:36:47]ADMIN: Test Dummy (kerbal22) opened 'Canister: [O2]' containing oxygen.
+[20:36:50]EMOTE: Dominika Kuznetsov/@Kerbal22 : <B>Dominika Kuznetsov</B> gasps!
+[20:36:55]ADMIN: Test Dummy (kerbal22) opened 'Canister: [O2]' containing oxygen.
+[20:36:58]EMOTE: Dominika Kuznetsov/@Kerbal22 : <B>Dominika Kuznetsov</B> gasps!
+[20:37:02]ADMIN: Test Dummy (kerbal22) opened 'Canister: [O2]' containing oxygen.
+[20:37:02]EMOTE: Dominika Kuznetsov/@Kerbal22 : <B>Dominika Kuznetsov</B> gasps!
+[20:37:06]EMOTE: Dominika Kuznetsov/@Kerbal22 : <B>Dominika Kuznetsov</B> gasps!
+[20:37:14]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[20:37:16]ADMIN: Test Dummy (kerbal22) opened 'Canister [Phoron]' containing phoron.
+[20:37:16]EMOTE: Dominika Kuznetsov/@Kerbal22 : <B>Dominika Kuznetsov</B> gasps!
+[20:37:20]ADMIN: Test Dummy (kerbal22) opened 'Canister [Phoron]' containing phoron.
+[20:37:24]ADMIN: Test Dummy (kerbal22) opened 'Canister [Phoron]' containing phoron.
+[20:37:32]ACCESS: Logout: *no key*/(Test Dummy)
+[20:37:32]ACCESS: Login: kerbal22/(Test Dummy) from 24.181.70.89-1162035905 || BYOND v506
+[20:37:34]ACCESS: Logout: *no key*/(Test Dummy)
+[20:37:34]ACCESS: Login: kerbal22/(Test Dummy) from 24.181.70.89-1162035905 || BYOND v506
+[20:37:37]EMOTE: Dominika Kuznetsov/ : <B>Dominika Kuznetsov</B> gasps!
+[20:37:53]EMOTE: Dominika Kuznetsov/ : <B>Dominika Kuznetsov</B> gasps!
+[20:38:01]OOC: Igam Yute/Moom241 : is plasma fire?
+[20:38:03]ADMIN: Kerbal22/(Test Dummy) played sound Lux Aeterna By Clint Mansell.ogg
+[20:38:08]OOC: Test Dummy/Kerbal22 : it will be now.
+[20:38:11]EMOTE: Dominika Kuznetsov/ : <B>Dominika Kuznetsov</B> gasps!
+[20:38:13]OOC: Test Dummy/Kerbal22 : because i have music playing
+[20:38:20]ACCESS: Logout: *no key*/(Test Dummy)
+[20:38:20]ACCESS: Login: kerbal22/(Test Dummy) from 24.181.70.89-1162035905 || BYOND v506
+[20:38:25]SAY: Runtime/ : Purr!
+[20:38:32]OOC: Igam Yute/Moom241 : OH SHIT
+[20:38:35]EMOTE: Dominika Kuznetsov/ : <B>Dominika Kuznetsov</B> gasps!
+[20:38:43]EMOTE: Dominika Kuznetsov/ : <B>Dominika Kuznetsov</B> gasps!
+[20:38:49]EMOTE: Dominika Kuznetsov/ : <B>Dominika Kuznetsov</B> gasps!
+[20:39:09]OOC: Igam Yute/Moom241 : it&#39;s gonna escape into the station
+[20:39:11]EMOTE: Dominika Kuznetsov/ : <B>Dominika Kuznetsov</B> gasps!
+[20:39:18]EMOTE: Dominika Kuznetsov/ : <B>Dominika Kuznetsov</B> gasps!
+[20:39:20]OOC: Test Dummy/Kerbal22 : Good
+[20:39:25]OOC: Igam Yute/Moom241 : it&#39;s hotter than my mixtape!
+[20:39:30]OOC: Test Dummy/Kerbal22 : DAMN. IT went out
+[20:39:43]OOC: Igam Yute/Moom241 : gib me a body. i will continue our dark work
+[20:39:46]SAY: cat/ : Esp!
+[20:39:56]EMOTE: cat/ : <B>The cat</B> shivers.
+[20:40:08]ACCESS: Logout: *no key*/(Igam Yute)
+[20:40:08]ACCESS: Login: moom241/(Test Dummy) from 172.2.114.177-1501114251 || BYOND v506
+[20:40:08]ADMIN: Kerbal22/(Test Dummy) modified Unknown's ckey to moom241
+[20:40:08]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[20:40:16]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> snores.
+[20:40:20]SAY: Ian/ : AUUUUUU
+[20:40:22]EMOTE: crab/ : <B>The crab</B> clacks.
+[20:40:29]ADMIN: Unknown(moom241) has forced open an emergency shutter.
+[20:40:32]ADMIN: kerbal22/(Test Dummy) created a /obj/machinery/portable_atmospherics/canister/oxygen
+[20:40:33]ADMIN: kerbal22/(Test Dummy) created a /obj/machinery/portable_atmospherics/canister/oxygen
+[20:40:34]ADMIN: kerbal22/(Test Dummy) created a /obj/machinery/portable_atmospherics/canister/oxygen
+[20:40:35]ADMIN: kerbal22/(Test Dummy) created a /obj/machinery/portable_atmospherics/canister/oxygen
+[20:40:37]ADMIN: kerbal22/(Test Dummy) created a /obj/machinery/portable_atmospherics/canister/oxygen
+[20:40:45]ADMIN: kerbal22/(Test Dummy) created a /obj/machinery/portable_atmospherics/canister/phoron
+[20:40:47]ATTACK: Unknown (moom241) injected Unknown (moom241) with autoinjector. Reagents: Inaprovaline (INTENT: HELP) (<A HREF='?_src_=holder;adminplayerobservecoodjump=1;X=106;Y=133;Z=1'>JMP</a>)
+[20:40:47]ADMIN: kerbal22/(Test Dummy) created a /obj/machinery/portable_atmospherics/canister/phoron
+[20:40:49]ADMIN: kerbal22/(Test Dummy) created a /obj/machinery/portable_atmospherics/canister/phoron
+[20:40:50]ADMIN: kerbal22/(Test Dummy) created a /obj/machinery/portable_atmospherics/canister/phoron
+[20:40:52]ADMIN: kerbal22/(Test Dummy) created a /obj/machinery/portable_atmospherics/canister/phoron
+[20:40:54]ADMIN: kerbal22/(Test Dummy) created a /obj/machinery/portable_atmospherics/canister/phoron
+[20:41:01]OOC: Test Dummy/Kerbal22 : I have spawned extra plasma.
+[20:41:11]SAY: Unknown/moom241 : THE GODS DEMAND SACRIFICE!
+[20:41:31]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> snores.
+[20:41:52]ADMIN: kerbal22/(Test Dummy) created a /mob/living/carbon/human/dummy
+[20:41:59]EMOTE: Test Dummy/ : <B>Test Dummy</B> collapses!
+[20:41:59]ADMIN: kerbal22/(Test Dummy) assumed direct control of Test Dummy.
+[20:41:59]ACCESS: Logout: *no key*/(Test Dummy)
+[20:41:59]ACCESS: Login: kerbal22/(Test Dummy) from 24.181.70.89-1162035905 || BYOND v506
+[20:42:03]EMOTE: kitten/ : <B>The kitten</B> meows.
+[20:42:04]ADMIN: Test Dummy (kerbal22) opened 'Canister [Phoron]' containing phoron.
+[20:42:07]ADMIN: Test Dummy (kerbal22) opened 'Canister [Phoron]' containing phoron.
+[20:42:11]ADMIN: Test Dummy (kerbal22) opened 'Canister [Phoron]' containing phoron.
+[20:42:15]ADMIN: Test Dummy (kerbal22) opened 'Canister [Phoron]' containing phoron.
+[20:42:16]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[20:42:16]EMOTE: Unknown/moom241 : <B>Unknown</B> gasps!
+[20:42:19]ADMIN: Test Dummy (kerbal22) opened 'Canister: [O2]' containing oxygen.
+[20:42:23]ADMIN: Test Dummy (kerbal22) opened 'Canister: [O2]' containing oxygen.
+[20:42:26]EMOTE: Test Dummy/kerbal22 : <B>Test Dummy</B> gasps!
+[20:42:28]ADMIN: Test Dummy (kerbal22) opened 'Canister: [O2]' containing oxygen.
+[20:42:30]EMOTE: Runtime/ : <B>Runtime</B> mews.
+[20:42:30]EMOTE: cat/ : <B>The cat</B> shivers.
+[20:42:36]ADMIN: Test Dummy (kerbal22) opened 'Canister [Phoron]' containing phoron.
+[20:42:52]EMOTE: kitten/ : <B>The kitten</B> meows.
+[20:42:54]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[20:42:58]SAY: Test Dummy/kerbal22 : BLOOD FOR THE BLOOD GOD!
+[20:43:04]SAY: Test Dummy/kerbal22 : SKULLS FOR THE SKULL THRONE!
+[20:43:08]SAY: Test Dummy/kerbal22 : ARMOK LIVES
+[20:43:24]ACCESS: Logout: *no key*/(Test Dummy)
+[20:43:24]ACCESS: Login: kerbal22/(Test Dummy) from 24.181.70.89-1162035905 || BYOND v506
+[20:43:24]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[20:43:36]SAY: Unknown/moom241 : YOUR FALSE GOD SHALL PERISH! ONLY THE MIGHTY MALAL SHALL RULE
+[20:43:41]DEBUG: Next event of severity Mundane in 16.116 minutes.
+[20:43:41]DEBUG: Starting event 'Mundane News' of severity Mundane.
+[20:43:56]ADMIN: kerbal22/(Test Dummy) has possessed Supermatter (/obj/machinery/power/supermatter) at (105, 134, 1)
+[20:44:03]DEBUG: Event 'Mundane News' has completed at 19:27.
+[20:44:11]ACCESS: Logout: *no key*/(Test Dummy)
+[20:44:11]ACCESS: Login: moom241/(Test Dummy) from 172.2.114.177-1501114251 || BYOND v506
+[20:44:12]GAME: Supermatter exploded at (121,134,1)
+[20:44:23]GAME: Supermatter exploded at (106,128,1)
+[20:44:27]OOC: Test Dummy/Kerbal22 : Oh that&#39;s new
+[20:44:30]GAME: Explosion with size (8, 16, 24) in area Bridge 
+[20:44:34]GAME: The nuclear authentication disk has been destroyed. Spawning the nuclear authentication disk at (176, 92, 1).
+[20:45:11]OOC: Test Dummy/Moom241 : thing go boom?
+[20:45:26]GAME: Explosion with size (8, 16, 24) in area Heads of Staff Meeting Room 
+[20:46:11]OOC: Test Dummy/Kerbal22 : HERE COMES ANOTHER ONE
+[20:46:11]GAME: Explosion with size (1, 2, 4) in area Auxiliary Tool Storage 
+[20:46:12]GAME: Explosion with size (1, 2, 4) in area EVA Storage 
+[20:46:13]GAME: Explosion with size (1, 2, 4) in area EVA Maintenance 
+[20:46:18]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[20:46:27]OOC: Test Dummy/Kerbal22 : The bridge..isn&#39;t..THERE ANYMORE.
+[20:46:31]OOC: Test Dummy/Kerbal22 : It&#39;s just fucking GONE
+[20:46:32]OOC: Test Dummy/Moom241 : that is a round ender
+[20:46:44]OOC: Test Dummy/Moom241 : AI is gone
+[20:46:56]OOC: Test Dummy/Moom241 : medbay vented. No more central hallway
+[20:46:58]SAY: kitten/ : Meow!
+[20:47:00]OOC: Test Dummy/Moom241 : cargo fukked
+[20:47:04]OOC: Test Dummy/Moom241 : bar fukked
+[20:47:11]OOC: Test Dummy/Moom241 : eva fukked
+[20:47:23]SAY: kitten/ : Esp!
+[20:47:55]OOC: Test Dummy/Kerbal22 : Note to self: When hosting derellect round, use SM to blast station to shit
+[20:48:01]OOC: Test Dummy/Moom241 : yus
+[20:48:07]OOC: Test Dummy/Moom241 : wait
+[20:48:10]OOC: Test Dummy/Moom241 : derelict round?
+[20:48:25]OOC: Test Dummy/Kerbal22 : Station damaged beyond repair. Must build colony on mining asteriod.
+[20:48:41]OOC: Test Dummy/Moom241 : where do you host these?
+[20:48:51]SAY: Parrot/ : Hello!
+[20:48:52]OOC: Test Dummy/Kerbal22 : Have not hosted one yet
+[20:49:02]OOC: Test Dummy/Moom241 : igam would be useless.
+[20:49:05]OOC: Test Dummy/Kerbal22 : Might, if it gains enough momentum.
+[20:49:09]OOC: Test Dummy/Moom241 : except for morale, of course.
+[20:49:09]SAY: kitten/ : Purr!
+[20:49:15]SAY: Runtime/ : Meow!
+[20:49:29]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> snores.
+[20:49:33]ADMIN: Announce: kerbal22/(Test Dummy) : A MOMENT OF SILENCE FOR THE BRIDGE, AI CORE, CENTRAL RING, CARGO, PORT HALL, MEDBAY, STARBOARD HALL, ETC.
+[20:49:44]EMOTE: crab/ : <B>The crab</B> clicks.
+[20:49:46]ADMIN: Kerbal22/(Test Dummy) played sound Funeral - Scottish - Bag Pipes and Drums of the 48th High Sc.ogg
+[20:49:54]SAY: Ghost/moom241 : SHUT THE FUCK UP CRAB MOMENT OF SILENCE!
+[20:50:19]EMOTE: Parrot/ : <B>The Parrot</B> bawks.
+[20:50:57]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[20:51:17]EMOTE: kitten/ : <B>The kitten</B> mews.
+[20:51:26]ADMIN: kerbal22/(Test Dummy) created a /obj/structure/closet/wardrobe/tactical
+[20:51:40]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[20:51:42]EMOTE: kitten/ : <B>The kitten</B> meows.
+[20:51:43]ADMIN: kerbal22/(Test Dummy) created a /obj/item/weapon/gun/projectile/automatic/c20r
+[20:51:56]ADMIN: kerbal22/(Test Dummy) created a /obj/item/clothing/suit/armor/bulletproof
+[20:52:09]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[20:52:18]ADMIN: kerbal22/(Test Dummy) created a /obj/item/weapon/disk/nuclear
+[20:52:30]ADMIN: kerbal22/(Test Dummy) created a /mob/living/carbon/human/dummy
+[20:52:45]ADMIN: kerbal22/(Test Dummy) assumed direct control of Terrorist.
+[20:52:45]ACCESS: Logout: *no key*/(Test Dummy)
+[20:52:45]ACCESS: Login: kerbal22/(Terrorist) from 24.181.70.89-1162035905 || BYOND v506
+[20:52:46]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[20:53:39]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> snores.
+[20:54:25]OOC: Test Dummy/Moom241 : I am an artist.
+[20:54:28]EMOTE: crab/ : <B>The crab</B> clacks.
+[20:54:34]VOTE: Restart vote started by moom241.
+[20:54:45]OOC: Test Dummy/Moom241 : Aww.
+[20:54:47]SAY: Unknown/kerbal22 : BOMB HAS BEEN PLANTED.
+[20:54:51]OOC: Test Dummy/Moom241 : Okay, now what?
+[20:54:57]ADMIN: Announce: kerbal22/(Terrorist) : Terrorist(as Unknown) says, "BOMB HAS BEEN PLANTED."
+
+[20:55:01]OOC: Test Dummy/Moom241 : OH SHEIT
+[20:55:02]OOC: Unknown/Kerbal22 : nuke tiem
+[20:55:14]OOC: Test Dummy/Moom241 : can I be terrorist 2?
+[20:55:25]OOC: Unknown/Kerbal22 : neh
+[20:55:36]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[20:55:53]OOC: Test Dummy/Moom241 : I&#39;ve gone mad with power, despite having literally no power.
+[20:55:54]EMOTE: cat/ : <B>The cat</B> shivers.
+[20:55:58]ADMIN: Kerbal22/(Terrorist) played sound space_asshole.ogg
+[20:56:05]ADMIN: Kerbal22/(Terrorist) played sound THUNDERDOME.ogg
+[20:56:44]ACCESS: Logout: *no key*/(Terrorist)
+[20:56:44]ACCESS: Login: kerbal22/(Terrorist) from 24.181.70.89-1162035905 || BYOND v506
+[20:57:24]GAME: Antagonists at round end were...
+[20:58:14]SAY: Experiment 97d/ : Eh?
+[20:58:32]EMOTE: Lachina Green/Erik Tiber : <B>Lachina Green</B> snores.
+[20:58:35]ACCESS: Logout: kerbal22/(Terrorist)
+[20:58:35]ACCESS: Logout: moom241/(Test Dummy)

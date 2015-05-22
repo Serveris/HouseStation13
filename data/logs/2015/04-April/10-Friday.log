@@ -1,0 +1,1653 @@
+
+
+Starting up. 15:04.54
+---------------------
+[15:04:54]MISC: Saved mode is 'extended'
+[15:04:56]ADMIN: Loading jobban_rank
+[15:04:56]ADMIN: jobban_keylist was empty
+[15:04:56]ADMIN: Loading Banlist
+[15:04:58]DEBUG: Rebuilding Master Controller
+[15:05:19]ACCESS: Login: Marinalightyears/(Marinalightyears) from 98.127.210.230-2261011010 || BYOND v506
+[15:06:33]VOTE: Gamemode vote started by the server.
+[15:06:33]DEBUG: The server has called a gamemode vote
+[15:07:33]DEBUG: The server has called a gamemode vote
+[15:07:33]VOTE: <b>Vote Result: Inconclusive - No Votes!</b>
+[15:08:58]DEBUG: Next event of severity Mundane in 14.254 minutes.
+[15:08:58]DEBUG: Next event of severity Moderate in 39.618 minutes.
+[15:08:58]DEBUG: Next event of severity Major in 81.8417 minutes.
+[15:09:22]EMOTE: Tom (471)/ : <B>Tom (471)</B> shakes.
+[15:09:22]EMOTE: Tom (819)/ : <B>Tom (819)</B> scritches at something.
+[15:09:24]EMOTE: mouse (300)/ : <B>The mouse (300)</B> squiks.
+[15:09:31]EMOTE: Parrot/ : <B>The Parrot</B> turns and flies towards the deck of cards
+[15:09:33]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[15:09:54]EMOTE: crab/ : <B>The crab</B> clacks.
+[15:10:03]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[15:10:11]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[15:10:33]SAY: mouse (266)/ : Squeek!
+[15:10:45]SAY: Parrot/ : Hello!
+[15:11:34]EMOTE: kitten/ : <B>The kitten</B> meows.
+[15:11:36]SAY: Parrot/ : Cracker?
+[15:11:45]EMOTE: mouse (714)/ : <B>The mouse (714)</B> shakes.
+[15:12:10]EMOTE: Ian/ : <B>Ian</B> dances around
+[15:13:27]EMOTE: Tom (819)/ : <B>Tom (819)</B> shakes.
+[15:13:29]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> shakes its head.
+[15:13:53]SAY: Runtime/ : Purr!
+[15:13:59]EMOTE: Tom (819)/ : <B>Tom (819)</B> scritches at something.
+[15:14:50]EMOTE: mouse (315)/ : <B>The mouse (315)</B> runs in a circle.
+[15:15:16]EMOTE: Tom (819)/ : <B>Tom (819)</B> scritches at something.
+[15:15:41]EMOTE: Ian/ : <B>Ian</B> dances around
+[15:15:43]EMOTE: kitten/ : <B>The kitten</B> meows.
+[15:15:50]SAY: Ian/ : Bark!
+[15:15:54]EMOTE: mouse (300)/ : <B>The mouse (300)</B> squeaks.
+[15:16:07]EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[15:17:01]SAY: cat/ : Purr!
+[15:17:16]SAY: grey baby slime (334)/ : Blorble...
+[15:17:52]SAY: Tom (819)/ : Squeek?
+[15:18:04]EMOTE: cat/ : <B>The cat</B> mews.
+[15:18:15]EMOTE: Ian/ : <B>Ian</B> dances around
+[15:18:43]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[15:18:49]SAY: kitten/ : Esp!
+[15:19:42]SAY: Parrot/ : Hello!
+[15:19:51]SAY: Ian/ : YAP
+[15:20:59]EMOTE: kitten/ : <B>The kitten</B> meows.
+[15:21:01]EMOTE: cat/ : <B>The cat</B> meows.
+[15:21:24]SAY: mouse (714)/ : Squeek?
+[15:22:17]EMOTE: kitten/ : <B>The kitten</B> mews.
+[15:22:26]EMOTE: crab/ : <B>The crab</B> clicks.
+[15:22:36]EMOTE: kitten/ : <B>The kitten</B> meows.
+[15:23:25]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[15:23:25]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[15:23:31]SAY: kitten/ : Esp!
+[15:23:42]SAY: grey baby slime (665)/ : Rawr...
+[15:24:22]EMOTE: mouse (714)/ : <B>The mouse (714)</B> shakes.
+[15:25:34]SAY: cat/ : Meow!
+[15:25:51]DEBUG: Next event of severity Mundane in 17.876 minutes.
+[15:25:51]DEBUG: Starting event 'Nothing' of severity Mundane.
+[15:25:53]DEBUG: Event 'Nothing' has completed at 12:17.
+[15:25:54]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[15:26:38]SAY: Runtime/ : Esp!
+[15:27:03]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[15:27:14]EMOTE: Ian/ : <B>Ian</B> dances around
+[15:28:02]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[15:28:07]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[15:28:15]EMOTE: Ian/ : <B>Ian</B> dances around
+[15:28:43]SAY: Ian/ : Bark!
+[15:29:11]EMOTE: Ian/ : <B>Ian</B> barks.
+[15:29:26]EMOTE: kitten/ : <B>The kitten</B> meows.
+[15:29:43]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[15:30:08]SAY: Parrot/ : Cracker?
+[15:31:06]EMOTE: mouse (714)/ : <B>The mouse (714)</B> squiks.
+[15:31:46]SAY: mouse (714)/ : Squeek!
+[15:32:08]EMOTE: mouse (714)/ : <B>The mouse (714)</B> squiks.
+[15:32:20]EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[15:32:37]EMOTE: kitten/ : <B>The kitten</B> mews.
+[15:32:48]EMOTE: crab/ : <B>The crab</B> clicks.
+[15:32:52]SAY: cat/ : Meow!
+[15:33:03]EMOTE: Ian/ : <B>Ian</B> barks.
+[15:33:20]EMOTE: kitten/ : <B>The kitten</B> mews.
+[15:33:41]EMOTE: cat/ : <B>The cat</B> meows.
+[15:34:02]ACCESS: Logout: *no key*/(Marinalightyears)
+[15:34:02]ACCESS: Login: Marinalightyears/(Amira Cook) from 98.127.210.230-2261011010 || BYOND v506
+[15:34:28]SAY: Experiment 97d/ : EHEHEHEHEH
+[15:34:34]EMOTE: crab/ : <B>The crab</B> clicks.
+[15:35:15]SAY: cat/ : Purr!
+[15:35:23]EMOTE: Ian/ : <B>Ian</B> dances around
+[15:37:09]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[15:37:38]SAY: kitten/ : Esp!
+[15:38:21]SAY: grey baby slime (665)/ : Blorble...
+[15:38:21]SAY: Ian/ : Bark!
+[15:38:27]EMOTE: Parrot/ : <B>The Parrot</B> squawks.
+[15:39:12]SAY: grey baby slime (665)/ : Rawr...
+[15:39:33]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[15:39:57]EMOTE: mouse (714)/ : <B>The mouse (714)</B> squeaks.
+[15:40:20]EMOTE: cat/ : <B>The cat</B> meows.
+[15:40:33]SAY: Experiment 97d/ : Eh?
+[15:41:04]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[15:41:34]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[15:41:51]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[15:42:21]EMOTE: Ian/ : <B>Ian</B> shakes its head.
+[15:44:17]EMOTE: Ian/ : <B>Ian</B> dances around
+[15:44:20]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[15:45:04]EMOTE: kitten/ : <B>The kitten</B> meows.
+[15:45:12]SAY: cat/ : Purr!
+[15:45:15]EMOTE: Ian/ : <B>Ian</B> dances around
+[15:46:06]SAY: Runtime/ : Esp!
+[15:46:06]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[15:46:38]SAY: cat/ : Meow!
+[15:46:40]SAY: kitten/ : Meow!
+[15:46:56]DEBUG: Next event of severity Mundane in 12.864 minutes.
+[15:46:56]DEBUG: Starting event 'Trivial News' of severity Mundane.
+[15:46:57]SAY: Parrot/ : Hello!
+[15:47:20]DEBUG: Event 'Trivial News' has completed at 12:35.
+[15:47:28]EMOTE: cat/ : <B>The cat</B> meows.
+[15:47:50]EMOTE: Ian/ : <B>Ian</B> dances around
+[15:48:26]SAY: grey baby slime (334)/ : Rawr...
+[15:48:45]SAY: cat/ : Purr!
+[15:49:27]SAY: grey baby slime (665)/ : Lonely...
+[15:50:39]EMOTE: Ian/ : <B>Ian</B> shivers.
+[15:50:44]EMOTE: Parrot/ : <B>The Parrot</B> flutters its wings.
+[15:51:34]SAY: Runtime/ : Meow!
+[15:51:47]EMOTE: Runtime/ : <B>Runtime</B> mews.
+[15:54:56]EMOTE: crab/ : <B>The crab</B> clacks.
+[15:55:04]EMOTE: Ian/ : <B>Ian</B> dances around
+[15:55:29]EMOTE: Ian/ : <B>Ian</B> dances around
+[15:55:44]DEBUG: Next event of severity Moderate in 47.368 minutes.
+[15:55:44]DEBUG: Starting event 'Communication Blackout' of severity Moderate.
+[15:55:46]DEBUG: Event 'Communication Blackout' has completed at 12:43.
+[15:56:20]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[15:56:31]SAY: Experiment 97d/ : Eh?
+[15:57:27]EMOTE: cat/ : <B>The cat</B> mews.
+[15:57:57]SAY: cat/ : Purr!
+[15:58:01]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[15:58:03]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[15:58:12]SAY: Parrot/ : Hello!
+[15:58:26]EMOTE: cat/ : <B>The cat</B> shivers.
+[15:59:49]SAY: kitten/ : HSSSSS
+[15:59:59]EMOTE: cat/ : <B>The cat</B> mews.
+[16:00:10]EMOTE: Ian/ : <B>Ian</B> dances around
+[16:00:16]EMOTE: kitten/ : <B>The kitten</B> mews.
+[16:01:44]SAY: cat/ : Esp!
+[16:02:03]DEBUG: Next event of severity Mundane in 16.452 minutes.
+[16:02:03]DEBUG: Starting event 'Mundane News' of severity Mundane.
+[16:02:06]EMOTE: Runtime/ : <B>Runtime</B> meows.
+[16:02:26]DEBUG: Event 'Mundane News' has completed at 12:48.
+[16:02:29]SAY: Experiment 97d/ : EHEHEHEHEH
+[16:02:54]EMOTE: Parrot/ : <B>The Parrot</B> bawks.
+[16:03:26]SAY: grey baby slime (334)/ : Where is the food?
+[16:03:32]SAY: Ian/ : Bark!
+[16:03:45]SAY: grey baby slime (665)/ : Blorble...
+[16:04:18]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[16:04:20]EMOTE: cat/ : <B>The cat</B> meows.
+[16:05:48]SAY: kitten/ : Purr!
+[16:06:07]SAY: kitten/ : Purr!
+[16:06:43]SAY: kitten/ : HSSSSS
+[16:06:51]EMOTE: kitten/ : <B>The kitten</B> meows.
+[16:08:04]SAY: cat/ : Esp!
+[16:08:36]SAY: Ian/ : YAP
+[16:08:57]EMOTE: kitten/ : <B>The kitten</B> meows.
+[16:09:03]SAY: grey baby slime (665)/ : Blorble...
+[16:10:48]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> shakes its head.
+[16:11:03]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[16:11:05]SAY: Parrot/ : BAWWWWK george mellons griffing me
+[16:11:15]SAY: kitten/ : Esp!
+[16:11:49]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[16:12:12]EMOTE: crab/ : <B>The crab</B> clacks.
+[16:12:39]SAY: grey baby slime (665)/ : Rawr...
+[16:13:11]EMOTE: kitten/ : <B>The kitten</B> mews.
+[16:13:55]SAY: Parrot/ : Hello!
+[16:15:31]SAY: grey baby slime (334)/ : Where is the food?
+[16:15:37]EMOTE: Ian/ : <B>Ian</B> dances around
+[16:16:23]EMOTE: Ian/ : <B>Ian</B> dances around
+[16:16:40]EMOTE: Ian/ : <B>Ian</B> dances around
+[16:16:53]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[16:17:37]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[16:18:35]SAY: Parrot/ : Hello!
+[16:18:35]EMOTE: cat/ : <B>The cat</B> meows.
+[16:18:37]EMOTE: cat/ : <B>The cat</B> mews.
+[16:19:05]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[16:19:07]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> shakes its head.
+[16:19:09]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[16:19:17]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[16:19:47]EMOTE: kitten/ : <B>The kitten</B> mews.
+[16:20:22]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[16:21:00]SAY: grey baby slime (334)/ : Blorble...
+[16:21:02]EMOTE: Ian/ : <B>Ian</B> dances around
+[16:21:14]DEBUG: Next event of severity Mundane in 14.28 minutes.
+[16:21:14]DEBUG: Starting event 'Economic News' of severity Mundane.
+[16:21:21]EMOTE: Ian/ : <B>Ian</B> pants.
+[16:21:33]SAY: kitten/ : Esp!
+[16:21:52]EMOTE: crab/ : <B>The crab</B> clacks.
+[16:22:11]EMOTE: Ian/ : <B>Ian</B> pants.
+[16:22:26]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[16:24:08]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[16:24:23]SAY: grey baby slime (334)/ : Rawr...
+[16:24:46]EMOTE: Ian/ : <B>Ian</B> dances around
+[16:25:24]EMOTE: crab/ : <B>The crab</B> clacks.
+[16:25:32]SAY: cat/ : Esp!
+[16:25:55]EMOTE: kitten/ : <B>The kitten</B> mews.
+[16:26:37]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[16:26:47]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[16:27:10]SAY: Ian/ : Woof!
+[16:27:33]SAY: Experiment 97d/ : EHEHEHEHEH
+[16:27:56]EMOTE: Ian/ : <B>Ian</B> barks.
+[16:28:38]SAY: Experiment 97d/ : EHEHEHEHEH
+[16:28:42]EMOTE: cat/ : <B>The cat</B> shivers.
+[16:28:44]EMOTE: Ian/ : <B>Ian</B> dances around
+[16:28:53]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[16:29:03]DEBUG: Event 'Economic News' has completed at 13:11.
+[16:29:03]EMOTE: Runtime/ : <B>Runtime</B> mews.
+[16:29:53]EMOTE: Parrot/ : <B>The Parrot</B> bawks.
+[16:29:57]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[16:30:29]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[16:30:43]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[16:32:46]EMOTE: Parrot/ : <B>The Parrot</B> bawks.
+[16:34:39]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[16:34:39]SAY: kitten/ : Purr!
+[16:34:51]SAY: Experiment 97d/ : Eh?
+[16:35:04]SAY: kitten/ : Meow!
+[16:36:23]EMOTE: crab/ : <B>The crab</B> clacks.
+[16:36:50]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[16:37:49]DEBUG: Next event of severity Mundane in 14.082 minutes.
+[16:37:49]DEBUG: Starting event 'Mundane News' of severity Mundane.
+[16:38:11]DEBUG: Event 'Mundane News' has completed at 13:19.
+[16:38:31]EMOTE: Ian/ : <B>Ian</B> pants.
+[16:38:47]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[16:39:08]EMOTE: Runtime/ : <B>Runtime</B> mews.
+[16:40:57]SAY: cat/ : Esp!
+[16:40:59]EMOTE: Ian/ : <B>Ian</B> dances around
+[16:41:03]SAY: kitten/ : Purr!
+[16:41:47]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[16:43:17]SAY: cat/ : Esp!
+[16:43:29]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[16:43:43]SAY: Runtime/ : Esp!
+[16:43:48]SAY: grey baby slime (334)/ : Purr...
+[16:44:17]EMOTE: Ian/ : <B>Ian</B> dances around
+[16:44:32]SAY: grey baby slime (334)/ : Lonely...
+[16:44:42]SAY: Experiment 97d/ : Eh?
+[16:44:46]SAY: Parrot/ : Hello!
+[16:44:50]DEBUG: Next event of severity Major in 60.374 minutes.
+[16:44:50]DEBUG: Starting event 'Nothing' of severity Major.
+[16:44:52]DEBUG: Event 'Nothing' has completed at 13:25.
+[16:45:05]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[16:45:11]EMOTE: kitten/ : <B>The kitten</B> mews.
+[16:46:28]SAY: kitten/ : Purr!
+[16:46:36]SAY: kitten/ : Meow!
+[16:47:01]EMOTE: cat/ : <B>The cat</B> shivers.
+[16:47:03]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[16:47:22]EMOTE: kitten/ : <B>The kitten</B> mews.
+[16:47:24]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[16:47:26]EMOTE: crab/ : <B>The crab</B> clicks.
+[16:48:52]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[16:48:56]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[16:49:33]SAY: grey baby slime (665)/ : Where is the food?
+[16:49:35]EMOTE: kitten/ : <B>The kitten</B> meows.
+[16:49:50]SAY: kitten/ : Purr!
+[16:50:11]SAY: cat/ : Esp!
+[16:50:21]SAY: Experiment 97d/ : Eh?
+[16:50:21]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[16:50:48]DEBUG: Next event of severity Moderate in 44.58 minutes.
+[16:50:48]DEBUG: Starting event 'Space vines' of severity Moderate.
+[16:50:50]DEBUG: Event 'Space vines' has completed at 13:30.
+[16:51:03]EMOTE: crab/ : <B>The crab</B> clacks.
+[16:51:19]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[16:52:22]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[16:52:57]SAY: cat/ : Meow!
+[16:53:14]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[16:53:49]EMOTE: kitten/ : <B>The kitten</B> meows.
+[16:53:53]SAY: Parrot/ : Hello!
+[16:54:04]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[16:54:07]DEBUG: Next event of severity Mundane in 13.288 minutes.
+[16:54:07]DEBUG: Starting event 'Vermin Infestation' of severity Mundane.
+[16:54:14]SAY: Experiment 97d/ : Eh?
+[16:54:18]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[16:54:29]SAY: cat/ : Purr!
+[16:54:32]DEBUG: Event 'Vermin Infestation' has completed at 13:33.
+[16:54:43]EMOTE: cat/ : <B>The cat</B> meows.
+[16:54:54]SAY: kitten/ : Purr!
+[16:55:31]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[16:56:11]SAY: kitten/ : HSSSSS
+[16:56:15]SAY: Runtime/ : Meow!
+[16:56:31]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[16:57:05]SAY: cat/ : Purr!
+[16:58:11]SAY: Runtime/ : Meow!
+[16:58:55]EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[16:59:28]EMOTE: Ian/ : <B>Ian</B> woofs.
+[17:00:16]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[17:00:58]EMOTE: Ian/ : <B>Ian</B> dances around
+[17:01:14]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[17:01:23]SAY: grey baby slime (665)/ : Rawr...
+[17:02:02]EMOTE: Ian/ : <B>Ian</B> dances around
+[17:03:00]EMOTE: Parrot/ : <B>The Parrot</B> flutters its wings.
+[17:03:03]EMOTE: cat/ : <B>The cat</B> mews.
+[17:03:25]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[17:03:42]EMOTE: Ian/ : <B>Ian</B> dances around
+[17:03:52]EMOTE: Ian/ : <B>Ian</B> shivers.
+[17:04:01]SAY: cat/ : Purr!
+[17:04:11]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[17:04:42]EMOTE: crab/ : <B>The crab</B> clicks.
+[17:05:01]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[17:05:13]EMOTE: crab/ : <B>The crab</B> clicks.
+[17:05:32]EMOTE: kitten/ : <B>The kitten</B> meows.
+[17:05:51]SAY: grey baby slime (334)/ : Blorble...
+[17:06:34]EMOTE: Ian/ : <B>Ian</B> pants.
+[17:06:41]SAY: Parrot/ : Hello!
+[17:08:53]SAY: grey baby slime (665)/ : Rawr...
+[17:09:28]DEBUG: Next event of severity Mundane in 16.152 minutes.
+[17:09:28]DEBUG: Starting event 'Economic News' of severity Mundane.
+[17:09:31]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[17:09:54]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[17:10:04]EMOTE: Ian/ : <B>Ian</B> dances around
+[17:10:10]EMOTE: crab/ : <B>The crab</B> clacks.
+[17:10:17]EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[17:10:17]EMOTE: Ian/ : <B>Ian</B> dances around
+[17:10:31]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[17:11:21]SAY: Runtime/ : HSSSSS
+[17:11:48]SAY: kitten/ : Meow!
+[17:13:07]SAY: kitten/ : Esp!
+[17:13:09]SAY: grey baby slime (334)/ : So... hungry...
+[17:13:38]SAY: kitten/ : HSSSSS
+[17:14:05]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[17:14:23]SAY: grey baby slime (334)/ : Lonely...
+[17:14:34]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[17:14:46]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[17:14:55]EMOTE: crab/ : <B>The crab</B> clicks.
+[17:15:34]EMOTE: Ian/ : <B>Ian</B> dances around
+[17:16:49]EMOTE: Ian/ : <B>Ian</B> woofs.
+[17:17:39]EMOTE: crab/ : <B>The crab</B> clicks.
+[17:19:04]DEBUG: Event 'Economic News' has completed at 13:54.
+[17:19:23]SAY: Parrot/ : Hello!
+[17:19:31]EMOTE: crab/ : <B>The crab</B> clacks.
+[17:19:37]SAY: Parrot/ : Hello!
+[17:19:43]SAY: cat/ : HSSSSS
+[17:19:52]SAY: kitten/ : HSSSSS
+[17:20:21]EMOTE: crab/ : <B>The crab</B> clacks.
+[17:20:29]EMOTE: kitten/ : <B>The kitten</B> mews.
+[17:20:46]EMOTE: Ian/ : <B>Ian</B> shakes its head.
+[17:20:56]SAY: Ian/ : Woof!
+[17:21:04]EMOTE: Ian/ : <B>Ian</B> dances around
+[17:21:04]SAY: kitten/ : Esp!
+[17:22:32]EMOTE: cat/ : <B>The cat</B> shivers.
+[17:22:40]SAY: cat/ : Purr!
+[17:23:53]EMOTE: Parrot/ : <B>The Parrot</B> bawks.
+[17:23:57]SAY: grey baby slime (334)/ : Very... hungry...
+[17:24:34]SAY: grey baby slime (665)/ : So... hungry...
+[17:24:36]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[17:25:16]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[17:25:18]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[17:25:24]SAY: grey baby slime (665)/ : So... hungry...
+[17:25:26]EMOTE: crab/ : <B>The crab</B> clicks.
+[17:25:32]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[17:26:39]SAY: grey baby slime (665)/ : Blorble...
+[17:27:28]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[17:27:55]SAY: Runtime/ : Meow!
+[17:28:05]DEBUG: Next event of severity Mundane in 17.596 minutes.
+[17:28:05]DEBUG: Starting event 'Economic News' of severity Mundane.
+[17:28:14]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[17:28:54]EMOTE: crab/ : <B>The crab</B> clacks.
+[17:29:06]SAY: grey baby slime (334)/ : Blorble...
+[17:29:43]SAY: grey baby slime (665)/ : Very... hungry...
+[17:29:50]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[17:30:04]SAY: kitten/ : HSSSSS
+[17:31:07]SAY: kitten/ : Esp!
+[17:31:40]SAY: Runtime/ : Purr!
+[17:31:54]SAY: grey baby slime (334)/ : Rawr...
+[17:32:12]DEBUG: Event 'Economic News' has completed at 14:06.
+[17:32:23]SAY: cat/ : Meow!
+[17:32:23]EMOTE: kitten/ : <B>The kitten</B> mews.
+[17:32:25]EMOTE: crab/ : <B>The crab</B> clacks.
+[17:32:40]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[17:32:58]SAY: cat/ : Esp!
+[17:33:01]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[17:33:13]SAY: kitten/ : Esp!
+[17:33:27]SAY: Parrot/ : Hello!
+[17:33:42]EMOTE: crab/ : <B>The crab</B> clacks.
+[17:34:13]SAY: Parrot/ : Hello!
+[17:34:17]EMOTE: cat/ : <B>The cat</B> mews.
+[17:34:44]SAY: Ian/ : AUUUUUU
+[17:36:17]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> shakes its head.
+[17:36:46]EMOTE: crab/ : <B>The crab</B> clicks.
+[17:37:25]SAY: grey baby slime (334)/ : Rawr...
+[17:38:01]SAY: Parrot/ : Hello!
+[17:38:23]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[17:38:48]SAY: cat/ : Esp!
+[17:38:50]SAY: grey baby slime (665)/ : Very... hungry...
+[17:39:52]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[17:40:11]EMOTE: Ian/ : <B>Ian</B> barks.
+[17:40:22]EMOTE: Ian/ : <B>Ian</B> yaps.
+[17:40:40]SAY: grey baby slime (334)/ : Rawr...
+[17:40:42]SAY: cat/ : HSSSSS
+[17:41:53]SAY: kitten/ : HSSSSS
+[17:42:13]DEBUG: Next event of severity Moderate in 39.36 minutes.
+[17:42:13]DEBUG: Starting event 'Nothing' of severity Moderate.
+[17:42:15]DEBUG: Event 'Nothing' has completed at 14:15.
+[17:43:15]SAY: grey baby slime (334)/ : So... hungry...
+[17:43:28]EMOTE: crab/ : <B>The crab</B> clicks.
+[17:43:44]SAY: cat/ : Purr!
+[17:43:53]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[17:43:59]SAY: grey baby slime (665)/ : Lonely...
+[17:44:09]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[17:44:22]EMOTE: kitten/ : <B>The kitten</B> meows.
+[17:44:34]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[17:45:34]EMOTE: Ian/ : <B>Ian</B> woofs.
+[17:46:26]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[17:46:34]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[17:47:45]EMOTE: kitten/ : <B>The kitten</B> mews.
+[17:47:53]SAY: Parrot/ : Hello!
+[17:48:18]SAY: Parrot/ : Hello!
+[17:48:21]DEBUG: Next event of severity Mundane in 13.776 minutes.
+[17:48:21]DEBUG: Starting event 'Mundane News' of severity Mundane.
+[17:48:44]DEBUG: Event 'Mundane News' has completed at 14:20.
+[17:48:47]SAY: cat/ : Esp!
+[17:49:32]ACCESS: Login: Mirkoloio/(Mirkoloio) from 176.0.124.40-3042442290 || BYOND v506
+[17:50:28]EMOTE: Ian/ : <B>Ian</B> dances around
+[17:50:39]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[17:50:48]ACCESS: Login: Moom241/(Moom241) from 172.2.114.177-1501114251 || BYOND v506
+[17:50:55]SAY: grey baby slime (665)/ : Blorble...
+[17:51:43]SAY: kitten/ : Purr!
+[17:51:43]ACCESS: Logout: *no key*/(Moom241)
+[17:51:43]ACCESS: Login: Moom241/(Igam Yute) from 172.2.114.177-1501114251 || BYOND v506
+[17:52:18]ACCESS: Logout: *no key*/(Mirkoloio)
+[17:52:18]ACCESS: Login: Mirkoloio/(Jamison Stamos) from 176.0.124.40-3042442290 || BYOND v506
+[17:52:36]ACCESS: Logout: Mirkoloio/(Jamison Stamos)
+[17:52:41]SAY: kitten/ : Meow!
+[17:52:49]SAY: Runtime/ : Purr!
+[17:53:08]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> waves.
+[17:53:46]SAY: kitten/ : Meow!
+[17:53:48]ACCESS: Login: Mirkoloio/(Jamison Stamos) from 176.0.124.40-3042442290 || BYOND v506
+[17:53:58]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[17:54:02]ACCESS: Logout: Moom241/(Igam Yute)
+[17:54:06]EMOTE: cat/ : <B>The cat</B> mews.
+[17:54:21]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[17:54:26]DEBUG: Next event of severity Major in 79.916 minutes.
+[17:54:26]DEBUG: Starting event 'Nothing' of severity Major.
+[17:54:27]SAY: Ian/ : AUUUUUU
+[17:54:28]DEBUG: Event 'Nothing' has completed at 14:25.
+[17:54:57]ACCESS: Logout: Mirkoloio/(Jamison Stamos)
+[17:55:00]SAY: grey baby slime (665)/ : Cold...
+[17:55:08]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[17:55:17]EMOTE: Parrot/ : <B>The Parrot</B> squawks.
+[17:55:25]SAY: Experiment 97d/ : EHEHEHEHEH
+[17:55:27]EMOTE: kitten/ : <B>The kitten</B> meows.
+[17:55:27]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[17:55:33]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[17:55:35]SAY: Experiment 97d/ : EHEHEHEHEH
+[17:55:37]SAY: kitten/ : Esp!
+[17:56:12]SAY: Ian/ : Woof!
+[17:56:29]EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[17:56:50]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[17:57:15]EMOTE: Ian/ : <B>Ian</B> dances around
+[17:57:23]SAY: cat/ : Purr!
+[17:57:29]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[17:57:46]SAY: kitten/ : Esp!
+[17:57:58]EMOTE: cat/ : <B>The cat</B> shivers.
+[17:58:13]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[17:58:15]EMOTE: Ian/ : <B>Ian</B> dances around
+[17:58:23]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[17:58:33]SAY: Runtime/ : Meow!
+[17:58:56]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[17:59:33]SAY: kitten/ : HSSSSS
+[17:59:33]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[17:59:35]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[17:59:42]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[18:00:02]EMOTE: Ian/ : <B>Ian</B> woofs.
+[18:00:09]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[18:00:13]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[18:00:27]EMOTE: Ian/ : <B>Ian</B> dances around
+[18:00:27]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[18:01:33]EMOTE: Runtime/ : <B>Runtime</B> mews.
+[18:02:06]EMOTE: kitten/ : <B>The kitten</B> meows.
+[18:02:21]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[18:03:58]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[18:04:12]DEBUG: Next event of severity Mundane in 13.426 minutes.
+[18:04:12]DEBUG: Starting event 'Economic News' of severity Mundane.
+[18:04:41]EMOTE: Ian/ : <B>Ian</B> shakes its head.
+[18:05:06]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[18:05:13]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[18:05:56]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[18:06:15]SAY: kitten/ : Esp!
+[18:06:33]EMOTE: Runtime/ : <B>Runtime</B> shakes their head.
+[18:06:42]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[18:06:50]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[18:07:04]EMOTE: cat/ : <B>The cat</B> mews.
+[18:07:06]SAY: Ian/ : AUUUUUU
+[18:07:17]SAY: cat/ : Meow!
+[18:07:23]EMOTE: crab/ : <B>The crab</B> clicks.
+[18:07:45]DEBUG: Event 'Economic News' has completed at 14:37.
+[18:07:48]EMOTE: cat/ : <B>The cat</B> mews.
+[18:07:58]SAY: kitten/ : Esp!
+[18:08:15]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[18:08:19]SAY: Runtime/ : Meow!
+[18:08:43]EMOTE: Ian/ : <B>Ian</B> dances around
+[18:08:46]EMOTE: Runtime/ : <B>Runtime</B> meows.
+[18:08:48]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[18:09:50]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[18:10:29]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[18:10:33]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[18:10:45]EMOTE: Runtime/ : <B>Runtime</B> meows.
+[18:10:56]EMOTE: cat/ : <B>The cat</B> mews.
+[18:11:04]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[18:11:06]EMOTE: Ian/ : <B>Ian</B> barks.
+[18:11:24]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[18:11:45]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[18:12:18]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[18:12:24]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[18:12:24]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[18:12:26]SAY: Parrot/ : Hello!
+[18:12:35]EMOTE: Ian/ : <B>Ian</B> dances around
+[18:12:37]SAY: Parrot/ : Hello!
+[18:13:20]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[18:13:41]EMOTE: crab/ : <B>The crab</B> clacks.
+[18:13:55]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[18:14:16]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[18:14:20]EMOTE: cat/ : <B>The cat</B> shivers.
+[18:15:06]SAY: cat/ : HSSSSS
+[18:15:57]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[18:16:09]SAY: kitten/ : HSSSSS
+[18:17:55]EMOTE: crab/ : <B>The crab</B> clicks.
+[18:18:28]EMOTE: Ian/ : <B>Ian</B> dances around
+[18:18:28]SAY: Parrot/ : Hello!
+[18:18:57]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[18:19:38]DEBUG: Next event of severity Mundane in 17.912 minutes.
+[18:19:38]DEBUG: Starting event 'Trivial News' of severity Mundane.
+[18:19:42]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[18:19:46]SAY: Ian/ : Woof!
+[18:20:00]DEBUG: Event 'Trivial News' has completed at 14:47.
+[18:20:38]EMOTE: Ian/ : <B>Ian</B> dances around
+[18:20:54]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[18:20:56]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[18:21:07]EMOTE: Ian/ : <B>Ian</B> dances around
+[18:21:11]SAY: Ian/ : Woof!
+[18:21:13]SAY: Experiment 97d/ : Eh?
+[18:21:40]EMOTE: crab/ : <B>The crab</B> clacks.
+[18:22:04]SAY: cat/ : Purr!
+[18:22:31]EMOTE: Ian/ : <B>Ian</B> dances around
+[18:23:46]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[18:23:50]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[18:24:19]SAY: Ian/ : YAP
+[18:24:23]SAY: cat/ : Meow!
+[18:24:35]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[18:24:45]EMOTE: Ian/ : <B>Ian</B> dances around
+[18:25:22]SAY: Runtime/ : Meow!
+[18:25:57]SAY: kitten/ : HSSSSS
+[18:27:04]EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[18:27:10]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[18:27:26]DEBUG: Next event of severity Moderate in 42.642 minutes.
+[18:27:26]DEBUG: Starting event 'Nothing' of severity Moderate.
+[18:27:28]DEBUG: Event 'Nothing' has completed at 14:54.
+[18:27:39]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[18:27:49]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[18:28:05]EMOTE: crab/ : <B>The crab</B> clacks.
+[18:28:51]SAY: Runtime/ : Purr!
+[18:28:59]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[18:29:20]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[18:30:01]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[18:30:51]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[18:31:59]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[18:32:41]VOTE: Crew_transfer vote started by the server.
+[18:32:41]DEBUG: The server has called a crew transfer vote
+[18:33:45]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[18:33:50]VOTE: <b>Vote Result: Inconclusive - No Votes!</b>
+[18:34:03]EMOTE: crab/ : <B>The crab</B> clacks.
+[18:34:16]SAY: kitten/ : Purr!
+[18:34:40]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[18:35:18]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[18:35:59]EMOTE: Ian/ : <B>Ian</B> dances around
+[18:36:11]EMOTE: Ian/ : <B>Ian</B> dances around
+[18:36:19]EMOTE: crab/ : <B>The crab</B> clacks.
+[18:36:36]EMOTE: Parrot/ : <B>The Parrot</B> bawks.
+[18:36:44]EMOTE: Ian/ : <B>Ian</B> dances around
+[18:37:05]SAY: kitten/ : Purr!
+[18:38:17]SAY: Parrot/ : Hello!
+[18:38:19]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[18:38:21]EMOTE: Runtime/ : <B>Runtime</B> mews.
+[18:39:35]SAY: Runtime/ : HSSSSS
+[18:40:10]DEBUG: Next event of severity Mundane in 16.792 minutes.
+[18:40:10]DEBUG: Starting event 'Economic News' of severity Mundane.
+[18:40:33]SAY: cat/ : HSSSSS
+[18:40:39]SAY: kitten/ : Meow!
+[18:41:02]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[18:41:06]EMOTE: Parrot/ : <B>The Parrot</B> bawks.
+[18:42:24]SAY: Runtime/ : Esp!
+[18:42:37]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[18:42:37]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[18:43:03]DEBUG: Event 'Economic News' has completed at 15:08.
+[18:43:16]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[18:43:20]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[18:43:47]SAY: Runtime/ : HSSSSS
+[18:44:24]SAY: cat/ : Meow!
+[18:44:36]EMOTE: crab/ : <B>The crab</B> clicks.
+[18:44:53]EMOTE: crab/ : <B>The crab</B> clicks.
+[18:45:59]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[18:46:11]SAY: cat/ : Purr!
+[18:46:15]EMOTE: Ian/ : <B>Ian</B> dances around
+[18:46:26]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[18:46:30]SAY: kitten/ : Meow!
+[18:46:55]EMOTE: Ian/ : <B>Ian</B> dances around
+[18:47:13]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[18:47:30]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[18:48:07]EMOTE: Ian/ : <B>Ian</B> dances around
+[18:48:35]SAY: cat/ : HSSSSS
+[18:48:48]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[18:49:39]EMOTE: crab/ : <B>The crab</B> clicks.
+[18:49:49]SAY: Parrot/ : Hello!
+[18:49:52]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[18:50:29]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> shakes its head.
+[18:50:43]EMOTE: cat/ : <B>The cat</B> mews.
+[18:51:00]EMOTE: cat/ : <B>The cat</B> shivers.
+[18:51:10]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[18:51:41]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[18:51:59]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[18:52:05]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[18:52:15]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[18:52:42]EMOTE: cat/ : <B>The cat</B> mews.
+[18:52:53]EMOTE: Ian/ : <B>Ian</B> barks.
+[18:53:13]SAY: kitten/ : Meow!
+[18:53:32]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[18:54:09]SAY: kitten/ : Purr!
+[18:55:07]SAY: Parrot/ : Hello!
+[18:55:36]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[18:56:00]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[18:56:25]SAY: Ian/ : AUUUUUU
+[18:56:56]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[18:57:23]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[18:57:37]EMOTE: kitten/ : <B>The kitten</B> mews.
+[18:57:52]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[18:58:14]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[18:58:53]SAY: Parrot/ : Hello!
+[18:58:53]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[18:58:58]EMOTE: Runtime/ : <B>Runtime</B> shakes their head.
+[18:59:24]DEBUG: Next event of severity Mundane in 12.486 minutes.
+[18:59:24]DEBUG: Starting event 'Money Hacker' of severity Mundane.
+[18:59:49]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[19:00:26]SAY: Parrot/ : Hello!
+[19:00:26]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[19:01:17]EMOTE: Ian/ : <B>Ian</B> barks.
+[19:01:26]SAY: Experiment 97d/ : EHEHEHEHEH
+[19:01:48]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[19:02:21]EMOTE: Ian/ : <B>Ian</B> dances around
+[19:02:36]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[19:03:03]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[19:03:33]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[19:03:58]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[19:04:19]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[19:05:04]EMOTE: Ian/ : <B>Ian</B> dances around
+[19:05:24]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[19:05:41]EMOTE: cat/ : <B>The cat</B> meows.
+[19:06:08]SAY: Parrot/ : Hello!
+[19:06:33]SAY: Runtime/ : Purr!
+[19:07:08]EMOTE: cat/ : <B>The cat</B> shivers.
+[19:07:20]SAY: Runtime/ : Purr!
+[19:08:20]SAY: Experiment 97d/ : Eh?
+[19:08:22]EMOTE: kitten/ : <B>The kitten</B> meows.
+[19:08:36]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[19:08:51]EMOTE: cat/ : <B>The cat</B> mews.
+[19:08:53]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[19:09:30]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[19:10:09]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[19:10:11]EMOTE: Ian/ : <B>Ian</B> dances around
+[19:10:11]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[19:10:46]SAY: Runtime/ : Esp!
+[19:10:50]DEBUG: Event 'Money Hacker' has completed at 15:32.
+[19:10:56]EMOTE: cat/ : <B>The cat</B> shivers.
+[19:12:37]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[19:13:31]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[19:13:33]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[19:13:41]DEBUG: Next event of severity Mundane in 17.306 minutes.
+[19:13:41]DEBUG: Starting event 'Trivial News' of severity Mundane.
+[19:14:04]DEBUG: Event 'Trivial News' has completed at 15:35.
+[19:14:27]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[19:14:33]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[19:15:02]EMOTE: crab/ : <B>The crab</B> clicks.
+[19:15:49]EMOTE: Ian/ : <B>Ian</B> barks.
+[19:15:51]EMOTE: Ian/ : <B>Ian</B> pants.
+[19:16:02]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[19:16:16]DEBUG: Next event of severity Moderate in 53.384 minutes.
+[19:16:16]DEBUG: Starting event 'Electrical Storm' of severity Moderate.
+[19:16:18]DEBUG: Event 'Electrical Storm' has completed at 15:37.
+[19:16:18]SAY: cat/ : Purr!
+[19:16:20]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[19:16:22]SAY: kitten/ : Meow!
+[19:16:51]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[19:16:59]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[19:17:28]EMOTE: Ian/ : <B>Ian</B> dances around
+[19:17:38]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[19:17:40]EMOTE: Ian/ : <B>Ian</B> dances around
+[19:17:43]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[19:17:47]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[19:18:03]SAY: Parrot/ : Hello!
+[19:18:22]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[19:18:55]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[19:19:42]EMOTE: Runtime/ : <B>Runtime</B> mews.
+[19:19:59]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[19:20:03]SAY: cat/ : HSSSSS
+[19:20:03]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[19:20:31]SAY: kitten/ : HSSSSS
+[19:20:36]EMOTE: kitten/ : <B>The kitten</B> mews.
+[19:20:40]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[19:21:11]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[19:21:13]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[19:22:08]SAY: Ian/ : Woof!
+[19:23:51]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[19:24:07]EMOTE: Ian/ : <B>Ian</B> dances around
+[19:24:20]SAY: Ian/ : AUUUUUU
+[19:25:13]EMOTE: kitten/ : <B>The kitten</B> mews.
+[19:26:00]DEBUG: Next event of severity Major in 71.722 minutes.
+[19:26:00]DEBUG: Starting event 'Nothing' of severity Major.
+[19:26:02]DEBUG: Event 'Nothing' has completed at 15:45.
+[19:26:05]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[19:27:07]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[19:27:31]EMOTE: Parrot/ : <B>The Parrot</B> bawks.
+[19:27:31]EMOTE: kitten/ : <B>The kitten</B> mews.
+[19:27:56]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[19:28:09]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[19:28:35]SAY: Experiment 97d/ : EHEHEHEHEH
+[19:29:04]EMOTE: kitten/ : <B>The kitten</B> meows.
+[19:29:10]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[19:29:33]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[19:29:47]SAY: Parrot/ : Hello!
+[19:30:21]ACCESS: Logout: Marinalightyears/(Amira Cook)
+[21:34:27]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[21:34:28]ACCESS: Login: Moom241/(Igam Yute) from 172.2.114.177-1501114251 || BYOND v506
+[21:35:24]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[21:35:29]EMOTE: kitten/ : <B>The kitten</B> meows.
+[21:35:37]EMOTE: Ian/ : <B>Ian</B> dances around
+[21:35:57]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[21:36:14]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[21:36:34]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[21:37:07]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[21:37:34]DEBUG: Next event of severity Mundane in 13.864 minutes.
+[21:37:34]DEBUG: Starting event 'Economic News' of severity Mundane.
+[21:37:49]SAY: Ian/ : AUUUUUU
+[21:38:03]EMOTE: kitten/ : <B>The kitten</B> meows.
+[21:38:52]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[21:41:21]EMOTE: Ian/ : <B>Ian</B> dances around
+[21:41:35]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[21:41:51]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[21:41:53]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[21:41:55]ACCESS: Logout: Moom241/(Igam Yute)
+[22:23:33]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[22:23:35]DEBUG: Event 'Economic News' has completed at 15:56.
+[22:23:36]ACCESS: Login: Moom241/(Igam Yute) from 172.2.114.177-1501114251 || BYOND v506
+[22:23:45]ACCESS: Logout: Moom241/(Igam Yute)
+[23:22:21]ACCESS: Login: Moom241/(Igam Yute) from 172.2.114.177-1501114251 || BYOND v506
+[23:22:30]SAY: Parrot/ : Hello!
+[23:22:32]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[23:23:09]SAY: kitten/ : HSSSSS
+[23:23:23]ACCESS: Logout: Moom241/(Igam Yute)
+[23:43:54]EMOTE: cat/ : <B>The cat</B> meows.
+[23:43:57]ACCESS: Login: Moom241/(Igam Yute) from 172.2.114.177-1501114251 || BYOND v506
+[23:44:15]SAY: cat/ : Purr!
+[23:44:25]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[23:44:52]SAY: cat/ : Meow!
+[23:45:06]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[23:45:19]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[23:46:05]VOTE: Crew_transfer vote started by the server.
+[23:46:05]DEBUG: The server has called a crew transfer vote
+[23:47:14]VOTE: <b>Vote Result: Inconclusive - No Votes!</b>
+[23:48:32]SAY: Ian/ : YAP
+[23:50:17]SAY: kitten/ : Meow!
+[23:50:19]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[23:52:06]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[23:52:37]SAY: Runtime/ : Meow!
+[23:52:57]EMOTE: crab/ : <B>The crab</B> clicks.
+[23:53:03]SAY: Experiment 97d/ : EHEHEHEHEH
+[23:53:07]EMOTE: Ian/ : <B>Ian</B> dances around
+[23:53:13]EMOTE: crab/ : <B>The crab</B> clacks.
+[23:53:59]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[23:54:07]DEBUG: Next event of severity Mundane in 16.898 minutes.
+[23:54:07]DEBUG: Starting event 'Trivial News' of severity Mundane.
+[23:54:20]ACCESS: Logout: Moom241/(Igam Yute)
+[23:58:09]ACCESS: Login: Moom241/(Igam Yute) from 172.2.114.177-1501114251 || BYOND v506
+[23:58:14]DEBUG: Event 'Trivial News' has completed at 16:06.
+[23:58:17]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[23:59:51]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[00:00:00]EMOTE: cat/ : <B>The cat</B> meows.
+[00:00:12]EMOTE: Ian/ : <B>Ian</B> dances around
+[00:01:22]EMOTE: crab/ : <B>The crab</B> clacks.
+[00:02:19]EMOTE: Runtime/ : <B>Runtime</B> mews.
+[00:02:23]EMOTE: Runtime/ : <B>Runtime</B> meows.
+[00:02:44]EMOTE: Ian/ : <B>Ian</B> dances around
+[00:02:46]SAY: kitten/ : HSSSSS
+[00:03:11]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[00:03:19]ACCESS: Logout: Moom241/(Igam Yute)
+[00:25:55]ACCESS: Login: Marinalightyears/(Amira Cook) from 98.127.210.230-2261011010 || BYOND v506
+[00:26:24]SAY: cat/ : Esp!
+[00:26:26]SAY: cat/ : Meow!
+[00:26:51]EMOTE: Ian/ : <B>Ian</B> pants.
+[00:27:09]OOC: Amira Cook/Marinalightyears : hhhiiii
+[00:27:38]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[00:28:01]EMOTE: Ian/ : <B>Ian</B> pants.
+[00:28:05]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[00:28:18]SAY: Runtime/ : Esp!
+[00:28:32]SAY: cat/ : Purr!
+[00:28:42]EMOTE: cat/ : <B>The cat</B> mews.
+[00:29:54]SAY: kitten/ : Esp!
+[00:29:56]SAY: kitten/ : Esp!
+[00:30:04]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[00:30:04]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[00:30:37]SAY: Parrot/ : Hello!
+[00:30:48]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[00:30:48]EMOTE: cat/ : <B>The cat</B> shivers.
+[00:31:18]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[00:31:20]EMOTE: Ian/ : <B>Ian</B> dances around
+[00:31:20]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[00:31:36]ACCESS: Logout: Marinalightyears/(Amira Cook)
+[01:17:25]ACCESS: Login: Marinalightyears/(Amira Cook) from 98.127.210.230-2261011010 || BYOND v506
+[01:17:28]SAY: kitten/ : Meow!
+[01:17:44]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[01:17:47]EMOTE: crab/ : <B>The crab</B> clicks.
+[01:17:49]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[01:18:09]SAY: Ian/ : YAP
+[01:18:09]SAY: Experiment 97d/ : Eh?
+[01:18:09]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[01:18:13]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[01:18:36]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[01:19:56]EMOTE: kitten/ : <B>The kitten</B> mews.
+[01:19:59]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> shakes its head.
+[01:20:29]EMOTE: cat/ : <B>The cat</B> meows.
+[01:20:52]EMOTE: Ian/ : <B>Ian</B> dances around
+[01:21:02]SAY: kitten/ : HSSSSS
+[01:21:42]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[01:21:46]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[01:21:48]SAY: cat/ : HSSSSS
+[01:21:56]EMOTE: Ian/ : <B>Ian</B> dances around
+[01:22:54]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[01:22:58]SAY: kitten/ : HSSSSS
+[01:23:22]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[01:23:27]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[01:23:53]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[01:24:12]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[01:24:22]SAY: kitten/ : Purr!
+[01:24:34]EMOTE: crab/ : <B>The crab</B> clicks.
+[01:24:45]SAY: kitten/ : Meow!
+[01:24:48]DEBUG: Next event of severity Mundane in 17.4 minutes.
+[01:24:48]DEBUG: Starting event 'Mundane News' of severity Mundane.
+[01:24:49]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[01:25:11]DEBUG: Event 'Mundane News' has completed at 16:23.
+[01:25:28]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[01:25:52]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[01:26:07]SAY: Runtime/ : Meow!
+[01:26:13]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[01:26:13]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[01:26:15]EMOTE: crab/ : <B>The crab</B> clicks.
+[01:26:23]EMOTE: Ian/ : <B>Ian</B> dances around
+[01:27:50]SAY: Parrot/ : Hello!
+[01:27:56]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[01:28:12]SAY: kitten/ : Esp!
+[01:28:18]EMOTE: Ian/ : <B>Ian</B> dances around
+[01:28:20]EMOTE: Ian/ : <B>Ian</B> barks.
+[01:28:47]SAY: Parrot/ : Hello!
+[01:29:53]EMOTE: crab/ : <B>The crab</B> clacks.
+[01:30:24]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[01:30:40]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[01:30:44]SAY: Runtime/ : HSSSSS
+[01:30:52]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[01:31:05]SAY: kitten/ : Purr!
+[01:31:46]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[01:31:52]EMOTE: Ian/ : <B>Ian</B> dances around
+[01:32:35]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[01:32:38]SAY: kitten/ : Purr!
+[01:33:23]EMOTE: cat/ : <B>The cat</B> meows.
+[01:33:23]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[01:33:24]DEBUG: Next event of severity Moderate in 40.156 minutes.
+[01:33:24]DEBUG: Starting event 'Nothing' of severity Moderate.
+[01:33:26]DEBUG: Event 'Nothing' has completed at 16:30.
+[01:33:31]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[01:33:37]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[01:34:00]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[01:34:04]EMOTE: crab/ : <B>The crab</B> clicks.
+[01:34:12]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[01:34:24]SAY: cat/ : Purr!
+[01:35:07]SAY: Parrot/ : Hello!
+[01:36:23]EMOTE: crab/ : <B>The crab</B> clacks.
+[01:36:59]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[01:37:23]SAY: Ian/ : YAP
+[01:37:23]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[01:37:46]SAY: kitten/ : HSSSSS
+[01:38:37]EMOTE: Parrot/ : <B>The Parrot</B> bawks.
+[01:38:52]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[01:39:53]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[01:40:08]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[01:40:28]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[01:40:39]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[01:40:41]EMOTE: crab/ : <B>The crab</B> clacks.
+[01:40:41]EMOTE: cat/ : <B>The cat</B> meows.
+[01:41:07]EMOTE: Parrot/ : <B>The Parrot</B> flutters its wings.
+[01:41:22]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[01:41:24]EMOTE: kitten/ : <B>The kitten</B> mews.
+[01:41:36]SAY: cat/ : Esp!
+[01:42:42]SAY: Parrot/ : Hello!
+[01:42:54]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[01:43:11]EMOTE: Ian/ : <B>Ian</B> yaps.
+[01:43:11]SAY: kitten/ : Purr!
+[01:44:41]DEBUG: Next event of severity Mundane in 15.472 minutes.
+[01:44:41]DEBUG: Starting event 'Trivial News' of severity Mundane.
+[01:44:51]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[01:45:03]DEBUG: Event 'Trivial News' has completed at 16:40.
+[01:45:35]EMOTE: crab/ : <B>The crab</B> clacks.
+[01:45:39]EMOTE: crab/ : <B>The crab</B> clicks.
+[01:45:55]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[01:46:38]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[01:46:54]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[01:47:01]EMOTE: cat/ : <B>The cat</B> meows.
+[01:47:03]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[01:47:23]EMOTE: crab/ : <B>The crab</B> clacks.
+[01:47:34]EMOTE: Ian/ : <B>Ian</B> dances around
+[01:47:36]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[01:48:43]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[01:50:37]SAY: cat/ : HSSSSS
+[01:52:11]SAY: cat/ : Purr!
+[01:53:13]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[01:53:39]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[01:53:41]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[01:54:08]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[01:55:22]EMOTE: Ian/ : <B>Ian</B> barks.
+[01:55:36]EMOTE: kitten/ : <B>The kitten</B> meows.
+[01:56:01]SAY: kitten/ : HSSSSS
+[01:56:51]EMOTE: Ian/ : <B>Ian</B> yaps.
+[01:56:55]EMOTE: crab/ : <B>The crab</B> clacks.
+[01:57:15]SAY: kitten/ : Meow!
+[01:57:17]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[01:58:21]EMOTE: cat/ : <B>The cat</B> meows.
+[01:58:23]SAY: Ian/ : Woof!
+[01:59:39]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[01:59:47]EMOTE: crab/ : <B>The crab</B> clacks.
+[02:00:02]SAY: Parrot/ : Hello!
+[02:00:06]EMOTE: Ian/ : <B>Ian</B> barks.
+[02:00:12]SAY: Parrot/ : Hello!
+[02:00:53]SAY: Ian/ : YAP
+[02:01:05]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[02:01:38]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[02:02:21]DEBUG: Next event of severity Mundane in 16.164 minutes.
+[02:02:21]DEBUG: Starting event 'Nothing' of severity Mundane.
+[02:02:23]DEBUG: Event 'Nothing' has completed at 16:55.
+[02:02:27]SAY: Runtime/ : Meow!
+[02:02:30]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[02:02:30]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[02:02:46]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[02:02:54]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[02:03:09]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[02:04:02]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[02:04:04]DEBUG: Next event of severity Major in 70.97 minutes.
+[02:04:04]DEBUG: Starting event 'Nothing' of severity Major.
+[02:04:04]EMOTE: Parrot/ : <B>The Parrot</B> bawks.
+[02:04:04]EMOTE: kitten/ : <B>The kitten</B> meows.
+[02:04:06]DEBUG: Event 'Nothing' has completed at 16:57.
+[02:04:29]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[02:04:29]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[02:05:49]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[02:05:56]VOTE: Crew_transfer vote started by the server.
+[02:05:56]DEBUG: The server has called a crew transfer vote
+[02:06:22]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[02:06:30]EMOTE: Ian/ : <B>Ian</B> dances around
+[02:07:04]VOTE: <b>Vote Result: Inconclusive - No Votes!</b>
+[02:07:13]SAY: Runtime/ : Meow!
+[02:07:15]SAY: Parrot/ : Hello!
+[02:07:23]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[02:07:25]EMOTE: crab/ : <B>The crab</B> clacks.
+[02:08:23]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[02:09:18]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[02:09:20]SAY: Ian/ : Bark!
+[02:09:23]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[02:09:37]SAY: Runtime/ : HSSSSS
+[02:10:32]SAY: cat/ : Purr!
+[02:10:45]SAY: cat/ : Meow!
+[02:11:17]EMOTE: Ian/ : <B>Ian</B> pants.
+[02:11:17]SAY: Experiment 97d/ : Eh?
+[02:11:24]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[02:11:42]SAY: cat/ : Esp!
+[02:12:07]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[02:12:42]SAY: kitten/ : HSSSSS
+[02:12:42]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[02:12:58]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[02:13:06]EMOTE: cat/ : <B>The cat</B> mews.
+[02:13:16]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[02:13:18]SAY: cat/ : Purr!
+[02:13:29]SAY: Runtime/ : HSSSSS
+[02:13:39]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[02:13:41]EMOTE: Ian/ : <B>Ian</B> yaps.
+[02:13:53]SAY: Runtime/ : Purr!
+[02:14:04]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[02:14:04]SAY: cat/ : Meow!
+[02:14:06]SAY: kitten/ : Purr!
+[02:14:32]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[02:14:43]EMOTE: cat/ : <B>The cat</B> mews.
+[02:16:36]EMOTE: kitten/ : <B>The kitten</B> mews.
+[02:16:40]EMOTE: cat/ : <B>The cat</B> shivers.
+[02:17:06]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[02:17:08]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[02:18:00]EMOTE: kitten/ : <B>The kitten</B> mews.
+[02:18:10]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[02:18:14]EMOTE: crab/ : <B>The crab</B> clicks.
+[02:18:29]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[02:18:35]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[02:18:39]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[02:18:43]SAY: Runtime/ : Meow!
+[02:18:47]EMOTE: cat/ : <B>The cat</B> mews.
+[02:19:13]DEBUG: Next event of severity Moderate in 48.124 minutes.
+[02:19:13]DEBUG: Starting event 'Communication Blackout' of severity Moderate.
+[02:19:15]DEBUG: Event 'Communication Blackout' has completed at 17:10.
+[02:19:16]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[02:19:30]SAY: cat/ : Meow!
+[02:20:03]EMOTE: crab/ : <B>The crab</B> clicks.
+[02:20:07]SAY: Runtime/ : Esp!
+[02:20:48]DEBUG: Next event of severity Mundane in 12.968 minutes.
+[02:20:48]DEBUG: Starting event 'Mundane News' of severity Mundane.
+[02:21:10]DEBUG: Event 'Mundane News' has completed at 17:12.
+[02:21:11]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[02:21:23]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[02:21:35]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[02:21:40]EMOTE: kitten/ : <B>The kitten</B> meows.
+[02:22:19]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[02:22:21]SAY: Parrot/ : Hello!
+[02:22:23]SAY: Parrot/ : Hello!
+[02:22:35]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[02:22:47]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[02:22:47]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[02:23:04]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[02:24:21]EMOTE: Ian/ : <B>Ian</B> dances around
+[02:24:58]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[02:25:02]SAY: cat/ : Meow!
+[02:25:05]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[02:25:27]SAY: cat/ : HSSSSS
+[02:25:39]SAY: kitten/ : Meow!
+[02:25:58]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[02:26:18]EMOTE: crab/ : <B>The crab</B> clacks.
+[02:26:28]EMOTE: cat/ : <B>The cat</B> shivers.
+[02:27:36]SAY: Experiment 97d/ : Eh?
+[02:28:56]EMOTE: kitten/ : <B>The kitten</B> meows.
+[02:29:19]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[02:29:36]SAY: Runtime/ : HSSSSS
+[02:29:52]EMOTE: Ian/ : <B>Ian</B> dances around
+[02:29:56]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[02:30:27]EMOTE: kitten/ : <B>The kitten</B> mews.
+[02:31:04]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[02:31:04]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[02:31:06]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[02:31:39]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[02:32:07]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[02:32:20]EMOTE: cat/ : <B>The cat</B> mews.
+[02:33:28]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[02:33:34]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[02:33:54]EMOTE: Ian/ : <B>Ian</B> dances around
+[02:33:54]EMOTE: Parrot/ : <B>The Parrot</B> squawks.
+[02:34:00]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[02:34:44]EMOTE: Parrot/ : <B>The Parrot</B> squawks.
+[02:35:19]SAY: kitten/ : Meow!
+[02:35:35]DEBUG: Next event of severity Mundane in 15.74 minutes.
+[02:35:35]DEBUG: Starting event 'Trivial News' of severity Mundane.
+[02:35:35]EMOTE: crab/ : <B>The crab</B> clicks.
+[02:35:41]SAY: kitten/ : Meow!
+[02:35:57]DEBUG: Event 'Trivial News' has completed at 17:25.
+[02:36:10]EMOTE: Ian/ : <B>Ian</B> shakes its head.
+[02:36:12]EMOTE: Ian/ : <B>Ian</B> dances around
+[02:36:16]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[02:36:45]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[02:36:47]SAY: Parrot/ : Hello!
+[02:37:06]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[02:37:10]SAY: Ian/ : YAP
+[02:37:30]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[02:38:09]EMOTE: Ian/ : <B>Ian</B> woofs.
+[02:38:20]SAY: Ian/ : Bark!
+[02:38:24]EMOTE: Ian/ : <B>Ian</B> barks.
+[02:38:34]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[02:38:42]SAY: cat/ : HSSSSS
+[02:39:09]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[02:39:13]EMOTE: crab/ : <B>The crab</B> clacks.
+[02:39:19]ACCESS: Logout: Marinalightyears/(Amira Cook)
+[20:51:52]SAY: Runtime/ : HSSSSS
+[20:52:29]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[20:53:06]SAY: cat/ : Esp!
+[20:53:06]ACCESS: Login: Rensai11/(Rensai11) from 75.131.45.175-871393299 || BYOND v506
+[20:53:10]EMOTE: Ian/ : <B>Ian</B> dances around
+[20:53:21]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[20:53:35]EMOTE: kitten/ : <B>The kitten</B> meows.
+[20:53:37]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[20:53:55]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[20:53:57]EMOTE: Parrot/ : <B>The Parrot</B> squawks.
+[20:54:14]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[20:54:32]ACCESS: Logout: *no key*/(Rensai11)
+[20:54:32]ACCESS: Login: Rensai11/(Ella Werther) from 75.131.45.175-871393299 || BYOND v506
+[20:54:49]EMOTE: Ian/ : <B>Ian</B> dances around
+[20:54:49]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[20:55:08]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[20:55:32]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[20:55:48]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[20:56:25]SAY: cat/ : HSSSSS
+[20:56:40]EMOTE: Runtime/ : <B>Runtime</B> meows.
+[20:56:44]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[20:57:01]EMOTE: kitten/ : <B>The kitten</B> mews.
+[20:57:50]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[20:57:58]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[20:58:02]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[20:58:42]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[20:58:46]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[20:59:49]SAY: kitten/ : Purr!
+[20:59:51]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[20:59:54]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[21:00:08]SAY: cat/ : Purr!
+[21:00:20]SAY: kitten/ : Esp!
+[21:00:43]EMOTE: Runtime/ : <B>Runtime</B> shakes their head.
+[21:00:43]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[21:00:49]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[21:00:53]SAY: cat/ : Meow!
+[21:00:57]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[21:01:14]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[21:02:24]EMOTE: crab/ : <B>The crab</B> clicks.
+[21:02:26]EMOTE: Ian/ : <B>Ian</B> shivers.
+[21:02:49]SAY: Experiment 97d/ : EHEHEHEHEH
+[21:03:10]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[21:03:55]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[21:05:06]EMOTE: crab/ : <B>The crab</B> clacks.
+[21:05:29]SAY: kitten/ : Meow!
+[21:05:52]SAY: cat/ : Meow!
+[21:05:56]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[21:05:58]DEBUG: Next event of severity Mundane in 15.13 minutes.
+[21:05:58]DEBUG: Starting event 'Brand Intelligence' of severity Mundane.
+[21:07:20]EMOTE: cat/ : <B>The cat</B> mews.
+[21:07:40]ACCESS: Login: Mirkoloio/(Jamison Stamos) from 46.115.169.237-3042442290 || BYOND v506
+[21:07:47]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[21:07:59]SAY: Ian/ : Bark!
+[21:08:22]EMOTE: kitten/ : <B>The kitten</B> mews.
+[21:08:22]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[21:08:47]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[21:09:12]GAME: Jamison Stamos/Mirkoloio used abandon mob.
+[21:09:12]ACCESS: Logout: *no key*/(Jamison Stamos)
+[21:09:12]ACCESS: Login: Mirkoloio/(new player) from 46.115.169.237-3042442290 || BYOND v506
+[21:09:20]EMOTE: kitten/ : <B>The kitten</B> meows.
+[21:09:24]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[21:09:26]ACCESS: Logout: *no key*/(new player)
+[21:09:26]ACCESS: Login: Mirkoloio/(Jamison Stamos) from 46.115.169.237-3042442290 || BYOND v506
+[21:09:46]OOC: Jamison Stamos/Mirkoloio : I am here
+[21:10:06]OOC: Ella Werther/Rensai11 : Biesel is soooo much bigger than the earth map lol
+[21:10:12]OOC: Jamison Stamos/Mirkoloio : mhm
+[21:10:26]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[21:10:32]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[21:10:36]EMOTE: crab/ : <B>The crab</B> clacks.
+[21:10:48]SAY: Jamison Stamos/Mirkoloio : oh
+[21:10:48]SAY: Jamison Stamos/Mirkoloio : hi
+[21:10:51]EMOTE: Ella Werther/Rensai11 : <B>Ella Werther</B> grins.
+[21:10:53]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[21:10:53]SAY: Ella Werther/Rensai11 : Hey.
+[21:11:02]SAY: Jamison Stamos/Mirkoloio : You&#39;re looking good
+[21:11:11]EMOTE: Jamison Stamos/Mirkoloio : <B>Jamison Stamos</B> hugs Ella
+[21:11:26]EMOTE: Ella Werther/Rensai11 : <B>Ella Werther</B> winks and then hugs him back. &#34;I thought it fitting. You&#39;ve never seen me in anything proper.&#34;
+[21:11:43]SAY: Ella Werther/Rensai11 : Plus..
+[21:11:50]EMOTE: Jamison Stamos/Mirkoloio : <B>Jamison Stamos</B> smiles and gestures to the door, &#34;Let&#39;s get inside&#34;
+[21:11:53]WHISPER: Ella Werther/Rensai11 : It&#39;s really easy to take off.
+[21:11:56]SAY: Ella Werther/Rensai11 : After you!
+[21:12:04]SAY: Jamison Stamos/Mirkoloio : ladies first
+[21:12:14]SAY: Ella Werther/Rensai11 : Why thank you.
+[21:12:23]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[21:12:26]SAY: Jamison Stamos/Mirkoloio : a drinkﬂ
+[21:12:27]SAY: Jamison Stamos/Mirkoloio : ?
+[21:12:36]SAY: Ella Werther/Rensai11 : Please.
+[21:12:44]EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[21:12:50]EMOTE: Ella Werther/Rensai11 : <B>Ella Werther</B> sits down slowly.
+[21:13:00]SAY: Ella Werther/Rensai11 : Got Uncle Git&#39;s, babe?
+[21:13:06]SAY: Jamison Stamos/Mirkoloio : mhmm
+[21:13:26]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[21:13:30]EMOTE: Ian/ : <B>Ian</B> woofs.
+[21:13:42]EMOTE: Ella Werther/Rensai11 : <B>Ella Werther</B> smiles. &#34;Thank you.&#34;
+[21:13:44]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[21:13:47]SAY: Jamison Stamos/Mirkoloio : sure thing
+[21:14:16]EMOTE: Ella Werther/Rensai11 : <B>Ella Werther</B> slowly reaches over, running her fingers on his arm. &#34;It&#39;s been a little bit, hasn&#39;t it?&#34;
+[21:14:21]EMOTE: Ian/ : <B>Ian</B> dances around
+[21:14:23]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[21:14:34]EMOTE: cat/ : <B>The cat</B> shivers.
+[21:14:36]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[21:14:56]EMOTE: Jamison Stamos/Mirkoloio : <B>Jamison Stamos</B> smiles and turns a bit in his char. &#34;Mhmm.&#34;
+[21:15:33]EMOTE: Ella Werther/Rensai11 : <B>Ella Werther</B> drinks down some more of the whiskey, before setting it aside, turning her attention to Stamos. Her hand on his arm creeps to his thigh. &#34;We should make up for time lost.&#34; She suggests playfully.
+[21:15:39]SAY: Ian/ : YAP
+[21:15:45]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[21:16:25]EMOTE: Jamison Stamos/Mirkoloio : <B>Jamison Stamos</B> smirks, &#34;I totally agree.&#34; He leans over, pulling Ella into a passionate kiss
+[21:16:31]EMOTE: crab/ : <B>The crab</B> clacks.
+[21:16:49]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[21:16:54]EMOTE: Ella Werther/Rensai11 : <B>Ella Werther</B> smiles before their lips meet. She moves her other hand to his forearm, tilting her head into the passionate kiss.
+[21:17:14]EMOTE: Ian/ : <B>Ian</B> dances around
+[21:17:18]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[21:17:34]EMOTE: kitten/ : <B>The kitten</B> mews.
+[21:17:55]SAY: kitten/ : Meow!
+[21:17:57]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[21:18:04]EMOTE: Jamison Stamos/Mirkoloio : <B>Jamison Stamos</B> grabs Ella by the waist and carefully lifts her over on his lap, not once breaking the kiss while doing so
+[21:18:16]ATTACK: Mirkoloio/(Jamison Stamos) grabbed the neck of Rensai11/(Ella Werther)
+[21:18:18]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[21:18:24]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[21:18:30]SAY: Ian/ : Woof!
+[21:18:32]SAY: cat/ : Esp!
+[21:18:47]EMOTE: Ella Werther/Rensai11 : <B>Ella Werther</B> laughs softly into the kiss as she is lifted onto Stamos&#39; lap. She wraps her arms around his shoulders, and slips her tongue into the kiss, gently grinding on his lap.
+[21:18:58]ATTACK: Mirkoloio/(Jamison Stamos) grabbed the neck of Rensai11/(Ella Werther)
+[21:18:58]SAY: Runtime/ : Esp!
+[21:19:52]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[21:19:57]EMOTE: Jamison Stamos/Mirkoloio : <B>Jamison Stamos</B> pushes up her dress, his hand roaming up over her belly to her brests, lightly cupping and squeezing them. &#34;I love those two&#34;
+[21:19:59]EMOTE: Jamison Stamos/Mirkoloio : <B>Jamison Stamos</B> smirks
+[21:20:08]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[21:20:23]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[21:20:27]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[21:20:49]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[21:20:56]EMOTE: Ella Werther/Rensai11 : <B>Ella Werther</B> smirks and pulls back, feeling him grope and fondle her. &#34;Mmh. It&#39;s a love-hate relationship with me and my boobs.&#34; She says laughing softly, her head tilting over to lustfully kiss at his neck.
+[21:20:57]SAY: kitten/ : Meow!
+[21:21:04]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[21:21:10]EMOTE: crab/ : <B>The crab</B> clicks.
+[21:21:45]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[21:22:07]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[21:22:11]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[21:22:13]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[21:22:25]EMOTE: Jamison Stamos/Mirkoloio : <B>Jamison Stamos</B> chuckles as he feels her kiss his neck. His hands by now pushed under her bra, lightly pinching and rolling her nipples between his fingers
+[21:22:40]EMOTE: crab/ : <B>The crab</B> clacks.
+[21:23:15]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[21:23:17]DEBUG: Next event of severity Mundane in 12.7 minutes.
+[21:23:17]DEBUG: Starting event 'Trivial News' of severity Mundane.
+[21:23:29]EMOTE: Ella Werther/Rensai11 : <B>Ella Werther</B> actually doesn&#39;t seem to be wearing a bra! She groans softly against his neck when he stimulates her nipples, grinding a bit more quickly and roughly against his lap, her tongue briefly drawing across a small portion of his neck.
+[21:23:39]DEBUG: Event 'Trivial News' has completed at 17:56.
+[21:24:45]EMOTE: Jamison Stamos/Mirkoloio : <B>Jamison Stamos</B> smirks, &#34;No bra again? What a bad little slut we have here...&#34; His left hand wanders down to her panties, lighly rubbing her Vagina trough the Fabric
+[21:25:51]EMOTE: Runtime/ : <B>Runtime</B> shakes their head.
+[21:25:53]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[21:26:08]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[21:26:29]EMOTE: Ella Werther/Rensai11 : <B>Ella Werther</B> pauses while kissing at his neck. She breathes warm air down the side, and nibbles on his ear lobe for a moment. &#34;Your bad little slut.&#34; She whispers to him, feeling him rub her groin, she grows moist, grinding against his fingers that rub her.
+[21:26:34]DEBUG: Next event of severity Moderate in 43.316 minutes.
+[21:26:34]DEBUG: Starting event 'Nothing' of severity Moderate.
+[21:26:36]DEBUG: Event 'Nothing' has completed at 17:58.
+[21:26:40]EMOTE: Runtime/ : <B>Runtime</B> shakes their head.
+[21:26:48]VOTE: Crew_transfer vote started by the server.
+[21:26:48]DEBUG: The server has called a crew transfer vote
+[21:27:11]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[21:27:13]EMOTE: Ian/ : <B>Ian</B> dances around
+[21:27:42]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[21:27:44]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> shakes its head.
+[21:27:56]VOTE: <b>Vote Result: Continue The Round</b>
+[21:28:02]EMOTE: Jamison Stamos/Mirkoloio : <B>Jamison Stamos</B> smiles, &#34;My little slut, yeah&#34;, He lifts her up a bit, undoing his pants and pushing them down, leaving only his boxers with a huge bulge in them
+[21:29:12]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[21:29:47]EMOTE: Ella Werther/Rensai11 : <B>Ella Werther</B> nods softly, biting her lower lip, watching Stamos push his pants down. She reaches in between them, and forces his member to peak out from its tent. If he would allow her, she would ease down on it, her hands guiding it until it rests inside her. &#34;Oh fuck.&#34; She groans.
+[21:29:53]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[21:30:24]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[21:30:32]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[21:30:43]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[21:31:07]EMOTE: kitten/ : <B>The kitten</B> meows.
+[21:31:07]SAY: cat/ : Meow!
+[21:31:11]EMOTE: Ian/ : <B>Ian</B> barks.
+[21:31:15]EMOTE: Jamison Stamos/Mirkoloio : <B>Jamison Stamos</B> groans as his member enters Ella, &#34;Ahh.... I&#39;m all yours, Babe. Ride me&#34; His hands wander to her breasts again, playing with them
+[21:32:13]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[21:32:25]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[21:32:35]EMOTE: Ella Werther/Rensai11 : <B>Ella Werther</B> slowly places her little hands on his shoulders. Hearing his words, and feeling his hands return to play with her bust, she starts to grind her hips against his, forcing his cock to rub around inside her sweet, moist slit.
+[21:32:46]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[21:32:48]EMOTE: Parrot/ : <B>The Parrot</B> flutters its wings.
+[21:33:29]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[21:33:51]EMOTE: Ian/ : <B>Ian</B> dances around
+[21:33:55]EMOTE: Runtime/ : <B>Runtime</B> meows.
+[21:33:57]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[21:34:08]EMOTE: Jamison Stamos/Mirkoloio : <B>Jamison Stamos</B> moans, &#34;God, Ella.. That&#39;s it... mh.. You&#39;re so damn tight, girl.&#34;. He lightly pulls on her left nipple while taking her right one in his mouth, sucking on it.
+[21:34:16]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[21:34:16]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[21:34:36]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[21:34:47]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[21:34:57]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[21:35:03]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[21:35:56]SAY: Parrot/ : Hello!
+[21:36:29]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[21:36:35]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[21:36:37]EMOTE: Ella Werther/Rensai11 : <B>Ella Werther</B> gasps softly as he starts to play with her breasts more effectively. She grips his shoulders, and lifts off him, before her round butt starts to repeatedly smack against Stamos&#39; thighs, his erect member being  taken to the base by her moist slit every instance.
+[21:37:00]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[21:37:26]DEBUG: Next event of severity Major in 73.086 minutes.
+[21:37:26]DEBUG: Starting event 'Nothing' of severity Major.
+[21:37:28]DEBUG: Event 'Nothing' has completed at 18:08.
+[21:37:47]DEBUG: Next event of severity Mundane in 15.358 minutes.
+[21:37:47]DEBUG: Starting event 'Lost Carp' of severity Mundane.
+[21:38:22]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[21:38:40]EMOTE: Jamison Stamos/Mirkoloio : <B>Jamison Stamos</B> smiles, now thrusting back from below to meet her hips. His right hand smacks down on her right buttcheek, causing a loud slapping sound that echoes just a tiny bit in the room. He smiles at her
+[21:38:40]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[21:38:49]SAY: Ian/ : Woof!
+[21:39:09]SAY: cat/ : Meow!
+[21:39:17]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[21:39:24]SAY: cat/ : Purr!
+[21:39:42]SAY: Ian/ : Woof!
+[21:39:56]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[21:40:15]DEBUG: Event 'Brand Intelligence' has completed at 18:10.
+[21:40:34]EMOTE: Ella Werther/Rensai11 : <B>Ella Werther</B> grunts softly each time her hips meet his, the counter-thrusting causing his cock to plunge slightly deeper inside her womanhood. As Stamos smacks her ass, she moans, and her back arches ever so slightly. &#34;Nnh, fuck!&#34;
+[21:40:38]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[21:40:40]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[21:41:04]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[21:41:13]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[21:41:17]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[21:41:25]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[21:41:54]EMOTE: Runtime/ : <B>Runtime</B> shakes their head.
+[21:42:06]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[21:42:08]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[21:42:10]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[21:42:29]EMOTE: Jamison Stamos/Mirkoloio : <B>Jamison Stamos</B> chuckles, &#34;ahh, You like that, Don&#39;t you?&#34; He smacks her left side now
+[21:42:47]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[21:42:49]OOC: (LOCAL) Jamison Stamos/Mirkoloio : been AFK a second, Got a new bottle of cola
+[21:43:18]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[21:43:26]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[21:43:40]EMOTE: Ella Werther/Rensai11 : <B>Ella Werther</B>  &#39;s head gently falls against his shoulder as he smacks her ass again. She winces, and grips at his shoulders harder,  and with her butt now poking out from leaning against him, starts to smack her hips even more roughly against his.
+[21:43:40]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[21:43:49]OOC: (LOCAL) Ella Werther/Rensai11 : K Kaaay
+[21:43:53]EMOTE: Ian/ : <B>Ian</B> woofs.
+[21:44:34]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[21:44:50]SAY: Experiment 97d/ : EHEHEHEHEH
+[21:45:09]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[21:45:46]EMOTE: Jamison Stamos/Mirkoloio : <B>Jamison Stamos</B> groans loud as she leans forward. he suddenly stands up, turns arround and places Ella into the chair in some weird yet comfortable position that allows him to keep thrusting into her. &#34;Let&#39;s change sides, no?&#34; he said while doing so
+[21:46:17]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[21:46:39]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[21:46:50]SAY: kitten/ : HSSSSS
+[21:47:08]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[21:47:22]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[21:47:58]EMOTE: Ella Werther/Rensai11 : <B>Ella Werther</B> &#39;s eyes open a bit wide and she gasps as Stamos suddenly stands up. Keeping a good grip on him til he sets her down again, she lets go. Feeling as he doesn&#39;t miss a bit, immediately  continues to pound into her moist walls. She laughs a bit, hearing his words. &#34;I don&#39;t thin- k you gave me much choice!&#34;
+[21:48:03]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[21:48:10]EMOTE: Ian/ : <B>Ian</B> yaps.
+[21:49:48]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[21:49:52]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[21:50:01]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[21:50:05]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[21:50:11]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[21:50:17]EMOTE: Jamison Stamos/Mirkoloio : <B>Jamison Stamos</B> starts pounding into her now with a good rather fast rythm, causing slaping sounds as he meets her hips. He groans, &#34;God... Yeah... you don&#39;t get to choose here. at least..... not yet.&#34; He winks, panting heavily
+[21:50:19]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[21:50:21]EMOTE: Ian/ : <B>Ian</B> dances around
+[21:50:25]EMOTE: Ian/ : <B>Ian</B> shakes its head.
+[21:50:27]EMOTE: Ian/ : <B>Ian</B> shivers.
+[21:50:29]SAY: Experiment 97d/ : Eh?
+[21:51:22]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[21:51:41]EMOTE: Ella Werther/Rensai11 : <B>Ella Werther</B> moans lustfully as she is pounded against the seat, her breasts hopping quickly back and forth with Stamos&#39; rhythm. Ella watches him groan, and speak, biting her lip slowly in reaction, being clear that she doesn&#39;t mind.
+[21:51:57]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[21:52:26]SAY: cat/ : Esp!
+[21:53:01]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[21:53:28]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[21:53:45]EMOTE: Jamison Stamos/Mirkoloio : <B>Jamison Stamos</B> chukles slightly. he brings up his left hand&#39;s two fingers and inserts them into her backdoor, lightly pushin in and out and eventually rubing up against the walls and thus rubing against his cock on the other side.
+[21:53:50]SAY: Parrot/ : Hello!
+[21:55:00]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[21:55:06]EMOTE: Ella Werther/Rensai11 : <B>Ella Werther</B> gasps as his fingers slip inside of her back door. She groans a bit, her lips parting. After a few moments of that, she climaxes, Stamos&#39; able to feel the muscles in both holes gently contracting as her lubricating juices are released. &#34;Nnghh.. Jamison.. oh god.&#34; She mumbles.
+[21:55:18]DEBUG: Next event of severity Mundane in 12.872 minutes.
+[21:55:18]DEBUG: Starting event 'Mundane News' of severity Mundane.
+[21:55:33]EMOTE: Ian/ : <B>Ian</B> dances around
+[21:55:41]DEBUG: Event 'Mundane News' has completed at 18:24.
+[21:55:43]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[21:56:14]SAY: Parrot/ : Hello!
+[21:56:30]EMOTE: crab/ : <B>The crab</B> clacks.
+[21:56:34]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[21:56:38]EMOTE: crab/ : <B>The crab</B> clicks.
+[21:56:49]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[21:56:55]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[21:56:59]SAY: Runtime/ : HSSSSS
+[21:56:59]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[21:57:05]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[21:57:11]EMOTE: Jamison Stamos/Mirkoloio : <B>Jamison Stamos</B> groans as he feels her muscles contract around his member. &#34;Ah, Jesus.... Ella.. i&#39;m... I&#39;m.... ahhhhh&#34; He moans as he cums inside her simoultaneously to her climax
+[21:57:30]SAY: Parrot/ : Hello!
+[21:58:03]EMOTE: Parrot/ : <B>The Parrot</B> flutters its wings.
+[21:58:13]EMOTE: Runtime/ : <B>Runtime</B> mews.
+[21:58:15]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[21:58:25]EMOTE: Ian/ : <B>Ian</B> dances around
+[21:58:27]EMOTE: Ella Werther/Rensai11 : <B>Ella Werther</B> gulps a bit, glancing down, feeling his cock twitch inside of her, knowing that his seed is pumping into her. She brings her hands to rub up his torso, breathing heavily. &#34;Mmh, I love it.. when you fill me up.&#34; She says between heavy breaths.
+[21:58:29]SAY: Ian/ : YAP
+[21:58:42]EMOTE: cat/ : <B>The cat</B> shivers.
+[21:58:50]SAY: Parrot/ : Hello!
+[21:59:12]EMOTE: kitten/ : <B>The kitten</B> mews.
+[21:59:31]SAY: cat/ : HSSSSS
+[22:00:21]EMOTE: Jamison Stamos/Mirkoloio : <B>Jamison Stamos</B> smiles and wraps his arms arround her, lifting her again and resting her on him on the chair in the position they started in, all the time his member remains inside of her. &#34;I love it too. And I love you&#34; he says, smileing broadly.
+[22:00:47]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[22:01:09]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[22:01:11]EMOTE: Parrot/ : <B>The Parrot</B> flutters its wings.
+[22:01:42]EMOTE: Ian/ : <B>Ian</B> shivers.
+[22:01:56]EMOTE: Ella Werther/Rensai11 : <B>Ella Werther</B> grunts softly again when she is lifted back on top. Looking down on Stamos and hearing his words, she pauses a moment, before leaning down and stealing a quick kiss. &#34;I know.&#34; She tells him, before slowly slipping off of his lap, his member falling away. &#34;But I&#39;ve got to clean up this mess.&#34; Ella states with a smile before dropping down between his knees. Her tongue drags up the side of his shaft, cleaning his sticky member.
+[22:02:05]EMOTE: crab/ : <B>The crab</B> clacks.
+[22:02:19]EMOTE: Ian/ : <B>Ian</B> dances around
+[22:02:21]EMOTE: kitten/ : <B>The kitten</B> mews.
+[22:03:04]EMOTE: Parrot/ : <B>The Parrot</B> squawks.
+[22:03:06]EMOTE: Jamison Stamos/Mirkoloio : <B>Jamison Stamos</B> groans again, &#34;oooh yes.... clean it up like a good girl..&#34; He rests his hands on the sides of her head, caressing her cheeks
+[22:03:10]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[22:03:45]EMOTE: crab/ : <B>The crab</B> clicks.
+[22:03:47]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[22:03:53]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[22:03:54]EMOTE: Ella Werther/Rensai11 : <B>Ella Werther</B> drags her tongue up the side until it rests at his head. She lifts it upright before wrapping her lips around it. He can feel her tongue just swathing around the tip, and as her head gently eases down, the tongue follows, cleaning every inch.
+[22:04:16]SAY: kitten/ : Esp!
+[22:04:49]SAY: Experiment 97d/ : EHEHEHEHEH
+[22:04:53]EMOTE: kitten/ : <B>The kitten</B> mews.
+[22:05:05]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[22:05:09]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[22:05:17]EMOTE: Jamison Stamos/Mirkoloio : <B>Jamison Stamos</B> &#39;s member grows to attention again, stiffening up inside her mouth. He groans deeply, reaching down to one of her breasts and starts playing with her nipple again
+[22:05:22]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[22:05:26]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[22:05:34]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[22:05:36]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[22:06:23]EMOTE: Ella Werther/Rensai11 : <B>Ella Werther</B> giggles as she feels him grow hard again, having a suspicion that would work. When he grabs at one of her breasts and stimulates her nipple again, she decides to cmmit, her head starting to bob up and down on the stiff mass, her tongue relentless in its swathing.
+[22:06:56]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[22:07:39]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[22:07:39]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[22:07:52]EMOTE: Jamison Stamos/Mirkoloio : <B>Jamison Stamos</B> groans, &#34;ohh... watch out down there,, You might just cause another mess, babe&#34;. He smiles, pinching her nipple and tugging on it
+[22:08:02]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[22:08:04]DEBUG: Event 'Lost Carp' has completed at 18:35.
+[22:08:06]SAY: Runtime/ : Meow!
+[22:08:23]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[22:08:57]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[22:09:05]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[22:09:06]EMOTE: Ella Werther/Rensai11 : <B>Ella Werther</B> looks up to Stamos as he speaks out. She slips off of him for a just a moment. &#34;Don&#39;t worry, I plan to leave nothing behind.&#34; She winks, before going back down on him, her tongue sticking out just a bit from her bottom lip, as she dips a little deeper when bobbing back and forth this time.
+[22:09:20]EMOTE: cat/ : <B>The cat</B> shivers.
+[22:09:22]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[22:09:51]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[22:09:57]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[22:09:59]DEBUG: Next event of severity Mundane in 17.374 minutes.
+[22:09:59]DEBUG: Starting event 'Economic News' of severity Mundane.
+[22:09:59]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[22:10:18]EMOTE: Jamison Stamos/Mirkoloio : <B>Jamison Stamos</B> chuckles at her words and rests one of his hands on top of her head. His right hand lightly slaps her breasts
+[22:10:57]EMOTE: Ian/ : <B>Ian</B> dances around
+[22:11:03]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[22:11:09]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[22:11:11]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[22:11:25]EMOTE: Ella Werther/Rensai11 : <B>Ella Werther</B> winces and groans briefly when Stamos lightly slaps one of her breasts. She goes a little deeper down on Stamos,  almost every inch of his cock being subjected to her playful tongue.
+[22:11:48]SAY: Parrot/ : Hello!
+[22:12:09]EMOTE: Jamison Stamos/Mirkoloio : <B>Jamison Stamos</B> moans, &#34;That&#39;s it... load incomming... god.... Just a little more..&#34;
+[22:12:37]EMOTE: cat/ : <B>The cat</B> meows.
+[22:12:39]EMOTE: crab/ : <B>The crab</B> clicks.
+[22:12:41]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[22:12:51]EMOTE: Ella Werther/Rensai11 : <B>Ella Werther</B> thrusts a few more times, before forcing herself down onto him, his cock pressing deep inside her mouth. She closes her eyes, and holds her breath, feeling his cock ready to explode.
+[22:12:53]DEBUG: Event 'Economic News' has completed at 18:39.
+[22:13:10]SAY: Ian/ : Woof!
+[22:13:20]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[22:13:39]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[22:13:44]EMOTE: Jamison Stamos/Mirkoloio : <B>Jamison Stamos</B> groans loud as he cums, shooting a big amount of his semen into her mouth, his head is thrown back and his eyes are closed. &#34;oooooh shiiit... Ellaaaa&#34;
+[22:14:05]EMOTE: crab/ : <B>The crab</B> clicks.
+[22:14:16]EMOTE: Ian/ : <B>Ian</B> dances around
+[22:14:32]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[22:15:15]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[22:15:17]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[22:15:27]EMOTE: Ella Werther/Rensai11 : <B>Ella Werther</B> winces when the first load is launched into her throat. She clenches her eyes shut, taking care to swallow repeatedly. Eventually, she draws back, and once her lips are free from his member, she gasps, panting, with her lips parted.
+[22:15:56]DEBUG: Next event of severity Moderate in 50.732 minutes.
+[22:15:56]DEBUG: Starting event 'Space vines' of severity Moderate.
+[22:15:58]DEBUG: Event 'Space vines' has completed at 18:42.
+[22:16:15]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[22:16:27]EMOTE: Ian/ : <B>Ian</B> dances around
+[22:16:37]EMOTE: Jamison Stamos/Mirkoloio : <B>Jamison Stamos</B> smiles down at her, &#34;God dammit, Ella. You&#39;re a god damn Blowjob Godess
+[22:16:46]EMOTE: kitten/ : <B>The kitten</B> meows.
+[22:16:56]EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[22:17:04]EMOTE: Ella Werther/Rensai11 : <B>Ella Werther</B> laughs softly, laying her head sideways on his thigh. &#34;I just like doing it.&#34; She paused. &#34;Especially for you.&#34;
+[22:17:14]EMOTE: cat/ : <B>The cat</B> shivers.
+[22:17:18]EMOTE: crab/ : <B>The crab</B> clicks.
+[22:17:40]EMOTE: Jamison Stamos/Mirkoloio : <B>Jamison Stamos</B> smiles
+[22:17:47]EMOTE: Jamison Stamos/Mirkoloio : <B>Jamison Stamos</B> slowly gets up
+[22:17:49]SAY: Parrot/ : Hello!
+[22:18:24]EMOTE: Ian/ : <B>Ian</B> dances around
+[22:18:26]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[22:18:39]EMOTE: Ella Werther/Rensai11 : <B>Ella Werther</B> lifts herself up onto the seat, looking up at Stamos. &#34;God, you&#39;ve worn me out.&#34; She complains playfully.
+[22:18:57]SAY: Experiment 97d/ : EHEHEHEHEH
+[22:19:05]EMOTE: Jamison Stamos/Mirkoloio : <B>Jamison Stamos</B> chuckles
+[22:19:11]SAY: Jamison Stamos/Mirkoloio : that&#39;s my job
+[22:19:11]SAY: Jamison Stamos/Mirkoloio : no?
+[22:19:52]SAY: Ella Werther/Rensai11 : I guess you&#39;re right~
+[22:19:53]SAY: Experiment 97d/ : EHEHEHEHEH
+[22:20:01]EMOTE: Ella Werther/Rensai11 : <B>Ella Werther</B> stretches over, grabbing the whiskey.
+[22:20:01]EMOTE: crab/ : <B>The crab</B> clicks.
+[22:20:11]SAY: Jamison Stamos/Mirkoloio : so
+[22:20:18]EMOTE: Jamison Stamos/Mirkoloio : <B>Jamison Stamos</B> leans on the table
+[22:20:28]SAY: Jamison Stamos/Mirkoloio : How do you like it more?
+[22:20:32]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[22:20:34]SAY: Jamison Stamos/Mirkoloio : when i got the control or you?
+[22:20:48]EMOTE: Parrot/ : <B>The Parrot</B> flutters its wings.
+[22:21:06]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[22:21:12]SAY: Ella Werther/Rensai11 : Hm.
+[22:21:12]EMOTE: kitten/ : <B>The kitten</B> mews.
+[22:21:24]EMOTE: Ella Werther/Rensai11 : <B>Ella Werther</B> sips at the whiskey. &#34;When you do it. You&#39;re really good at it..&#34;
+[22:21:27]EMOTE: Runtime/ : <B>Runtime</B> mews.
+[22:21:29]EMOTE: cat/ : <B>The cat</B> mews.
+[22:21:57]EMOTE: Jamison Stamos/Mirkoloio : <B>Jamison Stamos</B> smiles
+[22:22:03]SAY: Jamison Stamos/Mirkoloio : good to know
+[22:22:09]SAY: Jamison Stamos/Mirkoloio : I am right back
+[22:22:18]EMOTE: Ella Werther/Rensai11 : <B>Ella Werther</B> winks, sipping at the whiskey again. &#34;Alright.&#34;
+[22:22:22]EMOTE: Ella Werther/Rensai11 : <B>Ella Werther</B> slowly fixes her dress.
+[22:22:39]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[22:23:24]SAY: Runtime/ : Purr!
+[22:23:40]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[22:23:44]SAY: Parrot/ : Hello!
+[22:24:09]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[22:24:11]EMOTE: Ian/ : <B>Ian</B> dances around
+[22:24:11]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[22:24:19]EMOTE: Runtime/ : <B>Runtime</B> shakes their head.
+[22:24:36]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[22:25:02]EMOTE: cat/ : <B>The cat</B> meows.
+[22:25:04]EMOTE: crab/ : <B>The crab</B> clacks.
+[22:25:29]EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[22:25:33]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[22:25:35]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[22:25:36]SAY: Jamison Stamos/Mirkoloio : alright
+[22:25:39]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[22:25:43]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> shakes its head.
+[22:25:43]SAY: Ella Werther/Rensai11 : Welcome back!
+[22:25:45]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[22:25:54]EMOTE: Jamison Stamos/Mirkoloio : <B>Jamison Stamos</B> smiles
+[22:25:57]SAY: Jamison Stamos/Mirkoloio : i already missed you
+[22:26:02]SAY: kitten/ : Esp!
+[22:26:18]EMOTE: Ella Werther/Rensai11 : <B>Ella Werther</B> laughs softly, leaning to rest her head against his shoulder, the whiskey glass pressed to her abdomen gently.
+[22:26:28]WHISPER: Ella Werther/Rensai11 : This.
+[22:26:45]WHISPER: Ella Werther/Rensai11 : Is why I like you so much. Sweet when you want to be, rough when you need to be.
+[22:26:53]EMOTE: Jamison Stamos/Mirkoloio : <B>Jamison Stamos</B> listens, wrapping an arm around her
+[22:26:57]EMOTE: Jamison Stamos/Mirkoloio : <B>Jamison Stamos</B> smiles
+[22:27:05]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[22:27:30]SAY: cat/ : Meow!
+[22:27:32]SAY: kitten/ : Meow!
+[22:27:32]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[22:27:34]EMOTE: kitten/ : <B>The kitten</B> mews.
+[22:27:41]WHISPER: Ella Werther/Rensai11 : It&#39;s a good quality. Most everyone else is one or the other.
+[22:27:50]WHISPER: Ella Werther/Rensai11 : 
+[22:28:03]SAY: kitten/ : HSSSSS
+[22:28:22]EMOTE: Jamison Stamos/Mirkoloio : <B>Jamison Stamos</B> smiles
+[22:28:59]EMOTE: Ella Werther/Rensai11 : <B>Ella Werther</B> leans up and kisses him on the cheek, laughing softly at his response, nuzzling his neck. &#34;Well, thanks!&#34;
+[22:29:47]DEBUG: Next event of severity Mundane in 17.578 minutes.
+[22:29:47]DEBUG: Starting event 'Trivial News' of severity Mundane.
+[22:29:48]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[22:30:00]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[22:30:02]SAY: Parrot/ : Hello!
+[22:30:04]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[22:30:10]DEBUG: Event 'Trivial News' has completed at 18:54.
+[22:30:41]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[22:30:43]EMOTE: Jamison Stamos/Mirkoloio : <B>Jamison Stamos</B> chuckles
+[22:30:43]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[22:30:45]SAY: Jamison Stamos/Mirkoloio : You know
+[22:30:45]EMOTE: Ian/ : <B>Ian</B> dances around
+[22:30:58]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[22:30:59]SAY: Jamison Stamos/Mirkoloio : I already got an Idea what to do to you next time you come over
+[22:31:02]EMOTE: Jamison Stamos/Mirkoloio : <B>Jamison Stamos</B> chuckles again
+[22:31:08]SAY: Ella Werther/Rensai11 : Tell meee.
+[22:31:18]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[22:31:22]OOC: (LOCAL) Ella Werther/Rensai11 : Gotta go in a couple of mins~
+[22:31:24]SAY: Experiment 97d/ : EHEHEHEHEH
+[22:31:26]SAY: kitten/ : HSSSSS
+[22:31:41]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[22:32:02]SAY: Jamison Stamos/Mirkoloio : n
+[22:32:03]SAY: Jamison Stamos/Mirkoloio : o
+[22:32:06]SAY: Jamison Stamos/Mirkoloio : Secret
+[22:32:08]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[22:32:08]OOC: (LOCAL) Jamison Stamos/Mirkoloio : alright
+[22:32:10]SAY: Ella Werther/Rensai11 : Ugh!
+[22:32:16]SAY: Ella Werther/Rensai11 : C&#39;maaaaaaaaahn.
+[22:32:24]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[22:32:26]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[22:32:30]OOC: (LOCAL) Ella Werther/Rensai11 : I&#39;ll probably be back on Aurora some time tonight
+[22:32:55]OOC: (LOCAL) Jamison Stamos/Mirkoloio : alright. 4 am here
+[22:32:58]SAY: Jamison Stamos/Mirkoloio : nope
+[22:32:59]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[22:33:03]SAY: Jamison Stamos/Mirkoloio : It&#39;s a secret
+[22:33:04]SAY: Jamison Stamos/Mirkoloio : just
+[22:33:09]SAY: Jamison Stamos/Mirkoloio : try to figure it out
+[22:33:15]SAY: Jamison Stamos/Mirkoloio : and use the toy i gave you
+[22:33:19]SAY: kitten/ : Meow!
+[22:33:21]SAY: Ella Werther/Rensai11 : At least give me a hint.
+[22:33:31]SAY: Jamison Stamos/Mirkoloio : It is of sexual nature
+[22:33:34]SAY: Jamison Stamos/Mirkoloio : hint given
+[22:33:36]SAY: Ella Werther/Rensai11 : Also I need new batteries for it. Died already.
+[22:33:40]EMOTE: Ella Werther/Rensai11 : <B>Ella Werther</B> grins.
+[22:33:40]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[22:33:43]SAY: Ella Werther/Rensai11 : Thanks.
+[22:33:45]EMOTE: Jamison Stamos/Mirkoloio : <B>Jamison Stamos</B> chuckles
+[22:33:46]SAY: kitten/ : Meow!
+[22:34:21]EMOTE: Ian/ : <B>Ian</B> dances around
+[22:34:21]SAY: kitten/ : Meow!
+[22:34:25]EMOTE: Ella Werther/Rensai11 : <B>Ella Werther</B> leans up and kisses Stamos softly. &#34;I&#39;ve got to get out of here. Let me know if you want me to wear something specific next time.&#34; She says, winking before she stands up, and finishes the whiskey off.
+[22:34:27]EMOTE: kitten/ : <B>The kitten</B> mews.
+[22:34:29]EMOTE: Ian/ : <B>Ian</B> dances around
+[22:34:54]EMOTE: Jamison Stamos/Mirkoloio : <B>Jamison Stamos</B> nods
+[22:34:59]SAY: Jamison Stamos/Mirkoloio : I&#39;ll call you
+[22:35:05]SAY: Ella Werther/Rensai11 : Okay, see you!
+[22:35:06]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[22:35:09]VOTE: Crew_transfer vote started by the server.
+[22:35:09]DEBUG: The server has called a crew transfer vote
+[22:35:09]SAY: Jamison Stamos/Mirkoloio : bye
+[22:35:17]EMOTE: Jamison Stamos/Mirkoloio : <B>Jamison Stamos</B> waves
+[22:35:22]EMOTE: Ella Werther/Rensai11 : <B>Ella Werther</B> waves back!
+[22:35:29]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[22:35:37]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[22:36:02]ACCESS: Logout: Rensai11/(Ella Werther)
+[22:36:16]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[22:36:17]VOTE: <b>Vote Result: Initiate Crew Transfer</b>
+[22:36:17]GAME: Autotransfer has called the shuttle.
+[22:36:20]EMOTE: Ella Werther/Rensai11 : <B>Ella Werther</B> snores.
+[22:36:44]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[22:36:55]EMOTE: Ella Werther/Rensai11 : <B>Ella Werther</B> snores.
+[22:37:01]EMOTE: cat/ : <B>The cat</B> shivers.
+[22:37:03]SAY: kitten/ : Esp!
+[22:37:15]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[22:37:32]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[22:38:15]SAY: kitten/ : Esp!
+[22:38:19]SAY: Experiment 97d/ : Eh?
+[22:38:35]SAY: kitten/ : HSSSSS
+[22:38:52]EMOTE: Ella Werther/Rensai11 : <B>Ella Werther</B> snores.
+[22:39:02]SAY: Ian/ : AUUUUUU
+[22:39:41]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[22:40:14]EMOTE: Ella Werther/Rensai11 : <B>Ella Werther</B> snores.
+[22:40:46]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[22:41:01]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[22:41:09]SAY: Runtime/ : HSSSSS
+[22:41:11]SAY: kitten/ : HSSSSS
+[22:41:23]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[22:41:31]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[22:42:29]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[22:42:43]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[22:42:47]SAY: Parrot/ : Hello!
+[22:43:01]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[22:43:28]EMOTE: Ella Werther/Rensai11 : <B>Ella Werther</B> snores.
+[22:43:43]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[22:44:28]EMOTE: Ella Werther/Rensai11 : <B>Ella Werther</B> snores.
+[22:44:32]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[22:44:38]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[22:45:19]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[22:45:31]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[22:46:06]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[22:47:02]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[22:47:20]EMOTE: Ella Werther/Rensai11 : <B>Ella Werther</B> snores.
+[22:47:22]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[22:47:27]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[22:47:29]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[22:48:06]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[22:48:08]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[22:48:14]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[22:48:31]SAY: Experiment 97d/ : EHEHEHEHEH
+[22:48:37]SAY: kitten/ : HSSSSS
+[22:48:37]EMOTE: Ella Werther/Rensai11 : <B>Ella Werther</B> snores.
+[22:48:41]SAY: Runtime/ : Purr!
+[22:48:41]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[22:48:43]EMOTE: kitten/ : <B>The kitten</B> meows.
+[22:48:57]EMOTE: Parrot/ : <B>The Parrot</B> squawks.
+[22:49:14]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[22:49:28]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[22:49:43]SAY: kitten/ : Meow!
+[22:49:43]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[22:49:47]EMOTE: Ella Werther/Rensai11 : <B>Ella Werther</B> snores.
+[22:49:50]DEBUG: Next event of severity Mundane in 13.096 minutes.
+[22:49:50]DEBUG: Starting event 'Vermin Infestation' of severity Mundane.
+[22:49:55]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[22:50:15]DEBUG: Event 'Vermin Infestation' has completed at 19:12.
+[22:50:20]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[22:50:40]EMOTE: Runtime/ : <B>Runtime</B> mews.
+[22:51:01]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[22:51:09]EMOTE: Ella Werther/Rensai11 : <B>Ella Werther</B> snores.
+[22:51:38]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[22:52:03]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[22:52:07]SAY: cat/ : HSSSSS
+[22:52:07]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[22:52:13]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[22:52:19]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[22:52:21]EMOTE: Ella Werther/Rensai11 : <B>Ella Werther</B> snores.
+[22:52:40]EMOTE: Amira Cook/Marinalightyears : <B>Amira Cook</B> snores.
+[22:52:52]SAY: cat/ : HSSSSS
+[22:53:00]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[22:53:17]EMOTE: Ella Werther/Rensai11 : <B>Ella Werther</B> snores.
+[22:54:00]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[22:54:04]GAME: Antagonists at round end were...
+[22:55:19]ACCESS: Logout: Mirkoloio/(Jamison Stamos)

@@ -1,0 +1,1275 @@
+
+
+Starting up. 21:35.51
+---------------------
+[21:35:51]ADMIN: Loading jobban_rank
+[21:35:51]ADMIN: jobban_keylist was empty
+[21:35:51]ADMIN: Loading Banlist
+[21:35:53]DEBUG: Rebuilding Master Controller
+[21:51:48]ACCESS: Login: JohnnyMnemonic/(JohnnyMnemonic) from 93.137.105.218-1873374081 || BYOND v506
+[21:51:59]ACCESS: Logout: JohnnyMnemonic/(JohnnyMnemonic)
+[22:58:43]VOTE: Gamemode vote started by the server.
+[22:58:43]DEBUG: The server has called a gamemode vote
+[22:58:52]ACCESS: Login: Decy19/(Decy19) from 75.118.190.254-2674911532 || BYOND v506
+[22:59:43]DEBUG: The server has called a gamemode vote
+[22:59:43]VOTE: <b>Vote Result: extended</b>
+[23:01:03]ACCESS: Logout: *no key*/(Decy19)
+[23:01:03]ACCESS: Login: Decy19/(Jed Rosensteel) from 75.118.190.254-2674911532 || BYOND v506
+[23:01:06]DEBUG: Next event of severity Mundane in 14.138 minutes.
+[23:01:06]DEBUG: Next event of severity Moderate in 47.47 minutes.
+[23:01:06]DEBUG: Next event of severity Major in 88.845 minutes.
+[23:01:35]EMOTE: Ian/ : <B>Ian</B> dances around
+[23:01:39]EMOTE: mouse (182)/ : <B>The mouse (182)</B> scritches at something.
+[23:01:53]EMOTE: Runtime/ : <B>Runtime</B> shakes their head.
+[23:02:09]EMOTE: Parrot/ : <B>The Parrot</B> turns and flies towards the deck of cards
+[23:02:25]EMOTE: cat/ : <B>The cat</B> mews.
+[23:02:50]ATTACK: Decy19/(Jed Rosensteel) attacked Decy19/(Jed Rosensteel) with kitchen knife (INTENT: HELP) (DAMTYE: BRUTE)
+[23:02:54]ACCESS: Logout: Decy19/(Jed Rosensteel)
+[23:52:01]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[23:52:35]EMOTE: crab/ : <B>The crab</B> clicks.
+[23:52:46]SAY: Parrot/ : Hello!
+[23:52:46]SAY: Tom (386)/ : SQUEEK!
+[23:53:07]ACCESS: Login: Moom241/(Moom241) from 172.2.114.177-1501114251 || BYOND v506
+[23:53:10]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[23:53:13]ACCESS: Logout: Moom241/(Moom241)
+[00:34:19]ACCESS: Login: Moom241/(Moom241) from 172.2.114.177-1501114251 || BYOND v506
+[00:35:10]EMOTE: Ian/ : <B>Ian</B> dances around
+[00:35:20]SAY: grey baby slime (506)/ : Rawr...
+[00:35:55]EMOTE: mouse (378)/ : <B>The mouse (378)</B> runs in a circle.
+[00:36:24]EMOTE: Parrot/ : <B>The Parrot</B> squawks.
+[00:36:31]ACCESS: Login: Shamiel/(Shamiel) from 72.190.21.24-1088307603 || BYOND v506
+[00:36:50]ACCESS: Logout: *no key*/(Shamiel)
+[00:36:50]ACCESS: Login: Shamiel/(Tal Nejem) from 72.190.21.24-1088307603 || BYOND v506
+[00:37:06]EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[00:37:12]EMOTE: Parrot/ : <B>The Parrot</B> flutters its wings.
+[00:37:29]ACCESS: Logout: *no key*/(Moom241)
+[00:37:29]ACCESS: Login: Moom241/(Igam Yute) from 172.2.114.177-1501114251 || BYOND v506
+[00:37:55]EMOTE: Runtime/ : <B>Runtime</B> mews.
+[00:38:03]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[00:38:13]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[00:38:25]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> is a sexy mime. hueh
+[00:38:53]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[00:38:57]EMOTE: Ian/ : <B>Ian</B> dances around
+[00:39:28]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[00:39:44]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> is kawaii desu lawyer sama
+[00:40:16]SAY: mouse (378)/ : Squeek!
+[00:41:44]SAY: grey baby slime (506)/ : Rawr...
+[00:42:06]EMOTE: Ian/ : <B>Ian</B> dances around
+[00:42:22]EMOTE: crab/ : <B>The crab</B> clicks.
+[00:42:24]EMOTE: Ian/ : <B>Ian</B> dances around
+[00:42:41]EMOTE: kitten/ : <B>The kitten</B> mews.
+[00:43:15]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[00:43:17]SAY: Tom (249)/ : Squeek!
+[00:43:29]EMOTE: Runtime/ : <B>Runtime</B> shakes their head.
+[00:43:33]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> stretches.
+[00:43:55]SAY: cat/ : HSSSSS
+[00:43:56]SAY: Igam Yute/Moom241 : So, that stir fry, awesome, or spectacular?
+[00:44:08]SAY: Tal Nejem/Shamiel : Double spectacular.
+[00:44:09]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[00:44:11]SAY: cat/ : HSSSSS
+[00:44:15]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> rubs her stomach.
+[00:44:37]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> nods.
+[00:44:41]SAY: Igam Yute/Moom241 : Glad to hear.
+[00:44:50]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[00:44:58]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> sighs.
+[00:45:02]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[00:45:03]SAY: Igam Yute/Moom241 : I missed this place.
+[00:45:16]SAY: Tal Nejem/Shamiel : Well, how about you come in for a bit?
+[00:45:39]SAY: Parrot/ : Hi
+[00:45:41]SAY: Igam Yute/Moom241 : I...
+[00:45:49]SAY: kitten/ : Meow!
+[00:45:54]SAY: Igam Yute/Moom241 : Alright.
+[00:46:01]DEBUG: Next event of severity Mundane in 14.848 minutes.
+[00:46:01]DEBUG: Starting event 'Trivial News' of severity Mundane.
+[00:46:14]SAY: Igam Yute/Moom241 : I&#39;ll pour us some drinks.
+[00:46:19]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> nods.
+[00:46:21]EMOTE: Ian/ : <B>Ian</B> dances around
+[00:46:23]DEBUG: Event 'Trivial News' has completed at 12:17.
+[00:48:09]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[00:48:20]SAY: Igam Yute/Moom241 : You mind if I put some music on?
+[00:48:26]SAY: Tal Nejem/Shamiel : Not at all.
+[00:48:39]SAY: Runtime/ : Esp!
+[00:49:03]SAY: grey baby slime (792)/ : Purr...
+[00:49:03]EMOTE: crab/ : <B>The crab</B> clicks.
+[00:49:08]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> starts to fiddle with the radio, some classical music comes on. ((https://www.youtube.com/watch?v=ETNoPqYAIPI))
+[00:49:32]SAY: Igam Yute/Moom241 : Ooh, Dvorjak!
+[00:49:41]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[00:49:41]SAY: kitten/ : Esp!
+[00:49:41]SAY: Tal Nejem/Shamiel : Good choice.
+[00:49:45]SAY: grey baby slime (506)/ : Blop...
+[00:50:06]SAY: Igam Yute/Moom241 : I love the brass.
+[00:50:13]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> nods.
+[00:50:15]SAY: Tal Nejem/Shamiel : As do I.
+[00:50:53]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> sighs, and sips his martini.
+[00:51:26]SAY: Igam Yute/Moom241 : Listen Tal, I wanted to talk to you. About us.
+[00:51:26]EMOTE: Parrot/ : <B>The Parrot</B> squawks.
+[00:52:02]SAY: Tal Nejem/Shamiel : Oh?
+[00:52:18]SAY: kitten/ : Meow!
+[00:52:21]SAY: Igam Yute/Moom241 : Yeah, I just...
+[00:52:45]SAY: Igam Yute/Moom241 : I wanna get some things sorted out. Or something like that.
+[00:52:46]SAY: kitten/ : Esp!
+[00:52:50]EMOTE: Ian/ : <B>Ian</B> dances around
+[00:52:57]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> nods.
+[00:52:58]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[00:52:59]SAY: Tal Nejem/Shamiel : Like?
+[00:53:06]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[00:53:06]SAY: Igam Yute/Moom241 : I want it to be just us.
+[00:53:22]SAY: Tal Nejem/Shamiel : Alright, i&#39;m fine with that.
+[00:53:31]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> nods.
+[00:53:32]EMOTE: crab/ : <B>The crab</B> clacks.
+[00:53:58]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[00:54:14]SAY: Tal Nejem/Shamiel : Does that mean no inviting people in occasionaly? Like what we did with Cammie and Nas.
+[00:54:14]SAY: Igam Yute/Moom241 : So, just the two of us then? You&#39;re okay with being exclusive?
+[00:54:16]SAY: kitten/ : Meow!
+[00:54:20]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[00:54:53]SAY: kitten/ : Purr!
+[00:55:07]EMOTE: Ian/ : <B>Ian</B> dances around
+[00:55:13]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[00:55:17]SAY: Igam Yute/Moom241 : I think that would be best for now. Stop me if you&#39;re not okay with any of this.
+[00:55:19]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[00:55:26]SAY: Tal Nejem/Shamiel : Ot&#39;s fine, I don&#39;t mind.
+[00:55:29]EMOTE: Ian/ : <B>Ian</B> dances around
+[00:55:29]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[00:55:31]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> coughs.
+[00:55:37]SAY: Tal Nejem/Shamiel : It, rather.
+[00:55:49]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[00:56:11]SAY: Igam Yute/Moom241 : Tal, you alright? You&#39;ve been coughing lately.
+[00:56:25]EMOTE: Ian/ : <B>Ian</B> woofs.
+[00:56:29]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[00:56:44]SAY: Tal Nejem/Shamiel : Yeah, I think the stir-fry might just be messin&#39; with me.
+[00:56:56]SAY: Tal Nejem/Shamiel : Oh, also, I redecorated the bedroom, would you like too see?
+[00:56:56]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[00:57:10]EMOTE: Ian/ : <B>Ian</B> dances around
+[00:57:13]SAY: Igam Yute/Moom241 : Sure.
+[00:57:20]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> shakes its head.
+[00:57:32]SAY: Tal Nejem/Shamiel : Well, I got a new bed, had to get rid of the old creaky one.
+[00:57:40]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> chuckles.
+[00:57:45]SAY: Igam Yute/Moom241 : Very nice.
+[00:57:50]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[00:57:50]SAY: Tal Nejem/Shamiel : Precisely.
+[00:58:14]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[00:58:17]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[00:58:23]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[00:58:33]SAY: Igam Yute/Moom241 : Wh-
+[00:58:56]SAY: Igam Yute/Moom241 : Well, it&#39;s seems to be better than the old one.
+[00:58:56]SAY: Tal Nejem/Shamiel : Hm?
+[00:59:02]SAY: Tal Nejem/Shamiel : Oh, right!
+[00:59:05]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[01:00:19]SAY: Igam Yute/Moom241 : So, uh, you wanna go finish our drinks?
+[01:00:31]SAY: Tal Nejem/Shamiel : Sure, but something else first, I need to tell you something.
+[01:00:40]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[01:00:44]SAY: Igam Yute/Moom241 : Yeah, what&#39;s up?
+[01:01:09]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> shoves Igam up against the closet, kissing him deeply.
+[01:01:18]SAY: Igam Yute/Moom241 : Do you-mmmph!
+[01:01:29]EMOTE: kitten/ : <B>The kitten</B> meows.
+[01:01:41]DEBUG: Next event of severity Mundane in 12.96 minutes.
+[01:01:41]DEBUG: Starting event 'Mundane News' of severity Mundane.
+[01:02:00]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> pushes in closer, putting her bosom on his chest.
+[01:02:03]DEBUG: Event 'Mundane News' has completed at 12:32.
+[01:02:15]EMOTE: Ian/ : <B>Ian</B> dances around
+[01:02:33]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> tries to pull back, but is stuck against the closet.
+[01:02:56]SAY: grey baby slime (506)/ : Rawr...
+[01:03:19]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> pulls away a bit, to let Igam speak.
+[01:03:38]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> gasps.
+[01:03:40]SAY: Igam Yute/Moom241 : I...
+[01:03:46]SAY: Igam Yute/Moom241 : Tal...
+[01:04:10]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[01:04:38]SAY: kitten/ : Esp!
+[01:05:02]SAY: Igam Yute/Moom241 : L-listen, Tal, we agreed we&#39;d take it slow...
+[01:05:24]SAY: Tal Nejem/Shamiel : I know Igam, but after tonight.. I remember all the fun we had, and it just got me a little... excited.
+[01:05:39]EMOTE: crab/ : <B>The crab</B> clicks.
+[01:05:41]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> sighs.
+[01:05:49]SAY: Runtime/ : Meow!
+[01:06:09]SAY: Igam Yute/Moom241 : Yeah. And I will admit, I kinda like it when you get assertive. But I don&#39;t wanna rush into things again.
+[01:06:17]SAY: Runtime/ : HSSSSS
+[01:06:17]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[01:06:32]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> sighs.
+[01:06:47]SAY: Tal Nejem/Shamiel : I know Igam, I just, I dunno... feel in the mood tonight, I guess.
+[01:07:38]SAY: grey baby slime (506)/ : Rawr...
+[01:07:40]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[01:07:48]SAY: Igam Yute/Moom241 : Okay. I...
+[01:08:02]SAY: Igam Yute/Moom241 : Let&#39;s finish our drinks, and relax a bit, and see where it goes, okay?
+[01:08:22]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> nods.
+[01:08:26]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[01:08:56]SAY: kitten/ : Purr!
+[01:09:00]SAY: Igam Yute/Moom241 : Hey, you remember that scene at the bar with the scientist and the plant laser, right?
+[01:09:07]SAY: Tal Nejem/Shamiel : Mhmm.
+[01:09:14]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[01:09:20]SAY: Tal Nejem/Shamiel : Odd, to say the least.
+[01:09:29]SAY: Igam Yute/Moom241 : Man, if I ever see that guy again...
+[01:09:40]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> chuckles.
+[01:10:02]SAY: grey baby slime (506)/ : Blorble...
+[01:10:05]SAY: Igam Yute/Moom241 : To be honest, if I ever saw that guy again, I&#39;d probably wait until I had something heavy and metal in my hands, and he didn&#39;t.
+[01:10:25]SAY: Tal Nejem/Shamiel : Well, my arm is made of metal.
+[01:10:30]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[01:10:34]EMOTE: Runtime/ : <B>Runtime</B> meows.
+[01:10:34]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[01:10:42]SAY: Tal Nejem/Shamiel : And his jaw is made out of fragile materials compared to it, so.
+[01:10:43]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[01:10:47]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[01:11:03]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[01:11:07]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> chuckles.
+[01:11:32]SAY: Igam Yute/Moom241 : I think I&#39;d wanna see that.
+[01:11:35]EMOTE: Ian/ : <B>Ian</B> dances around
+[01:11:47]EMOTE: kitten/ : <B>The kitten</B> meows.
+[01:11:54]SAY: Tal Nejem/Shamiel : Yeah, well, there&#39;s a lot of things I can do with that hand.
+[01:12:13]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[01:12:28]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> smirks. &#34;Tal Nejem you tease.&#34;
+[01:12:37]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> smiles.
+[01:12:39]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[01:12:49]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[01:12:52]SAY: Tal Nejem/Shamiel : Well, there goes my drink.
+[01:13:05]SAY: grey baby slime (792)/ : Rawr...
+[01:13:08]SAY: Igam Yute/Moom241 : And mine...
+[01:13:12]SAY: Igam Yute/Moom241 : How are you feeling?
+[01:13:19]SAY: Tal Nejem/Shamiel : Pretty well, i&#39;d say.
+[01:13:49]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> shakes its head.
+[01:13:59]SAY: grey baby slime (792)/ : Rawr...
+[01:14:25]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[01:14:35]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> glares over in to the bedroom.
+[01:14:52]EMOTE: Parrot/ : <B>The Parrot</B> flutters its wings.
+[01:15:09]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> starts to get up out of his chair.
+[01:15:20]DEBUG: Next event of severity Mundane in 16.842 minutes.
+[01:15:20]DEBUG: Starting event 'Trivial News' of severity Mundane.
+[01:15:36]SAY: Tal Nejem/Shamiel : So, what now?
+[01:15:42]DEBUG: Event 'Trivial News' has completed at 12:45.
+[01:15:46]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[01:16:10]SAY: Igam Yute/Moom241 : Now I use the bathroom because those drinks they served at the stir fry place blew right through me.
+[01:16:34]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[01:16:48]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> releases the tension.
+[01:16:56]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[01:17:37]EMOTE: Ian/ : <B>Ian</B> dances around
+[01:18:13]SAY: Tal Nejem/Shamiel : Oh, uh, sorry, I didn&#39;t think you&#39;d be out that quick.
+[01:18:22]SAY: Tal Nejem/Shamiel : That suit made me kind of hot.
+[01:18:33]SAY: Igam Yute/Moom241 : That&#39;s why you&#39;re in the buff?
+[01:18:47]SAY: Runtime/ : Meow!
+[01:18:49]SAY: Tal Nejem/Shamiel : Uh, yeah, that&#39;s the reason.... heh.
+[01:19:00]EMOTE: crab/ : <B>The crab</B> clicks.
+[01:19:06]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[01:19:23]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> sighs.
+[01:19:30]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[01:20:13]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> rubs her arm.
+[01:20:24]SAY: grey baby slime (506)/ : Where is the food?
+[01:20:50]WHISPER: Igam Yute/Moom241 : I think we can both guess why you&#39;re in the buff...
+[01:21:01]DEBUG: Next event of severity Moderate in 45.226 minutes.
+[01:21:01]DEBUG: Starting event 'Communication Blackout' of severity Moderate.
+[01:21:03]DEBUG: Event 'Communication Blackout' has completed at 12:50.
+[01:21:12]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> smirks a bit, looking down at the floor.
+[01:21:27]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[01:21:57]EMOTE: Ian/ : <B>Ian</B> dances around
+[01:22:03]SAY: Runtime/ : Purr!
+[01:22:17]WHISPER: Igam Yute/Moom241 : So, where&#39;s that excitement from earlier?
+[01:22:20]SAY: grey baby slime (506)/ : Blorble...
+[01:22:40]EMOTE: Ian/ : <B>Ian</B> dances around
+[01:22:42]SAY: grey baby slime (792)/ : Rawr...
+[01:22:47]WHISPER: Tal Nejem/Shamiel : Let&#39;s take it to the room first, unless you wanna get naughty on the table ver there...
+[01:23:12]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[01:23:37]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> shoves Igam up against the closet, grinning at him before pressing herself on him and kissing him deeply.
+[01:23:43]EMOTE: Parrot/ : <B>The Parrot</B> squawks.
+[01:24:01]EMOTE: crab/ : <B>The crab</B> clicks.
+[01:24:34]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[01:24:36]SAY: grey baby slime (506)/ : I want to eat...
+[01:25:01]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> kisses back, leaning up against the closet, wrapping his hands around her back.
+[01:25:15]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[01:25:28]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> guides her hand to Igams groind, teasing him a bit.
+[01:25:35]EMOTE: Ian/ : <B>Ian</B> dances around
+[01:26:20]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[01:26:22]EMOTE: Ian/ : <B>Ian</B> shakes its head.
+[01:26:29]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> continues kissing, moving his hands down to her hips.
+[01:27:35]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> gets in closer, pressing her bosom to his chest, rubbing her warmth on his groin a bit.
+[01:28:28]SAY: grey baby slime (792)/ : Where is the food?
+[01:28:38]SAY: Runtime/ : Esp!
+[01:29:02]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[01:29:09]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> runs his hands over her rear, still pushed up against the closet.
+[01:29:17]EMOTE: Ian/ : <B>Ian</B> pants.
+[01:29:21]EMOTE: Parrot/ : <B>The Parrot</B> bawks.
+[01:29:23]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[01:29:23]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[01:29:37]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[01:30:06]SAY: Experiment 97d/ : Eh?
+[01:30:14]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> stops kissing for a moment, pulling back to speak.
+[01:30:28]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[01:30:42]WHISPER: Tal Nejem/Shamiel : I want you to fuck me... I know this isn&#39;t like me to say something like that, but I want you so bad right now!
+[01:30:45]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[01:30:55]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[01:31:03]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[01:32:10]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[01:32:16]EMOTE: kitten/ : <B>The kitten</B> mews.
+[01:32:51]DEBUG: Next event of severity Mundane in 16.9 minutes.
+[01:32:51]DEBUG: Starting event 'Trivial News' of severity Mundane.
+[01:33:07]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[01:33:13]DEBUG: Event 'Trivial News' has completed at 13:02.
+[01:33:19]EMOTE: Ian/ : <B>Ian</B> dances around
+[01:33:23]SAY: grey baby slime (506)/ : Blop...
+[01:33:40]SAY: kitten/ : Purr!
+[01:34:28]EMOTE: Runtime/ : <B>Runtime</B> mews.
+[01:34:33]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[01:34:34]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> pants.
+[01:34:45]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[01:34:49]WHISPER: Igam Yute/Moom241 : T-Tal, I&#39;m not sure if I...
+[01:34:55]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[01:35:03]WHISPER: Tal Nejem/Shamiel : Igam, please... I.. I need you!
+[01:35:05]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[01:35:26]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[01:35:44]WHISPER: Tal Nejem/Shamiel : I don&#39;t know what&#39;s going on right now, but I need to feel us connected, I need to feel you inside of me!
+[01:36:07]EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[01:36:07]EMOTE: crab/ : <B>The crab</B> clicks.
+[01:36:29]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[01:36:43]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[01:36:59]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[01:37:16]SAY: grey baby slime (506)/ : Lonely...
+[01:37:42]WHISPER: Igam Yute/Moom241 : Tal, I know, and I want this too, but...
+[01:38:05]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[01:38:16]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> places a finger over Igams lips.
+[01:38:29]WHISPER: Tal Nejem/Shamiel : Shush, just let this happen.
+[01:38:46]EMOTE: Ian/ : <B>Ian</B> pants.
+[01:39:30]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> begins to get on her knees to Igams groin level.
+[01:39:37]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[01:39:57]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[01:40:40]SAY: Experiment 97d/ : EHEHEHEHEH
+[01:40:40]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> &#39;s eyes widen, and he clamps his mouth shut.
+[01:40:58]EMOTE: Ian/ : <B>Ian</B> dances around
+[01:41:24]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> grabs Igams pants, pulling them down, her eyes widening as Igams shaft comes in to view.
+[01:41:31]EMOTE: Parrot/ : <B>The Parrot</B> flutters its wings.
+[01:41:39]EMOTE: cat/ : <B>The cat</B> mews.
+[01:41:41]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[01:41:55]WHISPER: Tal Nejem/Shamiel : I forgot how... big... it was.
+[01:41:59]EMOTE: Ian/ : <B>Ian</B> dances around
+[01:42:16]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[01:42:51]EMOTE: Runtime/ : <B>Runtime</B> shakes their head.
+[01:42:57]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[01:43:03]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> leans his head back and grins.
+[01:43:05]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[01:43:19]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[01:43:25]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[01:43:46]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> grabs it firmly, rubbing it a bit as she moves her mouth in closer to the head.
+[01:44:36]EMOTE: crab/ : <B>The crab</B> clacks.
+[01:45:11]SAY: kitten/ : HSSSSS
+[01:45:13]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[01:45:14]WHISPER: Tal Nejem/Shamiel : You don&#39;t mind me doin&#39; this, do you? It&#39;s my repayment for dinner tonight.
+[01:45:31]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[01:45:37]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[01:45:55]WHISPER: Igam Yute/Moom241 : Ah...Tal...We shouldn&#39;t, but I...
+[01:46:02]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[01:46:12]EMOTE: Ian/ : <B>Ian</B> woofs.
+[01:46:18]WHISPER: Tal Nejem/Shamiel : All i&#39;m hearin&#39; is yes.
+[01:46:30]EMOTE: crab/ : <B>The crab</B> clacks.
+[01:46:52]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> places her mouth on the head, before slowly moving down the saft.
+[01:47:05]SAY: Parrot/ : Cracker?
+[01:47:11]SAY: grey baby slime (506)/ : Rawr...
+[01:47:17]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[01:47:21]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> groans.
+[01:47:35]SAY: Parrot/ : Cracker?
+[01:48:06]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> looks up at Igam, giving him a half grin, before attempting to reach the base.
+[01:48:20]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[01:48:28]SAY: cat/ : Purr!
+[01:48:40]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[01:49:17]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[01:49:23]EMOTE: Ian/ : <B>Ian</B> shakes its head.
+[01:49:25]EMOTE: crab/ : <B>The crab</B> clicks.
+[01:49:42]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[01:49:45]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> moans, and thrusts his hips forward slightly.
+[01:50:23]DEBUG: Next event of severity Mundane in 17.372 minutes.
+[01:50:23]DEBUG: Starting event 'Trivial News' of severity Mundane.
+[01:50:24]SAY: grey baby slime (506)/ : Blop...
+[01:50:27]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[01:50:45]DEBUG: Event 'Trivial News' has completed at 13:19.
+[01:50:45]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> begins to move her head up and down the shaft, beginning to pick up speed.
+[01:51:09]EMOTE: crab/ : <B>The crab</B> clacks.
+[01:51:23]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> gasps slightly, letting her do most of the work.
+[01:51:51]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[01:51:58]SAY: cat/ : HSSSSS
+[01:52:20]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[01:52:30]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[01:52:42]EMOTE: kitten/ : <B>The kitten</B> mews.
+[01:52:49]SAY: grey baby slime (506)/ : Rawr...
+[01:52:54]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> moves her head up slightly, rubbing the remaining bit of his shaft vigorously with her hand.
+[01:53:05]EMOTE: crab/ : <B>The crab</B> clacks.
+[01:53:27]SAY: kitten/ : HSSSSS
+[01:54:22]EMOTE: crab/ : <B>The crab</B> clicks.
+[01:54:54]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[01:55:06]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[01:55:25]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[01:55:33]WHISPER: Igam Yute/Moom241 : Oh...Tal...
+[01:55:37]SAY: grey baby slime (792)/ : Where is the food?
+[01:55:37]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> removes her mouth off of his shaft to speak, still rubbing the rest of his shaft.
+[01:55:41]EMOTE: Runtime/ : <B>Runtime</B> mews.
+[01:55:55]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[01:55:55]WHISPER: Tal Nejem/Shamiel : Shoot a bit on my face... I wanna get freaky tonight...
+[01:56:04]SAY: kitten/ : Esp!
+[01:56:32]SAY: grey baby slime (792)/ : Blorble...
+[01:56:41]WHISPER: Igam Yute/Moom241 : I can t-try...
+[01:56:52]SAY: Experiment 97d/ : EHEHEHEHEH
+[01:56:53]WHISPER: Tal Nejem/Shamiel : I&#39;ll help you out...
+[01:56:54]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[01:57:00]SAY: Experiment 97d/ : Eh?
+[01:57:11]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> puts both of her hands on his shaft, rubbing vigorously.
+[01:57:27]EMOTE: Runtime/ : <B>Runtime</B> shakes their head.
+[01:57:37]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[01:58:01]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[01:58:01]EMOTE: crab/ : <B>The crab</B> clacks.
+[01:58:13]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[01:58:33]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> groans.
+[01:58:57]WHISPER: Igam Yute/Moom241 : Heh, y-your hand is cold.
+[01:59:08]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> smiles.
+[01:59:19]WHISPER: Tal Nejem/Shamiel : Hopefully that&#39;ll help.
+[01:59:36]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[01:59:42]EMOTE: Ian/ : <B>Ian</B> woofs.
+[01:59:46]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[01:59:58]EMOTE: Ian/ : <B>Ian</B> shakes its head.
+[02:00:07]WHISPER: Igam Yute/Moom241 : It&#39;s unique...
+[02:00:27]EMOTE: crab/ : <B>The crab</B> clicks.
+[02:00:29]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[02:00:46]WHISPER: Tal Nejem/Shamiel : Good t&#39; know... Mayble i&#39;ll have to use it more often...
+[02:01:15]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> begins to go even faster, looking up at Igam smiling.
+[02:01:20]WHISPER: Igam Yute/Moom241 : I&#39;m getting close...
+[02:01:25]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> starts to pant.
+[02:01:50]SAY: grey baby slime (792)/ : Blop...
+[02:01:54]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[02:02:07]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[02:02:11]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[02:02:15]WHISPER: Tal Nejem/Shamiel : looks back down at Igams member, grinning sadistically.
+[02:02:20]OOC: (LOCAL) Tal Nejem/Shamiel : fAK
+[02:02:37]SAY: cat/ : HSSSSS
+[02:02:45]OOC: (LOCAL) Igam Yute/Moom241 : hueh, when i saw your LOOC, i thought it was someone else on the server, and i planicked for a sec
+[02:02:48]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> Looks back down at Igams member, grinning sadistically.
+[02:03:24]WHISPER: Tal Nejem/Shamiel : C&#39;mon, I want you to let it out on my face, I wanna try some new things with you...
+[02:03:29]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[02:03:40]EMOTE: Parrot/ : <B>The Parrot</B> squawks.
+[02:03:52]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> &#39;s breath speeds up as he nears the edge.
+[02:03:52]SAY: kitten/ : Esp!
+[02:03:58]DEBUG: Next event of severity Major in 60.132 minutes.
+[02:03:58]DEBUG: Starting event 'Nothing' of severity Major.
+[02:04:00]DEBUG: Event 'Nothing' has completed at 13:32.
+[02:04:31]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> smiles, picking up the speed even more.
+[02:04:57]EMOTE: Parrot/ : <B>The Parrot</B> bawks.
+[02:05:13]EMOTE: Ian/ : <B>Ian</B> dances around
+[02:05:16]WHISPER: Igam Yute/Moom241 : Here it comes...
+[02:05:52]SAY: kitten/ : Meow!
+[02:05:59]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> grunts, and thrusts foward, his seed shooting out onto Tal.
+[02:06:06]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[02:06:16]SAY: Runtime/ : Esp!
+[02:06:28]SAY: Runtime/ : Meow!
+[02:06:35]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> closes her eyes as his seed covers her face, licking up some near her mouth.
+[02:06:52]SAY: Runtime/ : Esp!
+[02:06:59]WHISPER: Tal Nejem/Shamiel : It&#39;s so warm and thick... I love it Igam, i&#39;ve never done this before... But I like it so much!
+[02:07:06]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[02:07:08]SAY: Experiment 97d/ : EHEHEHEHEH
+[02:07:43]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> is panting heavily.
+[02:07:55]SAY: grey baby slime (506)/ : Blorble...
+[02:07:57]WHISPER: Tal Nejem/Shamiel : We&#39;re not done yet, I want you to fuck me by the window!
+[02:07:59]DEBUG: Next event of severity Moderate in 43.494 minutes.
+[02:07:59]DEBUG: Starting event 'Nothing' of severity Moderate.
+[02:08:00]DEBUG: Event 'Nothing' has completed at 13:36.
+[02:08:25]EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[02:08:27]DEBUG: Next event of severity Mundane in 14.344 minutes.
+[02:08:27]DEBUG: Starting event 'Mundane News' of severity Mundane.
+[02:08:37]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[02:08:48]DEBUG: Event 'Mundane News' has completed at 13:36.
+[02:08:55]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> takes several deep breaths.
+[02:09:00]WHISPER: Tal Nejem/Shamiel : Do you think you can handle that baby?
+[02:09:35]WHISPER: Igam Yute/Moom241 : I can handle whatever you can dish out...
+[02:09:44]EMOTE: crab/ : <B>The crab</B> clicks.
+[02:09:54]SAY: grey baby slime (506)/ : I want to eat...
+[02:10:10]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> smiles.
+[02:10:19]SAY: Igam Yute/Moom241 : Lemme just get outta this suit.
+[02:10:34]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[02:10:42]WHISPER: Igam Yute/Moom241 : You think you&#39;re up for some games later?
+[02:10:48]WHISPER: Tal Nejem/Shamiel : JUst pick up my legs... and plow me like i&#39;m nothing!
+[02:11:03]WHISPER: Tal Nejem/Shamiel : And i&#39;m up for anything, baby.
+[02:11:21]EMOTE: Parrot/ : <B>The Parrot</B> squawks.
+[02:11:23]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[02:11:43]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[02:11:53]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[02:12:06]SAY: kitten/ : HSSSSS
+[02:12:14]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[02:12:24]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> grabs her thighs, and places his re-hardening member over her groin.
+[02:12:28]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[02:12:40]SAY: Parrot/ : Hi
+[02:12:40]EMOTE: kitten/ : <B>The kitten</B> mews.
+[02:12:44]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[02:12:47]WHISPER: Tal Nejem/Shamiel : I-It&#39;s so big...
+[02:13:06]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> grins at Igams massive member, feeling it throb.
+[02:13:10]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[02:13:40]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[02:13:55]EMOTE: crab/ : <B>The crab</B> clicks.
+[02:14:24]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> lifts her up, leaning her up against the window.
+[02:14:29]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[02:14:37]EMOTE: Runtime/ : <B>Runtime</B> meows.
+[02:14:56]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> smiles, looking in to Igams eyes.
+[02:15:30]SAY: kitten/ : HSSSSS
+[02:15:40]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> pushes into her with a grin, lowering her down onto his shaft.
+[02:15:46]SAY: Parrot/ : Hi
+[02:16:08]EMOTE: kitten/ : <B>The kitten</B> mews.
+[02:16:15]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> begins to blush, her eyes rolling back in to her head a bit.
+[02:16:26]EMOTE: Parrot/ : <B>The Parrot</B> flutters its wings.
+[02:16:44]EMOTE: crab/ : <B>The crab</B> clacks.
+[02:16:46]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> begins to thrust, lifting her with his arms and pushing in and out with his hips.
+[02:16:48]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[02:16:50]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[02:16:54]SAY: grey baby slime (792)/ : Very... hungry...
+[02:17:02]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[02:17:02]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[02:17:45]SAY: kitten/ : HSSSSS
+[02:17:51]EMOTE: Parrot/ : <B>The Parrot</B> squawks.
+[02:17:53]WHISPER: Tal Nejem/Shamiel : F-Fuck! It&#39;s s-so massive!
+[02:18:35]SAY: Parrot/ : Hello!
+[02:19:10]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> grins, and quickly picks up speed, grunting slightly with effort.
+[02:19:12]SAY: Parrot/ : Hello!
+[02:19:34]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[02:19:45]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> moans in pleasure, curling her toes.
+[02:20:28]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[02:21:09]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> stops suddenly.
+[02:21:17]WHISPER: Igam Yute/Moom241 : You ready?
+[02:21:21]SAY: Parrot/ : Hi
+[02:21:23]WHISPER: Tal Nejem/Shamiel : F-FOr what?
+[02:21:35]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[02:21:45]WHISPER: Igam Yute/Moom241 : For me to plow you like you&#39;re nothing.
+[02:21:49]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> grins wickedly.
+[02:22:05]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> eyes light up, before nodding quickly.
+[02:22:48]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> begins to thrust once again, starting off very quickly, his thrusts wild and deep.
+[02:22:59]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[02:23:05]SAY: kitten/ : Purr!
+[02:23:18]DEBUG: Next event of severity Mundane in 15.434 minutes.
+[02:23:18]DEBUG: Starting event 'Nothing' of severity Mundane.
+[02:23:20]DEBUG: Event 'Nothing' has completed at 13:50.
+[02:23:37]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> begins to moan quite loudly, blushing profusely.
+[02:24:02]EMOTE: kitten/ : <B>The kitten</B> meows.
+[02:24:15]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> leans in close to her, pushing her further up against the window, his breath starting to pant as he continues.
+[02:24:36]EMOTE: Ian/ : <B>Ian</B> barks.
+[02:24:40]WHISPER: Tal Nejem/Shamiel : F-Fuck me harder baby!
+[02:24:52]EMOTE: kitten/ : <B>The kitten</B> mews.
+[02:25:00]SAY: kitten/ : Purr!
+[02:25:05]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[02:25:18]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> pushes harder, his thrusts even fast, pushing almost all the way into her.
+[02:25:31]SAY: kitten/ : Meow!
+[02:26:13]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[02:26:33]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> moans, her warmth beginning to twitch slightly, letting a slight trickle of her liquids.
+[02:26:55]EMOTE: Ian/ : <B>Ian</B> dances around
+[02:26:58]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[02:27:20]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[02:27:37]WHISPER: Igam Yute/Moom241 : Do you like that?
+[02:27:45]WHISPER: Igam Yute/Moom241 : I bet you do.
+[02:27:57]WHISPER: Tal Nejem/Shamiel : I don&#39;t like it.
+[02:28:00]WHISPER: Tal Nejem/Shamiel : I love it!
+[02:28:24]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[02:28:26]WHISPER: Tal Nejem/Shamiel : T-This is the b-best fucking i&#39;ve ever had!
+[02:28:27]WHISPER: Igam Yute/Moom241 : Take it all.
+[02:29:04]EMOTE: Ian/ : <B>Ian</B> shivers.
+[02:29:12]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> grunts, and continues thrusting, leaning forward to lick her neck.
+[02:29:35]SAY: cat/ : Purr!
+[02:29:59]SAY: cat/ : Esp!
+[02:30:06]WHISPER: Tal Nejem/Shamiel : F-Fuck... It f-feels so good!
+[02:30:26]WHISPER: Igam Yute/Moom241 : I know. I&#39;m almost there...
+[02:30:50]WHISPER: Tal Nejem/Shamiel : S-So am I baby!
+[02:31:00]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> &#39;s thrusts pick up even more speed, his breath ragged, his eye wide.
+[02:31:13]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[02:31:21]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[02:31:53]WHISPER: Tal Nejem/Shamiel : O-Oh my g-god... i&#39;m c-cumming....
+[02:32:16]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[02:32:18]SAY: kitten/ : HSSSSS
+[02:32:22]EMOTE: cat/ : <B>The cat</B> meows.
+[02:32:24]WHISPER: Igam Yute/Moom241 : Almost there...Almost there...
+[02:32:26]WHISPER: Tal Nejem/Shamiel : I think? Orgasm-ing? Heh, I don&#39;t care!
+[02:32:26]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[02:32:54]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> begins to twitch, her warmth leaking profusely.
+[02:33:30]SAY: Ian/ : Woof!
+[02:33:40]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[02:33:50]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> grunts as he starts making deeper thrusts, pulling further out of her before forcing his full length back in.
+[02:34:00]EMOTE: Parrot/ : <B>The Parrot</B> bawks.
+[02:34:02]EMOTE: kitten/ : <B>The kitten</B> meows.
+[02:34:10]EMOTE: crab/ : <B>The crab</B> clicks.
+[02:34:43]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[02:34:45]SAY: Tal Nejem/Shamiel : F-Fuck!
+[02:35:11]EMOTE: kitten/ : <B>The kitten</B> mews.
+[02:35:28]WHISPER: Igam Yute/Moom241 : I&#39;m gonna...
+[02:35:35]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[02:35:49]WHISPER: Tal Nejem/Shamiel : L-Let it all out in me... I wanna f-feel it!
+[02:36:33]SAY: grey baby slime (792)/ : Blorble...
+[02:36:41]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> gasps as his thrusts slow down. With one final thrust he grunts, and clutches her legs.
+[02:36:41]EMOTE: Ian/ : <B>Ian</B> dances around
+[02:36:41]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[02:37:09]SAY: grey baby slime (792)/ : Need... food...
+[02:37:21]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> blushes profusely, moaning loudly.
+[02:37:27]EMOTE: Parrot/ : <B>The Parrot</B> bawks.
+[02:37:36]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> sighs, and slowly pulls out, lowering her feet to the floor.
+[02:38:04]SAY: Parrot/ : Hello!
+[02:38:34]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[02:38:42]SAY: Parrot/ : Hi
+[02:38:46]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[02:38:54]SAY: grey baby slime (792)/ : Blop...
+[02:38:57]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> twitches a bit, leaning up against the window.
+[02:39:03]SAY: Igam Yute/Moom241 : I will admit...that...that was fun.
+[02:39:18]DEBUG: Next event of severity Mundane in 14.952 minutes.
+[02:39:18]DEBUG: Starting event 'PDA Spam' of severity Mundane.
+[02:39:35]SAY: Tal Nejem/Shamiel : W-Well... there&#39;s one last thing I w-wanna try... If you&#39;re up for it...
+[02:39:43]SAY: Igam Yute/Moom241 : And that is?
+[02:40:06]SAY: grey baby slime (506)/ : Blop...
+[02:40:18]SAY: Tal Nejem/Shamiel : Well uh... my... ass...
+[02:40:58]SAY: Experiment 97d/ : Eh?
+[02:41:14]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[02:41:21]SAY: Igam Yute/Moom241 : Maybe we should save that for another night...
+[02:41:35]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[02:41:37]SAY: Tal Nejem/Shamiel : No, I think I need to try this now...
+[02:41:41]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> smirks.
+[02:41:46]SAY: Tal Nejem/Shamiel : Please?
+[02:41:53]EMOTE: Runtime/ : <B>Runtime</B> mews.
+[02:42:14]SAY: Igam Yute/Moom241 : Fine, but only if we can play my game.
+[02:42:21]SAY: grey baby slime (792)/ : Rawr...
+[02:42:22]SAY: Tal Nejem/Shamiel : Yay!
+[02:42:33]EMOTE: Ian/ : <B>Ian</B> yaps.
+[02:42:39]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> turns around, spreading her rear slightly, pressing her bosom against the glass.
+[02:42:55]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[02:43:02]SAY: Igam Yute/Moom241 : What? No game?
+[02:43:05]SAY: Tal Nejem/Shamiel : Oh!
+[02:43:05]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[02:43:15]SAY: Tal Nejem/Shamiel : You wanna incorporate it in to the game?
+[02:43:19]SAY: Ian/ : Woof!
+[02:43:22]SAY: Tal Nejem/Shamiel : That&#39;s fine with me!
+[02:43:23]SAY: Runtime/ : Purr!
+[02:43:39]SAY: Runtime/ : Esp!
+[02:43:47]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[02:43:59]SAY: Parrot/ : Hello!
+[02:44:07]SAY: Igam Yute/Moom241 : I got to fuck you like an animal, I think it&#39;s only fair you do what you want with me.
+[02:44:20]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> smirks.
+[02:44:23]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[02:44:30]SAY: Igam Yute/Moom241 : So, you feel like being the bad guy?
+[02:44:32]SAY: Tal Nejem/Shamiel : So now I get to fuck you like an animal?
+[02:44:33]SAY: Experiment 97d/ : EHEHEHEHEH
+[02:44:55]SAY: grey baby slime (792)/ : Very... hungry...
+[02:45:00]SAY: Igam Yute/Moom241 : Like a beast.
+[02:45:07]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[02:45:10]SAY: Tal Nejem/Shamiel : So what&#39;s the game?
+[02:45:25]SAY: grey baby slime (792)/ : Blop...
+[02:45:29]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[02:45:39]SAY: grey baby slime (506)/ : Very... hungry...
+[02:45:46]SAY: Igam Yute/Moom241 : Hrmm. We could play spies and security, or pirates, or maybe...
+[02:46:22]SAY: grey baby slime (792)/ : Must... eat...
+[02:46:25]SAY: Igam Yute/Moom241 : Or you could fuck me like an animal.
+[02:46:37]SAY: Tal Nejem/Shamiel : I like fucking you like an animal!
+[02:46:50]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[02:46:56]SAY: Experiment 97d/ : Eh?
+[02:46:58]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[02:47:00]SAY: grey baby slime (792)/ : Lonely...
+[02:47:01]SAY: Tal Nejem/Shamiel : So, the bedroom?
+[02:47:25]SAY: Igam Yute/Moom241 : Up to you. Wanna use the cuffs, or can your bestial strength hold me down just fine?
+[02:47:36]SAY: Tal Nejem/Shamiel : I think I can hold ya&#39; down...
+[02:47:39]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> smirks.
+[02:47:44]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[02:48:02]EMOTE: kitten/ : <B>The kitten</B> mews.
+[02:48:20]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> smirks.
+[02:48:26]SAY: grey baby slime (506)/ : Lonely...
+[02:48:30]SAY: grey baby slime (792)/ : Very... hungry...
+[02:48:34]SAY: Igam Yute/Moom241 : What&#39;s this? Some beast has broken into my home!
+[02:48:42]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[02:48:48]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> positions herself slightly above Igam, placing her breasts right above his mouth.
+[02:48:50]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[02:49:12]SAY: Tal Nejem/Shamiel : Rawr! I&#39;m your worst nightmare!
+[02:49:16]EMOTE: crab/ : <B>The crab</B> clacks.
+[02:49:42]SAY: grey baby slime (792)/ : Need... food...
+[02:49:44]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[02:49:58]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> places Igams tip at the entrance of her rear.
+[02:50:04]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[02:50:13]SAY: Igam Yute/Moom241 : What a ravenous beast you are!
+[02:50:22]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> shakes its head.
+[02:50:28]SAY: grey baby slime (506)/ : Rawr...
+[02:50:30]SAY: Tal Nejem/Shamiel : Roar!
+[02:50:36]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[02:50:49]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> begins to push Igam in, placing one of her breasts in Igams mouth.
+[02:51:04]SAY: grey baby slime (506)/ : Rawr...
+[02:51:10]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[02:51:13]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> gasps slightly, before his mouth is filled.
+[02:51:20]SAY: grey baby slime (506)/ : Very... hungry...
+[02:51:30]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[02:51:32]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[02:51:40]SAY: kitten/ : Meow!
+[02:51:45]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> begins to pounce vigorously on Igams member, making the bed shake.
+[02:52:04]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> groans around her breast.
+[02:52:05]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[02:52:29]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[02:52:36]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> starts to play with her nipple with his tongue, teasing and sucking.
+[02:52:36]SAY: Tal Nejem/Shamiel : Y&#39; like that? Your weapon is no match for me! You&#39;re nothing but my mating tool now!
+[02:52:51]EMOTE: Runtime/ : <B>Runtime</B> meows.
+[02:53:00]DEBUG: Next event of severity Moderate in 49.708 minutes.
+[02:53:00]DEBUG: Starting event 'Grid Check' of severity Moderate.
+[02:53:11]SAY: Parrot/ : Hello!
+[02:53:29]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[02:53:48]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[02:53:56]SAY: grey baby slime (792)/ : Rawr...
+[02:53:59]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> begins to bounce so hard, her rear slapping up against Igams thighs.
+[02:54:02]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[02:54:04]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> pulls his head back from her breast to speak, gasping.
+[02:54:06]EMOTE: Ian/ : <B>Ian</B> dances around
+[02:54:30]EMOTE: Runtime/ : <B>Runtime</B> meows.
+[02:54:42]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[02:54:43]WHISPER: Igam Yute/Moom241 : H-how can I hope to fight off a beast such as you?
+[02:54:47]DEBUG: Next event of severity Mundane in 17.93 minutes.
+[02:54:47]DEBUG: Starting event 'Economic News' of severity Mundane.
+[02:54:52]EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[02:54:54]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[02:55:00]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> grins.
+[02:55:16]WHISPER: Tal Nejem/Shamiel : Once you fill me with your seed... Once i&#39;m satisfied!
+[02:55:23]DEBUG: Event 'Grid Check' has completed at 14:21.
+[02:55:23]SAY: grey baby slime (792)/ : Must... eat...
+[02:55:26]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[02:55:33]EMOTE: crab/ : <B>The crab</B> clicks.
+[02:55:46]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> gasps, and groans.
+[02:56:07]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[02:56:11]SAY: Runtime/ : Esp!
+[02:56:23]SAY: kitten/ : HSSSSS
+[02:56:26]WHISPER: Igam Yute/Moom241 : You&#39;re a m-monster!
+[02:57:03]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> grins, bouncing hard, and begins to bend down, licking Igams neck and nibbling on his ear.
+[02:57:17]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[02:57:22]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> shivers and shudders at her ministrations.
+[02:57:29]SAY: grey baby slime (792)/ : Need... food...
+[02:57:29]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[02:58:06]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[02:58:08]WHISPER: Tal Nejem/Shamiel : I&#39;m going to fuck you until you are dry... I&#39;ll fuck you until you beg me to stop!
+[02:58:08]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[02:58:10]EMOTE: kitten/ : <B>The kitten</B> meows.
+[02:58:18]EMOTE: Ian/ : <B>Ian</B> dances around
+[02:58:20]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[02:58:26]SAY: Runtime/ : Purr!
+[02:58:34]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[02:58:47]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> guides one of his hands to her breast, while guiding the other one to her rear.
+[02:58:56]EMOTE: Ian/ : <B>Ian</B> dances around
+[02:59:02]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[02:59:04]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[02:59:08]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[02:59:16]WHISPER: Tal Nejem/Shamiel : Now... play with my breast... You sex toy!
+[02:59:17]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> runs a hand over her rear, clasping it tightly as it bounces.
+[02:59:30]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[02:59:37]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[02:59:39]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[02:59:40]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> grabs her breats with the other hand, pinching her nipple.
+[02:59:49]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[03:00:03]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> bites her lip, grinning in pleasure.
+[03:00:07]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[03:00:27]WHISPER: Tal Nejem/Shamiel : How does it feel? ou goin&#39; t&#39; cum soon? You&#39;re far from over!
+[03:00:36]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> groans.
+[03:00:59]WHISPER: Igam Yute/Moom241 : It&#39;s t-too much! You&#39;re too strong!
+[03:01:23]WHISPER: Tal Nejem/Shamiel : Just release your seed in to my ass... then we can move on to the fun part!
+[03:01:42]SAY: grey baby slime (792)/ : Lonely...
+[03:01:52]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[03:01:57]WHISPER: Igam Yute/Moom241 : This isn&#39;t the fun part?
+[03:02:09]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> begins to bounce even faster.
+[03:02:18]WHISPER: Tal Nejem/Shamiel : Oh, it is... just not the best part!
+[03:02:21]DEBUG: Event 'Economic News' has completed at 14:28.
+[03:02:30]SAY: Parrot/ : Hi
+[03:02:33]WHISPER: Tal Nejem/Shamiel : We have to work our way up the ladder...
+[03:02:42]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[03:03:11]WHISPER: Igam Yute/Moom241 : I&#39;m a-almost there.
+[03:03:59]SAY: grey baby slime (792)/ : Must... eat...
+[03:04:03]EMOTE: Ian/ : <B>Ian</B> woofs.
+[03:04:08]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> grins.
+[03:04:26]WHISPER: Tal Nejem/Shamiel : It&#39;s bigger than most of the animals around here... I&#39;m impressed!
+[03:04:31]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> groans, and brings his other hand to her rear, gripping it.
+[03:04:45]WHISPER: Igam Yute/Moom241 : Y-you&#39;re not gonna keep me, are you?
+[03:05:22]WHISPER: Tal Nejem/Shamiel : Maybe i&#39;ll keep you around for a pleasure tool... Other than that, you&#39;re nothing to me! Nothing but a good fuck!
+[03:05:44]EMOTE: Runtime/ : <B>Runtime</B> mews.
+[03:06:13]EMOTE: cat/ : <B>The cat</B> meows.
+[03:06:19]WHISPER: Igam Yute/Moom241 : Right on the edge...unnng
+[03:06:25]DEBUG: Next event of severity Major in 68.334 minutes.
+[03:06:25]DEBUG: Starting event 'Nothing' of severity Major.
+[03:06:27]DEBUG: Event 'Nothing' has completed at 14:32.
+[03:06:35]EMOTE: kitten/ : <B>The kitten</B> meows.
+[03:06:43]WHISPER: Tal Nejem/Shamiel : Release it in to my ass, I wanna feel your warm, thick goo fill me up!
+[03:06:51]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[03:06:57]EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[03:07:07]SAY: cat/ : Purr!
+[03:07:27]EMOTE: Runtime/ : <B>Runtime</B> meows.
+[03:08:20]SAY: kitten/ : HSSSSS
+[03:08:34]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[03:08:46]WHISPER: Tal Nejem/Shamiel : How does it feel to have my warmth rubbing up against you? I bet it feels great!
+[03:08:50]EMOTE: Parrot/ : <B>The Parrot</B> flutters its wings.
+[03:08:53]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> gasps, and starts to thrust, exploding into her.
+[03:08:54]EMOTE: crab/ : <B>The crab</B> clacks.
+[03:09:02]SAY: cat/ : Purr!
+[03:09:30]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> stops bouncing, letting it all fill up in her, before taking Igam out of her, and positioning him in front of her warmth.
+[03:09:33]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> grunts, squeezing his eyes shut.
+[03:09:45]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[03:09:49]SAY: cat/ : Purr!
+[03:09:53]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[03:10:09]SAY: Igam Yute/Moom241 : Wh-whoa, Tal, you don&#39;t wanna do that.
+[03:10:25]SAY: kitten/ : HSSSSS
+[03:10:31]SAY: Tal Nejem/Shamiel : Why not?
+[03:10:41]SAY: Igam Yute/Moom241 : Urinary tract infections.
+[03:10:57]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[03:10:57]SAY: Tal Nejem/Shamiel : But I want you in me again!
+[03:11:03]SAY: Tal Nejem/Shamiel : I&#39;m in the moment!
+[03:11:11]ACCESS: Login: Cassy_jenelle/(Cassy_jenelle) from 81.104.88.62-1964287214 || BYOND v506
+[03:11:20]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[03:11:35]SAY: Igam Yute/Moom241 : Fine, but don&#39;t come crying to me when it hurts tomorrow.
+[03:11:38]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[03:11:44]SAY: Tal Nejem/Shamiel : I&#39;ll be fine baby!
+[03:11:45]SAY: Igam Yute/Moom241 : Now, where was I?
+[03:11:48]EMOTE: Ian/ : <B>Ian</B> shivers.
+[03:12:00]ACCESS: Logout: *no key*/(Cassy_jenelle)
+[03:12:00]ACCESS: Login: Cassy_jenelle/(RETINA) from 81.104.88.62-1964287214 || BYOND v506
+[03:12:05]SAY: Igam Yute/Moom241 : Th-there! You got what you wanted, p-please, let me go!
+[03:12:14]ACCESS: Logout: *no key*/(RETINA)
+[03:12:14]ACCESS: Login: Cassy_jenelle/(RETINA) from 81.104.88.62-1964287214 || BYOND v506
+[03:12:18]SAY: Tal Nejem/Shamiel : I&#39;m not done just yet!
+[03:12:22]ADMIN: Cassy_jenelle/(RETINA) allowed Cassy_jenelle/(RETINA) to bypass the 30 minute respawn limit
+[03:12:25]GAME: RETINA/Cassy_jenelle used abandon mob.
+[03:12:25]ACCESS: Logout: *no key*/(RETINA)
+[03:12:25]ACCESS: Login: Cassy_jenelle/(new player) from 81.104.88.62-1964287214 || BYOND v506
+[03:12:26]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[03:12:28]ACCESS: Logout: *no key*/(new player)
+[03:12:28]ACCESS: Login: Cassy_jenelle/(RETINA) from 81.104.88.62-1964287214 || BYOND v506
+[03:12:36]EMOTE: cat/ : <B>The cat</B> mews.
+[03:12:40]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> grips Igams member, plunging him fully in to her.
+[03:12:54]ADMIN: Cassy_jenelle/(RETINA) jumped to the Centcom Living Quarters
+[03:12:54]SAY: cat/ : HSSSSS
+[03:13:00]ACCESS: Logout: *no key*/(RETINA)
+[03:13:00]ACCESS: Login: Cassy_jenelle/(RETINA) from 81.104.88.62-1964287214 || BYOND v506
+[03:13:23]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[03:13:33]EMOTE: crab/ : <B>The crab</B> clacks.
+[03:13:37]DEBUG: Next event of severity Mundane in 14.082 minutes.
+[03:13:37]DEBUG: Starting event 'Economic News' of severity Mundane.
+[03:14:05]EMOTE: kitten/ : <B>The kitten</B> mews.
+[03:14:21]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[03:14:23]EMOTE: kitten/ : <B>The kitten</B> mews.
+[03:14:54]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[03:15:10]ACCESS: Logout: Moom241/(Igam Yute)
+[03:15:26]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[03:15:32]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[03:15:50]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[03:15:54]EMOTE: Ian/ : <B>Ian</B> dances around
+[03:16:09]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[03:16:19]EMOTE: cat/ : <B>The cat</B> mews.
+[03:16:24]GAME: RETINA/Cassy_jenelle used abandon mob.
+[03:16:24]ACCESS: Logout: *no key*/(RETINA)
+[03:16:24]ACCESS: Login: Cassy_jenelle/(new player) from 81.104.88.62-1964287214 || BYOND v506
+[03:16:39]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[03:16:43]SAY: Ian/ : AUUUUUU
+[03:16:57]ACCESS: Logout: *no key*/(new player)
+[03:16:57]ACCESS: Login: Cassy_jenelle/(Camile Crafter) from 81.104.88.62-1964287214 || BYOND v506
+[03:17:11]SAY: Runtime/ : Esp!
+[03:17:34]DEBUG: Event 'Economic News' has completed at 14:43.
+[03:17:37]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[03:17:48]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[03:17:55]ACCESS: Logout: *no key*/(Camile Crafter)
+[03:17:55]ACCESS: Login: Cassy_jenelle/(Camile Crafter) from 81.104.88.62-1964287214 || BYOND v506
+[03:18:14]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[03:18:15]ADMIN: Cassy_jenelle/(Camile Crafter) teleported @Cassy_jenelle/(Camile Crafter)
+[03:18:19]ACCESS: Logout: *no key*/(Camile Crafter)
+[03:18:19]ACCESS: Login: Cassy_jenelle/(Camile Crafter) from 81.104.88.62-1964287214 || BYOND v506
+[03:18:22]EMOTE: Ian/ : <B>Ian</B> dances around
+[03:18:26]ACCESS: Logout: *no key*/(Camile Crafter)
+[03:18:26]ACCESS: Login: Cassy_jenelle/(Camile Crafter) from 81.104.88.62-1964287214 || BYOND v506
+[03:18:38]ADMIN: Cassy_jenelle/(Camile Crafter) made the wood door at 181, 85, 2. make a sound
+[03:18:50]ACCESS: Logout: *no key*/(Camile Crafter)
+[03:18:50]ACCESS: Login: Cassy_jenelle/(Camile Crafter) from 81.104.88.62-1964287214 || BYOND v506
+[03:19:02]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[03:19:47]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[03:20:01]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[03:20:06]ACCESS: Logout: *no key*/(Camile Crafter)
+[03:20:06]ACCESS: Login: Cassy_jenelle/(Camile Crafter) from 81.104.88.62-1964287214 || BYOND v506
+[03:20:14]ACCESS: Logout: *no key*/(Camile Crafter)
+[03:20:14]ACCESS: Login: Cassy_jenelle/(Camile Crafter) from 81.104.88.62-1964287214 || BYOND v506
+[03:20:30]ACCESS: Logout: Shamiel/(Tal Nejem)
+[03:20:36]SAY: Runtime/ : Esp!
+[03:20:38]SAY: Ian/ : Woof!
+[03:20:38]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[03:20:44]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[03:20:52]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[03:21:08]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[03:21:19]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[03:21:27]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[03:21:39]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[03:21:49]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> snores.
+[03:22:10]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> snores.
+[03:22:14]EMOTE: kitten/ : <B>The kitten</B> mews.
+[03:22:14]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> snores.
+[03:22:18]SAY: kitten/ : Purr!
+[03:23:14]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[03:23:14]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> snores.
+[03:23:16]SAY: Runtime/ : HSSSSS
+[03:23:51]SAY: Experiment 97d/ : Eh?
+[03:23:57]EMOTE: Ian/ : <B>Ian</B> shakes its head.
+[03:24:37]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[03:24:39]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[03:24:49]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> snores.
+[03:25:16]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[03:25:22]SAY: kitten/ : HSSSSS
+[03:25:48]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[03:25:52]SAY: kitten/ : Esp!
+[03:26:08]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[03:26:55]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[03:27:05]EMOTE: Ian/ : <B>Ian</B> dances around
+[03:27:25]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[03:28:06]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> snores.
+[03:28:18]DEBUG: Next event of severity Mundane in 14.412 minutes.
+[03:28:18]DEBUG: Starting event 'Trivial News' of severity Mundane.
+[03:28:39]DEBUG: Event 'Trivial News' has completed at 14:53.
+[03:28:44]SAY: kitten/ : Esp!
+[03:28:50]SAY: Runtime/ : HSSSSS
+[03:29:21]SAY: Experiment 97d/ : EHEHEHEHEH
+[03:31:35]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> snores.
+[03:31:53]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[03:32:05]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[03:32:07]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[03:32:15]EMOTE: crab/ : <B>The crab</B> clicks.
+[03:32:27]EMOTE: crab/ : <B>The crab</B> clacks.
+[03:32:44]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[03:32:58]EMOTE: Ian/ : <B>Ian</B> dances around
+[03:32:58]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[03:33:02]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[03:33:10]EMOTE: crab/ : <B>The crab</B> clicks.
+[03:33:39]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[03:33:39]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[03:33:53]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[03:34:06]VOTE: Crew_transfer vote started by the server.
+[03:34:06]DEBUG: The server has called a crew transfer vote
+[03:34:26]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[03:34:42]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[03:35:08]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[03:35:09]SAY: Camile Crafter/Cassy_jenelle : Hm.
+[03:35:10]VOTE: <b>Vote Result: Inconclusive - No Votes!</b>
+[03:35:14]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[03:35:20]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[03:35:34]SAY: Runtime/ : HSSSSS
+[03:35:34]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> snores.
+[03:35:43]EMOTE: kitten/ : <B>The kitten</B> meows.
+[03:36:03]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[03:36:11]ADMIN: Cassy_jenelle/(Camile Crafter) jumped to *no key*/(cat)
+[03:36:15]EMOTE: Ian/ : <B>Ian</B> dances around
+[03:36:17]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> snores.
+[03:36:25]EMOTE: Ian/ : <B>Ian</B> shivers.
+[03:36:25]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[03:36:59]SAY: cat/ : Purr!
+[03:37:07]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[03:37:34]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> snores.
+[03:38:02]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[03:38:30]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[03:39:06]SAY: Runtime/ : Meow!
+[03:39:18]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[03:39:18]SAY: Parrot/ : Hello!
+[03:39:22]SAY: kitten/ : Meow!
+[03:39:35]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[03:39:41]EMOTE: Ian/ : <B>Ian</B> dances around
+[03:39:42]ACCESS: Logout: Cassy_jenelle/(Camile Crafter)
+[05:03:13]ACCESS: Login: Cassy_jenelle/(Camile Crafter) from 81.104.88.62-1964287214 || BYOND v506
+[05:03:18]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[05:03:24]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[05:03:53]ACCESS: Logout: Cassy_jenelle/(Camile Crafter)
+[05:16:28]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> shakes its head.
+[05:16:44]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[05:16:52]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[05:17:05]ACCESS: Login: Cassy_jenelle/(Camile Crafter) from 81.104.88.62-1964287214 || BYOND v506
+[05:17:14]EMOTE: Runtime/ : <B>Runtime</B> mews.
+[05:17:14]SAY: cat/ : HSSSSS
+[05:17:23]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> snores.
+[05:17:47]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[05:18:36]DEBUG: Next event of severity Mundane in 14.142 minutes.
+[05:18:36]DEBUG: Starting event 'Mundane News' of severity Mundane.
+[05:18:42]SAY: kitten/ : Purr!
+[05:18:48]SAY: cat/ : Esp!
+[05:18:50]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[05:18:58]DEBUG: Event 'Mundane News' has completed at 15:08.
+[05:19:23]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[05:19:23]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[05:19:29]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[05:19:37]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[05:19:55]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> snores.
+[05:19:57]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> snores.
+[05:20:09]SAY: cat/ : Purr!
+[05:20:10]DEBUG: Next event of severity Moderate in 47.512 minutes.
+[05:20:10]DEBUG: Starting event 'Nothing' of severity Moderate.
+[05:20:12]DEBUG: Event 'Nothing' has completed at 15:09.
+[05:20:34]SAY: Ian/ : Woof!
+[05:21:06]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[05:21:36]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[05:22:15]SAY: kitten/ : Purr!
+[05:22:15]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> snores.
+[05:22:43]EMOTE: cat/ : <B>The cat</B> meows.
+[05:22:53]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> snores.
+[05:23:19]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[05:23:51]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[05:23:51]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> snores.
+[05:24:24]SAY: Experiment 97d/ : Eh?
+[05:24:26]SAY: kitten/ : Esp!
+[05:24:32]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[05:24:36]EMOTE: crab/ : <B>The crab</B> clicks.
+[05:24:46]SAY: Ian/ : Woof!
+[05:24:46]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[05:24:58]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[05:25:23]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> snores.
+[05:25:23]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[05:26:14]EMOTE: crab/ : <B>The crab</B> clacks.
+[05:26:56]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[05:26:56]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> snores.
+[05:27:24]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[05:27:38]EMOTE: Ian/ : <B>Ian</B> dances around
+[05:28:01]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[05:28:15]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[05:28:15]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[05:28:17]EMOTE: Parrot/ : <B>The Parrot</B> bawks.
+[05:28:27]SAY: kitten/ : Meow!
+[05:28:41]SAY: Experiment 97d/ : EHEHEHEHEH
+[05:29:14]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> snores.
+[05:29:34]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[05:29:50]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[05:29:52]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> snores.
+[05:30:02]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> snores.
+[05:30:51]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> snores.
+[05:31:19]SAY: Experiment 97d/ : EHEHEHEHEH
+[05:31:27]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[05:31:37]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> snores.
+[05:31:41]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[05:31:59]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> snores.
+[05:32:13]EMOTE: Runtime/ : <B>Runtime</B> shakes their head.
+[05:32:28]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[05:32:34]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> snores.
+[05:33:08]SAY: Ian/ : Woof!
+[05:33:12]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> snores.
+[05:33:18]DEBUG: Next event of severity Mundane in 13.142 minutes.
+[05:33:18]DEBUG: Starting event 'Trivial News' of severity Mundane.
+[05:33:39]DEBUG: Event 'Trivial News' has completed at 15:22.
+[05:33:42]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[05:34:13]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[05:35:25]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[05:35:42]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> snores.
+[05:35:48]SAY: cat/ : Purr!
+[05:35:52]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[05:36:00]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[05:36:30]SAY: kitten/ : HSSSSS
+[05:36:50]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[05:37:39]SAY: kitten/ : Purr!
+[05:37:41]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[05:37:49]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[05:38:15]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> snores.
+[05:38:25]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> snores.
+[05:38:31]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[05:38:44]EMOTE: kitten/ : <B>The kitten</B> meows.
+[05:38:46]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[05:38:50]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[05:38:58]EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[05:38:58]SAY: cat/ : Purr!
+[05:39:04]EMOTE: kitten/ : <B>The kitten</B> meows.
+[05:39:14]EMOTE: crab/ : <B>The crab</B> clicks.
+[05:40:00]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[05:40:20]EMOTE: Ian/ : <B>Ian</B> dances around
+[05:40:24]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[05:40:26]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[05:41:03]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[05:41:07]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[05:41:53]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[05:42:27]SAY: Ian/ : YAP
+[05:42:29]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> snores.
+[05:42:48]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[05:42:52]EMOTE: crab/ : <B>The crab</B> clicks.
+[05:43:14]SAY: kitten/ : HSSSSS
+[05:43:24]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[05:43:32]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> snores.
+[05:44:22]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[05:44:43]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[05:45:23]SAY: cat/ : Meow!
+[05:46:13]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> snores.
+[05:46:30]SAY: kitten/ : Esp!
+[05:46:38]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[05:46:54]DEBUG: Next event of severity Mundane in 12.646 minutes.
+[05:46:54]DEBUG: Starting event 'Mundane News' of severity Mundane.
+[05:47:16]DEBUG: Event 'Mundane News' has completed at 15:35.
+[05:47:28]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[05:47:42]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[05:48:02]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[05:48:20]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[05:48:41]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[05:49:13]SAY: Runtime/ : Meow!
+[05:49:17]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[05:49:19]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> snores.
+[05:49:33]SAY: Ian/ : YAP
+[05:49:49]EMOTE: cat/ : <B>The cat</B> shivers.
+[05:49:55]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> snores.
+[05:49:57]EMOTE: cat/ : <B>The cat</B> meows.
+[05:50:28]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[05:50:56]EMOTE: kitten/ : <B>The kitten</B> meows.
+[05:50:58]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[05:50:58]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[05:51:14]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[05:51:20]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> snores.
+[05:51:28]SAY: Runtime/ : HSSSSS
+[05:51:30]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> snores.
+[05:51:30]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[05:51:42]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[05:52:41]DEBUG: Next event of severity Major in 65.44 minutes.
+[05:52:41]DEBUG: Starting event 'Nothing' of severity Major.
+[05:52:43]DEBUG: Event 'Nothing' has completed at 15:40.
+[05:53:07]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> snores.
+[05:53:47]EMOTE: crab/ : <B>The crab</B> clacks.
+[05:54:23]EMOTE: crab/ : <B>The crab</B> clacks.
+[05:54:27]SAY: kitten/ : Esp!
+[05:54:59]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> snores.
+[05:55:03]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[05:55:16]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[05:55:18]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> snores.
+[05:55:28]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[05:55:30]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[05:55:40]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[05:55:42]EMOTE: kitten/ : <B>The kitten</B> meows.
+[05:55:56]SAY: kitten/ : Purr!
+[05:56:14]SAY: Runtime/ : HSSSSS
+[05:56:42]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[05:56:54]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> snores.
+[05:57:10]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[05:57:20]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[05:57:26]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[05:57:36]SAY: Parrot/ : Hello!
+[05:57:42]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[05:58:02]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[05:58:24]EMOTE: Ian/ : <B>Ian</B> shivers.
+[05:58:26]SAY: kitten/ : Esp!
+[05:58:39]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> snores.
+[05:58:55]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> snores.
+[05:59:07]EMOTE: Ian/ : <B>Ian</B> dances around
+[05:59:23]EMOTE: crab/ : <B>The crab</B> clacks.
+[05:59:33]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[05:59:49]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[05:59:53]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> snores.
+[05:59:57]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[05:59:59]DEBUG: Next event of severity Mundane in 16.568 minutes.
+[05:59:59]DEBUG: Starting event 'Trivial News' of severity Mundane.
+[06:00:13]SAY: kitten/ : Purr!
+[06:00:20]DEBUG: Event 'Trivial News' has completed at 15:48.
+[06:01:23]EMOTE: Ian/ : <B>Ian</B> shakes its head.
+[06:01:35]SAY: kitten/ : HSSSSS
+[06:01:39]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[06:02:06]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[06:02:12]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> snores.
+[06:02:28]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> snores.
+[06:02:56]EMOTE: crab/ : <B>The crab</B> clicks.
+[06:03:04]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[06:03:08]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> snores.
+[06:03:10]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> snores.
+[06:03:24]EMOTE: kitten/ : <B>The kitten</B> meows.
+[06:03:40]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[06:03:56]SAY: Parrot/ : Hello!
+[06:03:58]SAY: cat/ : Meow!
+[06:04:30]EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[06:04:30]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[06:05:02]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[06:05:12]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[06:05:14]SAY: Ian/ : Woof!
+[06:05:23]EMOTE: Ian/ : <B>Ian</B> pants.
+[06:05:25]SAY: kitten/ : HSSSSS
+[06:05:35]SAY: kitten/ : HSSSSS
+[06:05:51]EMOTE: Parrot/ : <B>The Parrot</B> flutters its wings.
+[06:05:57]SAY: Ian/ : Bark!
+[06:06:09]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[06:06:25]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[06:06:39]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[06:06:43]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[06:06:47]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[06:06:51]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[06:07:03]SAY: cat/ : Purr!
+[06:07:05]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[06:07:43]EMOTE: Runtime/ : <B>Runtime</B> shakes their head.
+[06:07:43]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[06:07:45]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[06:08:15]EMOTE: crab/ : <B>The crab</B> clicks.
+[06:08:21]SAY: Experiment 97d/ : Eh?
+[06:08:21]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> snores.
+[06:08:37]SAY: kitten/ : Meow!
+[06:08:41]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[06:08:49]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[06:09:01]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[06:09:18]DEBUG: Next event of severity Moderate in 51.312 minutes.
+[06:09:18]DEBUG: Starting event 'Nothing' of severity Moderate.
+[06:09:20]DEBUG: Event 'Nothing' has completed at 15:56.
+[06:09:21]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[06:09:21]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[06:09:27]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> snores.
+[06:09:37]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[06:09:41]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[06:09:47]EMOTE: Ian/ : <B>Ian</B> dances around
+[06:10:17]EMOTE: Ian/ : <B>Ian</B> shivers.
+[06:10:29]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> snores.
+[06:10:51]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> snores.
+[06:10:51]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[06:11:07]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[06:11:07]SAY: Parrot/ : Hello!
+[06:11:28]VOTE: Crew_transfer vote started by the server.
+[06:11:28]DEBUG: The server has called a crew transfer vote
+[06:11:59]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> snores.
+[06:12:13]SAY: Runtime/ : Meow!
+[06:12:13]SAY: Parrot/ : Hello!
+[06:12:21]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[06:12:23]SAY: cat/ : HSSSSS
+[06:12:30]VOTE: <b>Vote Result: Inconclusive - No Votes!</b>
+[06:12:45]EMOTE: Runtime/ : <B>Runtime</B> shakes their head.
+[06:12:47]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> snores.
+[06:12:55]EMOTE: crab/ : <B>The crab</B> clacks.
+[06:13:48]SAY: Experiment 97d/ : EHEHEHEHEH
+[06:13:50]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[06:13:54]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[06:14:12]SAY: kitten/ : Meow!
+[06:14:16]EMOTE: Ian/ : <B>Ian</B> shakes its head.
+[06:14:36]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[06:14:52]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[06:14:56]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[06:15:10]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[06:15:14]EMOTE: Ian/ : <B>Ian</B> dances around
+[06:15:14]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[06:15:18]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[06:15:22]EMOTE: crab/ : <B>The crab</B> clicks.
+[06:15:28]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[06:15:56]EMOTE: Ian/ : <B>Ian</B> dances around
+[06:16:28]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[06:16:44]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[06:16:46]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[06:17:05]DEBUG: Next event of severity Mundane in 16.336 minutes.
+[06:17:05]DEBUG: Starting event 'Nothing' of severity Mundane.
+[06:17:07]DEBUG: Event 'Nothing' has completed at 16:04.
+[06:17:08]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> snores.
+[06:17:41]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> snores.
+[06:17:51]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> snores.
+[06:17:55]EMOTE: cat/ : <B>The cat</B> meows.
+[06:17:57]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[06:18:21]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[06:18:47]SAY: kitten/ : Purr!
+[06:19:05]EMOTE: Parrot/ : <B>The Parrot</B> bawks.
+[06:19:23]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[06:19:29]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[06:19:35]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[06:20:25]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[06:20:58]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[06:21:14]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[06:21:20]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> snores.
+[06:21:40]EMOTE: Runtime/ : <B>Runtime</B> meows.
+[06:22:00]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[06:22:18]SAY: Parrot/ : Hello!
+[06:22:24]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> snores.
+[06:22:44]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> snores.
+[06:22:48]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> snores.
+[06:22:52]SAY: kitten/ : Purr!
+[06:23:06]EMOTE: kitten/ : <B>The kitten</B> mews.
+[06:23:26]EMOTE: Parrot/ : <B>The Parrot</B> bawks.
+[06:23:30]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[06:23:42]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> snores.
+[06:23:42]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[06:24:25]SAY: kitten/ : HSSSSS
+[06:24:45]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[06:24:57]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[06:25:05]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[06:25:29]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> snores.
+[06:26:51]EMOTE: crab/ : <B>The crab</B> clicks.
+[06:27:27]SAY: cat/ : HSSSSS
+[06:27:51]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[06:28:16]SAY: kitten/ : Esp!
+[06:28:32]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[06:28:44]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[06:28:46]SAY: cat/ : Meow!
+[06:28:56]EMOTE: Ian/ : <B>Ian</B> dances around
+[06:28:56]SAY: cat/ : Meow!
+[06:29:10]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[06:29:32]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> snores.
+[06:29:48]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[06:30:10]EMOTE: Coffee/ : <B>Coffee</B> clacks.
+[06:30:18]EMOTE: Igam Yute/Moom241 : <B>Igam Yute</B> snores.
+[06:30:34]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[06:30:44]EMOTE: Tal Nejem/Shamiel : <B>Tal Nejem</B> snores.
+[06:31:21]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[06:31:49]EMOTE: Jed Rosensteel/Decy19 : <B>Jed Rosensteel</B> snores.
+[06:31:51]ACCESS: Logout: Cassy_jenelle/(Camile Crafter)

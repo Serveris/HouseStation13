@@ -1,0 +1,1732 @@
+
+
+Starting up. 06:46.33
+---------------------
+[06:47:10]ADMIN: Loading jobban_rank
+[06:47:10]ADMIN: jobban_keylist was empty
+[06:47:10]ADMIN: Loading Banlist
+[06:47:12]DEBUG: Rebuilding Master Controller
+[06:57:54]ACCESS: Login: Cassy_jenelle/(Cassy_jenelle) from 127.0.0.1-1964287214 || BYOND v506
+[06:59:03]VOTE: Gamemode vote started by the server.
+[06:59:03]DEBUG: The server has called a gamemode vote
+[07:00:03]DEBUG: The server has called a gamemode vote
+[07:00:03]VOTE: <b>Vote Result: Inconclusive - No Votes!</b>
+[07:00:18]ADMIN: Cassy_jenelle has started the game.
+[07:00:18]ACCESS: Logout: *no key*/(Cassy_jenelle)
+[07:00:18]ACCESS: Login: Cassy_jenelle/(Camile Crafter) from 127.0.0.1-1964287214 || BYOND v506
+[07:00:26]DEBUG: Next event of severity Mundane in 13.43 minutes.
+[07:00:26]DEBUG: Next event of severity Moderate in 36.728 minutes.
+[07:00:26]DEBUG: Next event of severity Major in 84.2483 minutes.
+[07:00:35]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> shakes its head.
+[07:00:37]EMOTE: Parrot/ : <B>The Parrot</B> turns and flies towards the deck of cards
+[07:00:55]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[07:01:06]EMOTE: mouse (644)/ : <B>The mouse (644)</B> squeaks.
+[07:01:16]EMOTE: mouse (347)/ : <B>The mouse (347)</B> squiks.
+[07:01:20]EMOTE: mouse (687)/ : <B>The mouse (687)</B> squeeks.
+[07:02:06]SAY: kitten/ : Purr!
+[07:02:08]SAY: grey baby slime (660)/ : Blorble...
+[07:02:14]EMOTE: Parrot/ : <B>The Parrot</B> squawks.
+[07:02:26]EMOTE: mouse (687)/ : <B>The mouse (687)</B> shakes.
+[07:03:02]EMOTE: mouse (347)/ : <B>The mouse (347)</B> shakes.
+[07:03:06]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[07:03:08]EMOTE: mouse (347)/ : <B>The mouse (347)</B> shakes.
+[07:03:22]EMOTE: crab/ : <B>The crab</B> clicks.
+[07:03:46]EMOTE: Parrot/ : <B>The Parrot</B> squawks.
+[07:03:54]ADMIN: MOD: Cassy_jenelle/(Camile Crafter) : sucku
+[07:04:04]EMOTE: kitten/ : <B>The kitten</B> meows.
+[07:05:10]EMOTE: Runtime/ : <B>Runtime</B> shakes their head.
+[07:05:38]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[07:05:56]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[07:07:25]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[07:07:57]EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[07:09:01]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[07:09:21]SAY: cat/ : HSSSSS
+[07:09:41]EMOTE: crab/ : <B>The crab</B> clacks.
+[07:10:27]SAY: mouse (912)/ : SQUEEK!
+[07:10:44]SAY: grey baby slime (431)/ : Rawr...
+[07:11:24]EMOTE: kitten/ : <B>The kitten</B> meows.
+[07:11:31]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[07:11:55]EMOTE: crab/ : <B>The crab</B> clacks.
+[07:11:59]SAY: Parrot/ : BAWWWWK george mellons griffing me
+[07:12:37]EMOTE: Runtime/ : <B>Runtime</B> shakes their head.
+[07:12:47]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> shakes its head.
+[07:13:37]SAY: grey baby slime (660)/ : Blop...
+[07:13:47]EMOTE: cat/ : <B>The cat</B> mews.
+[07:13:55]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[07:14:15]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[07:14:19]SAY: grey baby slime (431)/ : Blorble...
+[07:14:19]SAY: kitten/ : Meow!
+[07:14:59]SAY: Experiment 97d/ : EHEHEHEHEH
+[07:15:55]DEBUG: Next event of severity Mundane in 17.724 minutes.
+[07:15:55]DEBUG: Starting event 'Trivial News' of severity Mundane.
+[07:16:04]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[07:16:17]DEBUG: Event 'Trivial News' has completed at 12:16.
+[07:16:22]EMOTE: Ian/ : <B>Ian</B> dances around
+[07:16:28]EMOTE: Ian/ : <B>Ian</B> pants.
+[07:16:40]SAY: Ian/ : YAP
+[07:16:42]EMOTE: Ian/ : <B>Ian</B> dances around
+[07:17:56]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[07:18:10]EMOTE: cat/ : <B>The cat</B> mews.
+[07:18:24]EMOTE: Parrot/ : <B>The Parrot</B> squawks.
+[07:19:04]SAY: Ian/ : YAP
+[07:19:46]EMOTE: cat/ : <B>The cat</B> mews.
+[07:20:08]EMOTE: Parrot/ : <B>The Parrot</B> squawks.
+[07:20:12]SAY: cat/ : Esp!
+[07:20:14]EMOTE: Parrot/ : <B>The Parrot</B> flutters its wings.
+[07:20:36]SAY: kitten/ : Esp!
+[07:20:54]SAY: kitten/ : Purr!
+[07:21:10]SAY: Ian/ : Bark!
+[07:22:08]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[07:22:08]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[07:22:36]EMOTE: Ian/ : <B>Ian</B> barks.
+[07:22:40]EMOTE: Ian/ : <B>Ian</B> dances around
+[07:22:46]EMOTE: crab/ : <B>The crab</B> clicks.
+[07:23:16]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[07:23:22]SAY: kitten/ : HSSSSS
+[07:23:30]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[07:23:40]SAY: grey baby slime (431)/ : Blop...
+[07:24:04]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[07:24:24]SAY: kitten/ : HSSSSS
+[07:25:42]SAY: Parrot/ : Hi
+[07:26:06]SAY: cat/ : Purr!
+[07:26:24]EMOTE: Parrot/ : <B>The Parrot</B> flutters its wings.
+[07:26:26]EMOTE: kitten/ : <B>The kitten</B> meows.
+[07:27:24]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[07:28:26]EMOTE: cat/ : <B>The cat</B> shivers.
+[07:29:03]EMOTE: kitten/ : <B>The kitten</B> mews.
+[07:29:17]SAY: Runtime/ : Esp!
+[07:30:33]SAY: cat/ : Esp!
+[07:30:59]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[07:30:59]SAY: cat/ : Purr!
+[07:32:37]SAY: kitten/ : Esp!
+[07:32:53]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[07:33:05]SAY: Runtime/ : Meow!
+[07:34:18]EMOTE: kitten/ : <B>The kitten</B> mews.
+[07:34:30]SAY: grey baby slime (660)/ : Blop...
+[07:35:25]DEBUG: Next event of severity Mundane in 17.046 minutes.
+[07:35:25]DEBUG: Starting event 'Mundane News' of severity Mundane.
+[07:35:47]DEBUG: Event 'Mundane News' has completed at 12:33.
+[07:36:06]SAY: cat/ : Meow!
+[07:36:50]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[07:36:50]EMOTE: crab/ : <B>The crab</B> clacks.
+[07:37:24]SAY: kitten/ : Purr!
+[07:37:54]EMOTE: crab/ : <B>The crab</B> clicks.
+[07:38:00]SAY: kitten/ : HSSSSS
+[07:38:42]EMOTE: kitten/ : <B>The kitten</B> meows.
+[07:38:46]EMOTE: Parrot/ : <B>The Parrot</B> squawks.
+[07:39:14]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[07:39:22]SAY: cat/ : Purr!
+[07:39:28]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[07:39:58]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[07:40:12]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[07:40:18]SAY: kitten/ : Esp!
+[07:41:18]EMOTE: Ian/ : <B>Ian</B> dances around
+[07:41:30]DEBUG: Next event of severity Moderate in 43.528 minutes.
+[07:41:30]DEBUG: Starting event 'Nothing' of severity Moderate.
+[07:41:30]SAY: cat/ : Esp!
+[07:41:32]DEBUG: Event 'Nothing' has completed at 12:39.
+[07:43:06]SAY: grey baby slime (431)/ : Rawr...
+[07:43:24]SAY: kitten/ : Meow!
+[07:43:44]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[07:44:02]EMOTE: kitten/ : <B>The kitten</B> mews.
+[07:44:14]EMOTE: Runtime/ : <B>Runtime</B> shakes their head.
+[07:44:20]EMOTE: kitten/ : <B>The kitten</B> meows.
+[07:45:17]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> shakes its head.
+[07:45:45]EMOTE: Ian/ : <B>Ian</B> shakes its head.
+[07:45:51]EMOTE: kitten/ : <B>The kitten</B> mews.
+[07:46:11]SAY: kitten/ : Purr!
+[07:47:39]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[07:47:41]SAY: Parrot/ : BAWWWWK george mellons griffing me
+[07:47:51]SAY: cat/ : HSSSSS
+[07:47:59]SAY: grey baby slime (431)/ : Blop...
+[07:48:01]EMOTE: Parrot/ : <B>The Parrot</B> flutters its wings.
+[07:48:03]SAY: Experiment 97d/ : Eh?
+[07:49:12]SAY: grey baby slime (660)/ : Blop...
+[07:49:22]EMOTE: Ian/ : <B>Ian</B> dances around
+[07:50:26]EMOTE: kitten/ : <B>The kitten</B> meows.
+[07:50:44]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[07:51:28]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[07:52:05]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[07:52:33]SAY: kitten/ : Meow!
+[07:52:41]SAY: kitten/ : HSSSSS
+[07:52:49]EMOTE: crab/ : <B>The crab</B> clicks.
+[07:53:31]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[07:53:31]SAY: cat/ : HSSSSS
+[07:53:41]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[07:53:45]EMOTE: crab/ : <B>The crab</B> clacks.
+[07:54:05]DEBUG: Next event of severity Mundane in 15.264 minutes.
+[07:54:05]DEBUG: Starting event 'Economic News' of severity Mundane.
+[07:54:23]EMOTE: Ian/ : <B>Ian</B> dances around
+[07:54:35]SAY: grey baby slime (660)/ : I want to eat...
+[07:55:03]SAY: grey baby slime (660)/ : Blorble...
+[07:55:03]SAY: Parrot/ : Hi
+[07:56:21]EMOTE: crab/ : <B>The crab</B> clacks.
+[07:57:13]SAY: grey baby slime (431)/ : Rawr...
+[07:57:15]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> shakes its head.
+[07:57:25]SAY: kitten/ : Purr!
+[07:57:31]SAY: Ian/ : Bark!
+[07:57:31]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[07:57:47]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[07:59:08]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[07:59:32]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[07:59:42]SAY: grey baby slime (431)/ : Lonely...
+[08:00:22]SAY: Parrot/ : Cracker?
+[08:01:29]DEBUG: Event 'Economic News' has completed at 12:57.
+[08:01:36]SAY: kitten/ : HSSSSS
+[08:01:54]EMOTE: Ian/ : <B>Ian</B> dances around
+[08:02:02]EMOTE: Ian/ : <B>Ian</B> yaps.
+[08:02:02]EMOTE: crab/ : <B>The crab</B> clicks.
+[08:02:52]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[08:03:06]EMOTE: crab/ : <B>The crab</B> clicks.
+[08:03:34]EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[08:03:56]SAY: kitten/ : Purr!
+[08:04:02]EMOTE: crab/ : <B>The crab</B> clacks.
+[08:04:26]SAY: cat/ : Esp!
+[08:04:50]SAY: kitten/ : Purr!
+[08:05:26]EMOTE: crab/ : <B>The crab</B> clacks.
+[08:05:34]EMOTE: Parrot/ : <B>The Parrot</B> squawks.
+[08:06:06]EMOTE: Ian/ : <B>Ian</B> dances around
+[08:06:56]SAY: grey baby slime (431)/ : I want to eat...
+[08:08:18]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[08:09:52]SAY: kitten/ : Meow!
+[08:10:02]EMOTE: cat/ : <B>The cat</B> meows.
+[08:10:20]EMOTE: Ian/ : <B>Ian</B> pants.
+[08:10:43]DEBUG: Next event of severity Mundane in 15.244 minutes.
+[08:10:43]DEBUG: Starting event 'Lost Carp' of severity Mundane.
+[08:10:48]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[08:10:52]EMOTE: cat/ : <B>The cat</B> mews.
+[08:11:40]EMOTE: Ian/ : <B>Ian</B> dances around
+[08:11:50]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[08:12:10]SAY: Parrot/ : BAWWWWK george mellons griffing me
+[08:12:20]SAY: cat/ : Meow!
+[08:12:46]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[08:13:14]SAY: Runtime/ : HSSSSS
+[08:13:26]SAY: Parrot/ : BAWWWWK george mellons griffing me
+[08:13:28]EMOTE: crab/ : <B>The crab</B> clacks.
+[08:13:46]SAY: grey baby slime (660)/ : Blop...
+[08:14:28]EMOTE: crab/ : <B>The crab</B> clacks.
+[08:14:32]SAY: grey baby slime (660)/ : Blorble...
+[08:15:12]SAY: grey baby slime (431)/ : I want to eat...
+[08:15:40]EMOTE: kitten/ : <B>The kitten</B> meows.
+[08:16:02]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[08:16:02]SAY: Parrot/ : BAWWWWK george mellons griffing me
+[08:16:06]SAY: grey baby slime (660)/ : Where is the food?
+[08:16:16]SAY: grey baby slime (660)/ : Blop...
+[08:16:24]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[08:17:46]SAY: Ian/ : Bark!
+[08:18:02]SAY: cat/ : Esp!
+[08:18:28]SAY: cat/ : HSSSSS
+[08:18:42]EMOTE: Ian/ : <B>Ian</B> dances around
+[08:18:58]SAY: grey baby slime (660)/ : I want to eat...
+[08:19:00]SAY: kitten/ : Esp!
+[08:19:06]EMOTE: cat/ : <B>The cat</B> meows.
+[08:19:50]EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[08:19:56]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[08:20:00]SAY: cat/ : Purr!
+[08:20:36]SAY: kitten/ : HSSSSS
+[08:21:36]EMOTE: crab/ : <B>The crab</B> clicks.
+[08:21:50]SAY: Parrot/ : BAWWWWK george mellons griffing me
+[08:22:10]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[08:22:32]EMOTE: Parrot/ : <B>The Parrot</B> flutters its wings.
+[08:22:40]SAY: cat/ : Esp!
+[08:23:28]SAY: Experiment 97d/ : EHEHEHEHEH
+[08:24:08]SAY: grey baby slime (431)/ : Blop...
+[08:25:04]SAY: grey baby slime (660)/ : Hungry...
+[08:25:42]EMOTE: Ian/ : <B>Ian</B> barks.
+[08:25:56]SAY: kitten/ : HSSSSS
+[08:26:34]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[08:26:50]SAY: Ian/ : AUUUUUU
+[08:27:15]DEBUG: Next event of severity Mundane in 13.574 minutes.
+[08:27:15]DEBUG: Starting event 'Economic News' of severity Mundane.
+[08:27:34]SAY: kitten/ : HSSSSS
+[08:27:40]SAY: Experiment 97d/ : EHEHEHEHEH
+[08:28:00]SAY: grey baby slime (660)/ : Rawr...
+[08:28:18]SAY: grey baby slime (660)/ : Hungry...
+[08:28:24]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[08:28:32]SAY: grey baby slime (431)/ : Purr...
+[08:28:40]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[08:28:55]DEBUG: Next event of severity Moderate in 45.694 minutes.
+[08:28:55]DEBUG: Starting event 'Spider Infestation' of severity Moderate.
+[08:29:38]EMOTE: kitten/ : <B>The kitten</B> meows.
+[08:30:06]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[08:30:34]SAY: grey baby slime (431)/ : Lonely...
+[08:30:34]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[08:30:44]EMOTE: Parrot/ : <B>The Parrot</B> squawks.
+[08:30:45]DEBUG: Event 'Economic News' has completed at 13:24.
+[08:31:03]SAY: kitten/ : Purr!
+[08:31:31]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[08:31:39]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[08:31:47]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[08:31:51]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[08:32:22]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[08:32:50]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:33:05]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:33:11]DEBUG: Next event of severity Major in 81.248 minutes.
+[08:33:11]DEBUG: Starting event 'Nothing' of severity Major.
+[08:33:13]DEBUG: Event 'Nothing' has completed at 13:26.
+[08:33:13]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:33:21]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[08:33:31]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:33:45]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:34:05]SAY: grey baby slime (660)/ : Lonely...
+[08:34:09]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[08:34:35]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:34:55]EMOTE: crab/ : <B>The crab</B> clicks.
+[08:34:55]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:34:55]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:34:57]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> shakes its head.
+[08:35:05]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[08:35:21]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:35:23]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:35:27]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:35:43]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:35:57]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[08:35:57]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:36:03]EMOTE: Ian/ : <B>Ian</B> shivers.
+[08:36:21]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:36:25]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:36:31]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:36:35]EMOTE: Ian/ : <B>Ian</B> woofs.
+[08:36:37]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:36:49]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:36:51]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:36:59]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:37:03]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:37:05]SAY: cat/ : Meow!
+[08:37:11]SAY: Parrot/ : BAWWWWK george mellons griffing me
+[08:37:15]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:37:21]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:37:25]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:37:27]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:37:37]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:37:45]SAY: cat/ : Purr!
+[08:37:57]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[08:37:59]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:38:07]EMOTE: crab/ : <B>The crab</B> clacks.
+[08:38:07]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:38:15]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:38:15]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:38:33]SAY: kitten/ : Purr!
+[08:38:35]SAY: kitten/ : Esp!
+[08:38:45]SAY: Experiment 97d/ : Eh?
+[08:38:59]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[08:38:59]SAY: Parrot/ : BAWWWWK george mellons griffing me
+[08:39:03]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:39:11]EMOTE: Parrot/ : <B>The Parrot</B> flutters its wings.
+[08:39:13]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[08:39:13]EMOTE: kitten/ : <B>The kitten</B> mews.
+[08:39:17]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:39:25]EMOTE: Ian/ : <B>Ian</B> yaps.
+[08:39:27]SAY: Experiment 97d/ : Eh?
+[08:39:35]SAY: cat/ : Purr!
+[08:39:37]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:39:39]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:39:41]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:39:43]SAY: kitten/ : Purr!
+[08:40:01]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[08:40:01]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:40:03]EMOTE: Parrot/ : <B>The Parrot</B> bawks.
+[08:40:05]SAY: grey baby slime (660)/ : I want to eat...
+[08:40:21]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:40:25]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:40:37]EMOTE: Ian/ : <B>Ian</B> dances around
+[08:40:43]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:41:01]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[08:41:13]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:41:54]DEBUG: Next event of severity Mundane in 13.848 minutes.
+[08:41:54]DEBUG: Starting event 'Nothing' of severity Mundane.
+[08:41:56]DEBUG: Event 'Nothing' has completed at 13:34.
+[08:42:07]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:42:29]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:42:41]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[08:42:46]DEBUG: Event 'Lost Carp' has completed at 13:35.
+[08:43:13]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:43:56]DEBUG: Event 'Spider Infestation' has completed at 13:36.
+[08:44:04]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:44:09]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:44:19]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:44:27]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:45:19]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:45:20]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:45:45]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:45:55]EMOTE: crab/ : <B>The crab</B> clacks.
+[08:46:07]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:46:09]SAY: kitten/ : Esp!
+[08:46:09]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:46:15]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:46:17]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:46:35]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:46:58]SAY: grey baby slime (660)/ : Blorble...
+[08:47:26]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:47:32]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[08:47:34]EMOTE: kitten/ : <B>The kitten</B> meows.
+[08:47:42]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:48:28]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:48:46]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[08:49:08]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:49:16]SAY: grey baby slime (660)/ : Lonely...
+[08:49:24]EMOTE: Ian/ : <B>Ian</B> shivers.
+[08:49:36]SAY: grey baby slime (660)/ : Blop...
+[08:49:36]EMOTE: crab/ : <B>The crab</B> clicks.
+[08:49:54]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:50:00]SAY: kitten/ : Esp!
+[08:50:26]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:51:06]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:51:18]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:51:40]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:51:50]SAY: kitten/ : HSSSSS
+[08:51:54]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:52:12]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:52:12]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:52:42]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:52:59]EMOTE: kitten/ : <B>The kitten</B> meows.
+[08:53:05]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:53:11]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:53:11]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:53:15]EMOTE: Ian/ : <B>Ian</B> dances around
+[08:53:17]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[08:53:21]SAY: Ian/ : YAP
+[08:53:29]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[08:53:43]SAY: cat/ : Esp!
+[08:53:49]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:54:09]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:54:11]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:54:17]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:54:27]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:54:35]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[08:54:41]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[08:55:23]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:55:25]SAY: cat/ : Purr!
+[08:55:35]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[08:55:39]SAY: grey baby slime (431)/ : Lonely...
+[08:56:01]EMOTE: Ian/ : <B>Ian</B> dances around
+[08:56:01]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[08:56:03]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:56:34]SAY: grey baby slime (431)/ : Rawr...
+[08:56:38]EMOTE: kitten/ : <B>The kitten</B> meows.
+[08:56:44]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:56:48]DEBUG: Next event of severity Mundane in 17.25 minutes.
+[08:56:48]DEBUG: Starting event 'Trivial News' of severity Mundane.
+[08:56:56]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:56:58]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[08:57:02]SAY: Runtime/ : Esp!
+[08:57:02]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:57:04]EMOTE: kitten/ : <B>The kitten</B> mews.
+[08:57:04]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:57:10]DEBUG: Event 'Trivial News' has completed at 13:48.
+[08:57:14]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[08:57:18]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:57:26]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:57:42]SAY: grey baby slime (431)/ : Blorble...
+[08:58:20]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[08:58:26]EMOTE: kitten/ : <B>The kitten</B> mews.
+[08:58:26]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:58:30]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[08:58:32]EMOTE: cat/ : <B>The cat</B> shivers.
+[08:58:34]EMOTE: kitten/ : <B>The kitten</B> meows.
+[08:58:58]EMOTE: crab/ : <B>The crab</B> clacks.
+[08:59:02]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:59:26]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:59:46]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[08:59:56]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:00:20]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:00:40]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:00:46]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:01:36]SAY: cat/ : Esp!
+[09:01:43]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:01:57]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:02:23]SAY: grey baby slime (431)/ : Must... eat...
+[09:02:29]EMOTE: kitten/ : <B>The kitten</B> meows.
+[09:02:45]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:02:45]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:02:47]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:02:53]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:02:53]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:02:57]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[09:03:05]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[09:03:11]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:03:31]EMOTE: Ian/ : <B>Ian</B> dances around
+[09:03:47]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:04:47]EMOTE: Parrot/ : <B>The Parrot</B> squawks.
+[09:04:59]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:05:01]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:05:05]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:05:43]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:05:47]SAY: kitten/ : Purr!
+[09:05:49]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:05:49]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:05:59]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:06:11]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:06:23]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[09:06:37]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:06:39]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:06:49]EMOTE: kitten/ : <B>The kitten</B> meows.
+[09:06:51]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[09:06:55]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:06:57]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:06:57]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:07:02]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[09:07:10]SAY: grey baby slime (431)/ : Rawr...
+[09:07:24]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:07:26]SAY: Parrot/ : BAWWWWK george mellons griffing me
+[09:07:26]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:07:28]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:07:56]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:08:14]EMOTE: Ian/ : <B>Ian</B> dances around
+[09:08:16]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:08:28]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[09:08:28]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:09:06]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:09:10]SAY: grey baby slime (431)/ : Blorble...
+[09:09:56]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:10:00]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:10:26]EMOTE: crab/ : <B>The crab</B> clicks.
+[09:10:30]SAY: Runtime/ : Esp!
+[09:10:52]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:11:06]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:11:18]EMOTE: Parrot/ : <B>The Parrot</B> bawks.
+[09:11:58]EMOTE: Ian/ : <B>Ian</B> pants.
+[09:12:09]EMOTE: kitten/ : <B>The kitten</B> mews.
+[09:12:09]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:12:09]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:12:19]SAY: grey baby slime (660)/ : Rawr...
+[09:12:23]SAY: Parrot/ : Hi
+[09:12:27]SAY: grey baby slime (660)/ : Must... eat...
+[09:12:49]SAY: kitten/ : Esp!
+[09:12:55]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:13:03]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:13:09]SAY: Parrot/ : Cracker?
+[09:13:11]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[09:13:15]EMOTE: cat/ : <B>The cat</B> mews.
+[09:13:43]SAY: Parrot/ : Hi
+[09:13:51]SAY: kitten/ : Esp!
+[09:13:51]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:13:55]SAY: kitten/ : Meow!
+[09:14:05]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:14:11]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:14:21]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:14:41]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:14:43]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:14:45]SAY: grey baby slime (660)/ : Need... food...
+[09:14:45]SAY: Experiment 97d/ : EHEHEHEHEH
+[09:15:13]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:15:17]DEBUG: Next event of severity Mundane in 16.392 minutes.
+[09:15:17]DEBUG: Starting event 'Trivial News' of severity Mundane.
+[09:15:17]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:15:33]SAY: kitten/ : HSSSSS
+[09:15:33]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:15:37]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[09:15:39]DEBUG: Event 'Trivial News' has completed at 14:06.
+[09:15:53]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:16:07]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:16:15]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:16:23]SAY: grey baby slime (431)/ : Very... hungry...
+[09:16:29]SAY: Parrot/ : Hi
+[09:16:37]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:16:45]SAY: kitten/ : Esp!
+[09:16:47]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[09:16:49]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:16:57]EMOTE: Ian/ : <B>Ian</B> dances around
+[09:17:07]SAY: kitten/ : HSSSSS
+[09:17:33]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[09:17:47]EMOTE: crab/ : <B>The crab</B> clicks.
+[09:17:58]DEBUG: Next event of severity Moderate in 42.208 minutes.
+[09:17:58]DEBUG: Starting event 'Nothing' of severity Moderate.
+[09:18:00]DEBUG: Event 'Nothing' has completed at 14:08.
+[09:18:01]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:18:09]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:18:37]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:18:47]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:19:21]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[09:19:29]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:19:35]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:19:41]EMOTE: Ian/ : <B>Ian</B> dances around
+[09:20:07]EMOTE: cat/ : <B>The cat</B> shivers.
+[09:20:30]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:20:38]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:20:56]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:21:04]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[09:21:20]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:21:24]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:21:32]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:21:34]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:21:44]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:22:04]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:22:04]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:22:10]SAY: cat/ : Meow!
+[09:22:16]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:22:50]SAY: kitten/ : Meow!
+[09:22:58]EMOTE: Parrot/ : <B>The Parrot</B> bawks.
+[09:23:06]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:23:12]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[09:23:32]SAY: Experiment 97d/ : Eh?
+[09:23:36]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:23:40]EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[09:23:42]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:24:07]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:24:17]SAY: grey baby slime (431)/ : Blop...
+[09:24:27]SAY: kitten/ : Purr!
+[09:24:49]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:25:05]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:25:07]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:25:13]EMOTE: Parrot/ : <B>The Parrot</B> squawks.
+[09:25:35]SAY: cat/ : Esp!
+[09:25:35]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:25:39]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:25:47]SAY: Runtime/ : HSSSSS
+[09:26:17]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:26:19]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:26:35]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:26:41]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:27:03]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:27:03]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:27:11]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[09:27:13]SAY: grey baby slime (660)/ : So... hungry...
+[09:27:25]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[09:27:27]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:27:37]SAY: kitten/ : Esp!
+[09:27:43]SAY: kitten/ : Purr!
+[09:27:43]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:27:43]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:27:47]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:27:53]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:27:55]EMOTE: Ian/ : <B>Ian</B> shivers.
+[09:28:07]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:28:21]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:28:37]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:28:45]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[09:28:45]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:28:47]EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[09:28:47]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:28:47]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:28:57]SAY: cat/ : Esp!
+[09:29:11]SAY: kitten/ : HSSSSS
+[09:29:13]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:29:17]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:29:27]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:29:29]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:29:31]SAY: grey baby slime (431)/ : Rawr...
+[09:29:35]EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[09:29:59]SAY: grey baby slime (431)/ : So... hungry...
+[09:30:19]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:30:25]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:30:35]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:30:49]SAY: kitten/ : Esp!
+[09:31:04]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:31:20]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:31:58]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:32:02]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:32:06]SAY: kitten/ : Esp!
+[09:32:28]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:32:44]EMOTE: crab/ : <B>The crab</B> clicks.
+[09:32:49]DEBUG: Next event of severity Mundane in 16.536 minutes.
+[09:32:49]DEBUG: Starting event 'Economic News' of severity Mundane.
+[09:32:54]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:33:12]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:33:52]EMOTE: Ian/ : <B>Ian</B> shivers.
+[09:33:52]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:33:56]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:34:40]EMOTE: kitten/ : <B>The kitten</B> meows.
+[09:34:46]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[09:35:00]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:35:06]SAY: kitten/ : Purr!
+[09:35:08]SAY: Ian/ : YAP
+[09:35:10]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:36:03]SAY: kitten/ : Esp!
+[09:36:45]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:36:57]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:37:01]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:37:35]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:37:39]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[09:37:53]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:38:33]SAY: Runtime/ : Purr!
+[09:38:55]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:38:57]EMOTE: crab/ : <B>The crab</B> clicks.
+[09:39:15]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:39:35]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:39:39]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:39:42]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:39:44]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> shakes its head.
+[09:40:00]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:40:02]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:40:12]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:40:14]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:40:18]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:40:22]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:40:24]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[09:40:52]EMOTE: Runtime/ : <B>Runtime</B> meows.
+[09:41:08]SAY: Ian/ : AUUUUUU
+[09:41:10]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[09:41:12]SAY: Runtime/ : HSSSSS
+[09:41:40]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:41:48]SAY: Experiment 97d/ : EHEHEHEHEH
+[09:41:50]SAY: kitten/ : Esp!
+[09:41:52]SAY: kitten/ : HSSSSS
+[09:42:07]DEBUG: Event 'Economic News' has completed at 14:30.
+[09:42:08]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:42:18]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:42:20]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:42:34]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:42:52]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:42:58]SAY: kitten/ : Meow!
+[09:43:00]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:43:02]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:43:08]EMOTE: kitten/ : <B>The kitten</B> mews.
+[09:43:28]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:43:44]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:43:51]SAY: kitten/ : Esp!
+[09:44:07]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:44:13]SAY: Parrot/ : Hi
+[09:44:37]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[09:44:41]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:45:01]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[09:45:01]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:45:11]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:45:17]EMOTE: Runtime/ : <B>Runtime</B> mews.
+[09:45:27]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:45:55]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:45:57]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:46:19]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:46:43]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[09:47:11]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:47:33]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:47:55]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:48:11]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[09:48:21]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:48:33]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:48:51]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:49:05]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:49:07]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:49:24]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:49:30]EMOTE: kitten/ : <B>The kitten</B> meows.
+[09:49:50]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:50:00]EMOTE: Runtime/ : <B>Runtime</B> mews.
+[09:50:04]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:50:14]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:50:28]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:50:31]DEBUG: Next event of severity Mundane in 12.35 minutes.
+[09:50:31]DEBUG: Starting event 'Trivial News' of severity Mundane.
+[09:50:36]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:50:52]SAY: kitten/ : Meow!
+[09:50:53]DEBUG: Event 'Trivial News' has completed at 14:39.
+[09:51:00]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:51:06]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:51:08]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:51:26]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:51:28]SAY: Experiment 97d/ : EHEHEHEHEH
+[09:51:46]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:51:48]EMOTE: kitten/ : <B>The kitten</B> meows.
+[09:51:48]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:52:00]EMOTE: crab/ : <B>The crab</B> clacks.
+[09:52:12]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:52:22]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:52:45]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:53:15]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:53:19]EMOTE: crab/ : <B>The crab</B> clacks.
+[09:53:25]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:53:33]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:53:37]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:54:09]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:54:27]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:54:29]SAY: kitten/ : Esp!
+[09:54:45]EMOTE: Ian/ : <B>Ian</B> shivers.
+[09:54:49]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:54:51]SAY: cat/ : Meow!
+[09:54:53]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:54:57]SAY: Runtime/ : Meow!
+[09:55:01]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:55:11]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:55:17]SAY: Ian/ : AUUUUUU
+[09:55:25]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:55:37]EMOTE: Ian/ : <B>Ian</B> dances around
+[09:55:41]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[09:55:41]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:55:51]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:56:13]SAY: kitten/ : Esp!
+[09:56:35]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:56:39]EMOTE: kitten/ : <B>The kitten</B> mews.
+[09:56:45]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[09:57:14]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[09:57:44]EMOTE: Ian/ : <B>Ian</B> dances around
+[09:58:28]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:58:30]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:58:50]SAY: Experiment 97d/ : EHEHEHEHEH
+[09:59:13]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[09:59:17]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:59:21]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:59:43]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[09:59:45]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:00:05]SAY: kitten/ : Meow!
+[10:00:13]DEBUG: Next event of severity Major in 71.318 minutes.
+[10:00:13]DEBUG: Starting event 'Nothing' of severity Major.
+[10:00:15]DEBUG: Event 'Nothing' has completed at 14:47.
+[10:00:19]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[10:00:31]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[10:00:33]EMOTE: Ian/ : <B>Ian</B> dances around
+[10:00:35]EMOTE: Parrot/ : <B>The Parrot</B> flutters its wings.
+[10:00:37]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[10:00:57]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:01:05]EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[10:01:09]SAY: Experiment 97d/ : Eh?
+[10:01:23]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:01:31]SAY: Parrot/ : Hi
+[10:01:35]SAY: kitten/ : Purr!
+[10:01:39]SAY: Ian/ : YAP
+[10:01:59]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:02:01]EMOTE: kitten/ : <B>The kitten</B> mews.
+[10:02:05]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:02:29]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:02:29]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:03:05]SAY: kitten/ : Esp!
+[10:03:06]DEBUG: Next event of severity Moderate in 50.044 minutes.
+[10:03:06]DEBUG: Starting event 'Nothing' of severity Moderate.
+[10:03:08]DEBUG: Event 'Nothing' has completed at 14:50.
+[10:03:13]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:03:19]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:03:44]DEBUG: Next event of severity Mundane in 16.472 minutes.
+[10:03:44]DEBUG: Starting event 'Nothing' of severity Mundane.
+[10:03:45]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:03:46]DEBUG: Event 'Nothing' has completed at 14:51.
+[10:03:57]SAY: cat/ : HSSSSS
+[10:04:15]EMOTE: cat/ : <B>The cat</B> shivers.
+[10:04:19]SAY: kitten/ : Purr!
+[10:04:25]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:04:25]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:04:54]EMOTE: Ian/ : <B>Ian</B> dances around
+[10:04:54]EMOTE: Parrot/ : <B>The Parrot</B> bawks.
+[10:04:58]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:05:00]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[10:05:00]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:05:08]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:05:14]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:05:24]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:05:36]EMOTE: Ian/ : <B>Ian</B> dances around
+[10:06:14]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:06:40]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:06:58]SAY: kitten/ : Meow!
+[10:07:08]SAY: kitten/ : Meow!
+[10:07:20]SAY: kitten/ : Esp!
+[10:07:32]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:07:40]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:08:02]SAY: kitten/ : HSSSSS
+[10:08:02]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:08:46]EMOTE: crab/ : <B>The crab</B> clacks.
+[10:08:46]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:08:55]SAY: Parrot/ : Hi
+[10:09:19]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:09:27]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:09:33]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:09:35]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:09:47]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[10:09:55]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:10:05]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:10:07]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:10:37]EMOTE: Ian/ : <B>Ian</B> dances around
+[10:10:57]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:11:05]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:11:10]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:11:14]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:11:22]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:11:34]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:11:48]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:11:58]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:12:07]VOTE: Crew_transfer vote started by the server.
+[10:12:07]DEBUG: The server has called a crew transfer vote
+[10:12:20]SAY: kitten/ : HSSSSS
+[10:12:20]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:12:26]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:12:30]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:12:54]EMOTE: crab/ : <B>The crab</B> clicks.
+[10:12:54]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:13:15]VOTE: <b>Vote Result: Inconclusive - No Votes!</b>
+[10:13:20]EMOTE: kitten/ : <B>The kitten</B> mews.
+[10:13:26]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:13:44]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:13:54]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:14:38]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[10:14:44]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:15:06]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:15:14]EMOTE: crab/ : <B>The crab</B> clacks.
+[10:15:16]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:15:48]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:15:50]SAY: kitten/ : Purr!
+[10:15:54]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:16:00]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:16:14]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:16:42]EMOTE: Ian/ : <B>Ian</B> dances around
+[10:16:46]EMOTE: Ian/ : <B>Ian</B> shakes its head.
+[10:17:12]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:17:20]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:17:36]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:17:54]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[10:18:08]SAY: Parrot/ : Hi
+[10:18:18]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[10:18:51]EMOTE: kitten/ : <B>The kitten</B> meows.
+[10:18:53]SAY: kitten/ : Meow!
+[10:18:57]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[10:19:15]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:19:19]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:19:27]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:19:35]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:19:49]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:20:03]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:20:17]EMOTE: cat/ : <B>The cat</B> mews.
+[10:20:21]SAY: kitten/ : Meow!
+[10:20:21]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:20:21]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:20:59]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:21:03]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:21:28]DEBUG: Next event of severity Mundane in 13.72 minutes.
+[10:21:28]DEBUG: Starting event 'Mundane News' of severity Mundane.
+[10:21:37]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:21:43]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:21:50]DEBUG: Event 'Mundane News' has completed at 15:08.
+[10:21:53]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:22:01]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[10:22:05]EMOTE: kitten/ : <B>The kitten</B> mews.
+[10:22:27]EMOTE: crab/ : <B>The crab</B> clicks.
+[10:22:29]SAY: kitten/ : Purr!
+[10:22:47]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[10:22:57]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:23:01]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:23:13]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[10:23:48]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:23:56]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:24:02]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[10:24:10]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:24:16]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:24:24]SAY: Parrot/ : Cracker?
+[10:24:50]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:24:52]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:25:10]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:25:24]SAY: Experiment 97d/ : Eh?
+[10:25:24]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:25:30]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:25:42]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:25:44]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:25:50]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:26:04]SAY: kitten/ : Esp!
+[10:26:08]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:26:14]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:26:34]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:26:38]SAY: Parrot/ : Hi
+[10:26:40]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:26:56]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:27:11]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:27:20]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[10:27:33]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:27:37]EMOTE: Ian/ : <B>Ian</B> dances around
+[10:27:49]EMOTE: Ian/ : <B>Ian</B> barks.
+[10:28:13]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:28:27]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:28:29]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:29:05]SAY: cat/ : Meow!
+[10:29:39]EMOTE: Ian/ : <B>Ian</B> dances around
+[10:29:39]EMOTE: kitten/ : <B>The kitten</B> mews.
+[10:29:43]SAY: Parrot/ : Hi
+[10:30:27]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:30:47]EMOTE: Ian/ : <B>Ian</B> dances around
+[10:31:03]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:31:11]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:31:13]EMOTE: Runtime/ : <B>Runtime</B> shakes their head.
+[10:31:25]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:31:55]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[10:32:21]SAY: kitten/ : Esp!
+[10:32:43]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:32:53]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:33:07]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[10:33:07]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:33:23]EMOTE: Ian/ : <B>Ian</B> dances around
+[10:33:41]SAY: Parrot/ : Hi
+[10:33:43]EMOTE: Runtime/ : <B>Runtime</B> mews.
+[10:33:51]EMOTE: Ian/ : <B>Ian</B> pants.
+[10:33:51]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[10:33:55]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:34:16]EMOTE: kitten/ : <B>The kitten</B> meows.
+[10:34:28]EMOTE: Ian/ : <B>Ian</B> dances around
+[10:34:28]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:34:56]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:35:04]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:35:18]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:35:22]SAY: kitten/ : Purr!
+[10:36:01]EMOTE: cat/ : <B>The cat</B> mews.
+[10:36:07]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:36:09]DEBUG: Next event of severity Mundane in 16.852 minutes.
+[10:36:09]DEBUG: Starting event 'Economic News' of severity Mundane.
+[10:36:33]EMOTE: crab/ : <B>The crab</B> clacks.
+[10:36:39]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:36:43]SAY: cat/ : Purr!
+[10:37:33]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:37:39]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[10:37:55]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:38:01]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:38:03]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:38:19]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:38:25]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:38:30]EMOTE: crab/ : <B>The crab</B> clicks.
+[10:39:00]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:39:12]EMOTE: Runtime/ : <B>Runtime</B> meows.
+[10:39:58]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:40:02]EMOTE: Ian/ : <B>Ian</B> shakes its head.
+[10:40:18]EMOTE: crab/ : <B>The crab</B> clacks.
+[10:40:24]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:40:26]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:40:32]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:40:49]SAY: Runtime/ : Purr!
+[10:40:50]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:41:01]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:41:05]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[10:41:09]EMOTE: Parrot/ : <B>The Parrot</B> squawks.
+[10:41:15]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:41:35]SAY: Runtime/ : Purr!
+[10:41:45]EMOTE: crab/ : <B>The crab</B> clacks.
+[10:41:53]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:42:07]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:42:29]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:42:31]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:42:41]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:42:51]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:42:53]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:43:13]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:43:33]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:43:52]SAY: kitten/ : Purr!
+[10:43:58]EMOTE: Runtime/ : <B>Runtime</B> shakes their head.
+[10:43:58]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:44:38]EMOTE: cat/ : <B>The cat</B> meows.
+[10:44:46]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:44:54]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:45:11]DEBUG: Event 'Economic News' has completed at 15:29.
+[10:45:22]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:45:30]SAY: kitten/ : Esp!
+[10:45:32]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:45:50]SAY: cat/ : HSSSSS
+[10:46:00]SAY: cat/ : Esp!
+[10:46:04]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[10:46:22]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:46:32]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[10:49:11]SAY: cat/ : HSSSSS
+[10:49:17]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:49:25]SAY: Parrot/ : Hi
+[10:49:45]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:50:20]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:50:48]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[10:50:52]EMOTE: kitten/ : <B>The kitten</B> meows.
+[10:51:06]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[10:51:12]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:51:16]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:51:26]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:51:52]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:52:00]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:52:12]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:52:20]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:52:24]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:52:26]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[10:52:28]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:53:13]SAY: Ian/ : YAP
+[10:53:17]SAY: Runtime/ : Esp!
+[10:53:19]SAY: Runtime/ : Esp!
+[10:53:25]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:53:29]SAY: kitten/ : HSSSSS
+[10:53:51]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:54:01]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:54:05]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:54:07]DEBUG: Next event of severity Mundane in 17.154 minutes.
+[10:54:07]DEBUG: Starting event 'Trivial News' of severity Mundane.
+[10:54:17]EMOTE: Ian/ : <B>Ian</B> dances around
+[10:54:28]DEBUG: Event 'Trivial News' has completed at 15:38.
+[10:54:37]SAY: Runtime/ : HSSSSS
+[10:54:47]EMOTE: Ian/ : <B>Ian</B> barks.
+[10:55:13]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:55:27]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:55:35]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:55:49]EMOTE: cat/ : <B>The cat</B> meows.
+[10:56:16]SAY: Runtime/ : Purr!
+[10:56:16]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:56:18]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:56:20]EMOTE: Ian/ : <B>Ian</B> shakes its head.
+[10:56:20]SAY: cat/ : HSSSSS
+[10:56:36]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:56:38]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[10:56:40]DEBUG: Next event of severity Moderate in 47.356 minutes.
+[10:56:40]DEBUG: Starting event 'Space vines' of severity Moderate.
+[10:56:42]DEBUG: Event 'Space vines' has completed at 15:40.
+[10:56:45]EMOTE: crab/ : <B>The crab</B> clacks.
+[10:56:49]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:57:05]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:57:29]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:57:37]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[10:57:41]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[10:57:41]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:58:03]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:58:11]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:58:15]EMOTE: crab/ : <B>The crab</B> clicks.
+[10:58:39]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[10:58:45]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[10:58:49]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:59:11]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:59:38]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[10:59:46]SAY: cat/ : Meow!
+[10:59:52]EMOTE: crab/ : <B>The crab</B> clicks.
+[11:00:16]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[11:00:26]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:00:32]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:00:48]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:01:26]SAY: kitten/ : Esp!
+[11:01:36]SAY: kitten/ : Meow!
+[11:01:36]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:01:50]SAY: cat/ : Esp!
+[11:02:03]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:02:15]EMOTE: Ian/ : <B>Ian</B> dances around
+[11:02:31]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:02:43]EMOTE: Ian/ : <B>Ian</B> dances around
+[11:02:43]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:02:59]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:03:03]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[11:03:29]SAY: kitten/ : HSSSSS
+[11:03:41]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:03:43]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:03:45]SAY: Ian/ : AUUUUUU
+[11:04:05]EMOTE: Ian/ : <B>Ian</B> yaps.
+[11:04:45]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:04:57]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:05:15]SAY: kitten/ : HSSSSS
+[11:05:42]EMOTE: kitten/ : <B>The kitten</B> mews.
+[11:05:50]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:05:58]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:06:00]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:06:42]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:07:00]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:07:06]SAY: kitten/ : Esp!
+[11:07:06]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:07:22]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> shakes its head.
+[11:07:41]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:07:59]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:08:03]SAY: cat/ : Esp!
+[11:08:21]EMOTE: Ian/ : <B>Ian</B> dances around
+[11:08:35]SAY: kitten/ : Esp!
+[11:08:53]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:09:05]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[11:09:31]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[11:09:49]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:09:57]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:09:57]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:10:09]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:10:17]SAY: kitten/ : Esp!
+[11:10:33]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[11:10:41]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[11:10:47]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:11:10]SAY: Parrot/ : Hi
+[11:11:24]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:12:12]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:12:26]DEBUG: Next event of severity Mundane in 14.438 minutes.
+[11:12:26]DEBUG: Starting event 'Money Hacker' of severity Mundane.
+[11:12:30]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:12:32]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:12:48]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:13:32]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:14:04]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:14:09]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:14:19]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:14:45]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:14:55]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:15:01]EMOTE: Ian/ : <B>Ian</B> dances around
+[11:15:01]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:15:03]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:15:09]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:15:29]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:15:33]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[11:15:49]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:16:13]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:16:14]VOTE: Crew_transfer vote started by the server.
+[11:16:14]DEBUG: The server has called a crew transfer vote
+[11:16:24]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:16:28]DEBUG: Next event of severity Major in 80.844 minutes.
+[11:16:28]DEBUG: Starting event 'Nothing' of severity Major.
+[11:16:30]DEBUG: Event 'Nothing' has completed at 15:59.
+[11:16:42]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:16:48]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:16:56]EMOTE: crab/ : <B>The crab</B> clacks.
+[11:17:02]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:17:04]EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[11:17:10]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:17:20]VOTE: <b>Vote Result: Inconclusive - No Votes!</b>
+[11:17:52]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:18:08]SAY: cat/ : Purr!
+[11:18:14]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:18:52]SAY: Parrot/ : Hi
+[11:19:06]SAY: kitten/ : Purr!
+[11:19:06]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:19:24]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:20:11]EMOTE: crab/ : <B>The crab</B> clicks.
+[11:20:19]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:20:31]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:20:41]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[11:20:41]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:21:03]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:21:19]EMOTE: Ian/ : <B>Ian</B> dances around
+[11:21:23]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:21:25]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[11:21:25]EMOTE: crab/ : <B>The crab</B> clicks.
+[11:21:31]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[11:21:33]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:21:39]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:21:47]SAY: Runtime/ : HSSSSS
+[11:21:47]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:21:55]EMOTE: Ian/ : <B>Ian</B> yaps.
+[11:21:59]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> shakes its head.
+[11:22:53]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:22:53]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:23:03]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:23:06]DEBUG: Event 'Money Hacker' has completed at 16:05.
+[11:23:07]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:23:20]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:23:40]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:23:58]SAY: cat/ : Purr!
+[11:24:08]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:24:12]SAY: Runtime/ : Meow!
+[11:24:12]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[11:24:16]EMOTE: cat/ : <B>The cat</B> shivers.
+[11:24:18]SAY: kitten/ : Meow!
+[11:24:24]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:24:32]SAY: cat/ : Purr!
+[11:24:48]EMOTE: Ian/ : <B>Ian</B> dances around
+[11:24:48]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[11:24:58]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:25:14]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[11:25:28]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:25:59]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:26:27]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:26:45]EMOTE: Ian/ : <B>Ian</B> dances around
+[11:26:59]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:27:05]SAY: Ian/ : Woof!
+[11:27:13]EMOTE: crab/ : <B>The crab</B> clicks.
+[11:27:21]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[11:27:50]DEBUG: Next event of severity Mundane in 13.712 minutes.
+[11:27:50]DEBUG: Starting event 'Nothing' of severity Mundane.
+[11:27:52]DEBUG: Event 'Nothing' has completed at 16:09.
+[11:27:56]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:28:00]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:28:12]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:28:14]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[11:29:16]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:29:42]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:29:52]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:29:58]EMOTE: Parrot/ : <B>The Parrot</B> bawks.
+[11:30:02]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:30:16]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:30:40]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:31:12]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:31:43]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:31:59]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:32:05]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:32:27]EMOTE: crab/ : <B>The crab</B> clicks.
+[11:32:39]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:33:03]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:33:52]SAY: Ian/ : YAP
+[11:34:06]SAY: cat/ : Esp!
+[11:34:10]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[11:34:16]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:34:28]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:34:34]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:35:08]EMOTE: cat/ : <B>The cat</B> shivers.
+[11:35:12]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:35:16]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:35:18]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:35:22]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:35:27]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:35:33]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[11:35:47]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[11:35:53]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:36:11]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:36:45]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:36:53]EMOTE: cat/ : <B>The cat</B> meows.
+[11:37:03]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:37:05]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:37:26]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:37:34]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:37:58]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:38:46]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[11:38:46]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:39:02]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:39:31]SAY: kitten/ : HSSSSS
+[11:39:31]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:39:35]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[11:39:43]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:40:27]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:40:33]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:40:55]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[11:41:03]SAY: Runtime/ : Esp!
+[11:41:21]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:41:24]EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[11:41:26]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:41:30]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:41:32]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:41:38]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:42:10]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:42:33]EMOTE: kitten/ : <B>The kitten</B> meows.
+[11:42:37]DEBUG: Next event of severity Mundane in 15.8 minutes.
+[11:42:37]DEBUG: Starting event 'Mundane News' of severity Mundane.
+[11:42:37]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:42:59]DEBUG: Event 'Mundane News' has completed at 16:23.
+[11:43:07]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:43:09]SAY: kitten/ : Meow!
+[11:43:09]EMOTE: crab/ : <B>The crab</B> clacks.
+[11:43:09]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:43:11]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[11:43:13]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[11:43:15]EMOTE: crab/ : <B>The crab</B> clicks.
+[11:43:45]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:43:53]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:43:57]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:43:59]EMOTE: Ian/ : <B>Ian</B> dances around
+[11:43:59]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:44:01]SAY: kitten/ : Meow!
+[11:44:09]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:44:44]EMOTE: Parrot/ : <B>The Parrot</B> bawks.
+[11:44:44]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:45:00]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:45:12]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[11:45:40]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:45:42]EMOTE: Ian/ : <B>Ian</B> dances around
+[11:45:46]EMOTE: kitten/ : <B>The kitten</B> mews.
+[11:46:18]SAY: cat/ : Purr!
+[11:46:30]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:46:41]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:47:19]DEBUG: Next event of severity Moderate in 46.948 minutes.
+[11:47:19]DEBUG: Starting event 'Communication Blackout' of severity Moderate.
+[11:47:21]DEBUG: Event 'Communication Blackout' has completed at 16:28.
+[11:47:25]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:47:37]EMOTE: cat/ : <B>The cat</B> mews.
+[11:47:53]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:48:05]EMOTE: Ian/ : <B>Ian</B> pants.
+[11:48:21]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[11:48:32]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:48:44]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:49:38]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:49:48]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:50:05]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:50:11]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:50:51]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:50:59]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[11:51:29]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[11:51:37]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:51:55]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:52:01]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[11:52:29]SAY: cat/ : HSSSSS
+[11:52:49]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:52:53]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:53:05]EMOTE: kitten/ : <B>The kitten</B> mews.
+[11:53:07]EMOTE: kitten/ : <B>The kitten</B> mews.
+[11:53:37]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:53:49]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:53:55]SAY: kitten/ : Meow!
+[11:54:01]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:54:05]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:54:11]SAY: cat/ : Esp!
+[11:54:33]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:54:42]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:55:06]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:55:32]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:56:06]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:56:10]SAY: kitten/ : HSSSSS
+[11:56:24]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:56:36]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:56:54]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:56:56]SAY: Parrot/ : Hi
+[11:57:00]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:57:06]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:57:14]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:57:39]EMOTE: crab/ : <B>The crab</B> clacks.
+[11:57:55]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:59:03]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:59:05]EMOTE: cat/ : <B>The cat</B> shivers.
+[11:59:17]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:59:26]DEBUG: Next event of severity Mundane in 15.658 minutes.
+[11:59:26]DEBUG: Starting event 'Mundane News' of severity Mundane.
+[11:59:34]EMOTE: cat/ : <B>The cat</B> shivers.
+[11:59:34]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:59:46]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[11:59:48]DEBUG: Event 'Mundane News' has completed at 16:39.
+[12:00:04]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:00:04]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:00:10]SAY: Parrot/ : Hi
+[12:00:32]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:00:34]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[12:00:50]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:00:52]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:01:02]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:01:08]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:01:12]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:01:41]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:01:47]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:01:49]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:01:55]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:01:59]SAY: kitten/ : Meow!
+[12:02:07]EMOTE: Parrot/ : <B>The Parrot</B> flutters its wings.
+[12:02:17]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:02:29]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:02:47]SAY: kitten/ : Esp!
+[12:03:01]EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[12:03:15]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[12:03:17]SAY: cat/ : Esp!
+[12:03:23]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:03:42]EMOTE: Ian/ : <B>Ian</B> barks.
+[12:03:44]EMOTE: Ian/ : <B>Ian</B> dances around
+[12:04:02]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[12:04:08]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:04:20]SAY: kitten/ : Purr!
+[12:04:20]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:04:42]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:05:08]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:05:22]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[12:05:26]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:05:36]EMOTE: Parrot/ : <B>The Parrot</B> bawks.
+[12:05:53]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:05:57]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:05:59]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:06:03]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[12:06:09]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:06:17]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:06:25]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:06:35]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:06:41]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[12:07:32]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:07:42]SAY: cat/ : Esp!
+[12:07:42]SAY: kitten/ : Esp!
+[12:07:48]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[12:07:52]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:08:33]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[12:08:33]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:08:59]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:09:13]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:09:17]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:09:27]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:09:45]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:10:46]EMOTE: Parrot/ : <B>The Parrot</B> flutters its wings.
+[12:10:46]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:11:12]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:11:30]SAY: cat/ : Purr!
+[12:11:34]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:11:38]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:11:43]SAY: Runtime/ : Purr!
+[12:11:51]EMOTE: cat/ : <B>The cat</B> mews.
+[12:11:57]EMOTE: crab/ : <B>The crab</B> clacks.
+[12:12:29]EMOTE: Ian/ : <B>Ian</B> dances around
+[12:12:35]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[12:12:35]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:12:45]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:12:47]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[12:12:49]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:13:11]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:13:52]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:13:54]EMOTE: Ian/ : <B>Ian</B> woofs.
+[12:13:58]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:14:12]SAY: cat/ : Esp!
+[12:14:16]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[12:14:26]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:14:46]SAY: Runtime/ : HSSSSS
+[12:14:48]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:15:14]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[12:15:22]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:15:30]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:15:34]EMOTE: Ian/ : <B>Ian</B> dances around
+[12:15:36]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:15:43]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:16:05]SAY: Experiment 97d/ : EHEHEHEHEH
+[12:16:07]DEBUG: Next event of severity Mundane in 17.33 minutes.
+[12:16:07]DEBUG: Starting event 'Mundane News' of severity Mundane.
+[12:16:21]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:16:28]DEBUG: Event 'Mundane News' has completed at 16:55.
+[12:16:35]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:16:37]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:17:28]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[12:17:36]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:17:52]EMOTE: Ian/ : <B>Ian</B> yaps.
+[12:18:02]SAY: kitten/ : Purr!
+[12:18:19]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[12:18:27]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:18:31]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[12:19:07]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:19:19]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[12:19:21]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:19:35]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[12:19:39]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:19:41]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:19:43]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[12:20:15]VOTE: Crew_transfer vote started by the server.
+[12:20:15]DEBUG: The server has called a crew transfer vote
+[12:20:25]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:20:41]EMOTE: kitten/ : <B>The kitten</B> meows.
+[12:20:53]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[12:20:57]SAY: Runtime/ : Meow!
+[12:21:05]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:21:19]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:21:20]VOTE: <b>Vote Result: Inconclusive - No Votes!</b>
+[12:21:25]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:21:38]EMOTE: kitten/ : <B>The kitten</B> meows.
+[12:21:44]EMOTE: Parrot/ : <B>The Parrot</B> bawks.
+[12:22:06]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[12:22:12]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:22:14]EMOTE: Ian/ : <B>Ian</B> woofs.
+[12:22:20]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:22:22]SAY: kitten/ : Esp!
+[12:22:22]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:22:28]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:22:32]EMOTE: Ian/ : <B>Ian</B> dances around
+[12:22:40]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:22:42]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:22:48]SAY: Runtime/ : Purr!
+[12:22:48]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[12:23:01]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:23:07]EMOTE: crab/ : <B>The crab</B> clicks.
+[12:23:29]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:25:00]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:25:08]SAY: Ian/ : AUUUUUU
+[12:25:30]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[12:25:48]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:26:06]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:26:34]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:26:51]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:26:55]SAY: Runtime/ : Esp!
+[12:26:55]EMOTE: crab/ : <B>The crab</B> clacks.
+[12:27:11]EMOTE: kitten/ : <B>The kitten</B> mews.
+[12:27:27]SAY: Runtime/ : Purr!
+[12:27:45]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:27:51]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:27:59]SAY: Ian/ : YAP
+[12:28:10]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[12:28:14]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:28:24]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:28:26]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:28:30]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:28:36]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:29:22]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:29:28]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:29:36]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[12:29:42]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:30:10]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:30:20]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[12:30:26]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:30:49]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:30:59]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:31:17]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:31:21]SAY: kitten/ : Esp!
+[12:31:53]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:32:13]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:32:44]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:33:20]EMOTE: Parrot/ : <B>The Parrot</B> flutters its wings.
+[12:33:20]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:33:22]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:33:26]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:33:57]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:34:07]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:34:19]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:34:31]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:34:33]EMOTE: cat/ : <B>The cat</B> meows.
+[12:34:35]DEBUG: Next event of severity Mundane in 13.64 minutes.
+[12:34:35]DEBUG: Starting event 'Trivial News' of severity Mundane.
+[12:34:35]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:34:39]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:34:49]EMOTE: crab/ : <B>The crab</B> clacks.
+[12:34:56]DEBUG: Event 'Trivial News' has completed at 17:12.
+[12:34:59]SAY: Parrot/ : Hi
+[12:35:42]EMOTE: Ian/ : <B>Ian</B> yaps.
+[12:35:56]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:36:06]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:36:12]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:36:22]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:36:32]SAY: kitten/ : HSSSSS
+[12:36:32]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:37:11]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:37:17]DEBUG: Next event of severity Moderate in 42.67 minutes.
+[12:37:17]DEBUG: Starting event 'Carp School' of severity Moderate.
+[12:37:29]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:38:09]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:38:37]SAY: kitten/ : Meow!
+[12:38:46]EMOTE: crab/ : <B>The crab</B> clacks.
+[12:38:52]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:39:04]EMOTE: kitten/ : <B>The kitten</B> meows.
+[12:39:34]SAY: kitten/ : Purr!
+[12:39:36]SAY: cat/ : HSSSSS
+[12:39:38]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:39:48]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:39:58]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:40:04]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:40:51]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:41:05]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:41:21]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:41:23]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[12:41:23]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:41:29]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:41:31]EMOTE: cat/ : <B>The cat</B> mews.
+[12:41:35]SAY: kitten/ : Purr!
+[12:41:49]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:41:53]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:42:01]EMOTE: cat/ : <B>The cat</B> meows.
+[12:42:22]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[12:42:24]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:42:41]DEBUG: Next event of severity Major in 80.886 minutes.
+[12:42:41]DEBUG: Starting event 'Nothing' of severity Major.
+[12:42:43]DEBUG: Event 'Nothing' has completed at 17:20.
+[12:43:07]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:43:19]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:43:21]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:43:47]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:43:57]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:43:59]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[12:44:07]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:44:23]EMOTE: kitten/ : <B>The kitten</B> mews.
+[12:44:27]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:44:31]SAY: Runtime/ : Meow!
+[12:44:39]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:44:45]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[12:44:47]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:44:57]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:44:59]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:45:05]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:45:50]SAY: cat/ : Meow!
+[12:45:52]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:46:24]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:46:58]EMOTE: Parrot/ : <B>The Parrot</B> flutters its wings.
+[12:47:15]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:47:27]SAY: kitten/ : Esp!
+[12:47:29]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:47:37]EMOTE: kitten/ : <B>The kitten</B> meows.
+[12:47:39]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:47:41]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[12:47:41]EMOTE: kitten/ : <B>The kitten</B> mews.
+[12:47:47]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:47:55]EMOTE: crab/ : <B>The crab</B> clicks.
+[12:48:09]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:48:11]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:48:37]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[12:48:45]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:48:59]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:49:01]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[12:49:06]DEBUG: Next event of severity Mundane in 15.548 minutes.
+[12:49:06]DEBUG: Starting event 'Economic News' of severity Mundane.
+[12:49:18]SAY: Experiment 97d/ : Eh?
+[12:49:40]SAY: cat/ : Esp!
+[12:49:42]EMOTE: Ian/ : <B>Ian</B> dances around
+[12:50:06]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:50:36]SAY: kitten/ : Purr!
+[12:50:49]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:50:49]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:50:51]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[12:50:59]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:51:05]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:51:37]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:51:51]SAY: kitten/ : Meow!
+[12:51:56]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:52:00]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:52:20]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:52:22]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:52:24]EMOTE: Ian/ : <B>Ian</B> woofs.
+[12:52:24]EMOTE: crab/ : <B>The crab</B> clacks.
+[12:53:06]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:53:15]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:53:55]SAY: kitten/ : Meow!
+[12:53:59]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:54:18]DEBUG: Event 'Economic News' has completed at 17:31.
+[12:54:36]EMOTE: crab/ : <B>The crab</B> clacks.
+[12:54:48]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:54:56]EMOTE: crab/ : <B>The crab</B> clicks.
+[12:55:00]SAY: cat/ : HSSSSS
+[12:55:00]EMOTE: kitten/ : <B>The kitten</B> mews.
+[12:55:00]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:55:02]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:55:08]EMOTE: crab/ : <B>The crab</B> clacks.
+[12:55:22]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:55:26]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:55:28]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:55:32]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:55:48]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:55:59]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:56:01]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[12:56:13]EMOTE: Runtime/ : <B>Runtime</B> mews.
+[12:56:31]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:56:41]SAY: cat/ : Esp!
+[12:56:51]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:57:38]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:58:10]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:58:32]EMOTE: Parrot/ : <B>The Parrot</B> bawks.
+[12:58:36]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:58:55]EMOTE: cat/ : <B>The cat</B> meows.
+[12:59:03]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[12:59:03]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[12:59:09]EMOTE: crab/ : <B>The crab</B> clacks.
+[12:59:35]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[13:00:05]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[13:00:21]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[13:00:25]EMOTE: cat/ : <B>The cat</B> mews.
+[13:00:39]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[13:00:45]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[13:00:52]EMOTE: kitten/ : <B>The kitten</B> meows.
+[13:01:41]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[13:01:43]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[13:01:51]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[13:01:57]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[13:01:57]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[13:02:43]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[13:02:51]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[13:03:07]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[13:03:21]SAY: Ian/ : YAP
+[13:03:37]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[13:03:41]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[13:03:46]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[13:03:48]SAY: kitten/ : Esp!
+[13:03:48]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[13:03:52]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[13:03:58]SAY: Runtime/ : Purr!
+[13:04:28]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[13:04:38]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[13:04:40]SAY: Runtime/ : HSSSSS
+[13:05:02]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[13:05:11]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[13:05:17]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[13:05:35]SAY: Experiment 97d/ : Eh?
+[13:05:37]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[13:05:39]DEBUG: Next event of severity Mundane in 12.44 minutes.
+[13:05:39]DEBUG: Starting event 'Economic News' of severity Mundane.
+[13:05:41]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[13:05:45]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[13:05:47]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[13:05:51]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[13:05:53]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[13:05:55]SAY: Experiment 97d/ : Eh?
+[13:06:11]EMOTE: kitten/ : <B>The kitten</B> mews.
+[13:06:19]EMOTE: Ian/ : <B>Ian</B> dances around
+[13:06:37]EMOTE: giant spider/ : <B>The giant spider</B> chitters.
+[13:07:00]ACCESS: Logout: Cassy_jenelle/(Camile Crafter)
+
+
+Starting up. 19:20.50
+---------------------
+[19:21:45]ADMIN: Loading jobban_rank
+[19:21:45]ADMIN: jobban_keylist was empty
+[19:21:45]ADMIN: Loading Banlist
+[19:21:47]DEBUG: Rebuilding Master Controller
+[21:11:43]VOTE: Gamemode vote started by the server.
+[21:11:43]DEBUG: The server has called a gamemode vote
+[21:12:43]DEBUG: The server has called a gamemode vote
+[21:12:43]VOTE: <b>Vote Result: Inconclusive - No Votes!</b>
+[21:14:09]DEBUG: Next event of severity Mundane in 15.988 minutes.
+[21:14:09]DEBUG: Next event of severity Moderate in 41.218 minutes.
+[21:14:09]DEBUG: Next event of severity Major in 90.305 minutes.
+[21:14:54]EMOTE: kitten/ : <B>The kitten</B> meows.
+[21:15:04]EMOTE: Parrot/ : <B>The Parrot</B> turns and flies towards the deck of cards
+[21:15:14]SAY: Tom (546)/ : SQUEEK!
+[21:16:06]EMOTE: Tom (110)/ : <B>Tom (110)</B> squeaks.
+[21:16:20]SAY: cat/ : Meow!
+[21:16:22]SAY: kitten/ : Esp!
+[21:17:00]SAY: grey baby slime (645)/ : Blorble...
+[21:17:14]EMOTE: mouse (634)/ : <B>The mouse (634)</B> runs in a circle.
+[21:17:14]SAY: Tom (110)/ : Squeek?
+[21:17:24]SAY: grey baby slime (467)/ : Blorble...
+[21:17:38]SAY: mouse (225)/ : Squeek!
+[21:18:32]EMOTE: Ian/ : <B>Ian</B> dances around
+[21:19:14]SAY: kitten/ : Esp!
+[21:19:54]EMOTE: mouse (711)/ : <B>The mouse (711)</B> shakes.
+[21:20:22]EMOTE: kitten/ : <B>The kitten</B> meows.
+[21:20:38]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[21:20:58]SAY: Experiment 97d/ : Eh?

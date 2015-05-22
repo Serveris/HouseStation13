@@ -1,0 +1,1383 @@
+
+
+Starting up. 22:07.36
+---------------------
+[22:07:45]ADMIN: Loading jobban_rank
+[22:07:45]ADMIN: jobban_keylist was empty
+[22:07:45]ADMIN: Loading Banlist
+[22:07:47]DEBUG: Rebuilding Master Controller
+[23:03:14]ACCESS: Login: Cassy_jenelle/(Cassy_jenelle) from 127.0.0.1-1964287214 || BYOND v506
+[23:03:53]VOTE: Gamemode vote started by the server.
+[23:03:53]DEBUG: The server has called a gamemode vote
+[23:04:54]DEBUG: The server has called a gamemode vote
+[23:04:54]VOTE: <b>Vote Result: Inconclusive - No Votes!</b>
+[23:05:09]ADMIN: Cassy_jenelle has started the game.
+[23:05:10]ACCESS: Logout: *no key*/(Cassy_jenelle)
+[23:05:10]ACCESS: Login: Cassy_jenelle/(Camile Crafter) from 127.0.0.1-1964287214 || BYOND v506
+[23:05:14]EMOTE: mouse (691)/ : <B>The mouse (691)</B> shakes.
+[23:05:14]EMOTE: bear/ : <B>The bear</B> stares alertly at the samak
+[23:05:14]EMOTE: bear/ : <B>The bear</B> closely watches the samak
+[23:05:14]EMOTE: bear/ : <B>The bear</B> stares alertly at the diyaab
+[23:05:14]EMOTE: bear/ : <B>The bear</B> prepares to attack the diyaab
+[23:05:14]EMOTE: bear/ : <B>The bear</B> stares alertly at the shantak
+[23:05:14]EMOTE: bear/ : <B>The bear</B> closely watches the shantak
+[23:05:16]DEBUG: Next event of severity Mundane in 17.154 minutes.
+[23:05:16]DEBUG: Next event of severity Moderate in 46.916 minutes.
+[23:05:16]DEBUG: Next event of severity Major in 83.7167 minutes.
+[23:05:16]SAY: samak/ : Hruuugh!
+[23:05:21]SAY: mouse (819)/ : SQUEEK!
+[23:05:21]SAY: diyaab/ : Aowrl!
+[23:05:21]EMOTE: bear/ : <B>The bear</B> growls at the samak
+[23:05:21]EMOTE: bear/ : <B>The bear</B> growls at the diyaab
+[23:05:21]EMOTE: bear/ : <B>The bear</B> closely watches the shantak
+[23:05:21]SAY: shantak/ : Shuhn
+[23:05:23]EMOTE: Parrot/ : <B>The Parrot</B> turns and flies towards the deck of cards
+[23:05:27]EMOTE: bear/ : <B>The bear</B> closely watches the samak
+[23:05:27]EMOTE: bear/ : <B>The bear</B> closely watches the diyaab
+[23:05:27]EMOTE: samak/ : <B>The samak</B> stomps.
+[23:05:27]SAY: shantak/ : Shunpf
+[23:05:31]EMOTE: bear/ : <B>The bear</B> bites the diyaab
+[23:05:35]EMOTE: diyaab/ : <B>The diyaab</B> sniffs the air cautiously.
+[23:05:41]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[23:05:41]SAY: samak/ : Hrunnph
+[23:05:45]EMOTE: diyaab/ : <B>The diyaab</B> sniffs the air cautiously.
+[23:05:45]SAY: samak/ : Hruuugh!
+[23:05:51]SAY: diyaab/ : Aowrl!
+[23:05:51]EMOTE: shantak/ : <B>The shantak</B> shakes out it's mane.
+[23:05:53]SAY: samak/ : Hrunnph
+[23:05:59]ADMIN: Cassy_jenelle/(Camile Crafter) spawned /obj/machinery/door/airlock at (114,167,9)
+[23:05:59]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[23:05:59]SAY: samak/ : Hrunnph
+[23:06:01]SAY: samak/ : Hrunnph
+[23:06:04]ADMIN: Cassy_jenelle/(Camile Crafter) spawned /obj/item/housekey at (114,166,9)
+[23:06:05]EMOTE: Tom (908)/ : <B>Tom (908)</B> runs in a circle.
+[23:06:13]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[23:06:13]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[23:06:15]EMOTE: shantak/ : <B>The shantak</B> tinkles gently.
+[23:06:17]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[23:06:21]EMOTE: samak/ : <B>The samak</B> stomps.
+[23:06:25]SAY: shantak/ : Shuhn
+[23:06:27]ADMIN: Cassy_jenelle/(Camile Crafter) modified House Keys's id to test
+[23:06:29]SAY: grey baby slime (911)/ : Lonely...
+[23:06:29]SAY: shantak/ : Shuhn
+[23:06:35]EMOTE: diyaab/ : <B>The diyaab</B> looks around.
+[23:06:37]SAY: samak/ : Hruuugh!
+[23:06:41]SAY: cat/ : Purr!
+[23:06:42]ADMIN: Cassy_jenelle/(Camile Crafter) modified Airlock's id_tag to test
+[23:06:43]EMOTE: Ian/ : <B>Ian</B> dances around
+[23:06:47]SAY: samak/ : Hruuugh!
+[23:06:49]EMOTE: samak/ : <B>The samak</B> snuffles.
+[23:06:54]ADMIN: Cassy_jenelle/(Camile Crafter) modified Airlock's uid to test
+[23:07:05]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[23:07:09]EMOTE: mouse (819)/ : <B>The mouse (819)</B> shakes.
+[23:07:10]ATTACK: Cassy_jenelle/(Camile Crafter) attacked Cassy_jenelle/(Camile Crafter) with House Keys (INTENT: HELP) (DAMTYE: BRUTE)
+[23:07:11]SAY: samak/ : Hrunnph
+[23:07:15]EMOTE: diyaab/ : <B>The diyaab</B> snuffles.
+[23:07:15]EMOTE: shantak/ : <B>The shantak</B> shakes out it's mane.
+[23:07:17]EMOTE: bear/ : <B>The bear</B> stares alertly at the shantak
+[23:07:19]SAY: samak/ : Hruuugh!
+[23:07:21]EMOTE: bear/ : <B>The bear</B> slashes at the shantak
+[23:07:23]EMOTE: bear/ : <B>The bear</B> bites the shantak
+[23:07:25]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[23:07:25]EMOTE: bear/ : <B>The bear</B> bites the shantak
+[23:07:35]EMOTE: mouse (77)/ : <B>The mouse (77)</B> shakes.
+[23:07:35]SAY: samak/ : Hruuugh!
+[23:07:43]EMOTE: bear/ : <B>The bear</B> stares alertly at the shantak
+[23:07:47]EMOTE: bear/ : <B>The bear</B> slashes at the shantak
+[23:07:49]EMOTE: bear/ : <B>The bear</B> bites the shantak
+[23:07:53]EMOTE: Tiger/ : <B>Tiger</B> meows.
+[23:07:55]EMOTE: diyaab/ : <B>The diyaab</B> snuffles.
+[23:07:57]EMOTE: diyaab/ : <B>The diyaab</B> sniffs the air cautiously.
+[23:07:57]EMOTE: shantak/ : <B>The shantak</B> shakes out it's mane.
+[23:08:01]SAY: samak/ : Hrunnph
+[23:08:07]EMOTE: diyaab/ : <B>The diyaab</B> snuffles.
+[23:08:11]SAY: mouse (117)/ : Squeek!
+[23:08:21]SAY: kitten/ : Meow!
+[23:08:27]SAY: diyaab/ : Aowrl!
+[23:08:29]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[23:08:32]ADMIN: Cassy_jenelle/(Camile Crafter) deleted Airlock at (114,167,9)
+[23:08:37]EMOTE: samak/ : <B>The samak</B> stomps.
+[23:08:37]EMOTE: shantak/ : <B>The shantak</B> scratches the ground.
+[23:08:41]EMOTE: shantak/ : <B>The shantak</B> scratches the ground.
+[23:08:42]ADMIN: Cassy_jenelle/(Camile Crafter) spawned /obj/machinery/door/airlock at (114,167,9)
+[23:08:43]EMOTE: shantak/ : <B>The shantak</B> shakes out it's mane.
+[23:08:49]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[23:08:53]SAY: Tom (908)/ : SQUEEK!
+[23:08:53]SAY: shantak/ : Shunpf
+[23:08:57]EMOTE: diyaab/ : <B>The diyaab</B> sniffs the air cautiously.
+[23:09:07]EMOTE: Ian/ : <B>Ian</B> pants.
+[23:09:07]EMOTE: diyaab/ : <B>The diyaab</B> sniffs the air cautiously.
+[23:09:09]EMOTE: samak/ : <B>The samak</B> stomps.
+[23:09:09]EMOTE: shantak/ : <B>The shantak</B> tinkles gently.
+[23:09:11]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[23:09:15]EMOTE: diyaab/ : <B>The diyaab</B> looks around.
+[23:09:21]SAY: diyaab/ : Worrl
+[23:09:23]SAY: Tiger/ : Meow!
+[23:09:30]ADMIN: Cassy_jenelle/(Camile Crafter) spawned /obj/item/weapon/card/id/captains_spare at (113,165,9)
+[23:09:34]SAY: Parrot/ : Hi
+[23:09:40]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[23:09:40]EMOTE: samak/ : <B>The samak</B> stomps.
+[23:09:41]ADMIN: Cassy_jenelle/(Camile Crafter) modified Airlock's req_access to 3
+[23:09:48]SAY: Parrot/ : Cracker?
+[23:09:56]SAY: shantak/ : Shunpf
+[23:09:58]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[23:10:02]SAY: grey baby slime (911)/ : Rawr...
+[23:10:12]ADMIN: Cassy_jenelle/(Camile Crafter) modified Airlock's req_access_txt to 3
+[23:10:22]ADMIN: Cassy_jenelle/(Camile Crafter) deleted Airlock at (114,167,9)
+[23:10:29]ADMIN: Cassy_jenelle/(Camile Crafter) spawned /obj/machinery/door/airlock/engineering at (114,167,9)
+[23:10:36]SAY: diyaab/ : Aowrl!
+[23:10:36]SAY: shantak/ : Shunpf
+[23:10:38]ADMIN: Cassy_jenelle/(Camile Crafter) deleted Airlock at (114,167,9)
+[23:10:50]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[23:10:52]EMOTE: diyaab/ : <B>The diyaab</B> snuffles.
+[23:10:56]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[23:10:56]SAY: samak/ : Hrunnph
+[23:10:58]ADMIN: Cassy_jenelle/(Camile Crafter) spawned /obj/machinery/door/airlock/highsecurity at (114,168,9)
+[23:11:00]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[23:11:04]SAY: samak/ : Hrunnph
+[23:11:06]SAY: Dr. NibbleFluff/ : HSSSSS
+[23:11:10]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[23:11:10]SAY: samak/ : Hrunnph
+[23:11:10]SAY: samak/ : Hruuugh!
+[23:11:12]SAY: diyaab/ : Worrl
+[23:11:12]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[23:11:30]EMOTE: diyaab/ : <B>The diyaab</B> looks around.
+[23:11:34]SAY: diyaab/ : Worrl
+[23:11:40]SAY: diyaab/ : Awrr?
+[23:11:42]SAY: samak/ : Hrunnph
+[23:11:44]SAY: kitten/ : Meow!
+[23:11:50]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[23:11:57]ADMIN: Cassy_jenelle/(Camile Crafter) modified Camile Crafter's ID Card (Bartender)'s req_one_access_txt to 3
+[23:12:04]SAY: grey baby slime (911)/ : Lonely...
+[23:12:13]ADMIN: Cassy_jenelle/(Camile Crafter) deleted Secure Airlock at (114,168,9)
+[23:12:18]EMOTE: crab/ : <B>The crab</B> clicks.
+[23:12:18]SAY: Tiger/ : Esp!
+[23:12:20]EMOTE: Ian/ : <B>Ian</B> dances around
+[23:12:28]SAY: shantak/ : Shuhn
+[23:12:40]ADMIN: Cassy_jenelle/(Camile Crafter) jumped to the Captain's Office
+[23:13:07]SAY: samak/ : Hrunnph
+[23:13:11]SAY: Runtime/ : HSSSSS
+[23:13:13]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[23:13:14]ADMIN: Cassy_jenelle/(Camile Crafter) deleted the captain's spare ID at (0,0,0)
+[23:13:15]EMOTE: diyaab/ : <B>The diyaab</B> sniffs the air cautiously.
+[23:13:15]SAY: shantak/ : Shunpf
+[23:13:19]ADMIN: Cassy_jenelle/(Camile Crafter) spawned /obj/item/weapon/card/id/captains_spare at (120,130,1)
+[23:13:21]EMOTE: Tiger/ : <B>Tiger</B> shakes their head.
+[23:13:23]EMOTE: diyaab/ : <B>The diyaab</B> snuffles.
+[23:13:25]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[23:13:29]SAY: Parrot/ : Cracker?
+[23:13:29]SAY: diyaab/ : Worrl
+[23:13:30]EMOTE: samak/ : <B>The samak</B> snuffles.
+[23:13:35]EMOTE: diyaab/ : <B>The diyaab</B> looks around.
+[23:13:55]SAY: diyaab/ : Awrr?
+[23:13:55]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[23:14:01]EMOTE: samak/ : <B>The samak</B> snuffles.
+[23:14:03]EMOTE: diyaab/ : <B>The diyaab</B> looks around.
+[23:14:07]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[23:14:07]SAY: samak/ : Hrunnph
+[23:14:07]SAY: shantak/ : Shrunnph?
+[23:14:21]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[23:14:37]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[23:14:37]SAY: samak/ : Hrunnph
+[23:14:45]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[23:14:45]EMOTE: shantak/ : <B>The shantak</B> scratches the ground.
+[23:14:49]SAY: diyaab/ : Awrr?
+[23:14:55]SAY: samak/ : Hruuugh!
+[23:14:55]EMOTE: shantak/ : <B>The shantak</B> shakes out it's mane.
+[23:15:21]EMOTE: samak/ : <B>The samak</B> stomps.
+[23:15:27]EMOTE: cat/ : <B>The cat</B> shivers.
+[23:15:29]SAY: diyaab/ : Aowrl!
+[23:15:32]ADMIN: Cassy_jenelle/(Camile Crafter) mass modified captain's spare ID's icon to 
+[23:15:39]SAY: samak/ : Hruuugh!
+[23:15:43]EMOTE: samak/ : <B>The samak</B> snuffles.
+[23:15:44]ADMIN: Cassy_jenelle/(Camile Crafter) modified captain's spare ID's icon_state to train_keys
+[23:15:45]EMOTE: samak/ : <B>The samak</B> snuffles.
+[23:15:53]SAY: diyaab/ : Aowrl!
+[23:15:57]SAY: Ian/ : Bark!
+[23:15:57]EMOTE: kitten/ : <B>The kitten</B> mews.
+[23:16:01]EMOTE: Ian/ : <B>Ian</B> yaps.
+[23:16:01]EMOTE: samak/ : <B>The samak</B> stomps.
+[23:16:01]SAY: samak/ : Hrunnph
+[23:16:11]ADMIN: Cassy_jenelle/(Camile Crafter) modified captain's spare ID's icon to 
+[23:16:11]EMOTE: samak/ : <B>The samak</B> snuffles.
+[23:16:11]EMOTE: shantak/ : <B>The shantak</B> tinkles gently.
+[23:16:21]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[23:16:33]SAY: samak/ : Hrunnph
+[23:16:37]SAY: grey baby slime (322)/ : Lonely...
+[23:16:39]SAY: diyaab/ : Aowrl!
+[23:16:45]SAY: samak/ : Hruuugh!
+[23:16:50]ADMIN: Cassy_jenelle/(Camile Crafter) modified captain's spare ID's icon to icons/obj/vehicles.dmi
+[23:16:59]EMOTE: diyaab/ : <B>The diyaab</B> looks around.
+[23:17:09]EMOTE: diyaab/ : <B>The diyaab</B> looks around.
+[23:17:13]SAY: shantak/ : Shuhn
+[23:17:17]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[23:17:19]SAY: samak/ : Hrunnph
+[23:17:19]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[23:17:53]SAY: diyaab/ : Aowrl!
+[23:17:55]EMOTE: diyaab/ : <B>The diyaab</B> snuffles.
+[23:17:59]SAY: diyaab/ : Awrr?
+[23:18:11]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[23:18:13]SAY: samak/ : Hrunnph
+[23:18:17]EMOTE: diyaab/ : <B>The diyaab</B> looks around.
+[23:18:42]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[23:18:58]EMOTE: shantak/ : <B>The shantak</B> shakes out it's mane.
+[23:19:02]EMOTE: Coffee/ : <B>Coffee</B> clicks.
+[23:19:08]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[23:19:12]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[23:19:17]ADMIN: Cassy_jenelle/(Camile Crafter) spawned /obj/structure/mineral_door/wood at (121,130,1)
+[23:19:21]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[23:19:27]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[23:19:29]EMOTE: diyaab/ : <B>The diyaab</B> looks around.
+[23:19:29]SAY: samak/ : Hruuugh!
+[23:19:37]EMOTE: Parrot/ : <B>The Parrot</B> flutters its wings.
+[23:19:39]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[23:19:43]SAY: samak/ : Hrunnph
+[23:19:45]ADMIN: Cassy_jenelle/(Camile Crafter) modified wood door's req_access_txt to 20
+[23:19:55]EMOTE: samak/ : <B>The samak</B> stomps.
+[23:19:59]EMOTE: samak/ : <B>The samak</B> snuffles.
+[23:20:01]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[23:20:03]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[23:20:07]EMOTE: samak/ : <B>The samak</B> snuffles.
+[23:20:09]SAY: cat/ : HSSSSS
+[23:20:11]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[23:20:17]SAY: samak/ : Hrunnph
+[23:20:19]SAY: diyaab/ : Worrl
+[23:20:27]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[23:20:45]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> shakes its head.
+[23:20:51]SAY: samak/ : Hruuugh!
+[23:20:53]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[23:21:03]EMOTE: diyaab/ : <B>The diyaab</B> sniffs the air cautiously.
+[23:21:10]ADMIN: Cassy_jenelle/(Camile Crafter) modified wood door's req_access to 20
+[23:21:15]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[23:21:19]ADMIN: Cassy_jenelle/(Camile Crafter) deleted the wood door at (121,130,1)
+[23:21:19]SAY: samak/ : Hrunnph
+[23:21:24]SAY: diyaab/ : Worrl
+[23:21:24]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[23:21:42]EMOTE: samak/ : <B>The samak</B> snuffles.
+[23:22:00]SAY: samak/ : Hrunnph
+[23:22:02]SAY: samak/ : Hruuugh!
+[23:22:34]EMOTE: kitten/ : <B>The kitten</B> meows.
+[23:22:38]SAY: samak/ : Hrunnph
+[23:22:58]EMOTE: diyaab/ : <B>The diyaab</B> snuffles.
+[23:23:20]SAY: samak/ : Hrunnph
+[23:23:26]SAY: samak/ : Hruuugh!
+[23:23:37]EMOTE: cat/ : <B>The cat</B> shivers.
+[23:23:37]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[23:23:39]SAY: samak/ : Hruuugh!
+[23:23:39]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[23:23:41]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[23:23:47]SAY: Dr. NibbleFluff/ : HSSSSS
+[23:23:53]SAY: diyaab/ : Worrl
+[23:23:57]SAY: samak/ : Hrunnph
+[23:23:59]EMOTE: diyaab/ : <B>The diyaab</B> snuffles.
+[23:24:01]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[23:24:03]EMOTE: Ian/ : <B>Ian</B> dances around
+[23:24:17]SAY: grey baby slime (911)/ : Rawr...
+[23:24:21]EMOTE: diyaab/ : <B>The diyaab</B> sniffs the air cautiously.
+[23:24:23]EMOTE: shantak/ : <B>The shantak</B> shakes out it's mane.
+[23:24:27]SAY: samak/ : Hrunnph
+[23:24:35]EMOTE: samak/ : <B>The samak</B> stomps.
+[23:24:49]EMOTE: samak/ : <B>The samak</B> snuffles.
+[23:25:06]EMOTE: diyaab/ : <B>The diyaab</B> looks around.
+[23:25:24]EMOTE: samak/ : <B>The samak</B> stomps.
+[23:25:40]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[23:25:40]EMOTE: samak/ : <B>The samak</B> snuffles.
+[23:25:46]SAY: samak/ : Hruuugh!
+[23:25:48]EMOTE: samak/ : <B>The samak</B> stomps.
+[23:25:55]SAY: samak/ : Hruuugh!
+[23:25:59]EMOTE: shantak/ : <B>The shantak</B> shakes out it's mane.
+[23:26:15]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[23:26:41]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[23:26:45]EMOTE: samak/ : <B>The samak</B> snuffles.
+[23:26:53]SAY: shantak/ : Shunpf
+[23:26:57]EMOTE: samak/ : <B>The samak</B> snuffles.
+[23:26:57]EMOTE: samak/ : <B>The samak</B> snuffles.
+[23:27:01]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[23:27:07]SAY: samak/ : Hruuugh!
+[23:27:17]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[23:27:25]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[23:27:53]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[23:27:57]SAY: samak/ : Hruuugh!
+[23:28:05]SAY: samak/ : Hrunnph
+[23:28:05]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[23:28:05]EMOTE: samak/ : <B>The samak</B> stomps.
+[23:28:09]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[23:28:13]EMOTE: Ian/ : <B>Ian</B> dances around
+[23:28:27]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[23:28:47]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[23:28:57]SAY: Dr. NibbleFluff/ : HSSSSS
+[23:29:08]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[23:29:30]EMOTE: samak/ : <B>The samak</B> snuffles.
+[23:29:36]EMOTE: samak/ : <B>The samak</B> snuffles.
+[23:29:44]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[23:30:02]EMOTE: samak/ : <B>The samak</B> stomps.
+[23:30:16]SAY: diyaab/ : Aowrl!
+[23:30:16]EMOTE: samak/ : <B>The samak</B> snuffles.
+[23:30:22]SAY: samak/ : Hrunnph
+[23:30:24]SAY: samak/ : Hruuugh!
+[23:30:30]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[23:30:34]EMOTE: samak/ : <B>The samak</B> snuffles.
+[23:30:40]EMOTE: diyaab/ : <B>The diyaab</B> looks around.
+[23:30:46]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[23:30:50]SAY: Experiment 97d/ : Eh?
+[23:30:50]SAY: samak/ : Hruuugh!
+[23:30:54]EMOTE: Ian/ : <B>Ian</B> dances around
+[23:30:58]SAY: Tiger/ : Meow!
+[23:31:08]EMOTE: Ian/ : <B>Ian</B> dances around
+[23:31:12]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[23:31:18]EMOTE: samak/ : <B>The samak</B> snuffles.
+[23:31:32]EMOTE: crab/ : <B>The crab</B> clicks.
+[23:31:36]SAY: samak/ : Hruuugh!
+[23:31:48]SAY: samak/ : Hrunnph
+[23:31:58]SAY: samak/ : Hrunnph
+[23:32:06]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[23:32:14]SAY: diyaab/ : Worrl
+[23:32:14]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[23:32:22]SAY: grey baby slime (322)/ : Blorble...
+[23:32:32]SAY: kitten/ : Meow!
+[23:32:34]EMOTE: Tiger/ : <B>Tiger</B> mews.
+[23:32:36]EMOTE: Ian/ : <B>Ian</B> dances around
+[23:32:38]EMOTE: samak/ : <B>The samak</B> stomps.
+[23:32:42]EMOTE: samak/ : <B>The samak</B> snuffles.
+[23:32:44]SAY: cat/ : Meow!
+[23:32:58]SAY: samak/ : Hruuugh!
+[23:33:00]SAY: samak/ : Hruuugh!
+[23:33:14]EMOTE: samak/ : <B>The samak</B> stomps.
+[23:33:18]EMOTE: samak/ : <B>The samak</B> snuffles.
+[23:33:24]EMOTE: Dr. NibbleFluff/ : <B>Dr. NibbleFluff</B> meows.
+[23:33:24]SAY: samak/ : Hruuugh!
+[23:33:30]EMOTE: diyaab/ : <B>The diyaab</B> sniffs the air cautiously.
+[23:33:36]EMOTE: samak/ : <B>The samak</B> stomps.
+[23:34:11]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[23:34:15]EMOTE: cat/ : <B>The cat</B> mews.
+[23:34:31]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[23:34:31]EMOTE: diyaab/ : <B>The diyaab</B> looks around.
+[23:34:35]EMOTE: Ian/ : <B>Ian</B> dances around
+[23:34:45]EMOTE: samak/ : <B>The samak</B> snuffles.
+[23:34:59]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[23:35:23]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[23:35:31]SAY: samak/ : Hrunnph
+[23:35:41]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[23:35:59]SAY: kitten/ : Meow!
+[23:36:05]SAY: Ian/ : Woof!
+[23:36:05]EMOTE: samak/ : <B>The samak</B> snuffles.
+[23:36:11]EMOTE: Tiger/ : <B>Tiger</B> shivers.
+[23:36:13]SAY: Parrot/ : Hi
+[23:36:17]SAY: samak/ : Hruuugh!
+[23:36:31]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[23:36:53]EMOTE: samak/ : <B>The samak</B> stomps.
+[23:37:23]EMOTE: Runtime/ : <B>Runtime</B> shakes their head.
+[23:37:52]SAY: grey baby slime (322)/ : Rawr...
+[23:37:58]SAY: samak/ : Hruuugh!
+[23:38:08]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> shakes its head.
+[23:38:08]EMOTE: crab/ : <B>The crab</B> clicks.
+[23:38:28]EMOTE: Runtime/ : <B>Runtime</B> shakes their head.
+[23:38:28]SAY: cat/ : HSSSSS
+[23:38:30]SAY: Parrot/ : Hi
+[23:38:32]EMOTE: samak/ : <B>The samak</B> snuffles.
+[23:38:32]EMOTE: samak/ : <B>The samak</B> stomps.
+[23:38:32]SAY: samak/ : Hruuugh!
+[23:38:54]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[23:39:26]SAY: grey baby slime (911)/ : Blorble...
+[23:39:28]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[23:39:28]EMOTE: samak/ : <B>The samak</B> snuffles.
+[23:39:30]EMOTE: samak/ : <B>The samak</B> snuffles.
+[23:39:50]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[23:39:54]EMOTE: crab/ : <B>The crab</B> clicks.
+[23:39:56]SAY: Parrot/ : Cracker?
+[23:39:58]SAY: samak/ : Hruuugh!
+[23:40:06]EMOTE: samak/ : <B>The samak</B> stomps.
+[23:40:14]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[23:40:14]EMOTE: samak/ : <B>The samak</B> snuffles.
+[23:40:16]SAY: samak/ : Hrunnph
+[23:40:24]EMOTE: samak/ : <B>The samak</B> stomps.
+[23:40:32]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[23:40:40]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[23:40:42]SAY: samak/ : Hrunnph
+[23:40:46]EMOTE: samak/ : <B>The samak</B> snuffles.
+[23:40:50]EMOTE: Ian/ : <B>Ian</B> pants.
+[23:40:50]SAY: samak/ : Hrunnph
+[23:40:58]SAY: samak/ : Hruuugh!
+[23:41:06]SAY: Parrot/ : Cracker?
+[23:41:22]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[23:41:26]SAY: Parrot/ : Hi
+[23:41:28]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[23:41:48]EMOTE: samak/ : <B>The samak</B> stomps.
+[23:41:50]EMOTE: samak/ : <B>The samak</B> snuffles.
+[23:42:01]SAY: samak/ : Hrunnph
+[23:42:15]SAY: samak/ : Hrunnph
+[23:42:51]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[23:42:59]SAY: grey baby slime (911)/ : Rawr...
+[23:43:13]SAY: samak/ : Hruuugh!
+[23:43:31]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[23:43:31]EMOTE: samak/ : <B>The samak</B> snuffles.
+[23:43:35]SAY: samak/ : Hruuugh!
+[23:43:45]EMOTE: Ian/ : <B>Ian</B> dances around
+[23:43:53]EMOTE: Ian/ : <B>Ian</B> barks.
+[23:44:09]EMOTE: samak/ : <B>The samak</B> snuffles.
+[23:44:13]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[23:44:27]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[23:44:43]EMOTE: samak/ : <B>The samak</B> snuffles.
+[23:44:47]EMOTE: samak/ : <B>The samak</B> snuffles.
+[23:44:52]EMOTE: cat/ : <B>The cat</B> shivers.
+[23:44:54]SAY: Parrot/ : Cracker?
+[23:45:00]SAY: samak/ : Hrunnph
+[23:45:27]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[23:45:39]EMOTE: Ian/ : <B>Ian</B> barks.
+[23:45:39]SAY: samak/ : Hrunnph
+[23:45:41]EMOTE: samak/ : <B>The samak</B> snuffles.
+[23:46:00]SAY: samak/ : Hrunnph
+[23:46:02]SAY: grey baby slime (911)/ : Blop...
+[23:46:06]SAY: samak/ : Hruuugh!
+[23:46:21]SAY: samak/ : Hrunnph
+[23:46:29]EMOTE: samak/ : <B>The samak</B> stomps.
+[23:46:33]EMOTE: crab/ : <B>The crab</B> clicks.
+[23:46:35]EMOTE: cat/ : <B>The cat</B> mews.
+[23:46:37]EMOTE: Ian/ : <B>Ian</B> shivers.
+[23:46:57]EMOTE: Parrot/ : <B>The Parrot</B> squawks.
+[23:46:59]SAY: cat/ : Esp!
+[23:47:09]EMOTE: cat/ : <B>The cat</B> shivers.
+[23:47:19]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[23:47:23]SAY: samak/ : Hruuugh!
+[23:47:25]SAY: kitten/ : Purr!
+[23:47:25]EMOTE: cat/ : <B>The cat</B> mews.
+[23:47:31]SAY: samak/ : Hrunnph
+[23:47:52]EMOTE: samak/ : <B>The samak</B> snuffles.
+[23:48:14]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[23:48:14]SAY: samak/ : Hrunnph
+[23:48:38]SAY: samak/ : Hruuugh!
+[23:48:44]EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[23:48:46]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[23:48:54]SAY: Tiger/ : Meow!
+[23:48:58]EMOTE: Ian/ : <B>Ian</B> barks.
+[23:49:28]EMOTE: kitten/ : <B>The kitten</B> mews.
+[23:49:32]SAY: grey baby slime (911)/ : Blorble...
+[23:49:52]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[23:50:06]EMOTE: samak/ : <B>The samak</B> snuffles.
+[23:50:14]SAY: Dr. NibbleFluff/ : HSSSSS
+[23:50:24]EMOTE: kitten/ : <B>The kitten</B> mews.
+[23:50:26]EMOTE: Dr. NibbleFluff/ : <B>Dr. NibbleFluff</B> mews.
+[23:50:48]EMOTE: samak/ : <B>The samak</B> stomps.
+[23:50:56]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[23:51:08]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[23:51:10]EMOTE: cat/ : <B>The cat</B> meows.
+[23:51:10]EMOTE: samak/ : <B>The samak</B> snuffles.
+[23:51:32]SAY: Tiger/ : HSSSSS
+[23:51:38]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[23:51:46]EMOTE: cat/ : <B>The cat</B> meows.
+[23:52:00]EMOTE: Ian/ : <B>Ian</B> dances around
+[23:52:42]SAY: samak/ : Hruuugh!
+[23:52:48]SAY: samak/ : Hruuugh!
+[23:52:54]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[23:53:02]EMOTE: samak/ : <B>The samak</B> snuffles.
+[23:53:10]EMOTE: samak/ : <B>The samak</B> snuffles.
+[23:53:18]EMOTE: samak/ : <B>The samak</B> stomps.
+[23:53:24]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[23:53:36]SAY: samak/ : Hrunnph
+[23:53:46]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[23:53:48]EMOTE: crab/ : <B>The crab</B> clicks.
+[23:54:04]EMOTE: samak/ : <B>The samak</B> stomps.
+[23:54:20]SAY: samak/ : Hrunnph
+[23:54:52]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[23:54:52]EMOTE: samak/ : <B>The samak</B> snuffles.
+[23:55:12]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[23:55:14]EMOTE: Ian/ : <B>Ian</B> pants.
+[23:55:14]SAY: samak/ : Hruuugh!
+[23:55:16]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[23:55:44]SAY: samak/ : Hruuugh!
+[23:56:28]SAY: samak/ : Hruuugh!
+[23:56:34]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[23:56:48]EMOTE: samak/ : <B>The samak</B> stomps.
+[23:56:52]EMOTE: crab/ : <B>The crab</B> clacks.
+[23:57:06]SAY: Tiger/ : Meow!
+[23:57:10]EMOTE: samak/ : <B>The samak</B> stomps.
+[23:57:12]SAY: samak/ : Hrunnph
+[23:57:36]EMOTE: crab/ : <B>The crab</B> clicks.
+[23:57:38]EMOTE: cat/ : <B>The cat</B> shivers.
+[23:57:38]SAY: samak/ : Hruuugh!
+[23:57:40]EMOTE: samak/ : <B>The samak</B> snuffles.
+[23:57:48]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[23:57:50]EMOTE: samak/ : <B>The samak</B> stomps.
+[23:57:52]SAY: kitten/ : Esp!
+[23:58:16]EMOTE: samak/ : <B>The samak</B> stomps.
+[23:58:42]SAY: grey baby slime (911)/ : Where is the food?
+[23:58:44]EMOTE: samak/ : <B>The samak</B> stomps.
+[23:59:24]SAY: samak/ : Hrunnph
+[23:59:42]EMOTE: samak/ : <B>The samak</B> snuffles.
+[00:00:04]SAY: Tiger/ : Purr!
+[00:00:08]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[00:00:10]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[00:00:12]EMOTE: samak/ : <B>The samak</B> stomps.
+[00:00:16]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[00:00:24]SAY: kitten/ : Purr!
+[00:00:38]EMOTE: samak/ : <B>The samak</B> snuffles.
+[00:01:02]SAY: samak/ : Hruuugh!
+[00:01:08]EMOTE: cat/ : <B>The cat</B> mews.
+[00:01:14]EMOTE: samak/ : <B>The samak</B> stomps.
+[00:01:14]SAY: samak/ : Hruuugh!
+[00:01:22]SAY: Runtime/ : Purr!
+[00:01:22]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[00:01:48]EMOTE: Parrot/ : <B>The Parrot</B> bawks.
+[00:01:50]SAY: Ian/ : YAP
+[00:02:11]EMOTE: Ian/ : <B>Ian</B> barks.
+[00:02:11]EMOTE: samak/ : <B>The samak</B> snuffles.
+[00:02:15]EMOTE: Parrot/ : <B>The Parrot</B> bawks.
+[00:02:15]SAY: samak/ : Hruuugh!
+[00:02:19]EMOTE: Runtime/ : <B>Runtime</B> shakes their head.
+[00:02:27]EMOTE: samak/ : <B>The samak</B> snuffles.
+[00:02:31]SAY: samak/ : Hruuugh!
+[00:02:46]EMOTE: samak/ : <B>The samak</B> snuffles.
+[00:02:52]SAY: Ian/ : Bark!
+[00:03:02]SAY: samak/ : Hrunnph
+[00:03:04]EMOTE: samak/ : <B>The samak</B> snuffles.
+[00:03:10]SAY: samak/ : Hrunnph
+[00:03:20]SAY: samak/ : Hrunnph
+[00:03:36]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[00:03:36]EMOTE: samak/ : <B>The samak</B> snuffles.
+[00:03:36]EMOTE: samak/ : <B>The samak</B> stomps.
+[00:03:38]SAY: Parrot/ : Hi
+[00:03:38]EMOTE: samak/ : <B>The samak</B> stomps.
+[00:03:44]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[00:03:46]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[00:04:04]EMOTE: samak/ : <B>The samak</B> stomps.
+[00:04:10]EMOTE: samak/ : <B>The samak</B> stomps.
+[00:04:24]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[00:04:32]EMOTE: Dr. NibbleFluff/ : <B>Dr. NibbleFluff</B> shivers.
+[00:04:36]SAY: samak/ : Hrunnph
+[00:04:40]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[00:04:46]SAY: grey baby slime (322)/ : Where is the food?
+[00:04:46]EMOTE: crab/ : <B>The crab</B> clicks.
+[00:04:52]SAY: samak/ : Hruuugh!
+[00:05:03]EMOTE: Ian/ : <B>Ian</B> dances around
+[00:05:07]SAY: samak/ : Hruuugh!
+[00:05:27]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[00:05:47]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[00:05:47]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[00:05:53]EMOTE: crab/ : <B>The crab</B> clicks.
+[00:06:01]EMOTE: samak/ : <B>The samak</B> stomps.
+[00:06:11]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[00:06:43]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[00:06:48]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[00:06:59]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[00:07:01]SAY: samak/ : Hruuugh!
+[00:07:35]SAY: grey baby slime (322)/ : Hungry...
+[00:07:37]EMOTE: samak/ : <B>The samak</B> snuffles.
+[00:07:45]SAY: samak/ : Hrunnph
+[00:07:49]EMOTE: samak/ : <B>The samak</B> snuffles.
+[00:07:59]SAY: samak/ : Hrunnph
+[00:08:03]SAY: samak/ : Hruuugh!
+[00:08:13]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[00:08:19]EMOTE: samak/ : <B>The samak</B> stomps.
+[00:08:30]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[00:09:07]EMOTE: samak/ : <B>The samak</B> snuffles.
+[00:09:09]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[00:09:17]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[00:09:19]EMOTE: Dr. NibbleFluff/ : <B>Dr. NibbleFluff</B> nibbles on something.
+[00:09:21]EMOTE: Ian/ : <B>Ian</B> dances around
+[00:09:39]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[00:09:43]SAY: samak/ : Hruuugh!
+[00:09:53]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[00:09:53]EMOTE: samak/ : <B>The samak</B> stomps.
+[00:09:55]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[00:09:55]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[00:10:01]SAY: kitten/ : Purr!
+[00:10:07]SAY: Tiger/ : Meow!
+[00:10:07]SAY: samak/ : Hrunnph
+[00:10:11]SAY: samak/ : Hrunnph
+[00:10:13]SAY: kitten/ : Esp!
+[00:10:13]SAY: kitten/ : Meow!
+[00:10:23]SAY: grey baby slime (911)/ : Where is the food?
+[00:10:35]SAY: samak/ : Hruuugh!
+[00:10:35]EMOTE: samak/ : <B>The samak</B> stomps.
+[00:10:39]SAY: Runtime/ : Purr!
+[00:10:47]SAY: samak/ : Hruuugh!
+[00:10:51]EMOTE: Tiger/ : <B>Tiger</B> shakes their head.
+[00:10:55]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[00:11:21]EMOTE: samak/ : <B>The samak</B> snuffles.
+[00:11:23]EMOTE: Ian/ : <B>Ian</B> dances around
+[00:11:29]EMOTE: samak/ : <B>The samak</B> snuffles.
+[00:11:33]SAY: samak/ : Hrunnph
+[00:11:35]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[00:11:55]EMOTE: samak/ : <B>The samak</B> snuffles.
+[00:12:07]EMOTE: crab/ : <B>The crab</B> clacks.
+[00:12:55]EMOTE: crab/ : <B>The crab</B> clacks.
+[00:13:15]EMOTE: samak/ : <B>The samak</B> snuffles.
+[00:13:19]SAY: samak/ : Hruuugh!
+[00:13:25]SAY: kitten/ : HSSSSS
+[00:13:31]SAY: Runtime/ : Esp!
+[00:13:37]EMOTE: Parrot/ : <B>The Parrot</B> squawks.
+[00:13:40]EMOTE: Parrot/ : <B>The Parrot</B> flutters its wings.
+[00:13:50]SAY: grey baby slime (322)/ : Hungry...
+[00:13:52]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[00:13:54]SAY: samak/ : Hruuugh!
+[00:14:12]SAY: samak/ : Hrunnph
+[00:14:14]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[00:14:16]EMOTE: samak/ : <B>The samak</B> stomps.
+[00:14:18]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[00:14:20]SAY: grey baby slime (322)/ : I want to eat...
+[00:14:42]SAY: Ian/ : Bark!
+[00:14:44]SAY: Tiger/ : HSSSSS
+[00:14:54]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[00:15:00]SAY: grey baby slime (322)/ : I want to eat...
+[00:15:00]EMOTE: samak/ : <B>The samak</B> snuffles.
+[00:15:08]SAY: samak/ : Hrunnph
+[00:15:10]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[00:15:10]SAY: samak/ : Hrunnph
+[00:15:36]SAY: samak/ : Hrunnph
+[00:15:42]SAY: grey baby slime (322)/ : Rawr...
+[00:15:58]EMOTE: crab/ : <B>The crab</B> clacks.
+[00:16:00]SAY: cat/ : Esp!
+[00:16:32]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[00:16:34]EMOTE: kitten/ : <B>The kitten</B> mews.
+[00:16:42]EMOTE: samak/ : <B>The samak</B> stomps.
+[00:16:44]SAY: Ian/ : YAP
+[00:17:08]EMOTE: crab/ : <B>The crab</B> clacks.
+[00:17:12]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[00:17:12]EMOTE: samak/ : <B>The samak</B> snuffles.
+[00:17:22]SAY: Parrot/ : Cracker?
+[00:17:44]EMOTE: Dr. NibbleFluff/ : <B>Dr. NibbleFluff</B> shakes their head.
+[00:18:12]SAY: samak/ : Hrunnph
+[00:18:16]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[00:18:22]SAY: grey baby slime (322)/ : Blorble...
+[00:18:22]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[00:19:05]EMOTE: Dr. NibbleFluff/ : <B>Dr. NibbleFluff</B> nibbles on something.
+[00:19:13]EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[00:19:13]SAY: kitten/ : HSSSSS
+[00:19:17]EMOTE: samak/ : <B>The samak</B> snuffles.
+[00:19:39]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[00:19:43]EMOTE: samak/ : <B>The samak</B> snuffles.
+[00:19:51]EMOTE: samak/ : <B>The samak</B> stomps.
+[00:19:59]SAY: samak/ : Hrunnph
+[00:20:15]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[00:20:17]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[00:20:19]SAY: samak/ : Hruuugh!
+[00:20:25]EMOTE: cat/ : <B>The cat</B> shakes their head.
+[00:21:03]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[00:21:13]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[00:21:23]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[00:21:41]EMOTE: samak/ : <B>The samak</B> stomps.
+[00:22:03]SAY: kitten/ : HSSSSS
+[00:22:07]EMOTE: kitten/ : <B>The kitten</B> mews.
+[00:22:11]SAY: kitten/ : Meow!
+[00:22:27]SAY: samak/ : Hrunnph
+[00:22:59]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[00:23:27]SAY: samak/ : Hruuugh!
+[00:23:39]SAY: samak/ : Hruuugh!
+[00:23:49]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[00:23:51]SAY: kitten/ : Esp!
+[00:24:03]EMOTE: samak/ : <B>The samak</B> snuffles.
+[00:24:07]SAY: samak/ : Hruuugh!
+[00:24:37]EMOTE: kitten/ : <B>The kitten</B> meows.
+[00:24:37]SAY: samak/ : Hruuugh!
+[00:24:45]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[00:25:11]SAY: Parrot/ : Hi
+[00:25:15]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[00:25:23]EMOTE: Parrot/ : <B>The Parrot</B> flutters its wings.
+[00:25:25]EMOTE: Dr. NibbleFluff/ : <B>Dr. NibbleFluff</B> nibbles on something.
+[00:25:43]SAY: samak/ : Hruuugh!
+[00:25:57]EMOTE: kitten/ : <B>The kitten</B> mews.
+[00:26:01]SAY: samak/ : Hrunnph
+[00:26:03]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[00:26:03]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[00:26:13]SAY: samak/ : Hrunnph
+[00:26:19]EMOTE: samak/ : <B>The samak</B> snuffles.
+[00:26:21]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[00:26:23]EMOTE: kitten/ : <B>The kitten</B> meows.
+[00:26:47]EMOTE: samak/ : <B>The samak</B> snuffles.
+[00:26:51]SAY: samak/ : Hrunnph
+[00:26:55]SAY: samak/ : Hruuugh!
+[00:26:57]SAY: kitten/ : Meow!
+[00:27:13]SAY: samak/ : Hrunnph
+[00:27:19]SAY: samak/ : Hrunnph
+[00:27:31]SAY: samak/ : Hruuugh!
+[00:27:41]EMOTE: samak/ : <B>The samak</B> snuffles.
+[00:27:41]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[00:27:45]EMOTE: samak/ : <B>The samak</B> snuffles.
+[00:27:51]SAY: samak/ : Hruuugh!
+[00:28:01]EMOTE: cat/ : <B>The cat</B> mews.
+[00:28:13]EMOTE: cat/ : <B>The cat</B> mews.
+[00:28:31]EMOTE: Tiger/ : <B>Tiger</B> shivers.
+[00:29:57]SAY: samak/ : Hrunnph
+[00:30:03]EMOTE: cat/ : <B>The cat</B> meows.
+[00:30:09]EMOTE: kitten/ : <B>The kitten</B> meows.
+[00:30:11]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[00:30:13]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[00:30:17]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[00:30:33]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[00:30:33]EMOTE: crab/ : <B>The crab</B> clacks.
+[00:30:41]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[00:30:47]SAY: grey baby slime (322)/ : I want to eat...
+[00:31:01]EMOTE: cat/ : <B>The cat</B> mews.
+[00:31:03]EMOTE: samak/ : <B>The samak</B> stomps.
+[00:31:03]EMOTE: samak/ : <B>The samak</B> snuffles.
+[00:31:05]EMOTE: samak/ : <B>The samak</B> snuffles.
+[00:31:23]EMOTE: samak/ : <B>The samak</B> snuffles.
+[00:31:25]EMOTE: samak/ : <B>The samak</B> stomps.
+[00:31:39]SAY: samak/ : Hrunnph
+[00:31:49]EMOTE: cat/ : <B>The cat</B> meows.
+[00:32:01]SAY: grey baby slime (322)/ : Rawr...
+[00:32:17]EMOTE: samak/ : <B>The samak</B> snuffles.
+[00:32:19]EMOTE: samak/ : <B>The samak</B> snuffles.
+[00:32:37]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[00:32:55]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[00:33:19]EMOTE: Ian/ : <B>Ian</B> shakes its head.
+[00:33:31]SAY: samak/ : Hruuugh!
+[00:33:39]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[00:33:45]EMOTE: Dr. NibbleFluff/ : <B>Dr. NibbleFluff</B> shivers.
+[00:34:09]SAY: samak/ : Hrunnph
+[00:34:11]EMOTE: samak/ : <B>The samak</B> snuffles.
+[00:34:23]EMOTE: Runtime/ : <B>Runtime</B> mews.
+[00:34:29]EMOTE: Ian/ : <B>Ian</B> dances around
+[00:34:29]SAY: Dr. NibbleFluff/ : Meow!
+[00:34:43]EMOTE: Dr. NibbleFluff/ : <B>Dr. NibbleFluff</B> nibbles on something.
+[00:35:05]SAY: samak/ : Hruuugh!
+[00:35:19]EMOTE: samak/ : <B>The samak</B> stomps.
+[00:35:45]EMOTE: samak/ : <B>The samak</B> snuffles.
+[00:36:13]SAY: Tiger/ : Purr!
+[00:36:15]EMOTE: samak/ : <B>The samak</B> stomps.
+[00:36:37]SAY: grey baby slime (322)/ : Where is the food?
+[00:36:39]EMOTE: kitten/ : <B>The kitten</B> meows.
+[00:36:51]SAY: samak/ : Hrunnph
+[00:36:55]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[00:36:55]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[00:37:27]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[00:37:39]EMOTE: Runtime/ : <B>Runtime</B> meows.
+[00:37:47]EMOTE: Ian/ : <B>Ian</B> dances around
+[00:37:51]EMOTE: samak/ : <B>The samak</B> snuffles.
+[00:37:55]EMOTE: crab/ : <B>The crab</B> clacks.
+[00:38:05]EMOTE: samak/ : <B>The samak</B> snuffles.
+[00:38:15]SAY: samak/ : Hruuugh!
+[00:38:29]EMOTE: Tiger/ : <B>Tiger</B> shakes their head.
+[00:38:41]SAY: samak/ : Hrunnph
+[00:38:57]EMOTE: crab/ : <B>The crab</B> clicks.
+[00:39:05]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[00:39:11]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[00:39:15]SAY: samak/ : Hruuugh!
+[00:39:19]EMOTE: samak/ : <B>The samak</B> snuffles.
+[00:39:23]SAY: Experiment 97d/ : Eh?
+[00:39:37]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[00:39:43]SAY: samak/ : Hrunnph
+[00:39:53]EMOTE: samak/ : <B>The samak</B> snuffles.
+[00:39:57]SAY: samak/ : Hruuugh!
+[00:39:59]SAY: samak/ : Hrunnph
+[00:40:01]EMOTE: crab/ : <B>The crab</B> clicks.
+[00:40:17]SAY: grey baby slime (322)/ : I want to eat...
+[00:41:21]SAY: samak/ : Hruuugh!
+[00:41:27]EMOTE: kitten/ : <B>The kitten</B> meows.
+[00:41:27]SAY: samak/ : Hruuugh!
+[00:41:37]SAY: samak/ : Hruuugh!
+[00:41:43]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[00:41:45]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[00:41:59]EMOTE: samak/ : <B>The samak</B> stomps.
+[00:42:01]EMOTE: cat/ : <B>The cat</B> mews.
+[00:42:01]EMOTE: samak/ : <B>The samak</B> snuffles.
+[00:42:05]SAY: cat/ : Meow!
+[00:42:09]SAY: samak/ : Hruuugh!
+[00:42:13]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[00:42:39]SAY: samak/ : Hruuugh!
+[00:42:39]SAY: samak/ : Hruuugh!
+[00:42:51]SAY: kitten/ : Esp!
+[00:42:57]EMOTE: cat/ : <B>The cat</B> meows.
+[00:43:13]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[00:43:21]EMOTE: samak/ : <B>The samak</B> snuffles.
+[00:43:31]EMOTE: samak/ : <B>The samak</B> stomps.
+[00:43:47]SAY: samak/ : Hrunnph
+[00:43:57]EMOTE: cat/ : <B>The cat</B> shivers.
+[00:44:15]EMOTE: Ian/ : <B>Ian</B> barks.
+[00:44:17]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[00:44:27]EMOTE: samak/ : <B>The samak</B> stomps.
+[00:44:29]EMOTE: crab/ : <B>The crab</B> clacks.
+[00:44:33]SAY: Parrot/ : Cracker?
+[00:44:45]EMOTE: samak/ : <B>The samak</B> stomps.
+[00:44:49]EMOTE: samak/ : <B>The samak</B> stomps.
+[00:45:05]SAY: samak/ : Hrunnph
+[00:45:09]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[00:45:09]EMOTE: samak/ : <B>The samak</B> stomps.
+[00:45:51]EMOTE: samak/ : <B>The samak</B> stomps.
+[00:45:53]EMOTE: Runtime/ : <B>Runtime</B> meows.
+[00:45:53]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[00:45:55]EMOTE: samak/ : <B>The samak</B> stomps.
+[00:46:21]SAY: cat/ : HSSSSS
+[00:46:23]EMOTE: Parrot/ : <B>The Parrot</B> flutters its wings.
+[00:46:49]SAY: samak/ : Hruuugh!
+[00:47:11]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[00:47:13]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[00:47:17]SAY: samak/ : Hrunnph
+[00:47:23]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[00:47:29]EMOTE: samak/ : <B>The samak</B> stomps.
+[00:47:39]EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[00:47:49]SAY: samak/ : Hruuugh!
+[00:47:59]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[00:48:11]SAY: samak/ : Hrunnph
+[00:48:33]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[00:48:39]SAY: Ian/ : Woof!
+[00:48:59]EMOTE: crab/ : <B>The crab</B> clicks.
+[00:49:15]EMOTE: crab/ : <B>The crab</B> clacks.
+[00:49:23]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[00:49:35]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[00:49:37]EMOTE: crab/ : <B>The crab</B> clicks.
+[00:50:05]SAY: samak/ : Hruuugh!
+[00:50:07]SAY: samak/ : Hruuugh!
+[00:50:17]EMOTE: crab/ : <B>The crab</B> clicks.
+[00:50:19]EMOTE: Ian/ : <B>Ian</B> barks.
+[00:50:19]EMOTE: kitten/ : <B>The kitten</B> mews.
+[00:50:29]SAY: samak/ : Hruuugh!
+[00:50:39]EMOTE: Dr. NibbleFluff/ : <B>Dr. NibbleFluff</B> nibbles on something.
+[00:51:09]SAY: Runtime/ : Meow!
+[00:51:15]EMOTE: samak/ : <B>The samak</B> snuffles.
+[00:51:15]SAY: samak/ : Hruuugh!
+[00:51:17]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[00:52:01]SAY: Dr. NibbleFluff/ : Esp!
+[00:52:03]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[00:52:15]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[00:52:19]EMOTE: samak/ : <B>The samak</B> snuffles.
+[00:52:37]SAY: Runtime/ : Purr!
+[00:52:39]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[00:52:43]EMOTE: samak/ : <B>The samak</B> snuffles.
+[00:52:45]EMOTE: cat/ : <B>The cat</B> meows.
+[00:52:47]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[00:52:47]EMOTE: samak/ : <B>The samak</B> stomps.
+[00:52:49]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[00:52:57]SAY: Experiment 97d/ : EHEHEHEHEH
+[00:53:09]EMOTE: Dr. NibbleFluff/ : <B>Dr. NibbleFluff</B> nibbles on something.
+[00:53:33]EMOTE: Ian/ : <B>Ian</B> pants.
+[00:53:37]EMOTE: Dr. NibbleFluff/ : <B>Dr. NibbleFluff</B> mews.
+[00:53:41]EMOTE: Ian/ : <B>Ian</B> dances around
+[00:53:47]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[00:54:05]EMOTE: crab/ : <B>The crab</B> clicks.
+[00:54:05]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[00:54:07]SAY: grey baby slime (322)/ : Lonely...
+[00:54:13]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[00:54:23]SAY: grey baby slime (911)/ : So... hungry...
+[00:54:25]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[00:54:29]EMOTE: crab/ : <B>The crab</B> clacks.
+[00:54:29]SAY: samak/ : Hruuugh!
+[00:54:31]EMOTE: samak/ : <B>The samak</B> snuffles.
+[00:54:33]EMOTE: Ian/ : <B>Ian</B> dances around
+[00:54:47]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[00:54:51]SAY: grey baby slime (911)/ : So... hungry...
+[00:54:59]SAY: samak/ : Hrunnph
+[00:55:41]SAY: samak/ : Hrunnph
+[00:55:45]EMOTE: samak/ : <B>The samak</B> stomps.
+[00:55:59]EMOTE: samak/ : <B>The samak</B> stomps.
+[00:56:01]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[00:56:05]SAY: grey baby slime (911)/ : Lonely...
+[00:56:07]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[00:56:07]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[00:56:15]EMOTE: Tiger/ : <B>Tiger</B> shivers.
+[00:56:15]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[00:56:43]SAY: Dr. NibbleFluff/ : HSSSSS
+[00:56:45]SAY: kitten/ : HSSSSS
+[00:56:47]EMOTE: samak/ : <B>The samak</B> snuffles.
+[00:56:49]EMOTE: Ian/ : <B>Ian</B> dances around
+[00:57:05]SAY: cat/ : Meow!
+[00:57:17]SAY: cat/ : Meow!
+[00:57:19]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[00:57:23]EMOTE: samak/ : <B>The samak</B> stomps.
+[00:57:27]SAY: cat/ : Meow!
+[00:57:37]SAY: cat/ : Esp!
+[00:57:37]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[00:57:38]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[00:57:49]EMOTE: samak/ : <B>The samak</B> stomps.
+[00:58:01]SAY: grey baby slime (911)/ : Very... hungry...
+[00:58:03]EMOTE: samak/ : <B>The samak</B> stomps.
+[00:58:05]SAY: kitten/ : Purr!
+[00:58:43]EMOTE: samak/ : <B>The samak</B> snuffles.
+[00:58:46]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[00:58:58]EMOTE: samak/ : <B>The samak</B> stomps.
+[00:59:14]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[00:59:20]EMOTE: samak/ : <B>The samak</B> snuffles.
+[00:59:34]SAY: samak/ : Hrunnph
+[00:59:38]EMOTE: crab/ : <B>The crab</B> clicks.
+[00:59:40]EMOTE: samak/ : <B>The samak</B> snuffles.
+[00:59:52]SAY: samak/ : Hruuugh!
+[01:00:44]SAY: grey baby slime (911)/ : So... hungry...
+[01:00:50]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[01:00:54]EMOTE: Runtime/ : <B>Runtime</B> meows.
+[01:00:54]SAY: samak/ : Hruuugh!
+[01:01:04]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[01:01:06]SAY: cat/ : Purr!
+[01:01:21]EMOTE: samak/ : <B>The samak</B> stomps.
+[01:01:23]SAY: samak/ : Hrunnph
+[01:01:33]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[01:01:39]SAY: cat/ : HSSSSS
+[01:01:45]EMOTE: samak/ : <B>The samak</B> stomps.
+[01:01:49]SAY: samak/ : Hruuugh!
+[01:01:51]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[01:01:51]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[01:01:53]EMOTE: samak/ : <B>The samak</B> stomps.
+[01:01:58]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[01:02:04]EMOTE: samak/ : <B>The samak</B> snuffles.
+[01:02:14]SAY: samak/ : Hruuugh!
+[01:02:22]EMOTE: kitten/ : <B>The kitten</B> meows.
+[01:02:38]EMOTE: Ian/ : <B>Ian</B> dances around
+[01:02:50]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[01:03:00]SAY: grey baby slime (911)/ : Must... eat...
+[01:03:00]EMOTE: Ian/ : <B>Ian</B> dances around
+[01:03:02]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[01:03:02]SAY: samak/ : Hrunnph
+[01:03:02]EMOTE: samak/ : <B>The samak</B> snuffles.
+[01:03:04]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[01:03:06]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[01:03:18]SAY: kitten/ : Esp!
+[01:03:22]EMOTE: Dr. NibbleFluff/ : <B>Dr. NibbleFluff</B> mews.
+[01:03:26]SAY: grey baby slime (322)/ : Lonely...
+[01:03:34]SAY: samak/ : Hrunnph
+[01:03:40]EMOTE: Tiger/ : <B>Tiger</B> shivers.
+[01:03:50]SAY: samak/ : Hrunnph
+[01:04:00]EMOTE: samak/ : <B>The samak</B> snuffles.
+[01:04:04]EMOTE: samak/ : <B>The samak</B> snuffles.
+[01:04:10]EMOTE: samak/ : <B>The samak</B> snuffles.
+[01:04:12]SAY: samak/ : Hruuugh!
+[01:04:16]EMOTE: samak/ : <B>The samak</B> snuffles.
+[01:04:18]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[01:04:52]SAY: samak/ : Hruuugh!
+[01:05:12]EMOTE: Ian/ : <B>Ian</B> dances around
+[01:05:16]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[01:05:18]EMOTE: samak/ : <B>The samak</B> stomps.
+[01:05:36]EMOTE: Tiger/ : <B>Tiger</B> shivers.
+[01:05:38]SAY: samak/ : Hrunnph
+[01:05:54]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[01:05:58]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[01:06:06]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[01:06:12]EMOTE: samak/ : <B>The samak</B> stomps.
+[01:06:14]EMOTE: samak/ : <B>The samak</B> stomps.
+[01:06:20]EMOTE: samak/ : <B>The samak</B> stomps.
+[01:06:22]EMOTE: Ian/ : <B>Ian</B> dances around
+[01:06:22]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[01:06:45]SAY: grey baby slime (322)/ : Blop...
+[01:07:02]EMOTE: samak/ : <B>The samak</B> stomps.
+[01:07:04]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[01:07:08]EMOTE: cat/ : <B>The cat</B> meows.
+[01:07:35]SAY: samak/ : Hrunnph
+[01:07:37]SAY: samak/ : Hruuugh!
+[01:07:39]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[01:07:57]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[01:07:59]EMOTE: Tiger/ : <B>Tiger</B> shivers.
+[01:08:01]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[01:08:09]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[01:08:17]SAY: samak/ : Hruuugh!
+[01:08:29]SAY: samak/ : Hruuugh!
+[01:09:01]SAY: samak/ : Hrunnph
+[01:09:01]EMOTE: samak/ : <B>The samak</B> stomps.
+[01:09:21]SAY: grey baby slime (911)/ : Must... eat...
+[01:09:49]SAY: Ian/ : AUUUUUU
+[01:09:49]SAY: samak/ : Hruuugh!
+[01:09:59]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[01:10:01]SAY: samak/ : Hrunnph
+[01:10:15]SAY: samak/ : Hrunnph
+[01:10:19]SAY: Runtime/ : Purr!
+[01:10:23]EMOTE: samak/ : <B>The samak</B> stomps.
+[01:10:37]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[01:10:43]EMOTE: samak/ : <B>The samak</B> stomps.
+[01:10:47]EMOTE: samak/ : <B>The samak</B> stomps.
+[01:10:51]EMOTE: samak/ : <B>The samak</B> snuffles.
+[01:10:53]SAY: samak/ : Hrunnph
+[01:11:01]EMOTE: Runtime/ : <B>Runtime</B> shakes their head.
+[01:11:25]EMOTE: samak/ : <B>The samak</B> snuffles.
+[01:11:33]SAY: samak/ : Hruuugh!
+[01:11:37]EMOTE: samak/ : <B>The samak</B> stomps.
+[01:11:53]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[01:11:59]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[01:12:17]EMOTE: samak/ : <B>The samak</B> stomps.
+[01:12:43]SAY: cat/ : Meow!
+[01:12:53]EMOTE: samak/ : <B>The samak</B> snuffles.
+[01:13:19]EMOTE: kitten/ : <B>The kitten</B> mews.
+[01:13:25]SAY: samak/ : Hruuugh!
+[01:13:49]SAY: samak/ : Hrunnph
+[01:14:03]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[01:14:25]SAY: Parrot/ : Cracker?
+[01:14:25]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[01:14:26]EMOTE: samak/ : <B>The samak</B> snuffles.
+[01:15:04]SAY: kitten/ : HSSSSS
+[01:15:24]SAY: Experiment 97d/ : Eh?
+[01:15:30]SAY: grey baby slime (322)/ : So... hungry...
+[01:15:36]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[01:15:36]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[01:15:44]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[01:15:48]EMOTE: Tiger/ : <B>Tiger</B> meows.
+[01:15:48]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[01:15:50]SAY: samak/ : Hrunnph
+[01:15:52]EMOTE: samak/ : <B>The samak</B> stomps.
+[01:16:11]EMOTE: Ian/ : <B>Ian</B> woofs.
+[01:16:14]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[01:16:18]SAY: samak/ : Hruuugh!
+[01:16:33]SAY: grey baby slime (911)/ : Lonely...
+[01:16:47]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[01:16:55]SAY: samak/ : Hruuugh!
+[01:17:11]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[01:17:13]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[01:17:27]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[01:17:33]SAY: grey baby slime (911)/ : Blop...
+[01:17:33]SAY: samak/ : Hrunnph
+[01:17:49]SAY: grey baby slime (911)/ : Blorble...
+[01:18:11]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[01:18:13]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[01:18:17]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[01:18:17]SAY: samak/ : Hruuugh!
+[01:18:23]EMOTE: samak/ : <B>The samak</B> stomps.
+[01:18:47]EMOTE: Dr. NibbleFluff/ : <B>Dr. NibbleFluff</B> shivers.
+[01:19:07]EMOTE: samak/ : <B>The samak</B> stomps.
+[01:19:19]EMOTE: samak/ : <B>The samak</B> snuffles.
+[01:19:21]EMOTE: cat/ : <B>The cat</B> meows.
+[01:19:33]EMOTE: samak/ : <B>The samak</B> stomps.
+[01:19:43]EMOTE: kitten/ : <B>The kitten</B> meows.
+[01:19:55]SAY: Parrot/ : Cracker?
+[01:20:01]EMOTE: samak/ : <B>The samak</B> snuffles.
+[01:20:11]SAY: cat/ : Meow!
+[01:20:21]SAY: samak/ : Hrunnph
+[01:20:27]SAY: samak/ : Hrunnph
+[01:20:35]EMOTE: samak/ : <B>The samak</B> snuffles.
+[01:20:37]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[01:20:45]SAY: grey baby slime (911)/ : Need... food...
+[01:20:47]SAY: grey baby slime (911)/ : Rawr...
+[01:20:57]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[01:20:57]EMOTE: samak/ : <B>The samak</B> snuffles.
+[01:21:17]EMOTE: cat/ : <B>The cat</B> meows.
+[01:21:19]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[01:21:53]SAY: Tiger/ : Meow!
+[01:21:57]SAY: cat/ : Purr!
+[01:22:19]SAY: samak/ : Hrunnph
+[01:22:19]SAY: samak/ : Hruuugh!
+[01:22:35]SAY: Parrot/ : Cracker?
+[01:22:51]SAY: samak/ : Hrunnph
+[01:22:51]SAY: samak/ : Hruuugh!
+[01:23:07]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[01:23:19]SAY: grey baby slime (322)/ : Need... food...
+[01:23:23]EMOTE: samak/ : <B>The samak</B> snuffles.
+[01:23:35]SAY: kitten/ : Meow!
+[01:23:35]EMOTE: samak/ : <B>The samak</B> snuffles.
+[01:23:41]EMOTE: Ian/ : <B>Ian</B> shakes its head.
+[01:23:51]SAY: Runtime/ : Meow!
+[01:24:05]SAY: samak/ : Hruuugh!
+[01:24:15]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[01:24:17]SAY: samak/ : Hrunnph
+[01:25:15]SAY: samak/ : Hruuugh!
+[01:25:17]SAY: samak/ : Hruuugh!
+[01:25:17]SAY: samak/ : Hruuugh!
+[01:25:41]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[01:25:43]EMOTE: Ian/ : <B>Ian</B> dances around
+[01:25:54]SAY: samak/ : Hruuugh!
+[01:26:12]SAY: samak/ : Hrunnph
+[01:26:18]EMOTE: samak/ : <B>The samak</B> stomps.
+[01:26:40]EMOTE: Dr. NibbleFluff/ : <B>Dr. NibbleFluff</B> shakes their head.
+[01:26:48]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> shakes its head.
+[01:26:54]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[01:27:06]SAY: samak/ : Hruuugh!
+[01:27:20]SAY: Parrot/ : Hi
+[01:27:24]SAY: samak/ : Hruuugh!
+[01:27:32]EMOTE: samak/ : <B>The samak</B> snuffles.
+[01:27:42]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[01:27:58]EMOTE: Ian/ : <B>Ian</B> dances around
+[01:28:10]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[01:28:17]SAY: samak/ : Hruuugh!
+[01:28:19]EMOTE: Runtime/ : <B>Runtime</B> mews.
+[01:28:25]EMOTE: samak/ : <B>The samak</B> stomps.
+[01:28:31]SAY: samak/ : Hruuugh!
+[01:28:37]EMOTE: samak/ : <B>The samak</B> snuffles.
+[01:28:39]SAY: samak/ : Hruuugh!
+[01:28:45]SAY: samak/ : Hruuugh!
+[01:28:53]EMOTE: cat/ : <B>The cat</B> shivers.
+[01:29:19]EMOTE: samak/ : <B>The samak</B> snuffles.
+[01:29:29]SAY: samak/ : Hruuugh!
+[01:29:33]SAY: samak/ : Hrunnph
+[01:30:09]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[01:30:31]SAY: samak/ : Hruuugh!
+[01:30:33]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[01:30:39]SAY: Tiger/ : Meow!
+[01:30:43]EMOTE: samak/ : <B>The samak</B> snuffles.
+[01:30:47]EMOTE: Ian/ : <B>Ian</B> dances around
+[01:30:51]EMOTE: samak/ : <B>The samak</B> stomps.
+[01:30:57]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[01:31:01]SAY: samak/ : Hruuugh!
+[01:31:23]SAY: samak/ : Hrunnph
+[01:31:25]EMOTE: samak/ : <B>The samak</B> stomps.
+[01:31:43]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[01:32:43]EMOTE: samak/ : <B>The samak</B> snuffles.
+[01:33:05]EMOTE: samak/ : <B>The samak</B> snuffles.
+[01:33:11]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[01:33:13]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[01:33:29]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[01:33:49]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[01:34:19]SAY: Tiger/ : Purr!
+[01:34:41]SAY: samak/ : Hrunnph
+[01:34:45]SAY: samak/ : Hrunnph
+[01:34:53]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[01:34:57]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[01:34:59]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[01:35:01]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[01:35:01]SAY: samak/ : Hrunnph
+[01:35:05]SAY: samak/ : Hrunnph
+[01:35:05]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[01:35:29]EMOTE: samak/ : <B>The samak</B> snuffles.
+[01:35:29]EMOTE: samak/ : <B>The samak</B> stomps.
+[01:35:35]EMOTE: samak/ : <B>The samak</B> snuffles.
+[01:35:37]SAY: Ian/ : Bark!
+[01:35:37]SAY: samak/ : Hrunnph
+[01:35:39]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[01:35:45]EMOTE: samak/ : <B>The samak</B> snuffles.
+[01:35:55]EMOTE: Tiger/ : <B>Tiger</B> mews.
+[01:35:55]SAY: samak/ : Hrunnph
+[01:35:59]EMOTE: samak/ : <B>The samak</B> snuffles.
+[01:36:03]EMOTE: samak/ : <B>The samak</B> snuffles.
+[01:36:15]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[01:36:19]SAY: samak/ : Hruuugh!
+[01:36:41]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[01:36:55]SAY: kitten/ : Meow!
+[01:37:01]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[01:37:05]SAY: Experiment 97d/ : EHEHEHEHEH
+[01:37:09]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[01:37:37]EMOTE: crab/ : <B>The crab</B> clacks.
+[01:37:37]SAY: samak/ : Hruuugh!
+[01:37:47]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[01:38:05]EMOTE: Ian/ : <B>Ian</B> dances around
+[01:38:35]EMOTE: Ian/ : <B>Ian</B> dances around
+[01:38:35]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[01:38:41]SAY: samak/ : Hrunnph
+[01:38:43]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[01:38:45]SAY: samak/ : Hrunnph
+[01:38:55]EMOTE: crab/ : <B>The crab</B> clicks.
+[01:39:05]SAY: kitten/ : HSSSSS
+[01:39:09]EMOTE: Ian/ : <B>Ian</B> dances around
+[01:39:23]EMOTE: samak/ : <B>The samak</B> stomps.
+[01:39:41]EMOTE: crab/ : <B>The crab</B> clacks.
+[01:40:03]EMOTE: samak/ : <B>The samak</B> snuffles.
+[01:40:05]SAY: samak/ : Hrunnph
+[01:40:17]SAY: samak/ : Hrunnph
+[01:40:21]SAY: Runtime/ : Meow!
+[01:40:35]SAY: samak/ : Hruuugh!
+[01:40:41]EMOTE: samak/ : <B>The samak</B> snuffles.
+[01:40:49]EMOTE: samak/ : <B>The samak</B> stomps.
+[01:40:51]EMOTE: samak/ : <B>The samak</B> stomps.
+[01:41:03]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[01:41:07]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[01:41:21]SAY: kitten/ : Purr!
+[01:41:43]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[01:42:01]SAY: samak/ : Hruuugh!
+[01:42:07]EMOTE: cat/ : <B>The cat</B> mews.
+[01:42:13]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[01:42:15]SAY: cat/ : HSSSSS
+[01:42:31]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[01:42:39]EMOTE: crab/ : <B>The crab</B> clacks.
+[01:42:45]SAY: samak/ : Hrunnph
+[01:42:59]SAY: Dr. NibbleFluff/ : Esp!
+[01:43:03]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[01:43:07]SAY: cat/ : Purr!
+[01:43:21]SAY: samak/ : Hruuugh!
+[01:43:21]SAY: samak/ : Hrunnph
+[01:43:25]EMOTE: samak/ : <B>The samak</B> snuffles.
+[01:43:49]EMOTE: Ian/ : <B>Ian</B> dances around
+[01:43:51]EMOTE: samak/ : <B>The samak</B> stomps.
+[01:43:53]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[01:43:55]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[01:44:01]EMOTE: cat/ : <B>The cat</B> mews.
+[01:44:27]EMOTE: samak/ : <B>The samak</B> stomps.
+[01:44:31]SAY: Dr. NibbleFluff/ : Esp!
+[01:44:39]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[01:45:31]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[01:45:35]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[01:45:49]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[01:45:55]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[01:46:03]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[01:46:05]EMOTE: Tiger/ : <B>Tiger</B> meows.
+[01:46:21]EMOTE: Parrot/ : <B>The Parrot</B> bawks.
+[01:46:25]EMOTE: samak/ : <B>The samak</B> stomps.
+[01:46:27]EMOTE: samak/ : <B>The samak</B> snuffles.
+[01:46:39]SAY: samak/ : Hrunnph
+[01:46:59]EMOTE: samak/ : <B>The samak</B> snuffles.
+[01:47:17]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[01:47:25]EMOTE: samak/ : <B>The samak</B> snuffles.
+[01:47:31]EMOTE: kitten/ : <B>The kitten</B> meows.
+[01:48:00]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[01:48:02]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[01:48:13]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[01:48:19]SAY: Tiger/ : Meow!
+[01:48:19]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[01:48:27]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[01:48:29]EMOTE: cat/ : <B>The cat</B> meows.
+[01:48:34]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[01:48:40]EMOTE: samak/ : <B>The samak</B> snuffles.
+[01:48:46]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[01:49:43]SAY: samak/ : Hruuugh!
+[01:49:47]EMOTE: crab/ : <B>The crab</B> clacks.
+[01:49:53]EMOTE: samak/ : <B>The samak</B> stomps.
+[01:49:55]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[01:49:57]SAY: samak/ : Hrunnph
+[01:50:01]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[01:50:39]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[01:51:01]EMOTE: cat/ : <B>The cat</B> shivers.
+[01:51:01]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[01:51:03]EMOTE: Tiger/ : <B>Tiger</B> shivers.
+[01:51:25]SAY: Parrot/ : Cracker?
+[01:51:39]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[01:51:50]SAY: Parrot/ : Cracker?
+[01:51:50]SAY: kitten/ : Meow!
+[01:52:00]EMOTE: Dr. NibbleFluff/ : <B>Dr. NibbleFluff</B> mews.
+[01:52:06]EMOTE: samak/ : <B>The samak</B> snuffles.
+[01:52:12]EMOTE: samak/ : <B>The samak</B> stomps.
+[01:52:14]EMOTE: samak/ : <B>The samak</B> snuffles.
+[01:52:16]SAY: kitten/ : Esp!
+[01:52:18]EMOTE: samak/ : <B>The samak</B> stomps.
+[01:52:18]SAY: samak/ : Hrunnph
+[01:52:30]EMOTE: Parrot/ : <B>The Parrot</B> squawks.
+[01:52:44]EMOTE: crab/ : <B>The crab</B> clicks.
+[01:52:50]SAY: samak/ : Hruuugh!
+[01:53:16]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[01:53:18]SAY: kitten/ : Esp!
+[01:53:25]EMOTE: Parrot/ : <B>The Parrot</B> bawks.
+[01:53:27]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[01:53:37]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[01:53:37]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[01:54:15]SAY: samak/ : Hrunnph
+[01:54:27]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[01:54:31]SAY: Ian/ : Woof!
+[01:54:31]EMOTE: samak/ : <B>The samak</B> snuffles.
+[01:54:51]EMOTE: samak/ : <B>The samak</B> stomps.
+[01:54:57]SAY: samak/ : Hrunnph
+[01:55:25]EMOTE: Ian/ : <B>Ian</B> dances around
+[01:55:27]EMOTE: samak/ : <B>The samak</B> stomps.
+[01:55:49]SAY: samak/ : Hrunnph
+[01:55:53]SAY: samak/ : Hrunnph
+[01:56:03]EMOTE: crab/ : <B>The crab</B> clacks.
+[01:56:13]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[01:56:21]SAY: cat/ : Meow!
+[01:56:25]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[01:56:35]EMOTE: samak/ : <B>The samak</B> snuffles.
+[01:56:37]EMOTE: crab/ : <B>The crab</B> clacks.
+[01:56:43]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[01:56:49]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[01:56:53]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[01:57:01]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[01:57:21]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[01:57:25]EMOTE: samak/ : <B>The samak</B> stomps.
+[01:57:41]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[01:57:43]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[01:57:47]SAY: Experiment 97d/ : EHEHEHEHEH
+[01:57:51]EMOTE: Parrot/ : <B>The Parrot</B> squawks.
+[01:57:55]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[01:57:59]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[01:58:06]SAY: cat/ : Meow!
+[01:58:12]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[01:58:18]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[01:58:24]EMOTE: samak/ : <B>The samak</B> snuffles.
+[01:59:16]SAY: samak/ : Hruuugh!
+[01:59:36]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[01:59:38]SAY: samak/ : Hrunnph
+[01:59:43]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[01:59:59]SAY: Parrot/ : Cracker?
+[02:00:07]EMOTE: samak/ : <B>The samak</B> snuffles.
+[02:00:16]SAY: samak/ : Hruuugh!
+[02:00:38]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[02:00:42]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[02:01:04]EMOTE: Parrot/ : <B>The Parrot</B> bawks.
+[02:01:12]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[02:01:36]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[02:01:40]SAY: samak/ : Hruuugh!
+[02:01:46]SAY: cat/ : HSSSSS
+[02:01:51]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[02:01:57]SAY: samak/ : Hruuugh!
+[02:02:01]EMOTE: samak/ : <B>The samak</B> snuffles.
+[02:02:03]EMOTE: kitten/ : <B>The kitten</B> shivers.
+[02:02:05]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[02:02:07]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[02:02:15]EMOTE: Ian/ : <B>Ian</B> dances around
+[02:02:27]EMOTE: samak/ : <B>The samak</B> stomps.
+[02:02:33]SAY: Parrot/ : Cracker?
+[02:02:33]EMOTE: Tiger/ : <B>Tiger</B> meows.
+[02:02:49]SAY: Experiment 97d/ : Eh?
+[02:02:53]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[02:03:14]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[02:03:16]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[02:03:18]EMOTE: cat/ : <B>The cat</B> shivers.
+[02:03:30]SAY: samak/ : Hrunnph
+[02:03:32]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[02:03:36]EMOTE: crab/ : <B>The crab</B> clacks.
+[02:03:46]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[02:03:52]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[02:03:56]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[02:04:06]EMOTE: samak/ : <B>The samak</B> snuffles.
+[02:04:10]SAY: samak/ : Hrunnph
+[02:04:20]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[02:04:32]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[02:04:40]EMOTE: cat/ : <B>The cat</B> meows.
+[02:04:40]EMOTE: samak/ : <B>The samak</B> stomps.
+[02:04:46]SAY: kitten/ : Meow!
+[02:05:04]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[02:05:08]EMOTE: samak/ : <B>The samak</B> snuffles.
+[02:05:48]SAY: Parrot/ : Cracker?
+[02:05:54]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[02:06:04]SAY: samak/ : Hruuugh!
+[02:06:10]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[02:06:34]EMOTE: samak/ : <B>The samak</B> stomps.
+[02:06:36]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[02:06:56]EMOTE: crab/ : <B>The crab</B> clicks.
+[02:06:56]EMOTE: samak/ : <B>The samak</B> snuffles.
+[02:07:22]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[02:07:24]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> brays.
+[02:07:28]EMOTE: samak/ : <B>The samak</B> snuffles.
+[02:07:59]EMOTE: samak/ : <B>The samak</B> snuffles.
+[02:08:01]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[02:08:07]EMOTE: samak/ : <B>The samak</B> snuffles.
+[02:08:19]EMOTE: samak/ : <B>The samak</B> stomps.
+[02:08:25]EMOTE: crab/ : <B>The crab</B> clacks.
+[02:08:31]EMOTE: Tiger/ : <B>Tiger</B> shivers.
+[02:09:15]EMOTE: samak/ : <B>The samak</B> snuffles.
+[02:09:27]SAY: kitten/ : Purr!
+[02:09:35]EMOTE: Tiger/ : <B>Tiger</B> shivers.
+[02:09:37]SAY: Ian/ : Woof!
+[02:09:43]EMOTE: samak/ : <B>The samak</B> stomps.
+[02:09:47]EMOTE: Runtime/ : <B>Runtime</B> shakes their head.
+[02:09:47]EMOTE: samak/ : <B>The samak</B> snuffles.
+[02:09:53]SAY: samak/ : Hruuugh!
+[02:10:19]SAY: samak/ : Hruuugh!
+[02:10:21]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[02:10:29]EMOTE: samak/ : <B>The samak</B> snuffles.
+[02:10:33]EMOTE: Dr. NibbleFluff/ : <B>Dr. NibbleFluff</B> shivers.
+[02:10:47]SAY: samak/ : Hruuugh!
+[02:10:47]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[02:11:14]EMOTE: cat/ : <B>The cat</B> shivers.
+[02:11:26]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[02:11:26]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[02:11:54]EMOTE: Runtime/ : <B>Runtime</B> mews.
+[02:12:06]EMOTE: Tiger/ : <B>Tiger</B> shivers.
+[02:12:37]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[02:12:39]SAY: samak/ : Hrunnph
+[02:12:45]SAY: samak/ : Hrunnph
+[02:12:49]SAY: kitten/ : HSSSSS
+[02:12:49]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[02:12:51]SAY: Parrot/ : Cracker?
+[02:12:51]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[02:13:03]EMOTE: Ian/ : <B>Ian</B> dances around
+[02:13:05]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[02:13:15]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[02:13:17]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[02:13:23]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[02:13:23]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[02:13:45]EMOTE: samak/ : <B>The samak</B> snuffles.
+[02:13:55]EMOTE: samak/ : <B>The samak</B> snuffles.
+[02:13:59]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[02:14:03]EMOTE: samak/ : <B>The samak</B> stomps.
+[02:14:19]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[02:14:27]EMOTE: samak/ : <B>The samak</B> stomps.
+[02:14:33]EMOTE: crab/ : <B>The crab</B> clacks.
+[02:14:34]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[02:14:40]EMOTE: samak/ : <B>The samak</B> shakes its mane.
+[02:15:00]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[02:15:12]SAY: samak/ : Hrunnph
+[02:15:14]SAY: kitten/ : HSSSSS
+[02:15:26]EMOTE: Runtime/ : <B>Runtime</B> mews.
+[02:15:32]SAY: samak/ : Hruuugh!
+[02:16:02]EMOTE: samak/ : <B>The samak</B> snuffles.
+[02:16:02]EMOTE: samak/ : <B>The samak</B> snuffles.
+[02:16:43]EMOTE: Ian/ : <B>Ian</B> woofs.
+[02:16:47]EMOTE: kitten/ : <B>The kitten</B> shakes their head.
+[02:16:47]EMOTE: samak/ : <B>The samak</B> snuffles.
+[02:16:52]EMOTE: crab/ : <B>The crab</B> clicks.
+[02:17:00]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[02:17:05]SAY: Dr. NibbleFluff/ : HSSSSS
+[02:17:13]EMOTE: samak/ : <B>The samak</B> stomps.
+[02:17:15]SAY: kitten/ : Purr!
+[02:17:21]EMOTE: samak/ : <B>The samak</B> snuffles.
+[02:17:36]SAY: samak/ : Hruuugh!
+[02:17:56]EMOTE: samak/ : <B>The samak</B> paws the ground.
+[02:18:00]ACCESS: Logout: Cassy_jenelle/(Camile Crafter)
